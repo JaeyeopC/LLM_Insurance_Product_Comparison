@@ -9,7 +9,7 @@
 ```bash
     poetry shell
 ```
-4. run the pipeline : pipeline names are defined in ```pipeline_registry.py```
+4. run the pipeline : pipeline names are defined in ```pipeline_registry.py```  
 4.1. run the whole pipeline
 ```bash
     poetry run kedro run
