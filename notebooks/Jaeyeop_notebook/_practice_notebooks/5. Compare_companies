@@ -1,0 +1,9 @@
+
+1. Get the input request 
+2. LLM decides which insurance products are related to the input request ( pydantic model )
+3. combine the data that are closely related to the insurance product the user may be interested in.
+4. 
+
+
+
+AXA,Versicherungen,Privatkunden,Geschäftskunden,Haftpflicht,Hausratversicherung,Krankenversicherung,Betriebshaftpflichtversicherung,Transportversicherung,Bauleistungsversicherung,CyberVersicherung,Betriebliche Altersversorgung

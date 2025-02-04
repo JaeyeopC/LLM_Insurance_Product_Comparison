@@ -1,0 +1,11 @@
+Der folgende Text ist eine vollständige Produktbeschreibung von einer Unternehmenswebsite:
+{content}
+
+Bitte extrahieren Sie die Informationen in folgendem Format:
+Produktname: <Name des Produkts>
+Details:
+- <Detail 1>
+- <Detail 2>
+- <Detail 3>
+...
+Stellen Sie sicher, dass Sie keine Details weglassen.

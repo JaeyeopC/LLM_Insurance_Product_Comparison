@@ -1,0 +1,7 @@
+Compare two companies : {company_1},  {company_2} 
+Given category : {category}
+{company_1} information : {company_1_details}
+{company_2} information : {company_2_details}
+
+
+Create a table in a markdown format with three columns : Feature, {company_1}, {company_2}
