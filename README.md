@@ -44,3 +44,6 @@ Please, when changing the classification and comparison pipeline, change the eva
     - input
         - output from the ```insurance_data_comparision``` pipeline ( as one csv file )
         - comparison prompt 
+--- 
+[TODO] 
+- Add Pydantic models and tools for LLMs  - Add a pipeline for generating the prompt for the LLM
