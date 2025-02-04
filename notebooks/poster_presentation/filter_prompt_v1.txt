@@ -1,5 +1,0 @@
-The following is a filename from a company's website:
-Filename: {filename}
-
-Does this filename represent a product page?
-Answer 'yes' or 'no' and nothing else.
