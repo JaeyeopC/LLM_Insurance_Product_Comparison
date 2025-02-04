@@ -1,0 +1,19 @@
+```markdown
+| Feature                                                                 | AXA                                                                 | ARAG                                                                 |
+|------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|
+| Versicherungspaket                                                     | Rechtsschutz-, Hausrat- und Haftpflichtversicherung in einem Paket  | Schutz für Gastronomie, Großküchen, Lebensmittelunternehmen          |
+| Rabatt                                                                 | Sofort 20% Rabatt sichern                                           | Bis zu 50% Rabatt im Laufe der Zeit                                  |
+| Elektronikversicherung                                                 | Ja, für Elektro-Geräte                                              | Nicht spezifiziert                                                   |
+| Gesundheitsleistungen                                                  | Für das ganze Unternehmen                                           | Nicht spezifiziert                                                   |
+| Ertragsausfallversicherung                                             | Bei Betriebsschließung und Betriebsunterbrechung                    | Bei behördlich verhängter Betriebsschließung                         |
+| Schutzumfang                                                           | Absichern, auch wenn der Ärger schon da ist                         | Deckt entgangenen Betriebsgewinn, Kosten, Sachschäden                |
+| Kostenübernahme                                                        | Rechnungen oder Rezepte per App einreichen                          | Lohn- und Gehaltsaufwendungen, Desinfektion, Warenvernichtung        |
+| Versicherungsschutz bei Krankheitserregern                             | Nicht spezifiziert                                                  | Schutz bei meldepflichtigen Krankheiten und Krankheitserregern       |
+| Beginn des Versicherungsschutzes                                       | Nicht spezifiziert                                                  | Frühestens 30 Tage nach Antragsstellung                              |
+| Ausschlüsse                                                            | Nicht spezifiziert                                                  | Schäden durch Epidemien/Pandemien, Allgemeinverfügungen              |
+| Individuelle Kombinierbarkeit                                          | Ja, mit Preisvorteil                                                | Ja, mit Rechtsschutz, Haftpflicht, Sachschutz                        |
+| Schadenfreiheitsrabatt                                                 | Nicht spezifiziert                                                  | Ja, inklusive                                                        |
+| Kostenübernahme für Ermittlungs- und Beobachtungsmaßnahmen             | Nicht spezifiziert                                                  | Ja, gemäß Infektionsschutzgesetz                                     |
+| Elektronikversicherung                                                 | Ja, für Elektro-Geräte                                              | Nicht spezifiziert                                                   |
+| Versicherungsschutz bei behördlichen Maßnahmen                         | Nicht spezifiziert                                                  | Ja, bei Schließung, Desinfektion, Tätigkeitsverboten                 |
+```

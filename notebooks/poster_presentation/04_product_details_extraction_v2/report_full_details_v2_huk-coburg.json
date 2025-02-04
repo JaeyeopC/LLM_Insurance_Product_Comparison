@@ -1,0 +1,385 @@
+{
+    "fahrzeuge_kfz-versicherung_elektro-kleinstfahrzeuge.md.md": {
+        "Produktname": "E-Scooter-Versicherung",
+        "Versicherungsart": "Kfz-Haftpflichtversicherung und Teilkasko",
+        "Deckungssumme": "Bis zu 100 Millionen € je Schadensfall, max. 15 Millionen € je geschädigter Person",
+        "Selbstbeteiligung": "150 € pro Schadenfall bei Teilkasko",
+        "Preis": "Ab 6,50 € im Jahr",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "1 Jahr (01. März bis 28./29. Februar des Folgejahres)",
+        "Weitere Leistungen": [
+            "Haftpflichtschutz bei Sach- und Personenschäden",
+            "Teilkasko für Schäden am eigenen Fahrzeug durch Unwetter, Diebstahl, Raub, Tierbisse",
+            "Digitaler Versicherungsnachweis möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Versicherung für Fahrzeuge ohne Straßenzulassung",
+            "Keine Versicherung für Hoverboard, Monowheel und E-Skateboard"
+        ]
+    },
+    "haus-haftung-recht_haftpflichtversicherung_wassersportversicherung.md.md": {
+        "Produktname": "Wassersportversicherung",
+        "Versicherungsart": "Haftpflicht- und Kaskoversicherung",
+        "Deckungssumme": "Bis zu 10 Mio. € bei der Bootshaftpflicht",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Passgenaue Lösungen rund ums Boot und Besatzung",
+            "Schnelle Regulierung im Schadensfall",
+            "Schutz bei Kollision, Sturm, Vandalismus, Mastbruch oder Diebstahl"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ]
+    },
+    "fahrzeuge_e-fahrzeuge.md.md": {
+        "Produktname": "S-Pedelec-Versicherung",
+        "Versicherungsart": "S-Pedelec-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 8,10 €",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Umfassende Leistungen auf Elektro- und Hybridautos zugeschnitten",
+            "Versicherung für Segways zum gleichen Preis",
+            "Auch für E-Bikes geeignet"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe"
+        ]
+    },
+    "gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_krankentagegeld.md.md": {
+        "Produktname": "Krankentagegeldversicherung",
+        "Versicherungsart": "Krankentagegeldversicherung",
+        "Deckungssumme": "Bis zu 300 € pro Tag",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sichert Nettoeinkommen bei Arbeitsunfähigkeit",
+            "Tarife zugeschnitten auf berufliche und persönliche Situation",
+            "Anpassung des Krankentagegelds möglich bei Einkommenssteigerung",
+            "Besondere Konditionen für BARMER-Kunden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Zahlt nicht bei Berufsunfähigkeit",
+            "Kombination aus Krankengeld und Krankentagegeld darf Nettoeinkommen nicht übersteigen"
+        ]
+    },
+    "haus-haftung-recht_bauen.md.md": {
+        "Produktname": "Baufinanzierung",
+        "Versicherungsart": "Baufinanzierung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz während der Bauphase",
+            "Zinssichere Lösung",
+            "Flexible Vorsorge",
+            "Nutzung staatlicher Förderungen",
+            "Hohe staatliche Zulagen",
+            "Steuerersparnisse",
+            "Maßgeschneiderte Angebote"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ]
+    },
+    "fahrzeuge_kfz-versicherung_oldtimer-youngtimer.md.md": {
+        "Produktname": "Oldtimer & Youngtimer Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Erhöhte Deckungssummen von mind. 100 Mio. €",
+        "Selbstbeteiligung": "Vollkasko mit 500 € Selbstbeteiligung; Teilkasko mit 150 € Selbstbeteiligung",
+        "Preis": "Jahresbeitrag für einen Pkw – 182,85 €",
+        "Gültigkeitsbereich": "National und europaweit (mit Ausland-Schadenschutz)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kfz-Schutzbrief",
+            "Kasko PLUS",
+            "Fahrerschutz",
+            "Ausland-Schadenschutz",
+            "Kasko SELECT",
+            "Rabattschutz",
+            "Telematik Plus",
+            "Mallorcapolice",
+            "Marderbiss mit Folgeschäden",
+            "Erweiterte Wildschadendeckung",
+            "Erweiterte Elementarschadenklausel",
+            "Grobe Fahrlässigkeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Wertgutachten erforderlich",
+            "Keine Garage erforderlich",
+            "Keine Kilometerbeschränkung"
+        ]
+    },
+    "fahrzeuge_mobilitaet_autoservice.md.md": {
+        "Produktname": "HUK-Autoservice",
+        "Versicherungsart": "Werkstatt-Service",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Radwechsel / Reifenwechsel",
+            "Hauptuntersuchung (HU/AU)",
+            "Ölwechsel",
+            "Service für die Klimaanlage",
+            "Bremsenservice",
+            "Auspuff-Service",
+            "Diagnosetermin",
+            "Batteriewechsel",
+            "Inspektion",
+            "Stoßdämpferwechsel"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ]
+    },
+    "gesundheit-vorsorge-vermoegen_krankenversicherung_private-krankenversicherung-beamte.md.md": {
+        "Produktname": "Private Krankenversicherung für Beamte & Beamtenanwärter",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Arztwahl",
+            "Sehhilfen bis 600 € in zwei Kalenderjahren",
+            "Zahnbehandlung, Zahnersatz, Inlays und Kieferorthopädie",
+            "Zweibettzimmer",
+            "Heilpraktiker",
+            "Ambulante Psychotherapie",
+            "Beitragsrückerstattung von bis zu 4 Monatsbeiträgen bei Leistungsfreiheit",
+            "Einbettzimmer bei stationärer Behandlung (Beihilfe-Ergänzungstarif)",
+            "Auslandsrücktransport (Beihilfe-Ergänzungstarif)",
+            "Chefarztbehandlung (Wahlleistungstarif)",
+            "Ersatz-Krankenhaustagegeld (Wahlleistungstarif)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Sehhilfen bis 300 € in zwei Kalenderjahren ausgenommen Beamtenanwärter (Beihilfe-Ergänzungstarif)"
+        ]
+    },
+    "fahrzeuge_kfz-versicherung_motorradversicherung.md.md": {
+        "Produktname": "Motorrad-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "100 Mio. € für Personen-, Sach- und Vermögensschäden je Schadenfall (bei Personenschäden maximal 15 Mio. € je geschädigte Person)",
+        "Selbstbeteiligung": "Vollkasko mit 500 € Selbstbeteiligung; Teilkasko mit 150 € Selbstbeteiligung",
+        "Preis": "Jahresbeitrag für eine BMW R 1250 GS – 238,22 €",
+        "Gültigkeitsbereich": "National, mit Ausland-Schadenschutz in bestimmten europäischen Ländern",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kfz-Haftpflichtversicherung",
+            "Teil- oder Vollkaskoversicherung",
+            "Kfz-Schutzbrief",
+            "Ausland-Schadenschutz",
+            "Private Unfallversicherung",
+            "Rechtsschutzversicherung",
+            "Ersatz des Neupreises bei Totalschaden innerhalb der ersten 24 Monate",
+            "Mitversicherung von Schutzkleidung bei Kaskoschaden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistung bei Personenschäden, die den Versicherungsnehmer selbst betreffen",
+            "Schutzkleidung nicht versichert, wenn sie außerhalb eines Schadens am Motorrad gestohlen wird"
+        ]
+    },
+    "haus-haftung-recht_haftpflichtversicherung_amts-und-vermoegensschadenhaftpflicht.md.md": {
+        "Produktname": "Amts- und Vermögensschadenhaftpflichtversicherung",
+        "Versicherungsart": "Diensthaftpflichtversicherung",
+        "Deckungssumme": "Vermögensschäden bis 250.000 € (Standardtarif bis 50.000 €)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "9 € bis 79 € im Jahr, je nach Berufsgruppe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor existenzbedrohenden Schadensersatzforderungen",
+            "Absicherung gegen grob fahrlässige Schäden während der Dienst- & Amtszeit",
+            "Erhöhung der Versicherungssumme für Vermögensschäden gegen Zusatzbeitrag",
+            "Abhandenkommen von fiskalischem Eigentum für Bundeswehr-, Polizei- und Zollangehörige",
+            "Dienstfahrzeug- und Regresshaftpflichtversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Versicherung für Architekten und medizinische Berufe wie Ärzte, Sanitäter und Hebammen"
+        ]
+    },
+    "gesundheit-vorsorge-vermoegen_existenzsicherung_risikolebensversicherung.md.md": {
+        "Produktname": "Risiko­lebens­versicherung",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 2,90 € im Monat",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz für die Familie im Todesfall",
+            "Hohe Flexibilität (Beitrag senken, Pause einlegen, Versicherungsschutz verlängern)",
+            "Extrarabatte für junge Leute bis 30 Jahre",
+            "Vorläufiger Versicherungsschutz bei Unfalltod",
+            "Erhöhungsoptionen ohne erneute Gesundheitsprüfung",
+            "Einmalleistung bei schweren Krankheiten (Premium Plus Schutz)",
+            "Kinder- und Baubonus",
+            "Inflationsschutz (optional)",
+            "Zusätzliche Leistung bei Unfalltod (optional)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistung bei vorsätzlicher Selbsttötung innerhalb der ersten drei Vertragsjahre",
+            "Keine Leistung bei falschen Angaben in der Gesundheitsprüfung",
+            "Keine Leistung bei Tod durch Fremdeinwirkung, wenn die begünstigte Person zu den Verdächtigen gehört"
+        ]
+    },
+    "gesundheit-vorsorge-vermoegen_unfallversicherung_kinderunfallversicherung.md.md": {
+        "Produktname": "Kinderunfallversicherung",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Invaliditätsleistung, Versicherungssumme 100.000 € mit 500 % Progression, somit 500.000 € bei voller Invalidität; Todesfall-Leistung, Versicherungssumme 10.000 €",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "84,80 € im Jahr für Kinder; 210,90 € jährlich für Kinder und Erwachsene",
+        "Gültigkeitsbereich": "Weltweit und rund um die Uhr",
+        "Vertragslaufzeit": "Bis zum Alter von 18 Jahren, danach Wechsel auf den Erwachsenentarif",
+        "Weitere Leistungen": [
+            "Unfall-Schutzbrief für Kinder",
+            "Kosmetische Operationen bis 50.000 €",
+            "Einmalzahlung bei bestimmten schweren Krankheiten in Höhe von 10.000 €",
+            "Sofortleistung für bestimmte schwere Verletzungen",
+            "Kostenübernahme für Serviceleistungen bis zu 50.000 €",
+            "Zusatzbaustein Unfall PLUS mit erweiterten Leistungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe zu Alkoholvergiftungen bei Personen ab 14 Jahren",
+            "Begrenzung bei Fahrern von Kfz auf 1,1 ‰ und bei Radfahrern auf 1,6 ‰ bei Unfällen infolge von Bewusstseinsstörungen durch Alkohol"
+        ]
+    },
+    "haus-haftung-recht_haftpflichtversicherung_haus-und-grundbesitzerhaftpflicht.md.md": {
+        "Produktname": "Haus- und Grundbesitzerhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Grundbeitrag für Ein- und Zweifamilienhäuser: 40,00 €; Zusatzbeitrag für jede weitere Wohnung: 25,00 €; Unbebaute Grundstücke bis 2.000 m²: 20,00 €; Über 2.000 m²: 0,70 € je 100 m², Mindestbeitrag: 28,00 €",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prüfung und Zahlung berechtigter Schadenersatzansprüche",
+            "Abwehr unberechtigter Ansprüche, auch vor Gericht",
+            "Schutz bei Verletzung von Verkehrssicherungspflichten",
+            "Schutz bei Gewässerschäden",
+            "Schutz als Inhaber bestimmter Anlagen (z.B. Photovoltaikanlagen)",
+            "Schutz als privater Bauherr bis zu einer Bausumme von 150.000 €",
+            "Schutz bei Schäden durch allmähliche Einwirkung von Temperatur, Gasen, Dämpfen, Feuchtigkeit oder Niederschlägen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistung durch Privathaftpflicht bei vermieteten Immobilien oder unbebauten Grundstücken",
+            "Keine Angabe zu weiteren spezifischen Ausschlüssen"
+        ]
+    },
+    "fahrzeuge_kfz-versicherung_wohnwagenversicherung.md.md": {
+        "Produktname": "Wohnwagen-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Bis zu 100 Millionen € für Personen-, Sach- und Vermögensschäden je Schadenfall",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Deutschland, weltweit für bestimmte Leistungen",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Vorzelt mitversichert",
+            "Schäden durch Reifenplatzer mitversichert",
+            "Sturmschäden ab Windstärke 7",
+            "Schutz für Inventar mit Hausrat PLUS",
+            "Rangier- und Schlingerschäden mitversichert",
+            "Kfz-Haftpflichtversicherung bis zu 15 Millionen € je geschädigte Person",
+            "Teilkasko- und Vollkaskoversicherung verfügbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Versicherung von beweglichem Inventar und Reisegepäck nicht in der Kfz-Versicherung möglich, nur über Hausrat PLUS",
+            "Keine Schadensfreiheitsrabatt bei Wohnwagen-Versicherung"
+        ]
+    },
+    "haus-haftung-recht_rechtsschutzversicherung_familienrechtsschutz.md.md": {
+        "Produktname": "Familienrechtsschutz",
+        "Versicherungsart": "Privat-, Berufs- und Verkehrsrechtsschutz",
+        "Deckungssumme": "Unbegrenzte Versicherungssumme, sofern keine Höchstbeträge für Einzelfälle vereinbart sind",
+        "Selbstbeteiligung": "Einstiegs-Selbstbeteiligung 300 €",
+        "Preis": "Ab 194,30 € im Jahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Rechtsschutz für alle mitversicherten Familienmitglieder",
+            "Absicherung im Sozial- und Opferrechtsschutz",
+            "Beratungsrechtsschutz im Familien-, Lebenspartnerschafts- und Erbrecht",
+            "Arbeitsrechtsschutz",
+            "Verkehrs-Schadenersatz-Rechtsschutz",
+            "Allgemeines Vertragsrecht",
+            "Erweiterter Beratungs-Rechtsschutz im Lebenspartnerschafts-, Familien- und Erbrecht",
+            "Rechtsschutz für Photovoltaikanlagen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Streitigkeiten gegen den Versicherungsnehmer oder von Mitversicherten untereinander sind nicht mitversichert",
+            "Wartezeit von drei Monaten für bestimmte Leistungsarten",
+            "Keine Deckung für Streitigkeiten rund um Scheidung, Trennung, Sorgerecht und Unterhalt"
+        ]
+    },
+    "haus-haftung-recht_haus-wohnung.md.md": {
+        "Produktname": "Haftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor finanziellen Folgen von Schäden durch Feuer, Leitungswasser, Sturm, Hagel, Einbruchdiebstahl",
+            "Optionaler Zusatzbaustein für Elementarschäden",
+            "Versicherung von sämtlichem beweglichen Mobiliar",
+            "Schutz vor finanziellen Folgen bei Schäden durch Feuer, Leitungswasser, Sturm, Hagel",
+            "Optionaler Schutz gegen Naturgefahren",
+            "Versicherung von Immobilien",
+            "Erweiterung des Versicherungsschutzes auf Schäden durch Naturgefahren",
+            "Schutz bei Lawinen, Schneedruck, Hochwasser, Rückstau durch Starkregen, Erdbeben, Erdrutsche",
+            "Schutz bei Glasbruch",
+            "Versicherung von Fensterscheiben, Glasvitrinen, Ceranfeldern",
+            "Schutz vor finanziellen Folgen durch Schadensersatzansprüche von Dritten",
+            "Schutz bei Mietsachschäden",
+            "Schutz bei Verletzung der Streupflicht im Winter"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ]
+    },
+    "gesundheit-vorsorge-vermoegen_pflegeversicherung_pflege-assistance.md.md": {
+        "Produktname": "Pflege-Assistance",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "2,40 € pro Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Rund-um-die-Uhr Beratung und Unterstützung",
+            "Leistungen auch für pflegebedürftige Eltern",
+            "Vermittlung eines Pflegeheimplatzes innerhalb von 24 Stunden",
+            "Vermittlung von ambulanten Pflegediensten, Menüservices, Haushaltshilfen",
+            "Vermittlung von Dienstleistern für Umbaumaßnahmen und Hausnotrufsystemen",
+            "Beratung zu Pflegeeinstufung, Pflegepflichtversicherung, Pflegeheimverträgen",
+            "Beratung zu Umbauten von Wohnung und Auto",
+            "Beratung zu ambulanten und stationären Pflegeeinrichtungen",
+            "Beratung zu Pflegeschulungen und Schulungseinrichtungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kann nur in Kombination mit der privaten Pflegezusatzversicherung abgeschlossen werden"
+        ]
+    }
+}

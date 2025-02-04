@@ -1,0 +1,21 @@
+gta_eval_scores,ground_truth,response_category
+0.0,Commercial Insurance,Liability Insurance
+0.0,Liability Insurance,Liability Insurance
+0.0,Commercial Insurance,Liability Insurance
+0.0,Commercial Insurance,Legal Protection Insurance
+0.0,Commercial Insurance,Liability Insurance
+0.0,Driver Protection Insurance,Driver Protection Insurance
+1.0,Commercial Insurance,Commercial Insurance
+0.0,Legal Protection Insurance,Health Insurance
+1.0,Legal Protection Insurance,Legal Protection Insurance
+0.0,Health Insurance,Health Insurance
+0.0,Commercial Insurance,Legal Protection Insurance
+1.0,Commercial Insurance,Commercial Insurance
+0.0,Commercial Insurance,Legal Protection Insurance
+0.0,Health Insurance,Commercial Insurance
+0.1,Commercial Insurance,Health Insurance
+0.0,Legal Protection Insurance,Legal Protection Insurance
+1.0,Legal Protection Insurance,Legal Protection Insurance
+1.0,Legal Protection Insurance,Legal Protection Insurance
+1.0,Legal Protection Insurance,Legal Protection Insurance
+0.8,Legal Protection Insurance,Legal Protection Insurance

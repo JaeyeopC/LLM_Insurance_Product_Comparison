@@ -1,0 +1,41 @@
+search_options:
+  companies_urls:
+    - name: "AXA"
+      url: "https://www.axa.de"
+    - name: "HUK-COBURG"
+      url: "https://www.huk.de"
+    - name: "Generali"
+      url: "https://www.generali.de"
+    - name: "ARAG"
+      url: "https://www.arag.de"
+  #   - name: "R+V"
+  #     url: "https://www.ruv.de/home/"
+  #   - name: "Signal Iduna Group"
+  #     url: "https://signal-iduna.de"
+  #   - name: "Barmenia"
+  #     url: "https://www.barmenia.de"
+  #   - name: "DKV"
+  #     url: "https://www.dkv.com"
+  #   - name: "ERGO"
+  #     url: "https://www.ergo.de"
+  #   - name: "SDK"
+  #     url: "https://www.sdk.de"
+
+  search_depth: 5
+
+llm_model_options:
+    model_name: "gpt-4o"
+    temperature: 0.0
+    max_tokens: 8000
+
+summary_method: 
+    map_reduce: "map_reduce"
+    stuff: "stuff"
+
+
+##############################################################################################################################
+# Termporary Catalog for the Poster Session                                                                                  #
+##############################################################################################################################
+classification_json_data_dir: "data/_poster_draft/3_classified_json_data/"
+
+predefined_category_list: "Risikolebensversicherung, Gemischte Lebensversicherung, Rentenversicherung, Berufsunfähigkeitsversicherung, Pflegerentenversicherung, Krankenversicherung, Dread-Disease-Versicherung, Grundfähigkeitsversicherung, Pflegekostenversicherung, Pflegetagegeldversicherung, Haftpflichtversicherung, Betriebsunterbrechungsversicherung, Hausratversicherung, Gebäudeversicherung, Geschäftsinhaltsversicherung, Gewerbeversicherung, Rücklaufversicherung, Bauleistungsversicherung, Maschinenkasko- und Maschinenbruchversicherung, Kreditversicherung, Vertrauensschadenversicherung, Montageversicherung, Elementarversicherung, Unfallversicherung, Reiseversicherung, Transportversicherung, Private Arbeitslosenversicherung, Tierversicherung, Fahrerschutzversicherung, Rechtsschutzversicherung"
