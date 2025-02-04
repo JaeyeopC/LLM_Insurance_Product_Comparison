@@ -11,12 +11,12 @@
 ```
 4. run the pipeline : pipeline names are defined in ```pipeline_registry.py```
 4.1. run the whole pipeline
-    ```bash
-        poetry run kedro run
-    ```
+```bash
+    poetry run kedro run
+```
 4.2. run specific pipelines 
-```bash 
-
+```bash
+    poetry run kedro run --pipeline <pipeline_name> 
 ```
 4.3. run specific nodes from a sepcific pipeline
 ```bash
