@@ -11,19 +11,18 @@
 ```
 4. run the pipeline : pipeline names are defined in ```pipeline_registry.py```  
 
-4.1. run the whole pipeline
-```bash
-    poetry run kedro run
-```
-4.2. run specific pipelines 
-```bash
-    poetry run kedro run --pipeline <pipeline_name> 
-```
-4.3. run specific nodes from a sepcific pipeline
-```bash
-    poetry run kedro run --pipeline <pipeline_name> --nodes <node_name>
-```
-- run
+    4.1. run the whole pipeline
+    ```bash
+        kedro run
+    ```
+    4.2. run specific pipelines 
+    ```bash
+        kedro run --pipeline <pipeline_name> 
+    ```
+    4.3. run specific nodes from a specific pipeline
+    ```bash
+        kedro run --pipeline <pipeline_name> --nodes <node_name>
+    ```
 5. For input output data : refer to ```conf/base/catalog.yml``` and other yml files in ```conf/base```
 - Supported data types : see [kedro_datasets](https://docs.kedro.org/projects/kedro-datasets/en/kedro-datasets-6.0.0/api/kedro_datasets.html) 
 --- 
