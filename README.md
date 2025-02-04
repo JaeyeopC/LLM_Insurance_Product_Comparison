@@ -1,15 +1,30 @@
 
 ## How to use
-- Change the ```openai_api_key``` in ```parameters.yml``` to your own key
--  ```poetry install``` : install the dependencies
-- ```poetry shell``` : activate the virtual environment
-- ```poetry run kedro run``` : run the whole pipeline the order specified in ```__default__```  in ```pipeline_registry.py```
-    - ```poetry run kedro run --node <node_name>``` : run the specific node
-    - ```poetry run kedro run --pipeline <pipeline_name>``` : run the specific pipeline
-    -  ```poetry run kedro run --pipeline <pipeline_name> --nodes <node_name>``` : run the specific node in the specific pipeline
-- data pipeline names : ```pipeline_registry.py``` 
-- input/output data : ```conf/base/catlog.yml``` and ```pipeline/nodes.py``` 
-- supported data types : see [kedro_datasets](https://docs.kedro.org/projects/kedro-datasets/en/kedro-datasets-6.0.0/api/kedro_datasets.html) 
+1. Change the ```openai_api_key``` in ```parameters.yml``` to your own key
+2. install the dependencies 
+```bash
+    poetry install
+``` 
+3. activate the poetry virtual environment
+```bash
+    poetry shell
+```
+4. run the pipeline : pipeline names are defined in ```pipeline_registry.py```
+4.1. run the whole pipeline
+    ```bash
+        poetry run kedro run
+    ```
+4.2. run specific pipelines 
+```bash 
+
+```
+4.3. run specific nodes from a sepcific pipeline
+```bash
+    poetry run kedro run --pipeline <pipeline_name> --nodes <node_name>
+```
+- run
+5. For input output data : refer to ```conf/base/catalog.yml``` and other yml files in ```conf/base```
+- Supported data types : see [kedro_datasets](https://docs.kedro.org/projects/kedro-datasets/en/kedro-datasets-6.0.0/api/kedro_datasets.html) 
 --- 
 [TODO] 
 1. Add Pydantic models and tools for LLMs  - Add a pipeline for generating the prompt for the LLM
