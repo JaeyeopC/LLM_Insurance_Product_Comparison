@@ -1,0 +1,20 @@
+Hier ist eine umfassende Vergleichstabelle für die Pflegetagegeldversicherung verschiedener Versicherungsunternehmen im Markdown-Format:
+
+```markdown
+| Eigenschaft            | Barmenia Deutsche-Förder-Pflege | Barmenia Pflegemonatsgeld - Mehr Pflege | DKV Private Pflege Zusatzversicherung | ERGO Private Pflegeversicherung mit staatlicher Förderung | Generali Pflegezusatzversicherung | HUK-COBURG Staatlich geförderte Pflegezusatzversicherung | R+V Pflege FörderBahr | SDK Pflegezusatzversicherung | Signal Iduna Pflegetagegeldversicherung |
+|------------------------|---------------------------------|----------------------------------------|---------------------------------------|----------------------------------------------------------|-------------------------------|--------------------------------------------------------|-----------------------|------------------------------|------------------------------------------|
+| **Versicherungsumfang**| Mindestleistung von 600 EUR monatlich in Pflegegrad 5 | Leistungen ab Pflegegrad 1, Beitragsbefreiung bei Pflegegrad 4 und 5 | Sofortiger Schutz ohne Wartezeit, Verdoppelung der gesetzlichen Leistungen | 100 % des vereinbarten Pflegemonatsgelds bei Pflegegrad 5 | Absicherung für alle Pflegegrade | Dynamische Anpassung der Versicherungsleistung | Leistungen in allen Pflegegraden | Umfassende Unterstützung bei der Organisation von Pflegeleistungen | Pflegetagegeld in verschiedenen Pflegegraden |
+| **Beitragshöhe**       | 18,30 EUR monatlich (abzgl. 5 EUR Förderung) | Keine Angabe | Ab 4,71 EUR/Monat | 15 EUR monatlich (abzgl. 5 EUR Zuschuss) | Mindestens 10 EUR/Monat | 19,79 EUR monatlich (nach Förderung) | 5 EUR/Monat (60 EUR/Jahr Zulage) | Ab 31,81 EUR/Monat (Tarif Basis) | Keine Angabe |
+| **Selbstbeteiligung**  | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe |
+| **Leistungsausschlüsse**| Abschluss nur möglich, wenn keine Pflegebedürftigkeit besteht | Keine Angabe | Wartezeit von 5 Jahren bei Förder-Pflege | Keine Angabe | Keine Angabe | Keine Leistungen, wenn bereits Leistungen aus der gesetzlichen Pflegepflichtversicherung bezogen werden | Keine Angabe | Keine Angabe | Keine Angabe |
+| **Zusatzleistungen**   | Staatliche Förderung, Erhöhung des Pflegemonatsgeldes durch Pflege+ | Einmalzahlung bei erstmaliger Pflegebedürftigkeit, Assistanceleistungen | Pflegeheimplatz-Garantie, Dynamische Anpassung des Pflegetagegeldes | Aufnahme ohne Gesundheitsfragen, Staatliche Zuschüsse | Tarif PflegeBahr erweiterbar auf PflegePlus | Pflege-Assistance-Leistungen | Dynamik: Regelmäßige Erhöhung des Pflegetagegeldes | Optionale Zusatzbausteine, Lebenslange Dynamik | Pflege-Sofortschutz, Assistance-Service |
+| **Kündigungsfristen**  | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe |
+| **Kundenbewertungen**  | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe | Keine Angabe |
+| **Besondere Bedingungen** | Keine Leistungen, wenn bereits Leistungen aus der Pflegeversicherung bezogen wurden | Keine Wartezeit | Wartezeit entfällt bei Unfall | Wartezeit entfällt bei Pflegebedürftigkeit durch Unfall | Keine Gesundheitsprüfung | Wartezeit entfällt bei Pflegebedürftigkeit durch Unfall | Keine Gesundheitsprüfung | Frühzeitige Vorsorge auch für Kinder | Erhöhung des Pflegetagegeldes alle drei Jahre um 10 % ohne Gesundheitsprüfung |
+
+```
+
+**Anmerkungen:**
+- Die Tabelle enthält die wichtigsten Informationen zu den Pflegetagegeldversicherungen der verschiedenen Unternehmen.
+- Einige Informationen, wie z.B. Kundenbewertungen und Kündigungsfristen, sind nicht verfügbar und daher nicht angegeben.
+- Die Preise und Leistungen können je nach individuellen Bedingungen und Tarifen variieren. Es wird empfohlen, sich direkt bei den Versicherungsunternehmen zu informieren, um die genauesten und aktuellsten Informationen zu erhalten.

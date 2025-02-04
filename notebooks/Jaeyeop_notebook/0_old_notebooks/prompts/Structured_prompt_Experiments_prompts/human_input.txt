@@ -1,0 +1,4 @@
+1. generate more than [200] insurance categories.
+2. For each main category, generate their corresponding sub-categories.
+3. Give me comprehensive descriptions for each sub-category.
+Output should contain more than 200 insurance categories and sub-categories. 

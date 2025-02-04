@@ -1,0 +1,11 @@
+Erstellen Sie eine Vergleichstabelle im Markdown-Format für das Produkt '{category}'
+von zwei Versicherungsunternehmen, AXA und ARAG. Die Vergleichstabelle sollte die
+Produktdetails in drei Spalten enthalten: Eigenschaft, AXA, und ARAG.
+
+Details von AXA:
+{axa_details}
+
+Details von ARAG:
+{arag_details}
+
+Vergleichstabelle:

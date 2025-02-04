@@ -1,0 +1,22 @@
+Hier ist eine umfassende Vergleichstabelle im Markdown-Format für die Grundfähigkeitsversicherung von verschiedenen Versicherungsunternehmen:
+
+```markdown
+| Eigenschaft            | Barmenia - Passend-für-Sie-Grundfähigkeitsschutz | ERGO - Body Protect | Generali - Grundfähigkeits-Police | HUK-Coburg - Existenzschutzversicherung | R+V - Grundfähigkeitsversicherung | Signal Iduna - Grundfähigkeitsversicherung |
+|------------------------|--------------------------------------------------|---------------------|-----------------------------------|----------------------------------------|----------------------------------|--------------------------------------------|
+| **Versicherungsumfang**| Monatliche Rente bei Verlust einer Grundfähigkeit, Beitragsbefreiung im Versicherungsfall, Option Direktleistung, Absicherung bei Pflegebedürftigkeit und schweren Krankheiten | Absicherung der Grundfähigkeiten wie Sehen, Sprechen, Hören, Sitzen, Gehen und Stehen | Zahlung bei Verlust einer Grundfähigkeit für sechs Monate oder länger | Volle Leistung bei Verlust einer Grundfähigkeit, flexibel anpassbar | Monatliche Rente bei Beeinträchtigung oder Verlust bestimmter Grundfähigkeiten | Monatliche Rente bei Verlust einer Grundfähigkeit, Pflegebedürftigkeit oder Demenz |
+| **Beitragshöhe**       | Keine Angabe                                     | z. B. 29,70 € mtl.  | Keine Angabe                      | Ab 21,82 € mtl. für einen 24-jährigen Elektriker | Keine Angabe                     | Keine Angabe                                 |
+| **Selbstbeteiligung**  | Keine Angabe                                     | Keine Angabe        | Keine Angabe                      | Keine Angabe                             | Keine Angabe                     | Keine Angabe                                 |
+| **Leistungsausschlüsse**| Keine Angabe                                     | Keine Angabe        | Keine Angabe                      | Keine Angabe                             | Keine Angabe                     | Keine Angabe                                 |
+| **Zusatzleistungen**   | Nachträgliche Hinzunahme von Bausteinen ohne erneute Gesundheitsprüfung, Wechseloption in eine Berufsunfähigkeitsversicherung | Zusatzbausteine wie Psyche Plus, Pflege Plus, Sport Plus | Umtausch in eine Berufsunfähigkeitsversicherung nach fünf Vertragsjahren | Erhöhungsoptionen ohne erneute Gesundheitsprüfung, Beitragspause möglich | Nachversicherungsgarantie, Wahl zwischen drei Produktvarianten | Worst-Case Kapitalhilfe bei schwerer Krankheit, EXKLUSIV-Option für Wechsel in Berufsunfähigkeitsversicherung |
+| **Kündigungsfristen**  | Keine Angabe                                     | Keine Angabe        | Keine Angabe                      | Keine Angabe                             | Keine Angabe                     | Keine Angabe                                 |
+| **Kundenbewertungen**  | Keine Angabe                                     | Unabhängig getestet mit 5 Sternen für Komfort und Premium | Keine Angabe                      | Keine Angabe                             | Keine Angabe                     | Keine Angabe                                 |
+| **Besondere Bedingungen** | Wechseloption in eine Berufsunfähigkeitsversicherung ohne erneute Gesundheitsprüfung | Flexibilität bei Beitrags- und Leistungsanpassung | Keine Frist bei der Beantragung von Leistungen | Rückwirkende Leistung bei verspäteter Meldung | Möglichkeit eines Wechsels ohne Gesundheitsprüfung in die Berufsunfähigkeitsversicherung | Optionale Rentensteigerung im Leistungsfall, Anpassung der Rentenhöhe bei bestimmten Lebensereignissen |
+
+```
+
+### Anmerkungen:
+- Die Tabelle enthält die wichtigsten Informationen, die aus den bereitgestellten Daten extrahiert wurden.
+- Einige Informationen wie Selbstbeteiligung, Leistungsausschlüsse und Kündigungsfristen sind nicht verfügbar und wurden entsprechend gekennzeichnet.
+- Kundenbewertungen sind nur für ERGO verfügbar, basierend auf einer unabhängigen Bewertung.
+- Die Beitragshöhe variiert je nach Anbieter und individuellen Faktoren wie Alter und Beruf des Versicherten.
+- Besondere Bedingungen und Zusatzleistungen bieten Flexibilität und Anpassungsmöglichkeiten, die je nach Anbieter variieren.

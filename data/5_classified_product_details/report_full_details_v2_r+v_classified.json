@@ -1,0 +1,3176 @@
+{
+    "firmenkunden_mitarbeiterbindung.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "krankenzusatzversicherung_mitglieder.md": {
+        "Produktname": "Krankenzusatzversicherung für Mitglieder",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Günstigere Beiträge für Mitglieder",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zahnersatz, Zahnvorsorge, Sehhilfe, Vorsorge",
+            "Beitragsvorteile für Genossenschaftsmitglieder",
+            "Drei exklusive Pakete zur Auswahl (Mitglieder classic, comfort, premium)",
+            "Sehhilfe bis 400 EUR innerhalb von 2 Kalenderjahren (je nach Paket)",
+            "Vorsorgeuntersuchungen bis 400 EUR innerhalb von 2 Kalenderjahren (je nach Paket)",
+            "Zahnmedizinische Prophylaxe 100 %, einmal pro Kalenderjahr",
+            "Kunststoff-Füllungen 100 % inkl. Akupunktur zur Schmerzbehandlung",
+            "Parodontosebehandlung, Wurzelbehandlung 100 % inkl. Akupunktur zur Schmerzbehandlung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistungspflicht für zahnärztliche Leistungen, die zusätzlich zu den Leistungen der GKV in Anspruch genommen werden",
+            "Keine Leistungspflicht für Leistungen, für die die GKV nicht leistet, weil mit dem Zahnarzt eine Vereinbarung über eine privatzahnärztliche Behandlung getroffen wird oder weil er kein Vertragszahnarzt ist"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "haftpflichtversicherung.md": {
+        "Produktname": "D&O Versicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor finanziellen Folgen von Schäden, für die Sie verantwortlich sind",
+            "Online abschließbar",
+            "Umfassender Schutz bei Schadensfällen",
+            "Inklusive Schutz für Wertsachen",
+            "Online abschließbar",
+            "Schutz bei Schäden durch Hunde",
+            "Online abschließbar",
+            "Schutz bei Schäden durch Pferde",
+            "Schutz vor finanziellen Folgen von Personen-, Sach- und Vermögensschäden am Bau",
+            "Schutz bei Schäden auf dem Grundstück",
+            "Schutz bei Schäden durch austretendes Öl",
+            "Gesetzlich vorgeschriebener Schutz für Jäger",
+            "Jagdhunde sind mitversichert",
+            "Schutz bei Schäden durch private Wasserfahrzeuge",
+            "Schutz bei Schäden im Reitunterricht",
+            "Schutz für Auto, Motorrad, Camper, Anhänger",
+            "Individuelle Zusatzbausteine",
+            "Schutz für Firmenkunden",
+            "Schutz für Firmenkunden",
+            "Schutz für Firmenkunden",
+            "Schutz für Firmenkunden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "krankenversicherungen.md": {
+        "Produktname": "Krankenzusatzversicherung für Mitglieder",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Flexible, individuelle Lösungen für mehr Sicherheit und Komfort",
+            "Freie Arztwahl bis hin zum Chefarzt",
+            "Behandlung in Ein- oder Zweibettzimmern",
+            "Top-Kundenservice mit Online-Geschäftsstelle",
+            "Viele Extraleistungen",
+            "Möglichkeiten, Geld zu sparen",
+            "Schutz gegen hohe Kosten im Ausland",
+            "Verringerung hoher Kosten oder Zuzahlungen",
+            "Wunschversorgung besser leisten",
+            "Schutz vor Verdienstausfällen bei längeren Krankheiten",
+            "Freie Arztwahl bis hin zum Chefarzt",
+            "Behandlung in Ein- oder Zweibettzimmern",
+            "Linderung finanzieller Belastungen im Krankenhaus",
+            "Verbesserte individuelle medizinische Versorgung",
+            "Attraktive Preisvorteile für Genossenschaftsmitglieder"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "kfz-versicherung_moped-versicherung_e-scooter.md": {
+        "Produktname": "E-Scooter-Versicherung",
+        "Versicherungsart": "Haftpflicht- und Teilkaskoversicherung",
+        "Deckungssumme": "100 Millionen EUR Haftpflicht, bis zu 12 Mio. EUR Personenschäden je geschädigter Person",
+        "Selbstbeteiligung": "150 EUR (optional)",
+        "Preis": "Ab 28,20 EUR im Jahr",
+        "Gültigkeitsbereich": "National (Deutschland)",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Selbstklebende Versicherungsplakette als Nachweis",
+            "Abwehr unberechtigter Ansprüche",
+            "Entschädigung bei Sach- und Personenschäden",
+            "Rechtsanwaltskosten des Unfallgegners",
+            "Neuwertentschädigung für Akkus bis 24 Monate",
+            "Schutz gegen Diebstahl, Naturgewalten, Kurzschluss"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden bei illegalen Rennen",
+            "Schäden durch Alkohol- oder Drogeneinfluss",
+            "Bei Fahrerflucht"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "tierversicherung_hundeversicherung_hundehaftpflicht.md": {
+        "Produktname": "Tierhalterhaftpflicht-Versicherung für Hunde",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "15 Mio. EUR (classic), 50 Mio. EUR (comfort)",
+        "Selbstbeteiligung": "150 EUR (bei Mietsachschäden)",
+        "Preis": "Ab 7,12 EUR monatlich (classic), ab 8,16 EUR monatlich (comfort)",
+        "Gültigkeitsbereich": "Weltweit (2 Jahre classic, 5 Jahre comfort)",
+        "Vertragslaufzeit": "3 Jahre",
+        "Weitere Leistungen": [
+            "Versicherungsschutz für Personen-, Sach- und Vermögensschäden",
+            "Eigenschutz Plus (Forderungsausfalldeckung)",
+            "Mitversicherung von Hundewelpen bis zum Ende des ersten Lebensjahres",
+            "Kein Leinen- & Maulkorbzwang",
+            "Mietsachschäden an Wohnräumen und sonstigen Räumen zu privaten Zwecken",
+            "Vorübergehende Auslandsaufenthalte",
+            "Innovations-Garantie (zukünftige Leistungsverbesserungen gelten automatisch)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "haftpflichtversicherung_haus-und-grundbesitzerhaftpflicht.md": {
+        "Produktname": "Haus- und Grundbesitzerhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "15 Mio. EUR (classic), 50 Mio. EUR (comfort)",
+        "Selbstbeteiligung": "Sparpotential durch Abschluss einer Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für Personen-, Sach- und Vermögensschäden",
+            "Bauherrenhaftpflicht für Projekte bis 50.000 EUR (classic) bzw. 100.000 EUR (comfort) inklusive",
+            "Mitversicherung von per Arbeitsvertrag mit der Verwaltung beauftragten Personen",
+            "Einspeisung von Energie aus Photovoltaikanlagen bis 15 kWp",
+            "Gewässerschadenhaftpflicht für Kleingebinde bis 205l bzw. kg, insgesamt max. 1000l bzw. kg",
+            "Umweltschadensversicherung 3 Mio. EUR (classic), 10 Mio. EUR (comfort)",
+            "Verletzung von Datenschutzgesetzen 3 Mio. EUR",
+            "Ansprüche aus Benachteiligung (AGG-Deckung) 50.000 EUR (comfort)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Gewässerschadenhaftpflicht für Öltanks optional zuwählbar"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "unfallversicherung_kapital-unfallversicherung-beitragsrueckgewaehr.md": {
+        "Produktname": "R+V-Kapital-UnfallPolice",
+        "Versicherungsart": "Unfallversicherung mit Beitragsrückgewähr",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individueller Unfallschutz weltweit und rund um die Uhr",
+            "Sichere Geldanlage mit garantierter Verzinsung des Sparanteils",
+            "Einmalige Kapitalleistung ab 1 % Invalidität",
+            "Unfall-Rente ab 50 % Invalidität",
+            "Unfall-Krankenhaustagegeld",
+            "Todesfallleistung bei Unfalltod",
+            "Garantierte Kapitalleistung von 104 - 113 % des eingezahlten Sparanteils nach Vertragsablauf",
+            "Überschussbeteiligung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "firmenkunden_verkehr-logistik.md": {
+        "Produktname": "MobilitätsRente",
+        "Versicherungsart": "Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Krankenversicherung",
+            "Unfallversicherung",
+            "Einkommensabsicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "firmenkunden_handwerk.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pflegeversicherung_pflege-zusatzversicherung_pflege-bahr.md": {
+        "Produktname": "R+V-Pflege FörderBahr",
+        "Versicherungsart": "Staatlich geförderte Pflegetagegeldversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "5 EUR/Monat bzw. 60 EUR/Jahr staatliche Zulage",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Staatliche Zulage von 60 EUR/Jahr",
+            "Keine Gesundheitsprüfung",
+            "Leistungen in allen Pflegegraden",
+            "Keine Wartezeit bei unfallbedingter Pflegebedürftigkeit",
+            "Dynamik: Regelmäßige Erhöhung des Pflegetagegeldes",
+            "Leistung unabhängig davon, ob stationär oder zu Hause gepflegt wird",
+            "Keine Kostennachweise erforderlich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegetagegeldversicherung"
+    },
+    "vorsorge_check.md": {
+        "Produktname": "Autoversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "unfallversicherung.md": {
+        "Produktname": "Unternehmer-Unfallversicherung",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor hohen finanziellen Folgen eines Unfalls",
+            "Einkommensschutz bei Verlust der Arbeitskraft",
+            "Unterstützung bei behindertengerechten Umbauten",
+            "Schutz vor hohen finanziellen Folgen eines Unfalls",
+            "Beitragsrückgewähr",
+            "Schutz vor hohen Kosten für Pflege, Reha oder kosmetische Operationen",
+            "Einkommensschutz bei Betreuungsaufwand",
+            "Unfallschutz rund um die Uhr",
+            "Schutz für Unternehmer, Familie und Betrieb"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "altersvorsorge_basis-rente-indexinvest.md": {
+        "Produktname": "BasisRente IndexInvest",
+        "Versicherungsart": "Rürup-Rente",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Lebenslang garantierte Rentenzahlungen",
+            "Steuerliche Förderung: Beiträge sind als Sonderausgaben steuerlich abzugsfähig",
+            "Jährliche Wahlmöglichkeit zwischen Indexpartizipation oder Verzinsung",
+            "Hinterbliebenenschutz inklusive für Ehepartner/eingetragene Lebenspartner und Kinder",
+            "Möglichkeit der Indexpartizipation mit Turbo zur Erhöhung der Renditechancen",
+            "Schutz bei Bürgergeld Inanspruchnahme während der Ansparphase"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "altersvorsorge_lebensarbeitszeitkonto.md": {
+        "Produktname": "Lebensarbeitszeitkonto",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bessere Work-Life Balance",
+            "Keine Lücken in der Sozialversicherung",
+            "Attraktive garantierte Verzinsung",
+            "Eingezahlte Beiträge sind gesichert",
+            "Flexibel Arbeitszeit oder Gehalt einzahlen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nur in Absprache mit dem Arbeitgeber nutzbar",
+            "Verwendungszwecke werden vom Arbeitgeber festgelegt"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "vermoegensuebertragung.md": {
+        "Produktname": "R+V-Vermögensübertragung",
+        "Versicherungsart": "Vermögensübertragung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Wahl der Vermögensübertragung zu einem bestimmten Zeitpunkt oder im Todesfall",
+            "Wahl zwischen sicherheitsorientierter und chancenorientierter Geldanlage",
+            "Keine Ertragsteuer während der Vertragslaufzeit",
+            "Keine Einkommensteuerpflicht im Erbfall und im Rahmen der Freibeträge auch keine Erbschaftsteuer",
+            "Möglichkeit der Zuzahlungen und Entnahmen",
+            "Flexibilität bei der Bestimmung der Bezugsberechtigten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Gesundheitsfragen bis 1 Mio. EUR Einmalbeitrag",
+            "Keine Wartezeit, Todesfallschutz ab Beginn"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "krankenzusatzversicherung_krankentagegeldversicherung.md": {
+        "Produktname": "Krankentagegeldversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor finanziellen Belastungen im Krankheitsfall",
+            "Absicherung des Nettoeinkommens möglich",
+            "Leistungsanspruch auch für Sonn- und Feiertage und ohne zeitliche Begrenzung",
+            "Leistungsgarantie bei vorübergehender vollständiger Arbeitsunfähigkeit",
+            "Karenzzeiten anpassbar, kürzere Karenzzeiten für Selbstständige möglich",
+            "Entbindungspauschale in Höhe des 12-fachen vereinbarten Krankentagegeldes"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Berücksichtigung eines bestehenden Krankengeld-Anspruchs aus einer gesetzlichen Krankenversicherung"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "beratung_sorgenfrei-leben.md": {
+        "Produktname": "Pferde-OP-Versicherung",
+        "Versicherungsart": "Tierversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz bei Schäden durch Feuer, Leitungswasser, Sturm, Hagel",
+            "Schutz bei Einbruchdiebstahl und Vandalismus",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "service_weitere-services.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "tierversicherung_pferdeversicherung_pferdehaftpflichtversicherung.md": {
+        "Produktname": "Pferdehaftpflicht der R+V",
+        "Versicherungsart": "Tierhalterhaftpflichtversicherung",
+        "Deckungssumme": "Bis zu 50 Mio. EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Classic ab 10,96 EUR monatlich, Comfort ab 12,42 EUR monatlich",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Fohlen mitversichert bis zum Ende des ersten Lebensjahres",
+            "Beitragsfreie Mitversicherung von Reitbeteiligung",
+            "Schäden durch Deckakt mitversichert",
+            "Bequeme Schadensmeldung über Onlineformular"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "berufsunfaehigkeitsversicherung.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Berufsunfähigkeitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 22,35 EUR monatlich",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zahlung der BU-Rente nach 18 Monaten rückwirkend ab Beginn der BU",
+            "Keine abstrakte Verweisung",
+            "Leistung bereits ab 50 % Berufsunfähigkeit",
+            "Leistung bei Arbeitsunfähigkeit optional wählbar",
+            "Sofortleistung bei schweren Krankheiten wie Krebs, Herzinfarkt, Schlaganfall",
+            "Zusätzliche Leistung im Pflegefall",
+            "Sofortkapital bei Berufsunfähigkeit (12 Monatsrenten)",
+            "Steuerfreie Ablaufleistung optional",
+            "Beitragsstundung bei vollem Schutz",
+            "Weltweiter Schutz",
+            "Möglichkeit zur Erhöhung des Versicherungsschutzes ohne erneute Gesundheitsprüfung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "kfz-versicherung_autoversicherung_e-auto.md": {
+        "Produktname": "E-Auto-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "100 Mio. EUR (Pauschaldeckung), 12-16 Mio. EUR (Personenschäden), 2-100 Mio. EUR (Umweltschadenversicherung)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 39 EUR pro Jahr",
+        "Gültigkeitsbereich": "Europaweit (inkl. und ohne Deutschland)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Umweltbonus: 10 % Nachlass für Elektro- und Hybrid-Pkw",
+            "Akku-Schutz und Entsorgung inklusive",
+            "3 % Digitalbonus für nachhaltiges Handeln",
+            "Zubehörteile wie Ladekabel, Ladekarte und mobiles Ladegerät versichert",
+            "Abschleppdienst zur nächsten Ladestation",
+            "Neupreisentschädigung für Akkus bis 36 Monate nach Erwerb",
+            "Ersatz von Schäden durch Tierbiss und Kurzschluss",
+            "Schutzbrief für Pannenhilfe und Abschleppdienst"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "grundfaehigkeitsversicherung.md": {
+        "Produktname": "R+V-Grundfähigkeitsversicherung",
+        "Versicherungsart": "Grundfähigkeitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Monatliche Rente bei Beeinträchtigung oder Verlust bestimmter Grundfähigkeiten",
+            "Absicherung bereits bei Verlust einer einzigen versicherten Grundfähigkeit",
+            "Nachversicherungsgarantie: Erhöhung des Versicherungsschutzes zu bestimmten Anlässen ohne neue Gesundheitsprüfung",
+            "Wahl zwischen drei Produktvarianten: classic, comfort, premium",
+            "Möglichkeit eines Wechsels ohne Gesundheitsprüfung in die Berufsunfähigkeitsversicherung unter bestimmten Voraussetzungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Grundfähigkeitsversicherung"
+    },
+    "kfz-versicherung_wohnmobil-versicherung.md": {
+        "Produktname": "Wohnmobil-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "100 Mio. EUR (maximal 15 Mio. EUR je geschädigte Person)",
+        "Selbstbeteiligung": "Entspricht der in der Vollkasko vereinbarten",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa und außereuropäische Gebiete der EU",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Haftpflichtversicherung",
+            "Teilkaskoversicherung",
+            "Vollkaskoversicherung",
+            "Schutzbrief",
+            "Fahrerschutz-Versicherung",
+            "Differenzdeckung (GAP)",
+            "SchutzbriefPlus",
+            "Kasko-Extra-Versicherung (KEX)",
+            "Kfz-Umweltschadensversicherung integriert",
+            "Mallorca-Police auch in Deutschland gültig"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden durch Alkohol oder Rauschmittel",
+            "Grob fahrlässige Ermöglichung der Entwendung des Fahrzeugs",
+            "Schäden durch Haus- und Nutztiere (bei Tierbissen)"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "firmenkunden_versicherungen-ueberblick.md": {
+        "Produktname": "Bauherrenhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "kfz-versicherung_kfz-zusatzbausteine.md": {
+        "Produktname": "Kasko Spezial",
+        "Versicherungsart": "Zusatzversicherung zur Vollkaskoversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Europaweite schnelle Hilfe als Service oder Kostenerstattung",
+            "Fahrzeugschutzbrief bei Panne, Unfall oder Diebstahl",
+            "Reiseschutzbrief bei Krankheit, Verletzung oder Tod",
+            "Pannenhilfe, Abschleppen und Bergen",
+            "Fahrzeugausfall (Weiter- bzw. Rückfahrt, Mietwagen oder Übernachtung)",
+            "Fahrzeugabholung bei Fahrerausfall",
+            "Krankenrücktransport",
+            "Kinderrückholung",
+            "Krankenbesuch",
+            "Ersatzteilversand ins europäische Ausland",
+            "Fahrzeugtransport in eine Werkstatt",
+            "Fahrzeugunterstellung",
+            "Verzollung/Verschrottung",
+            "Arzneimittelversand ins europäische Ausland",
+            "Bestattung oder Überführung",
+            "Hilfe bei der Beschaffung von Ersatz-Reisedokumenten",
+            "Vermittlung ärztlicher Betreuung",
+            "Hilfestellung in besonderen Notfällen",
+            "Entladung des Akkus bei Elektrofahrzeugen als Panne anerkannt",
+            "Schutz vor finanziellen Folgen eines Personenschadens des berechtigten Fahrers",
+            "Ersatz für Schäden, wenn kein anderer dafür aufkommt",
+            "Kostenübernahme von Verdienstausfällen, Haushaltshilfen, behindertengerechte Umbaumaßnahmen, Hinterbliebenenrente und Schmerzensgeld",
+            "Im Todesfall des berechtigten Fahrers Zahlung einer Hinterbliebenenrente und eines Hinterbliebenengeldes",
+            "Weitreichender Versicherungsschutz für tatsächlichen Personenschaden des Fahrers",
+            "Schließt die Lücke zwischen Wiederbeschaffungswert des Fahrzeugs und Leasing- bzw. Darlehens-Restbetrag",
+            "Schadenfreiheitsrabatt der Vollkasko wird nicht belastet",
+            "Abholung des Pkw vom Unfallort",
+            "Reparatur in ausgewählten Partnerwerkstätten",
+            "Innen- und Außenreinigung des Pkw",
+            "Rücktransport des Pkw",
+            "Kostenloses Ersatzfahrzeug der Kleinwagen-Klasse",
+            "Sechs Jahre Garantie auf alle ausgeführten Reparaturarbeiten",
+            "Schutz bei Brems-, Betriebs- und Bruchschäden",
+            "Schäden belasten nicht den Vollkaskovertrag",
+            "Bei gleichzeitigen KEX- und Vollkasko-Schäden wird die Selbstbeteiligung nur einmal abgezogen",
+            "Keine Entschädigungsgrenzen bei Leistungen und Teileliste",
+            "Erweiterte Unterschlagungsdeckung",
+            "Erweiterung der Neupreis-/Kaufwertentschädigung bis 48 Monate (60 Monate bei Elektro-Pkw)",
+            "Autoinhaltsversicherung mit einer Versicherungssumme von 1.000 EUR",
+            "Zahlung einer Wertminderung",
+            "Allgefahrendeckung für den Akku von Elektrofahrzeugen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Kann nur für die R+V-KfzPolice comfort oder premium abgeschlossen werden",
+            "Nicht bei Glasbruch-Schaden",
+            "Keine Angabe",
+            "KEX und Kasko Spezial können nicht gleichzeitig abgeschlossen sein"
+        ],
+        "category": "Fahrerschutzversicherung"
+    },
+    "service_digitale-versichertenkarte.md": {
+        "Produktname": "Risiko-Unfallversicherung",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "firmenkunden_landwirtschaftliche-versicherungen.md": {
+        "Produktname": "Unfallversicherung mit Beitragsrückgewähr",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "haftpflichtversicherung_bootshaftpflichtversicherung.md": {
+        "Produktname": "Haftpflichtversicherung für private Wasserfahrzeuge",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "5 Millionen EUR bei Personen- und Sachschäden, 100.000 EUR bei Vermögensschäden",
+        "Selbstbeteiligung": "Sparpotential durch Abschluss einer Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme bei Personen-, Sach- und Vermögensschäden",
+            "Prüfung von Schadensersatzforderungen",
+            "Abwehr unberechtigter Ansprüche, auch gerichtlich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Ruder- oder Paddelboote, Kanus oder Surfbretter sind über die Privathaftpflichtversicherung mitversichert."
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "tierversicherung_hundeversicherung_hundeversicherung-abschliessen_tarifierung_hunde-op-versicherung.md": {
+        "Produktname": "SuperSicher Plus",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "10 Millionen Euro",
+        "Selbstbeteiligung": "150 Euro",
+        "Preis": "12 Euro monatlich",
+        "Gültigkeitsbereich": "Europaweit",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Schutz bei Mietschäden",
+            "Absicherung bei Schlüsselverlust"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorsätzliche Schäden",
+            "Schäden durch Naturkatastrophen"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "firmenkunden_fuer-ihr-unternehmen.md": {
+        "Produktname": "Private Haftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "beratung_geld-anlegen.md": {
+        "Produktname": "Private Haftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "hausratversicherung.md": {
+        "Produktname": "R+V-Hausratversicherung",
+        "Versicherungsart": "Hausratversicherung",
+        "Deckungssumme": "Unbegrenzt",
+        "Selbstbeteiligung": "Keine / 150 EUR",
+        "Preis": "Ab 1,87 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Neuwertentschädigung",
+            "Unkomplizierte Online-Schadenmeldung",
+            "Außenversicherungsschutz bis zu 12 Monate",
+            "Sturm- und Hageldeckung für Gartenmöbel und Gartengeräte (comfort- und premium-Tarif)",
+            "Trickdiebstahl in der Wohnung (comfort- und premium-Tarif)",
+            "Diebstahl aus dem verschlossenen Auto (comfort- und premium-Tarif)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden aus unkalkulierbaren Risiken wie Krieg oder Kernenergie",
+            "Schäden in Räumen, die ausschließlich gewerblich genutzt werden",
+            "Vorsätzlich herbeigeführte Schäden"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "altersvorsorge_private-rentenversicherung_sofortrente.md": {
+        "Produktname": "SofortRente",
+        "Versicherungsart": "Private Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Unbefristet",
+        "Weitere Leistungen": [
+            "Lebenslange garantierte Rentenzahlungen ab sofort",
+            "Mögliche Erhöhung der Rente durch eine zusätzliche Überschussrente",
+            "Keine Gesundheitsprüfung",
+            "Steuervorteile durch die Besteuerung der Rentenleistung mit dem Ertragsanteil",
+            "Einschluss einer Beitragsrückgewähr",
+            "Vereinbarung einer Garantiezeit",
+            "Einschluss einer Hinterbliebenen-Zusatzversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "altersvorsorge_private-rentenversicherung.md": {
+        "Produktname": "Vorsorgelösungen 50+",
+        "Versicherungsart": "Private Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Flexibles und sicheres Anlegen",
+            "Überblick über das Vermögen behalten",
+            "Sicherheit und attraktive Renditechancen",
+            "Aktiv gemanagte, nachhaltige Anlagestrategien",
+            "Hohe Sicherheit bei Nutzung der Kapitalmarktschancen",
+            "Zeitgemäße Altersvorsorge oder Vermögensanlage",
+            "Einmaliger Betrag oder ab 25 EUR monatlich",
+            "Lebenslange garantierte Rentenzahlungen",
+            "Unterstützung bei persönlichen Zukunftsplänen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "mitglieder_cashback.md": {
+        "Produktname": "Rechtsschutzversicherung",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "krankenzusatzversicherung.md": {
+        "Produktname": "Tierlebenversicherung für Pferde",
+        "Versicherungsart": "Tierversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Reduzierung hoher Kosten oder Zuzahlungen",
+            "Wunschversorgung besser leisten",
+            "Schutz gegen hohe Kosten im Ausland",
+            "Zuschüsse für Brillen, Kontaktlinsen, Augen-Laser-Operationen",
+            "Vorsorgeuntersuchungen",
+            "Schutz vor Verdienstausfällen bei längeren Krankheiten",
+            "Status eines Privatpatienten bei ambulanter Behandlung",
+            "Freie Arztwahl bis hin zum Chefarzt",
+            "Behandlung in Ein- oder Zweibettzimmer",
+            "Linderung finanzieller Belastungen im Krankenhaus",
+            "Verbesserte medizinische Versorgung",
+            "Attraktive Preisvorteile für Genossenschaftsmitglieder",
+            "Flexible, individuelle Lösungen",
+            "Starke Leistungen für mehr Sicherheit und Komfort",
+            "Bedarfsgerechter Versicherungsschutz",
+            "Hochwertiger Versicherungsumfang",
+            "Hervorragender Kundenservice",
+            "Breites Spektrum an Extraleistungen",
+            "Möglichkeiten, Geld zu sparen",
+            "Schutz für Hunde bei Operationen",
+            "Schutz für Pferde bei Operationen",
+            "Schutz für das Leben von Pferden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "firmenkunden_bauleistungsversicherung.md": {
+        "Produktname": "Bauleistungsversicherung",
+        "Versicherungsart": "Bauleistungsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Vereinbarte Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Gilt für die gesamte Dauer der tatsächlichen Bauzeit",
+        "Weitere Leistungen": [
+            "Schutz vor finanziellen Folgen unvorhergesehener Beschädigungen oder Zerstörungen an der Bauleistung",
+            "Versicherungsschutz für Baustoffe, Bauteile, Hilfsstoffe und Bauhilfsstoffe",
+            "Ersatz von Aufwendungen für Material und Arbeitslöhne im Schadensfall",
+            "Ersatz des Zeitwerts bei Totalschaden an Hilfsbauten und Bauhilfsstoffen",
+            "Abdeckung von Schäden durch ungewöhnliche und außergewöhnliche Witterungseinflüsse, unbekannte Eigenschaften des Baugrundes, mutwillige Beschädigung, Diebstahl und Glasbruch"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Baustelleneinrichtung sowie Akten, Zeichnungen und Pläne",
+            "Baugeräte einschließlich Zusatzeinrichtungen wie Ausrüstungen, Zubehör und Ersatzteile",
+            "Fahrzeuge aller Art"
+        ],
+        "category": "Bauleistungsversicherung"
+    },
+    "haftpflichtversicherung_private-haftpflichtversicherung.md": {
+        "Produktname": "R+V-Privathaftpflichtversicherung",
+        "Versicherungsart": "Private Haftpflichtversicherung",
+        "Deckungssumme": "Bis 75 Mio. EUR für Personen-, Sach- und Vermögensschäden",
+        "Selbstbeteiligung": "Keine/150 EUR/250 EUR",
+        "Preis": "Ab 1,96 EUR monatlich",
+        "Gültigkeitsbereich": "Europa ohne zeitliche Befristung, weltweit bis zu 5 Jahre",
+        "Vertragslaufzeit": "Monatlich kündbar",
+        "Weitere Leistungen": [
+            "Passiver Rechtsschutz",
+            "Mietsachschäden",
+            "Gefälligkeitsschäden",
+            "Vorübergehender Auslandsaufenthalt weltweit",
+            "Elektronischer Datenaustausch/Internetschäden",
+            "Fahrräder, Pedelecs bis 25 km/h (nicht versicherungspflichtig)",
+            "Innovationsgarantie",
+            "Forderungsausfallversicherung für Personen- und Sachschäden",
+            "Schäden durch deliktsunfähige Kinder/volljährige Personen",
+            "Schlüsselverlust (privat und beruflich)",
+            "Schäden an gemieteten/geliehenen beweglichen Sachen",
+            "Versicherungspflichtige Flugmodelle (z. B. Drohnen) mit und ohne Motor",
+            "Halten von wilden Kleintieren und Weidetieren (inkl. Einfangkosten)",
+            "Zusatzbaustein Neuwert-Spezial",
+            "Zusatzbaustein Kfz-Spezial Plus"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorsätzlich verursachte Schäden",
+            "Schäden am eigenen Besitz",
+            "Schäden, die mit einem motorbetriebenen Fahrzeug verursacht wurden (teilweise im Tarif premium über Kfz-Spezial Plus versicherbar)",
+            "Schäden durch Hunde und Pferde (Hundehaftpflicht und Pferdehaftpflicht)",
+            "Schäden an Gegenständen von Mitversicherten"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "firmenkunden_liquiditaet.md": {
+        "Produktname": "R+V-Warenkreditversicherung",
+        "Versicherungsart": "Kreditversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prüfung der Bonität der Auftraggeber",
+            "Absicherung bei ausbleibenden oder verspäteten Zahlungen",
+            "Unterstützung beim Einzug der Forderungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "altersvorsorge_betriebliche-altersvorsorge.md": {
+        "Produktname": "Direktversicherung durch Entgeltumwandlung",
+        "Versicherungsart": "Betriebliche Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Finanzierung der Zusatzrente aus dem Bruttoeinkommen",
+            "Steuer- und Sozialabgabeneinsparungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "baufinanzierung.md": {
+        "Produktname": "R+V-Vorsorgedarlehen FIX & FLEX",
+        "Versicherungsart": "Baufinanzierung / Darlehen",
+        "Deckungssumme": "30.000 EUR im Todesfall",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Bis zu 30 Jahre Zinssicherheit",
+        "Weitere Leistungen": [
+            "Zinssicherheit durch lange Laufzeitangebote",
+            "Flexible Tilgungsmöglichkeiten",
+            "Absicherung der Darlehensrate im Todesfall und bei betriebsbedingter Arbeitslosigkeit",
+            "Arbeitslosigkeitsversicherung: Übernahme der Zinsrate und 1 % der Tilgung für bis zu zwölf Monate",
+            "Todesfallschutz: Übernahme der Zinsrate und 1 % der Tilgung",
+            "Hohe Flexibilität bei Tilgungsoptionen",
+            "Möglichkeit der frühzeitigen Anschlussfinanzierung und Zinssicherung durch Forward-Darlehen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "unfallversicherung_kinderunfallversicherung.md": {
+        "Produktname": "R+V-Kapital-UnfallPolice",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 10,39 EUR/Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Einmalige Kapitalleistung bereits ab 1% Invalidität",
+            "Schutz bei Infektionen durch Zeckenbisse und Impfschäden",
+            "Individuelle Zusammenstellung der Unfallleistungen",
+            "Keine Zuschläge bei monatlicher Zahlung",
+            "Tägliches Kündigungsrecht",
+            "Hohe Kapitalleistung",
+            "Monatliche Unfall-Rente",
+            "Krankenhaustagegeld",
+            "Leistung bei Unfalltod",
+            "Beitragsvorteile für Mitglieder von Genossenschaftsbanken",
+            "Kombination von Unfallschutz und Kapitalanlage",
+            "Garantierte Rückzahlung des Sparanteils",
+            "Flexibilität in der Beitragszahlung",
+            "Zahlungspausen und Kapital-Entnahmen möglich",
+            "Übernahme der Kosten bei schweren Unfällen des Kindes"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "mietkaution.md": {
+        "Produktname": "R+V-MietkautionsBürgschaft",
+        "Versicherungsart": "Kautionsversicherung",
+        "Deckungssumme": "Bis zu drei Nettokaltmieten",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 4,17 EUR pro Monat bei einer Kaution von 1.000 EUR",
+        "Gültigkeitsbereich": "National (innerhalb Deutschlands)",
+        "Vertragslaufzeit": "Unbefristet, täglich kündbar",
+        "Weitere Leistungen": [
+            "Keine Kautionszahlung in bar oder als Sparbuch",
+            "Sofort verfügbar nach Abschluss",
+            "Keine Doppelbelastung bei Umzug",
+            "Kostenfreier ChancenCheck zur Überzeugung potenzieller Vermieter",
+            "Keine weiteren Gebühren für Verwaltung oder Kontoführung",
+            "Rechtssicherheit für Vermieter",
+            "Digitale Abwicklung möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nicht übertragbar auf neue Mietverträge",
+            "Nicht möglich bei gewerblicher Nutzung oder Pflegeheimen",
+            "Keine Abdeckung von Forderungen, Mieter muss berechtigte Forderungen zurückzahlen"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "hausrat-haftpflicht-kombi.md": {
+        "Produktname": "Hausrat-Haftpflicht-Kombi",
+        "Versicherungsart": "Hausrat- und Haftpflichtversicherung",
+        "Deckungssumme": "Bis zu 75 Mio. EUR (Haftpflicht)",
+        "Selbstbeteiligung": "Hausrat: 150 EUR, Haftpflicht: 250 EUR",
+        "Preis": "Ab 3,83 EUR im Monat (Hausrat: 1,87 EUR, Haftpflicht: 1,96 EUR)",
+        "Gültigkeitsbereich": "Weltweit (Haftpflicht)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hausrat mit unbegrenzter Versicherungssumme",
+            "Privathaftpflicht bis 75 Mio. EUR Deckung",
+            "Einbruchdiebstahl, Raub, Vandalismus",
+            "Leitungswasserschaden und Rohrbruch",
+            "Brand, Explosion, Sengschaden",
+            "Blitzschlag, Überspannung, Sturm- und Hagelschaden",
+            "Entschädigung zum Neuwert",
+            "Schutz bei grober Fahrlässigkeit",
+            "Außenversicherungsschutz (z.B. im Urlaub)",
+            "Personen-, Sach- und Vermögensschaden",
+            "Schaden an geliehenen oder gemieteten beweglichen Sachen",
+            "Mietsachschaden",
+            "Gefälligkeitsschaden",
+            "Schaden durch Internetnutzung",
+            "Fahrräder und Pedelecs (bis 25km/h)",
+            "Erweiterbar durch Zusatzbausteine: Elementarschaden, Glasbruch, Fahrraddiebstahl, Hausrat auf Reisen & SicherOnline"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorsätzlich verursachte Schäden",
+            "Berufsbezogene Tätigkeiten und Orte",
+            "Ausgeschlossene Leistungen je nach gewähltem Tarif in der Privathaftpflicht- und Hausratversicherung"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "haftpflichtversicherung_bauherrenhaftpflicht.md": {
+        "Produktname": "Bauherrenhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Sparpotential durch Abschluss einer Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme bei Personen-, Sach- und Vermögensschäden",
+            "Eigenleistung und Nachbarschaftshilfe bis zur Höhe der versicherten Bausumme mitversichert",
+            "Abwehr unberechtigter Forderungen, auch im Prozessfall"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "krankenzusatzversicherung_zusatzversicherung-heilpraktiker.md": {
+        "Produktname": "NaturMedizin (N1U)",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Maximal 2.400 EUR innerhalb von zwei Kalenderjahren",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zuschüsse für Behandlungen mit Naturheilverfahren",
+            "Zuschüsse für verordnete Arznei-, Heil- und Verbandmittel",
+            "Behandlung durch Ärzte und Heilpraktiker möglich",
+            "Versicherungsschutz sofort ab Versicherungsbeginn",
+            "Medizinisches Beratungstelefon mediRat"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Erstattung in den ersten beiden Kalenderjahren auf maximal 400 EUR begrenzt"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "kfz-versicherung_auto-abo-versicherung.md": {
+        "Produktname": "AboComplete",
+        "Versicherungsart": "Zusatzversicherung für Auto-Abo",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Absicherung des Selbstbehalts bis max. 1.000 EUR",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung von Deckungslücken",
+            "Sicherung des Schadenfreiheitsrabatts",
+            "Optionaler Zusatzbaustein für eine Fahrerschutz-Versicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Ausgenommen Alkohol bzw. Drogen/Diebstahl bei grober Fahrlässigkeit"
+        ],
+        "category": "Fahrerschutzversicherung"
+    },
+    "vorsorge.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz der Existenz bei Berufsunfähigkeit",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Gutschein",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "sterbegeldversicherung.md": {
+        "Produktname": "Sterbegeldversicherung",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Zwischen 1.000 EUR und 15.000 EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Abhängig vom Eintrittsalter und der gewählten Höhe des Sterbegeldes, z.B. 41,64 EUR monatlich für 7.500 EUR bei Eintrittsalter 60 Jahre",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Lebenslang, Beitragszahlung maximal 25 Jahre oder bis zum 85. Lebensjahr",
+        "Weitere Leistungen": [
+            "Keine Gesundheitsprüfung",
+            "Schnelle Auszahlung",
+            "Überschussbeteiligung",
+            "Lebenslanger Schutz",
+            "Begrenzte Beitragsdauer",
+            "Volle Auszahlung bei Unfalltod während der Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine volle Auszahlung bei Tod während der Wartezeit (außer bei Unfalltod)",
+            "Rückerstattung der Beiträge bei Tod während der Wartezeit (außer bei Unfalltod)"
+        ],
+        "category": "Gemischte Lebensversicherung"
+    },
+    "gesetzliche-krankenversicherung.md": {
+        "Produktname": "R+V BKK",
+        "Versicherungsart": "Gesetzliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Bundesweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für homöopathische ärztliche Behandlung",
+            "Zuschüsse für Präventionsleistungen (z. B. Ernährungsberatung, Yoga)",
+            "Gesundheitsreisen",
+            "Bonusregelung für gesundheitsbewusstes Verhalten",
+            "Kostenfreie professionelle Zahnreinigung (PZR) pro Jahr bei Vertragsärzten",
+            "Zuschüsse bei osteopathischen Behandlungen",
+            "Arzt-Terminservice",
+            "Unterstützung bei ärztlichen Behandlungsfehlern",
+            "Wahltarif Beitragsrückzahlung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Familienversicherte Angehörige sind vom Cashback-Programm ausgenommen",
+            "Behandlung in der Notfallaufnahme oder Aufenthalt zur Geburt eines Kindes zählen nicht als Krankenhausaufenthalt im Cashback-Programm"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "bankschliessfach-versicherung.md": {
+        "Produktname": "R+V-Bankschließfachversicherung",
+        "Versicherungsart": "Bankschließfachversicherung",
+        "Deckungssumme": "Bis zu 500.000 EUR",
+        "Selbstbeteiligung": "Kein Selbstbehalt",
+        "Preis": "Ab 6,99 EUR pro Jahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Flexibel und täglich kündbar",
+        "Weitere Leistungen": [
+            "Neuwert-Entschädigung Ihrer Wertsachen",
+            "Mitversicherung von Bargeld",
+            "Schlüsselverlust inklusive",
+            "Datenverlust versichert",
+            "Sondertarife verfügbar",
+            "Mit Hausratversicherung kombinierbar",
+            "Individuelle Zahlungsweise",
+            "Einfacher Online-Abschluss"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Dinge, die widerrechtlich erlangt wurden",
+            "Gefährliche, insbesondere feuergefährliche Gegenstände",
+            "Tiere und Pflanzen",
+            "Kryptowerte, wie digitale Währungen und Wertgegenstände, bzw. digitale Zahlungsmittel",
+            "Schäden durch Abnutzung und Alterung sowie Verschleiß des Schließfaches",
+            "Schäden durch Kernenergie, radioaktive Substanzen oder Umwelteinwirkungen",
+            "Schäden infolge von Terror, Kriegsereignissen sowie politischen Risiken",
+            "Schäden durch normale, allmähliche Licht-, Klima- und Witterungseinflüsse"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "service_kunden-werben-kunden.md": {
+        "Produktname": "R+V-Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Mobil sein, mobil bleiben mit Tarifen und Zusatzbausteinen",
+            "Flexible Absicherung für sorglosen Fahrspaß",
+            "Alternative zur Barkaution",
+            "Absicherung von Hundeoperationskosten",
+            "Schutz bei Schäden durch Hunde",
+            "Schutz bei Schäden durch Pferde",
+            "Kostenschutz bei Pferdeoperationen",
+            "Hochwertiger Zahnzusatz bezahlbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "lebensversicherungen-familie.md": {
+        "Produktname": "Vermögensübertragung",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gesundheitsschutz",
+            "Unfallschutz",
+            "Finanzielle Vorsorge",
+            "Kapitalaufbau für Kinder, Enkel- und Patenkinder",
+            "Finanzielle Absicherung der Familie",
+            "Abdeckung laufender Kosten und Hauskredite",
+            "Vorsorge für eigene Bestattung",
+            "Entlastung der Angehörigen von Bestattungskosten",
+            "Flexible Übertragung von Beträgen",
+            "Sichere oder chancenorientierte Investitionen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Gemischte Lebensversicherung"
+    },
+    "mietkaution_mietkaution-hoehe.md": {
+        "Produktname": "R+V-MietkautionsBürgschaft",
+        "Versicherungsart": "Mietkautionsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Ersetzt die Mietkaution in bar oder als Sparbuch",
+            "Übernimmt die Bürgschaft und geht in Vorleistung bei Schäden während der Mietdauer",
+            "Reduziert den Verwaltungsaufwand für Vermieter"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "privatkunden_privatpolice.md": {
+        "Produktname": "R+V-PrivatPolice",
+        "Versicherungsart": "Kombinierte Versicherung (Hausrat, Haftpflicht, Wohngebäude, Rechtsschutz, Mietschutz)",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bündelung von Hausrat-, Haftpflicht-, Wohngebäude-, Rechtsschutzversicherung und Mietschutzversicherung",
+            "Attraktive Bündelnachlässe bei Abschluss mehrerer Versicherungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Gilt nur für die Produktvarianten classic und comfort"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "einkommensvorsorge.md": {
+        "Produktname": "Bankschließfachversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 6,99 EUR im Jahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung bei Berufsunfähigkeit",
+            "Finanzielle Unterstützung bei Dienstunfähigkeit für Beamte",
+            "Absicherung bei Verlust körperlicher Grundfähigkeiten oder Sinne",
+            "Schließt finanzielle Lücken bei Arbeitslosigkeit, Arbeitsunfähigkeit oder Kurzarbeit",
+            "Ansparen von bezahlter Auszeit (z.B. Sabbatical, frühere Rente, Weiterbildung)",
+            "Sicherstellung der Rückzahlung von Anschaffungsdarlehen oder Konsumentenkredit bei finanziellen Engpässen",
+            "Schutz von Wertgegenständen im Bankschließfach"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "elektronikversicherung.md": {
+        "Produktname": "R+V-Laptop-Versicherung",
+        "Versicherungsart": "Elektronikversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Elektronikschutz für PCs, Laptops, Spielekonsolen inkl. Originalzubehör und nachgerüstetem Zubehör",
+            "Schutz für Laptops"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "kfz-versicherung_kfz-services.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "NEU",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "home_tarifrechner-und-tools.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "kfz-versicherung_motorrad-versicherung.md": {
+        "Produktname": "Motorradversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "100 Mio. EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 36 EUR pro Jahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Teilkasko, Vollkasko, gesetzliche Haftpflicht",
+            "Flexible Tarife und Zusatzleistungen",
+            "Schutzbrief",
+            "Mobilitätspauschale in der Kaskoversicherung",
+            "Bis zu zwei 15-EUR-Gutscheine bei Vertragsabschluss"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "krankenzusatzversicherung_krankenhauszusatzversicherung.md": {
+        "Produktname": "Krankenhauszusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Arzt- und Krankenhauswahl",
+            "Unterbringung im Ein- oder Zweibettzimmer",
+            "Zusätzliche Leistungen bei stationärer Behandlung eines Kindes",
+            "Versicherungsschutz sofort ab Versicherungsbeginn",
+            "Versicherungsschutz für ambulante Operationen",
+            "Kostenpauschale bei Entbindungen",
+            "Versicherungsschutz für stationäre Psychotherapie",
+            "Beitragsfreistellung nach mindestens 8-wöchigem Krankenhausaufenthalt",
+            "Zusatzvorteile für Eltern + Kind"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "altersvorsorge_private-rentenversicherung_ruerup-rente.md": {
+        "Produktname": "Fondsgebundene Rürup Rente",
+        "Versicherungsart": "Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Ab dem vollendeten 62. Lebensjahr bis maximal zum 70. Lebensjahr",
+        "Weitere Leistungen": [
+            "Lebenslange Rentenzahlungen",
+            "Ertragschancen durch Fondsanlage",
+            "Hinterbliebenenschutz ohne Gesundheitsprüfung",
+            "Steuerliche Absetzbarkeit der Beiträge als Sonderausgaben",
+            "Flexibilität bei der Wahl des Renteneintritts",
+            "Möglichkeit zur Reinvestition der Steuervorteile",
+            "Schutz im Fall von Arbeitslosigkeit oder Insolvenz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "mietausfallversicherung.md": {
+        "Produktname": "R+V-SicherVermieten",
+        "Versicherungsart": "Mietschutzversicherung",
+        "Deckungssumme": "10.000 EUR, 15.000 EUR oder 20.000 EUR",
+        "Selbstbeteiligung": "Drei Monatsmieten ohne Betriebskosten",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National (Deutschland)",
+        "Vertragslaufzeit": "Unbefristet",
+        "Weitere Leistungen": [
+            "Übernahme von Mietrückständen einschließlich der monatlichen Betriebskosten ab Schadenmeldung und rückwirkend für maximal drei Monate",
+            "Erstattung von Nutzungsentgelten einschließlich der monatlichen Betriebskosten für den Zeitraum, in dem der Mieter nach Beendigung des Mietvertrags die Wohnung weiter in Anspruch nimmt",
+            "Kosten für Reparatur oder Ersatz von beschädigten, zerstörten oder entwendeten Gegenständen des Versicherungsnehmers oder von Bestandteilen der Wohneinheit bis zum Zeitwert",
+            "Kosten für die Räumung, Grundreinigung und Desinfektion der Wohneinheit",
+            "Kosten für die Einlagerung der Einrichtungsgegenstände des Mieters höchstens für zwei Monate",
+            "Entgangene Mieteinnahmen (ohne monatliche Betriebskosten) für die Renovierungszeit, höchstens für drei Monate",
+            "Vorschusszahlungen bereits vor gerichtlicher Feststellung der Ansprüche"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Das Mietverhältnis muss unbefristet, nicht gekündigt und kein Untermietverhältnis sein",
+            "Die Wohneinheit darf nicht zu gewerblichen Zwecken genutzt werden",
+            "Der Mieter muss in den letzten 12 Monaten vor Antragstellung alle Verpflichtungen aus dem Mietvertrag erfüllt haben",
+            "Keine Zahlungsrückstände oder Stundungen von Mietzins",
+            "Keine Rechtsstreitigkeiten mit dem Mieter",
+            "Keine zerstörten, beschädigten oder entwendeten Sachen, die noch nicht ersetzt wurden",
+            "Die Bonität des Mieters muss ausreichend geprüft sein"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pflegeversicherung_pflege-zusatzversicherung_pflegemonatsgeldversicherung.md": {
+        "Produktname": "Pflegemonatsgeld",
+        "Versicherungsart": "Pflege-Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor hohen finanziellen Belastungen im Pflegefall",
+            "Beratungs- und Vermittlungsleistungen rund um den Pflegefall",
+            "Unterstützung für junge Familien mit Kindern",
+            "Dynamische Erhöhung des Pflegemonatsgelds alle drei Jahre um 10 % bis Alter 70",
+            "Beitragsfreistellung im Pflegefall ab Pflegegrad 4 oder 5",
+            "Beitragspause nach der Geburt eines Kindes",
+            "Soforthilfe bei erstmaliger Pflegebedürftigkeit mit Einmalleistung von 4.000 EUR, 8.000 EUR oder 12.000 EUR",
+            "Keine Kostennachweise erforderlich",
+            "Keine Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegetagegeldversicherung"
+    },
+    "wohngebaeudeversicherung.md": {
+        "Produktname": "R+V-Wohngebäudeversicherung",
+        "Versicherungsart": "Wohngebäudeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Ab 500 EUR Selbstbeteiligung bei Naturgefahren Plus",
+        "Preis": "26,90 EUR pro Monat (Beispiel)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "3 Jahre (Beispiel)",
+        "Weitere Leistungen": [
+            "Ersatz des Neubauwertes bei Totalschaden",
+            "Verzicht auf Leistungskürzung bei grober Fahrlässigkeit",
+            "Reparaturkostenübernahme auch bei Teilschäden",
+            "Ersatz von Begleitkosten, wie z. B. Aufräumungskosten, Bewegungs- und Schutzkosten",
+            "Rohbauversicherung inkl. bei Abschluss einer Wohngebäudeversicherung über drei Jahre",
+            "Mitversicherung von Photovoltaik- und Solarthermieanlagen",
+            "Frost- und Bruchschäden an Wasserzuleitungs- und Heizungsrohren",
+            "Kosten durch Gas- und Wasserverlust bis zu 2.500 EUR",
+            "Reparaturkosten für Gebäudebeschädigungen durch unbefugte Dritte bis zu 2.500 EUR",
+            "Mehrkosten für alters- und behindertengerechten Umbau bis zu 25.000 EUR",
+            "Mehrkosten für umweltfreundliche Baustoffe bis zu 20.000 EUR",
+            "Kosten für Verkehrssicherungsmaßnahmen bis zu 10.000 EUR"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kein Versicherungsschutz für Ertragsausfall und sonstige technische Defekte bei Balkonkraftwerken"
+        ],
+        "category": "Gebäudeversicherung"
+    },
+    "versicherung-fuer-kinder_kinderrundumschutz.md": {
+        "Produktname": "R+V-KinderRundumschutz",
+        "Versicherungsart": "Kombinierte Versicherung (Unfall-, Gesundheits- und Kapitalvorsorge)",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit (für Unfallschutz)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Rundum-Absicherung für Kind, Patenkind oder Enkel",
+            "Finanzielle Vorsorge, Gesundheitsschutz und Unfallschutz in einem",
+            "Flexible Gestaltung der Absicherungsbausteine",
+            "Kapitalbildung mit R+V-KinderVorsorge IndexInvest",
+            "Private Kranken-Zusatzversicherung",
+            "Private Pflegetagegeldversicherung",
+            "Weltweiter Unfallschutz rund um die Uhr",
+            "Lebenslange monatliche Unfall-Rente bei Invalidität ab 50%",
+            "Kapitalleistung schon ab 1% Invalidität"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pflegeversicherung.md": {
+        "Produktname": "Staatlich geförderte Pflegetagegeldversicherung",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor hohen finanziellen Belastungen",
+            "Optimale Versorgung im Pflegefall",
+            "Grundversorgung im Pflegefall",
+            "Staatlicher Zuschuss"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Pflegetagegeldversicherung"
+    },
+    "tierversicherung_hundeversicherung_hunde-op-versicherung.md": {
+        "Produktname": "Hunde-OP-Versicherung",
+        "Versicherungsart": "Tierversicherung",
+        "Deckungssumme": "Unbegrenzt (außer im Basis-Tarif, max. 1.000 EUR je OP)",
+        "Selbstbeteiligung": "Keine im Basis- und Exzellent-Tarif, 10% im Premium-Tarif",
+        "Preis": "Ab 12,33 EUR monatlich",
+        "Gültigkeitsbereich": "Europa (Basis-Tarif), weltweit (Premium und Exzellent)",
+        "Vertragslaufzeit": "1 Jahr, täglich kündbar nach 1 Jahr",
+        "Weitere Leistungen": [
+            "Übernahme der OP-Kosten inkl. Medikamente",
+            "Freie Tierarztwahl",
+            "Direkte Abrechnung mit dem Tierarzt",
+            "Nachsorge inkl. Medikamente bis zu 1 Monat",
+            "Physiotherapie, Homöopathie, Akupunktur, Lasertherapie nach OP",
+            "Keine Jahreshöchstentschädigung (außer im Basis-Tarif)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schönheitsoperationen",
+            "Zahnersatz",
+            "Tiertransport",
+            "Nahrungsergänzungsmittel",
+            "Neuversicherung von Tieren älter als 8 Jahre"
+        ],
+        "category": "Tierversicherung"
+    },
+    "krankenzusatzversicherung_brillenversicherung.md": {
+        "Produktname": "Blick + Check",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Bis zu 400 EUR für Sehhilfen oder Augen-Laser-Operation innerhalb von 2 Kalenderjahren",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bis zu 400 EUR Zuschuss für ambulante Vorsorgeuntersuchungen innerhalb von 2 Kalenderjahren",
+            "Erstattung für Gesundheitsuntersuchungen (z.B. Blutbild, EKG, Lungenfunktionsprüfung)",
+            "Hautkrebs-Screening mit Auflichtmikroskop",
+            "Frühe Krebsvorsorgeuntersuchungen (z.B. Mammographie, PSA-Test)",
+            "Zusätzliche Untersuchungen in der Schwangerschaft (z.B. Fruchtwasseruntersuchung)",
+            "Hirnleistungs-Check zur Früherkennung von Demenz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "haftpflichtversicherung_gewaesserschadenhaftpflicht.md": {
+        "Produktname": "Gewässerschadenhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "15 Mio. EUR (classic), 50 Mio. EUR (comfort)",
+        "Selbstbeteiligung": "250 EUR bei Eigenschäden",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für Personen-, Sach- und Vermögensschäden",
+            "Kostenübernahme für behördlich angeordnete Rettungsmaßnahmen",
+            "Instandsetzungskosten bei Schäden am Haus oder Grundstück",
+            "Abwehr unberechtigter Ansprüche",
+            "Umweltschadensversicherung (3 Mio. EUR classic, 10 Mio. EUR comfort)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "versicherung-fuer-kinder_sparen-fuer-kinder.md": {
+        "Produktname": "KinderVorsorge IndexInvest",
+        "Versicherungsart": "Kapitalversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 25 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Maximale Laufzeit von 27 Jahren",
+        "Weitere Leistungen": [
+            "Aufbau von Kapital für Kinder, Enkel- und Patenkinder",
+            "Jährliche Wahl zwischen Indexpartizipation am SOMAS-Index und sicherer Verzinsung",
+            "Mindestens 90 % Beitragsgarantie",
+            "Möglichkeit zur Erhöhung oder Reduzierung der Sparrate auf Anfrage",
+            "Einmalige Kapitalauszahlung zum Laufzeitende",
+            "Berufsunfähigkeits-Zusatzversicherung (BUZ Beitragsbefreiung) als möglicher Zusatzbaustein",
+            "Todesfallleistung mit vereinfachter Gesundheitsprüfung",
+            "Steuerfreie Erträge während der Laufzeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gemischte Lebensversicherung"
+    },
+    "rechtsschutzversicherung.md": {
+        "Produktname": "R+V-Rechtsschutzversicherung",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Bis zu 4 Mio. EUR (comfort), bis zu 1 Mio. EUR (classic)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individuell anpassbar",
+            "Übernahme der Anwalts-, Gerichts-, Zeugen- und Gutachterkosten",
+            "Schaden-Hotline rund um die Uhr",
+            "Telefonische Rechtsberatung durch das Anwaltstelefon",
+            "Mediation beitragsfrei mitversichert",
+            "Digitale Rechtsschutz-Versichertenkarte",
+            "Erweiterung durch optionale Bausteine"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "pflegeversicherung_pflege-pflichtversicherung.md": {
+        "Produktname": "Private Pflegepflichtversicherung",
+        "Versicherungsart": "Pflegepflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Häusliche Pflege in Form von Geld und Sachleistungen",
+            "Leistungen für Familienangehörige",
+            "Erstattung von Pflegehilfsmitteln und technischen Hilfen",
+            "Übernahme von Kosten für Krankheits-/Urlaubsvertretung der Pflegeperson",
+            "Versicherungsschutz für teilstationäre Pflege, Kurzzeitpflege (stationär) und vollstationäre Pflege"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "krankenzusatzversicherung_zahnzusatzversicherung.md": {
+        "Produktname": "Zahnzusatzversicherung Zahn premium",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "10 % der erstattungsfähigen Kosten",
+        "Preis": "Ab 36,05 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "90 % Erstattung für hochwertigen Zahnersatz, wie Implantate",
+            "Mindestens Verdopplung des Festzuschusses der GKV",
+            "Kieferorthopädische Leistungen: 90 % Erstattung bis zu 2.000 EUR (KIG 1-2) oder 1.000 EUR (KIG 3-5)",
+            "Zahnstaffel: Bis zu 10.000 EUR in den ersten 4 Jahren",
+            "Keine Wartezeit, sofortiger Versicherungsschutz",
+            "Keine Gesundheitsfragen bei Antragstellung",
+            "Inklusive Alterungsrückstellungen",
+            "App R+V Gesundheit zur Einreichung von Kostenbelegen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Zähne, die vor Vertragsabschluss bereits fehlten oder nicht angelegt sind",
+            "Zahnersatzmaßnahmen, die vor Vertragsabschluss angeraten, geplant oder begonnen wurden",
+            "Zahnersatz, der notwendig wird, wenn die Behandlung der ursächlichen Erkrankung vor Vertragsabschluss begonnen wurde"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit_professionelle-zahnreinigung-pzr.md": {
+        "Produktname": "ZahnVorsorge",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Jährliche professionelle Zahnreinigung inkl. Politur und Fluoridierung zur Zahnschmelzhärtung",
+            "Reduzierung des Eigenanteils bei Zahnbehandlungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "tierversicherung_hundeversicherung_hundeversicherung-abschliessen_tarifierung_hundehaftpflicht.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [],
+        "Ausnahmen oder Ausschlüsse": [],
+        "category": "Keine Übereinstimmung"
+    },
+    "service_evb.md": {
+        "Produktname": "Autoversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Elektronische Versicherungsbestätigung (eVB)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "firmenkunden_cyber-versicherung.md": {
+        "Produktname": "Cyber-Versicherung",
+        "Versicherungsart": "IT-Sicherheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schnelle und unkomplizierte Kostenübernahme",
+            "Telefonischer Notdienst",
+            "Anwaltshotline für professionelle Erstberatung",
+            "Vermittlung von Netzwerkpartnern im Schadenfall",
+            "Verlässlicher Haftungsschutz für Unternehmens- und Privatvermögen",
+            "Passgenauer Rechtsschutz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "reiseversicherung_reisekrankenversicherung.md": {
+        "Produktname": "Auslandsreise-Krankenversicherung FernWeh",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Automatische Verlängerung von Jahr zu Jahr, kündbar mit einer Frist von drei Monaten zum Ende des Kalenderjahres",
+        "Weitere Leistungen": [
+            "Versicherungsschutz für 45 Tage pro Reise, Verlängerung auf bis zu 730 Tage möglich",
+            "Ambulante und stationäre Behandlungen",
+            "Zahnärztliche Leistungen",
+            "Transportkosten",
+            "Bestattungskosten im Ausland",
+            "24/7-Info- und Notruf-Hotline"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Behandlungen im Ausland, die ein Grund für die Reise waren",
+            "Behandlungen, die bei Reiseantritt feststanden",
+            "Honorare für Behandlungen durch nahe Angehörige",
+            "Erkrankungen oder Beschwerden, die vor Reisebeginn behandelt wurden",
+            "Sehhilfen, Hörgeräte, Endversorgung mit Zahnersatz, Kieferorthopädie, nicht ärztlich verordnete Arznei-, Heil- und Hilfsmittel"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "altersvorsorge_private-rentenversicherung_rv-vorsorge-konzept.md": {
+        "Produktname": "Fondsgebundene Rentenversicherung",
+        "Versicherungsart": "Private Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 25 EUR im Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gestaltungsfreiheit in der Anlage",
+            "Flexibilität von Anfang an",
+            "Steuerfreie Ansparphase",
+            "Steuervorteile bei Auszahlung",
+            "Lebenslange, garantierte Rente",
+            "Professionelles Anlagemanagement",
+            "Absicherung der Angehörigen bei Tod vor und nach Rentenbeginn"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "firmenkunden_gesellschafter-geschaeftsfuehrer-versorgung.md": {
+        "Produktname": "GGF Versorgung",
+        "Versicherungsart": "Alters-, Berufsunfähigkeits- und Hinterbliebenenvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Insolvenzgeschützte Vorsorge",
+            "Steuerliche Vorteile für Unternehmen",
+            "Individuelle Versorgungslücke schließen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "kfz-versicherung_online-kfz-zulassung.md": {
+        "Produktname": "Online Kfz-Zulassung",
+        "Versicherungsart": "Kfz-Zulassungsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 129 EUR",
+        "Gültigkeitsbereich": "Deutschland",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Online-Anmeldung und Ummeldung von Fahrzeugen",
+            "Halterwechsel",
+            "Wunschkennzeichen reservieren",
+            "Feinstaubplakette bestellen",
+            "Direkte Zustellung der Unterlagen und Kennzeichen",
+            "Rund um die Uhr verfügbar",
+            "Professionelle Überprüfung der Unterlagen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Abmeldung von Fahrzeugen möglich",
+            "Umlaute und bestimmte Kombinationen bei Wunschkennzeichen ausgeschlossen"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "private-krankenversicherung.md": {
+        "Produktname": "R+V-GesundheitsKonzept AGIL",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "0 EUR, 480 EUR, 960 EUR, 1.920 EUR (je nach Tarif)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit (AGIL premium)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Behandlung als Privatpatient",
+            "Zugang zur Telemedizin",
+            "Wahlleistungen im Krankenhaus (Ein- oder Zweibettzimmer, privatärztliche Behandlung)",
+            "Hohe Leistungen für Zahnersatz, Heilpraktikerbehandlung, Sehhilfen",
+            "Freie Arztwahl",
+            "Erstattung von Arzthonoraren über die Höchstsätze der Gebührenordnung für Ärzte/Zahnärzte (GOÄ/GOZ) hinaus",
+            "Vorsorgeuntersuchungen und Impfungen",
+            "Beitragsrückerstattung bei Nichtinanspruchnahme von Leistungen",
+            "Beitragsentlastung im Alter"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "altersvorsorge_private-rentenversicherung_duoinvest.md": {
+        "Produktname": "R+V-InvestmentKonzept Duo Invest",
+        "Versicherungsart": "Private Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Entscheidung zur Laufzeit erforderlich",
+        "Weitere Leistungen": [
+            "Flexible Sparrate durch Monats- und/oder Einmalzahlung",
+            "Steuervorteile in der Anspar- und der Auszahlungsphase",
+            "Absicherung im Todesfall durch Beitragsrückgewähr",
+            "Wahl zwischen einer lebenslang garantierten Rente, Kapitalauszahlung oder einer Kombination aus beiden",
+            "Nachhaltige Anlagestrategien",
+            "Keine Kapitalertragsteuer während der Vertragslaufzeit",
+            "Keine Steuerpflicht bei Wechsel der Anlagestrategie",
+            "Keine Einkommensteuer bei Todesfallleistung",
+            "Regelmäßige Rentenzahlungen werden mit dem niedrigen, gleichbleibenden Ertragsanteil besteuert"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "krankenzusatzversicherung_krankenhaustagegeld.md": {
+        "Produktname": "Krankenhaustagegeldversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Fest vereinbarter Betrag für jeden Tag im Krankenhaus zur freien Verfügung",
+            "Höhe des Tagegeldes individuell wählbar",
+            "Schutz auch bei Klinikaufenthalten im Ausland",
+            "Absicherung von zusätzlichen Kosten wie gesetzliche Eigenbeteiligung, Telefon-, Fernseh- oder Internetkosten, Fahrtkosten und Parkgebühren, Bücher und Zeitschriften, Mitfinanzierung einer Haushaltshilfe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "mietkaution_tarifrechner.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "tierversicherung.md": {
+        "Produktname": "Tierlebenversicherung für Pferde",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Beiträge ab 1,7 % der Versicherungssumme",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Deckung von Personen-, Sach- und Vermögensschäden",
+            "Mitversicherung von Hundewelpen bis zum Ende des ersten Lebensjahres",
+            "Mitversicherte Aktivitäten wie Hundeschule, Wettbewerbe, therapeutische Nutzung",
+            "Versicherungsschutz für Mithalter und nicht gewerbliche Tierhüter",
+            "Übernahme von OP-Kosten und Nachsorge",
+            "Freie Tierarzt- und Klinikwahl",
+            "Keine Wartezeit im Tarif \"Exzellent\"",
+            "Entschädigung in voller Höhe",
+            "Deckung von Personen-, Sach- und Vermögensschäden",
+            "Mitversicherung von Fohlen bis zum Ende des ersten Lebensjahres",
+            "Mitversicherung von Reitbeteiligung",
+            "Breiter Leistungsumfang inkl. Mietsachschäden, Flurschäden, Weiderisiko",
+            "Volle Übernahme der Behandlungskosten",
+            "Freie Tierarzt- und Klinikwahl",
+            "Versicherung auch für ältere Pferde bis 15 Jahre ohne Selbstbeteiligung",
+            "Keine Jahreshöchstentschädigung",
+            "Absicherung bei Tod oder Nottötung",
+            "Versicherung ab dem siebten Lebenstag",
+            "Individuelle Zusatzbausteine",
+            "Attraktives Preis-Leistungs-Verhältnis"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "finanzplan.md": {
+        "Produktname": "R+V-GenerationenKonzept-Plus",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sicherheitsorientierte Anlage",
+            "Wahl zwischen sicherer Verzinsung und Indexpartizipation am SOMAS Index",
+            "Sicherheitsorientiert bis flexibel",
+            "Individuelle Festlegung der Aufteilung zwischen sicherem Kapital und Chancen-Kapital",
+            "Chancenorientierte Anlage",
+            "Auswahl einer der vier aktiv gemanagten nachhaltigen Anlagestrategien von Union Investment",
+            "Absicherung bei Pflegebedürftigkeit",
+            "Pflegemonatsgeld",
+            "Absicherung bei Unfällen",
+            "Absicherung bei Unfällen",
+            "Kapital sicher verzinst aufbauen",
+            "Flexibel bis chancenorientiert",
+            "Lebenslange fondsgebundene Risikoversicherung mit individueller Fondsauswahl",
+            "Einfache Vermögensübertragung",
+            "Vermögensauszahlung im Erbfall",
+            "Kapitalversicherung mit festem Auszahlungstermin und individueller Fondsauswahl",
+            "Einfache Vermögensübertragung",
+            "Vermögensauszahlung zu individuell wählbarem Termin"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Gemischte Lebensversicherung"
+    },
+    "bauversicherung_bauhelferunfallversicherung.md": {
+        "Produktname": "Risiko-Unfallversicherung für Bauherren und Bauhelfer",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Einmalige Kapitalleistung ab 1 % Invalidität",
+            "Krankenhaustagegeld",
+            "Leistung bei Unfalltod",
+            "Unfall-Serviceleistungen bis zu 10.000 EUR"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "service_schadenservice.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "altersvorsorge_betriebliche-altersvorsorge_direktversicherung-durch-entgeltumwandlung.md": {
+        "Produktname": "Direktversicherung durch Entgeltumwandlung",
+        "Versicherungsart": "Betriebliche Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Lebenslange garantierte Rentenzahlungen ab Rentenbeginn",
+            "Steuer- und Sozialabgabenfreiheit in der Ansparphase",
+            "Arbeitgeberzuschuss von 15% bei Entgeltumwandlung",
+            "Möglichkeit der privaten Weiterführung bei Arbeitgeberwechsel",
+            "Berufsunfähigkeits- und Hinterbliebenenabsicherung zusätzlich mitversicherbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "meineruv_portal_schaden-leistung.md": {
+        "Produktname": "ReiseSchutz Plus",
+        "Versicherungsart": "Reiseversicherung",
+        "Deckungssumme": "Bis zu 10.000 Euro",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 29,99 Euro pro Jahr",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "24/7 Notfall-Hotline",
+            "Medizinische Rückführung",
+            "Reiseabbruchversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Deckung bei Extremsportarten",
+            "Keine Erstattung bei Vorerkrankungen"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "kfz-versicherung_moped-versicherung.md": {
+        "Produktname": "Moped- und Roller-Versicherung",
+        "Versicherungsart": "Haftpflicht- und Teilkaskoversicherung",
+        "Deckungssumme": "100 Mio. EUR",
+        "Selbstbeteiligung": "Mit oder ohne Selbstbeteiligung (150 EUR)",
+        "Preis": "Ab 62,90 EUR im Jahr",
+        "Gültigkeitsbereich": "National (Deutschland)",
+        "Vertragslaufzeit": "1 Jahr (1. März bis letzter Tag im Februar des Folgejahres)",
+        "Weitere Leistungen": [
+            "Schutz für alle berechtigten Fahrende",
+            "Schnelle Schadenregulierung",
+            "Sonderleistungen für Elektrofahrzeuge",
+            "Versicherungsschutz erweiterbar um Teilkasko"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schaden am eigenen Fahrzeug (mit Teilkasko versicherbar)",
+            "Schaden durch Alkohol- oder Drogeneinfluss",
+            "Bei Fahrerflucht",
+            "Vorsätzlich verursachte Schäden"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "erneuerbare-energien_photovoltaikversicherung.md": {
+        "Produktname": "R+V-EnergiePolice",
+        "Versicherungsart": "Photovoltaikversicherung",
+        "Deckungssumme": "Personen-/Sachschäden bis 10 Mio. EUR (begrenzt auf 5 Mio. EUR für die einzelne Person), Vermögensschäden bis 100.000 EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Haftpflichtversicherung für Betreiber von Photovoltaikanlagen",
+            "Elektronikversicherung für technische Schäden",
+            "D&O-Versicherung für Unternehmensleiter",
+            "Schutz gegen Internet- und Wirtschaftskriminalität",
+            "Nutzungsausfall der Anlage bis zu 360 Tage mitversichert"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "elektronikversicherung_laptop-versicherung.md": {
+        "Produktname": "Laptop-Versicherung und Notebook-Versicherung",
+        "Versicherungsart": "Elektronikversicherung",
+        "Deckungssumme": "Bis zu 15.000 EUR (je nach Tarif)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 7,99 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz bei Sturz und Bruch",
+            "Schutz bei Brand, Blitzschlag, Explosion, Implosion, Überspannung, Induktion, Kurzschluss",
+            "Schutz bei Sabotage und Vandalismus",
+            "Schutz bei Flüssigkeitsschäden",
+            "Diebstahlschutz (Diebstahl, Einbruchdiebstahl, Raub)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Gerät darf bei Abschluss maximal 36 Monate ab Neukaufdatum alt sein",
+            "Gerät darf im Schadenfall nicht älter als 60 Monate ab Neukaufdatum sein"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "altersvorsorge_vorsorgeloesungen.md": {
+        "Produktname": "Autoversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "elektronikversicherung_hardwareversicherung.md": {
+        "Produktname": "Hardware-Versicherung",
+        "Versicherungsart": "Elektronikversicherung",
+        "Deckungssumme": "Bis 15.000 EUR (je nach Tarif)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 7,99 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Mindestvertragslaufzeit 1 Jahr, danach monatlich kündbar",
+        "Weitere Leistungen": [
+            "Schutz für PCs, Laptops, Spielekonsolen und Zubehör",
+            "Versicherung gegen Schäden nach Ablauf der Herstellergarantie",
+            "Schutz gegen Flüssigkeiten, Feuchtigkeit, Fall- und Sturzschäden",
+            "Versicherung gegen technische Schäden und grobe Fahrlässigkeit",
+            "Schutz gegen Brand, Explosion, Überspannung, Kurzschluss",
+            "Versicherung gegen Diebstahl und Einbruchdiebstahl",
+            "Optionale Zusatzbausteine: Upgrade Technology, Upgrade Verschleiß, Upgrade Transport, Upgrade unsachgemäße Handhabung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Geräte älter als 36 Monate bei Abschluss",
+            "Geräte älter als 60 Monate im Schadenfall",
+            "Handys, Smartphones, Tablets, Smartwatches",
+            "Ausstellungsgeräte",
+            "Reimportierte Geräte"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "hausratversicherung_naturgefahren.md": {
+        "Produktname": "R+V-Hausratversicherung",
+        "Versicherungsart": "Hausratversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor Schäden durch Sturm und Hagel",
+            "Erweiterbar mit Zusatzbaustein „Naturgefahren Plus“ für Schutz gegen Überschwemmung, Erdbeben, Erdrutsch, Erdsenkung, Schneedruck, Lawinen, Vulkanausbruch",
+            "Schutz vor Schäden am Hausrat",
+            "Erweiterbar mit Zusatzbaustein „Naturgefahren Plus“ für Schutz gegen Überschwemmung, Erdbeben, Erdrutsch, Erdsenkung, Schneedruck, Lawinen, Vulkanausbruch"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden durch menschlichen Einfluss sind nicht versichert",
+            "Schäden durch menschlichen Einfluss sind nicht versichert"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "auslandsreisekrankenversicherung_reisekrankenversicherung-abschliessen_versicherte-person.md": {
+        "Produktname": "ReiseSchutz Plus",
+        "Versicherungsart": "Reiseversicherung",
+        "Deckungssumme": "Bis zu 10.000 Euro",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 29,99 Euro pro Jahr",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "24/7 Notfall-Hotline",
+            "Kostenübernahme bei Reiseabbruch",
+            "Ersatz bei Gepäckverlust"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Deckung bei extremer Sportausübung",
+            "Keine Erstattung bei Vorerkrankungen"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "geldanlage_anlagekombi.md": {
+        "Produktname": "R+V-AnlageKombi Safe+Smart",
+        "Versicherungsart": "Private Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine feste Laufzeit",
+        "Weitere Leistungen": [
+            "Keine feste Laufzeit",
+            "Kostenfreie Teilauszahlung",
+            "Mit aktuell 3 % Zinsen",
+            "Individuelle Festlegung der Aufteilung zwischen sicherem Kapital und Chancen-Kapital",
+            "Mindestens die Hälfte der Einzahlung fließt in das sichere Kapital",
+            "Zuzahlungen ab 500 EUR bis maximal 20.000 EUR pro Jahr möglich",
+            "Steuerliche Vorteile in der Anspar- und Auszahlungsphase",
+            "Kontrolle über das VR-Online-Banking oder „Meine R+V\""
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "vermoegensuebertragung_immobilien-vererben.md": {
+        "Produktname": "Risikolebensversicherung",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung der Familie bei Todesfall",
+            "Deckung von laufenden Kosten und Hauskrediten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Risikolebensversicherung"
+    },
+    "altersvorsorge_private-rentenversicherung_privat-rente-indexinvest.md": {
+        "Produktname": "PrivatRente IndexInvest",
+        "Versicherungsart": "Aufgeschobene Rentenversicherung mit Indexpartizipation",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Mögliche monatliche Sparrate ab 25 EUR, Zuzahlungen pro Jahr 500 EUR bis 20.000 EUR",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hohe Beitragsgarantie, optimal für sicherheitsorientierte Anleger",
+            "Jährliche Wahl zwischen sicherer Verzinsung und zwei Varianten der Indexpartizipation am SOMAS Index (mit oder ohne Turbo)",
+            "Exklusiver SOMAS Index mit geringer Volatilität",
+            "Geldentnahmen vor Rentenbeginn kostenfrei möglich",
+            "Wahl zwischen lebenslanger Rente oder einmaliger Kapitalauszahlung",
+            "Steuervorteile in der Sparphase und bei der Auszahlung",
+            "Hinterbliebenenschutz bei Tod vor und nach Rentenbeginn"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "geldanlage_ansparkombi.md": {
+        "Produktname": "AnsparKombi Safe+Smart",
+        "Versicherungsart": "Private Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 25 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sicherheit und Renditechancen",
+            "Möglichkeit der Teilauszahlung mit einer Frist von einem Monat",
+            "Flexibilität bei der Aufteilung zwischen sicherem Kapital und Chancen-Kapital",
+            "Steuerliche Vorteile in der Anspar- und Auszahlungsphase",
+            "Möglichkeit der Zuzahlungen bis zu 20.000 EUR jährlich",
+            "Wahl zwischen lebenslanger Rente oder einmaliger Kapitalauszahlung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Mindestauszahlungsbetrag von 1.000 EUR, mindestens 2.500 EUR Gesamtkapital müssen verbleiben"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "geldanlage_vorsorgesparen.md": {
+        "Produktname": "Fondsgebundene Rentenversicherung",
+        "Versicherungsart": "Rentenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 25 EUR monatlich oder einmalig 2.500 EUR",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Aufgeschobene fondsgebundene Rentenversicherung",
+        "Weitere Leistungen": [
+            "Jährliche Wahl zwischen sicherer Verzinsung und zwei Varianten der Indexpartizipation am SOMAS Index",
+            "Mindestens 90 % der eingezahlten Beiträge garantiert",
+            "Individuelle Festlegung der Aufteilung zwischen sicherem Kapital und Chancen-Kapital",
+            "Mindestens 50 % der eingezahlten Beiträge in das sichere Kapital",
+            "Auswahl einer der vier aktiv gemanagten nachhaltigen Anlagestrategien von Union Investment",
+            "Freie Auswahl von Fonds aus einer breiten Fondspalette"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "service.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "beratung_clever-vorsorgen.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "kfz-versicherung_autoversicherung.md": {
+        "Produktname": "R+V-Autoversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "100 Mio. EUR (Pauschaldeckung)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 39 EUR pro Jahr",
+        "Gültigkeitsbereich": "Europaweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individuell anpassbarer Versicherungsschutz",
+            "Digitalbonus: 3 % Nachlass bei digitaler Korrespondenz",
+            "Neupreisentschädigung bis 30 Monate",
+            "Zusatzbausteine wie Fahrerschutz-Versicherung, Schutzbrief",
+            "Umweltbonus bis zu 10 % für Elektro- und Hybridfahrzeuge"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden, die die Deckungssumme übersteigen",
+            "Vorsätzlich herbeigeführte Schäden",
+            "Schäden bei Teilnahme an genehmigten Rennen",
+            "Schäden an der Ladung"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "altersvorsorge.md": {
+        "Produktname": "Direktversicherung durch Entgeltumwandlung",
+        "Versicherungsart": "Betriebliche Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Flexibles und sicheres Anlegen",
+            "Überblick über das Vermögen behalten",
+            "Sicherheit und attraktive Renditechancen",
+            "Aktiv gemanagte, nachhaltige Anlagestrategien",
+            "Hohe Sicherheit bei Nutzung der Kapitalmarktschancen",
+            "Wachstum und Nachhaltigkeit",
+            "Einmaliger Betrag oder ab 25 EUR monatlich",
+            "Lebenslange garantierte Rentenzahlungen",
+            "Unterstützung bei persönlichen Zukunftsplänen",
+            "Steuerliche Vorteile",
+            "Staatlich gefördert",
+            "Renditechancen",
+            "Vorsorge ab 25 EUR monatlich",
+            "Sichere und steuerlich attraktive betriebliche Zusatzrente"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "haftpflichtversicherung_reitlehrerhaftpflichtversicherung.md": {
+        "Produktname": "Reitlehrerhaftpflicht-Versicherung",
+        "Versicherungsart": "Berufshaftpflichtversicherung",
+        "Deckungssumme": "3.000.000 EUR oder 5.000.000 EUR für Personen- und Sachschäden; 100.000 EUR für Vermögensschäden",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 150 EUR jährlich (nebenberuflich), ab 290 EUR jährlich (hauptberuflich)",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung bei Personen-, Sach- und Vermögensschäden",
+            "Prüfung und Erstattung berechtigter Schadensersatzansprüche",
+            "Abwehr unberechtigter Ansprüche",
+            "Optionaler Schutz für Mitarbeitende und Hilfspersonen",
+            "Absicherung von Schäden an fremden Beritt- und Ausbildungspferden",
+            "Absicherung des eigenen Hilfspersonals",
+            "Schutz privater Pferde",
+            "Privathaftpflicht-Versicherung als Ergänzung",
+            "Schutz vor Schlüsselverlust-Schäden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorsätzliche Schäden",
+            "Aktivitäten außerhalb des versicherten Bereichs",
+            "Grobe Fahrlässigkeit"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "restschuldversicherung.md": {
+        "Produktname": "RatenschutzPolice",
+        "Versicherungsart": "Restschuldversicherung",
+        "Deckungssumme": "Bis zu 100.000 EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Beitrag wird entweder über den Kredit mitfinanziert (einmalig) oder in Raten über die Vertragslaufzeit bezahlt",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Entspricht der Laufzeit des Kredites, maximal zehn Jahre",
+        "Weitere Leistungen": [
+            "Kreditabsicherung bei Arbeitslosigkeit, Kurzarbeit, Scheidung, Arbeitsunfähigkeit oder Tod",
+            "Monatliche Leistungen bei Arbeitslosigkeit oder Kurzarbeit bis zu 2.500 EUR für bis zu 24 Monate",
+            "Einmalbetrag bei Scheidung bis zu 15.000 EUR",
+            "Monatliche Leistungen bei Arbeitsunfähigkeit bis zu 2.500 EUR für bis zu 50 Monate",
+            "Einmalbetrag bei Todesfall: 110 % der aktuellen Versicherungssumme"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von 3 Monaten bei Arbeitslosigkeit, Kurzarbeit und Scheidung",
+            "Keine Gesundheitsprüfung erforderlich, stattdessen Ausschlussklausel"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "firmenkunden_fuer-ihre-mitarbeiter.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "risikolebensversicherung.md": {
+        "Produktname": "Risikolebensversicherung",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "60.000 Euro (Beispiel)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 2,51 EUR monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "10 Jahre (Beispiel)",
+        "Weitere Leistungen": [
+            "Günstige Beiträge bei gleichzeitig hoher Versicherungssumme",
+            "Schnelle Auszahlung im Todesfall",
+            "Auswahl aus drei Produktvarianten (classic, comfort, premium)",
+            "Anschlussgarantie für verbundene Leben",
+            "Verlängerungsoption",
+            "Bau-Bonus",
+            "Kinder-Bonus",
+            "Nachversicherungsgarantie",
+            "Pflege-Bonus"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Risikolebensversicherung"
+    },
+    "kfz-versicherung_zweitwagenversicherung.md": {
+        "Produktname": "Zweitwagenversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 153 EUR pro Jahr",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sondereinstufungen in Schadenfreiheitsklassen möglich",
+            "Günstige Tarife durch Zweitwagenregelung",
+            "Bis zu zwei 15 EUR Gutscheine bei Abschluss",
+            "Sparen durch Werkstattservice"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Sondereinstufung wie beim Erstwagen möglich",
+            "Hohe Kosten bei Fahranfängern aufgrund des Schadensrisikos"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "kfz-versicherung.md": {
+        "Produktname": "Quad-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Marderschäden",
+            "Umweltschäden",
+            "Autodiebstahl",
+            "Schutz für Akku und Zusatzteile",
+            "Neupreisentschädigung",
+            "10 % Beitragsnachlass",
+            "Zusatzbausteine verfügbar",
+            "Schutz für traditionelle und Hybrid-/Elektroroller",
+            "Mallorca-Police",
+            "Kfz-Umweltschadenversicherung",
+            "Sondereinstufungen möglich",
+            "Schutz für Einachs-, Tandemanhänger und Wohnwagen",
+            "Ergänzung zum Versicherungsschutz des Auto-Abos",
+            "Schutz bei grob fahrlässigem Unfall",
+            "Schutz für E-Bikes und S-Pedelecs",
+            "Schutz für Quad, LoF & ATV"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "tierversicherung_pferdeversicherung_lebensversicherung-pferd.md": {
+        "Produktname": "Tierlebenversicherung für Pferde",
+        "Versicherungsart": "Tierversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "0 % bis 40 % je nach Tarif",
+        "Preis": "Ab 1,7 % der Versicherungssumme",
+        "Gültigkeitsbereich": "Westeuropa",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung bei Tod, Nottötung und dauernder Unbrauchbarkeit",
+            "Versicherung ab dem siebten Lebenstag",
+            "Operationskostenversicherung als Zusatzbaustein wählbar",
+            "Drei Tarifoptionen: Basis, Premium, Exzellent",
+            "Dauernde Unbrauchbarkeit zum Reiten/Fahren infolge von Unfall oder Krankheit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "tierversicherung_pferdeversicherung_pferde-op-versicherung.md": {
+        "Produktname": "Pferde-OP-Versicherung",
+        "Versicherungsart": "Operationskostenversicherung für Pferde",
+        "Deckungssumme": "Keine Jahreshöchstentschädigung im Tarif Exzellent, bis zu 4.000 EUR je OP im Tarif Premium, bis zu 1.500 EUR je OP im Tarif Basis",
+        "Selbstbeteiligung": "Keine Selbstbeteiligung",
+        "Preis": "Ab 21,71 EUR monatlich im Basis-Tarif",
+        "Gültigkeitsbereich": "Europa im Basis- und Premium-Tarif, weltweit im Exzellent-Tarif",
+        "Vertragslaufzeit": "Mindestlaufzeit 1 Jahr, täglich kündbar nach einem Jahr",
+        "Weitere Leistungen": [
+            "Kostenübernahme unabhängig der GOT",
+            "Freie Tierarzt-/Klinikwahl",
+            "Direkte Abrechnung mit dem Tierarzt/Klinik möglich",
+            "Nachsorge inkl. Medikamente bis zu 15 Tage",
+            "Stabiler Beitrag im Pferdealter",
+            "Keine Wartezeit für unfallbedingte Operationen im Exzellent-Tarif"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Kostenübernahme für Schönheitsoperationen, Kastrationen, Sterilisation, Zahnersatz, Hufbeschlag, Eingriffe am Kehlkopf oder Operationen zur Korrektur von Fehlstellungen"
+        ],
+        "category": "Tierversicherung"
+    },
+    "beratung_direktberatung.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Einkommensvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "kfz-versicherung_anhaenger-versicherung.md": {
+        "Produktname": "Anhänger-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "100 Mio. EUR (maximal 12 Mio. EUR je geschädigte Person)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Mallorca-Police auch in Deutschland gültig",
+            "Kfz-Umweltschadensversicherung integriert",
+            "Teilkaskoversicherung: Brand, Explosion, Kurzschlussschaden, Diebstahl, Sturm, Hagel, Blitzschlag, Überschwemmung, Muren und Erdbeben, Zusammenstoß mit Tieren aller Art, Glasbruch, Schaden durch Tierbisse (außer durch Haus- und Nutztiere), Erstattung von Kosten für den Austausch von Schlössern und Schlüsseln nach einem Diebstahl",
+            "Vollkaskoversicherung: Versicherungsschutz auch bei selbstverursachten Unfallschäden und Vandalismus, Haftung auch bei grober Fahrlässigkeit, Schutz bei Fahrüberfahrten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "service_apps.md": {
+        "Produktname": "Autoversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "krankenzusatzversicherung_ambulante-zusatzversicherung.md": {
+        "Produktname": "Kostenerstattung ambulant (Tarif AGU)",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zuschüsse für ambulante Behandlungen durch Ärzte bis zum Höchstsatz der Gebührenordnung",
+            "Zuschüsse für ambulante Behandlungen durch Zahnärzte (ausgenommen Zahnersatz und Kieferorthopädie) bis zum Höchstsatz der Gebührenordnung",
+            "Zuschüsse für ambulante Vorsorgeuntersuchungen unabhängig von den gesetzlichen Altersbeschränkungen und Intervallen",
+            "Zuschüsse für ärztlich und zahnärztlich verordnete Arzneimittel, auch nicht verschreibungspflichtige",
+            "Zuschüsse für ärztlich und zahnärztlich verordnete Heilmittel (z.B. Krankengymnastik, Massagen)",
+            "80% Erstattung der erstattungsfähigen Restkosten nach Vorleistung der GKV",
+            "100% Erstattung der erstattungsfähigen Restkosten, die innerhalb eines Kalenderjahrs 1.000 EUR übersteigen",
+            "40% Erstattung der erstattungsfähigen Kosten ohne Vorleistung der GKV",
+            "Erstattung von gesetzlich festgelegten Zuzahlungen und Abschlägen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Heilbehandlung durch andere Leistungserbringer, wie z.B. Heilpraktiker",
+            "Aufwendungen für Zahnersatz, Inlays und Kieferorthopädie"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "kfz-versicherung_fahrzeugbewertung.md": {
+        "Produktname": "Autoversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "private-krankenversicherung_private-krankenversicherung-beamte.md": {
+        "Produktname": "Private Krankenversicherung für Beamte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hochwertiger Krankenversicherungsschutz als Ergänzung zur Beihilfe",
+            "Behandlung als Privatpatient mit ambulanten, stationären und zahnärztlichen Leistungen",
+            "Auswahl zwischen classic-, comfort- oder premium-Variante",
+            "Krankenhaustagegeld einschließbar",
+            "Vorsorgeuntersuchungen und Impfungen ohne Auswirkungen auf die Beitragsrückerstattung",
+            "Anspruch auf Beitragsrückerstattung bei Leistungsfreiheit innerhalb eines Kalenderjahres",
+            "Online-Arztbesuch mit TeleClinic",
+            "Heilpraktikerleistungen bis zu den Höchstsätzen des Gebührenverzeichnisses für Heilpraktiker",
+            "Hohe Leistungen für Zahnbehandlung, Zahnersatz und Kieferorthopädie",
+            "Exklusive Krankenhausleistungen mit Erstattung von Arzthonoraren und Unterkunft im Einbettzimmer",
+            "Offener Hilfsmittelkatalog"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "kfz-versicherung_rollerversicherung.md": {
+        "Produktname": "Rollerversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Individuell festlegbar",
+        "Preis": "Ab 36 EUR pro Jahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Haftpflichtversicherung für Motorrad/Roller",
+            "Teilkaskoversicherung (Brand, Explosion, Sturm, Hagel, Blitz, Flut, Zusammenstoß mit Tieren, Glasbruch, Diebstahl)",
+            "Vollkaskoversicherung (Unfallschäden, mut- oder böswillige Handlungen, alle Teilkasko-Leistungen)",
+            "Versicherung von Hybrid- und Elektrorollern ab 11 KW"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "kfz-versicherung_elektromobilitaet_thg-quote-verkaufen.md": {
+        "Produktname": "E-Auto-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "10 % Beitragsnachlass",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Neupreisentschädigung",
+            "Schutz für Akku und Zusatzteile"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "kfz-versicherung_moped-versicherung_quad.md": {
+        "Produktname": "R+V-Quad-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Bis zu 100 Mio. EUR",
+        "Selbstbeteiligung": "Mit oder ohne 150 EUR Selbstbeteiligung",
+        "Preis": "Ab 199,00 EUR im Jahr",
+        "Gültigkeitsbereich": "National (mit Einschränkungen im Ausland)",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Haftpflichtversicherung für Quads",
+            "Teilkaskoversicherung für Schäden durch Brand, Unwetter oder Diebstahl",
+            "Sonderleistungen für Elektrofahrzeuge",
+            "Neuwertentschädigung für Akkus bis 24 Monate",
+            "Versicherungskennzeichen per Post"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Beschädigungen am eigenen Fahrzeug",
+            "Schäden durch Alkohol- oder Drogeneinfluss",
+            "Schäden mit Fahrerflucht nach einem selbst verursachten Unfall"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "cashprotect.md": {
+        "Produktname": "R+V-CashProtect",
+        "Versicherungsart": "Liquiditätsschutzversicherung",
+        "Deckungssumme": "Bis zu 100.000 EUR (für Baustein Leben)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Monatlich kündbar",
+        "Weitere Leistungen": [
+            "Flexibel anpassbare Produktbausteine (Gesundheit, Einkommen, Leben)",
+            "Keine Gesundheitsprüfung",
+            "Wahlbare Absicherungshöhe bis max. 1.000 EUR/mtl. für Gesundheit und Einkommen",
+            "Leistungsdauer wahlweise 6, 12 oder 24 Monate",
+            "Einmalzahlung der Versicherungssumme im Todesfall"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Ernstliche Erkrankungen oder Unfallfolgen, die in den letzten 12 Monaten vor Versicherungsbeginn ärztlich behandelt wurden, sind ausgeschlossen",
+            "Einschränkung gilt, wenn der Versicherungsfall innerhalb von 24 Monaten nach Versicherungsbeginn eintritt und mit der Erkrankung oder Unfallfolge in Zusammenhang steht"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "altersvorsorge_rentenlueckenrechner.md": {
+        "Produktname": "VR-RürupRente",
+        "Versicherungsart": "Rürup-Rente",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Beste Versicherungsinnovation"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "unfallversicherung_risiko-unfallversicherung.md": {
+        "Produktname": "Risiko-Unfallversicherung",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "200.000 EUR bei Vollinvalidität (Progression 400)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 4,82 EUR/Monat",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Absicherung finanzieller Folgen eines Unfalls",
+            "Weltweiter Schutz, rund um die Uhr",
+            "Tägliches Kündigungsrecht",
+            "Individuell zusammenstellbare Leistungen",
+            "Innovations-Garantie",
+            "Unfall-Rente monatlich",
+            "Unfall-Krankenhaustagegeld",
+            "Leistung bei Unfalltod",
+            "Unfall-Service (Bergungskosten und Serviceleistungen)",
+            "Kosten für kosmetische Operationen",
+            "Umbaukosten",
+            "Abbruch des Auslandsurlaubs"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "mitglieder_versicherungscheck.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gutschein",
+            "Zusatzbausteine verfügbar",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "kfz-versicherung_tarif-berechnen.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "service_gesundheitsservice.md": {
+        "Produktname": "Krankenversichertennummer (KVNR)",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unterstützung bei Familienplanung",
+            "Unterstützung bei schweren Erkrankungen oder Operationen",
+            "Zugang zu spezialisierten Ärzten",
+            "Zusätzliche Gesundheitsleistungen",
+            "Erstattung der Kosten für digitale Gesundheitsanwendungen",
+            "Unterstützung für pflegende Angehörige",
+            "Organisation der Pflegeaufgaben",
+            "Arztgespräche per App",
+            "Rezepte und Krankschreibungen online",
+            "Online-Prüfung von Arztrechnungen",
+            "Einreichung von Rechnungen und Belegen",
+            "Speicherung medizinischer Informationen",
+            "Zugang zu digitalen Gesundheitsservices"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "haftpflichtversicherung_jagdhaftpflichtversicherung.md": {
+        "Produktname": "Jagdhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "5 Millionen EUR bei Personen- und Sachschäden, 100.000 EUR bei Vermögensschäden",
+        "Selbstbeteiligung": "Sparpotential durch Abschluss einer Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme bei Personen-, Sach- und Vermögensschäden",
+            "Jagdhunde sind mitversichert",
+            "Verzicht auf Einwand fehlenden Verschuldens bei Personenschaden durch Schusswaffengebrauch bis 250.000 EUR",
+            "Besitz und Gebrauch von erlaubten Schusswaffen mitversichert",
+            "Kostenübernahme bis 500.000 EUR, wenn der Verursacher nicht versichert ist",
+            "Stellung der Kautionsleistung bis 30.000 EUR im europäischen Ausland"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "kfz-versicherung_moped-versicherung_e-bike.md": {
+        "Produktname": "R+V-E-Bike-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung für E-Bikes und S-Pedelecs",
+        "Deckungssumme": "Bis zu 100 Mio. EUR",
+        "Selbstbeteiligung": "Mit und ohne Selbstbeteiligung möglich",
+        "Preis": "Ab 62,90 EUR im Jahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz für Versicherungsnehmer, Halter, Eigentümer und Fahrer",
+            "Teilkaskoversicherung optional",
+            "100% digitaler Abschluss und Schadensmeldungen",
+            "Mitversichertes Zubehör wie Ladekabel",
+            "Schutz bei Einbruchdiebstahl, Naturgewalten, Zusammenstoß mit Tieren, Brand oder Explosion",
+            "Neuwertentschädigung für Akkus bis 24 Monate nach Erwerb"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden am eigenen Fahrzeug nicht durch Haftpflicht abgedeckt",
+            "Schäden durch Alkohol- oder Drogeneinfluss nicht abgedeckt",
+            "Keine Deckung bei Fahrerflucht"
+        ],
+        "category": "Haftpflichtversicherung"
+    }
+}
