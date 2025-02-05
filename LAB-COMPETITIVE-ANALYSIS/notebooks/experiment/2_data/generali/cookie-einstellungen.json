@@ -1,0 +1,215 @@
+{
+    "title": "Cookies",
+    "metadata": {
+        "description": "Informationen und Widerspruchsmöglichkeiten von Analysetools und Dienstleistern",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "robots": "noindex",
+        "og:title": "Cookies",
+        "og:description": "Seite Deteiltext - Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\nDuis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.\nUt wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.\nNam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Cookie-Einstellungen"
+        },
+        {
+            "text": "Informationen und Widerspruchsmöglichkeiten von Analysetools und Dienstleistern"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "COOKIE-EINSTELLUNGEN"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Nachfolgend erhalten Sie einen Überblick über den Einsatz der von uns verwendeten Cookies und Tools. Ihre bei uns getroffenen Cookie Einstellungen können Sie jederzeit einsehen und ändern."
+        },
+        {
+            "type": "link",
+            "href": "",
+            "text": "Cookie-Einstellungen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "1. Erforderliche Cookies"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erforderliche Cookies gewährleisten die wesentlichen Funktionen und die Sicherheit unserer Website und speichern Ihre Cookie-Einstellungen. Sie können nicht deaktiviert werden. Ihren Browser können Sie so einstellen, dass diese Cookies blockiert oder Sie über diese Cookies benachrichtigt werden. Einige Bereiche der Website funktionieren dann aber möglicherweise nicht."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Cookie-Consent-Tool der OneTrust LLC."
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Webseite nutzt zur Einholung wirksamer Nutzereinwilligungen für einwilligungspflichtige Cookies und cookie-basierte Anwendungen das Cookie-Consent-Tool OneTrust LLC., Dixon House, 1 Lloyd’s Avenue, London, EC3N 3DQ, +44 (800) 011-9778 ein („OneTrust“)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch Einbindung eines entsprechenden JavaScript-Codes wird Nutzern beim Seitenaufruf ein Banner angezeigt, in welchem sich Einwilligungen für bestimmte Cookies und/oder cookie-basierte Anwendungen erteilen lassen. Hierbei blockiert das Tool das Setzen aller einwilligungspflichtigen Cookies solange, bis der jeweilige Nutzer entsprechende Einwilligungen erteilt. So wird sichergestellt, dass nur im Falle einer vorhandenen Rechtsgrundlage derartige Cookies auf dem jeweiligen Endgerät des Nutzers gesetzt werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Damit das Cookie-Consent-Tool Seitenaufrufe individuellen Nutzern eindeutig zuordnen und die vom Nutzer getroffenen Einwilligungseinstellungen individuell erfassen, protokollieren und für eine Sitzungsdauer speichern kann, werden beim Aufruf unserer Website durch das Cookie-Consent-Tool bestimmte Nutzerinformationen (einschließlich der IP-Adresse) erhoben, an Server von OneTrust übermittelt und dort gespeichert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Datenverarbeitungen erfolgen gemäß Art. 6 Abs. 1 lit. f DSGVO auf Basis unseres berechtigten Interesses an einem rechtskonformen, nutzerspezifischen und nutzerfreundlichen Einwilligungsmanagement für Cookies und mithin an einer rechtskonformen Ausgestaltung unseres Internetauftritts."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "2. Analytische Cookies"
+        },
+        {
+            "type": "paragraph",
+            "text": "Analytische Cookies übermitteln uns statistische Erkenntnisse darüber, wie unsere Website genutzt wird und ermöglichen es uns, den Erfolg unserer Kampagnen messen zu können und das Kundenerleben zu verbessern."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Mapp Digital c/o Webtrekk GmbH, Boxhagener Str. 76-78, 10245 Berlin"
+        },
+        {
+            "type": "paragraph",
+            "text": "Um unser Angebot stetig zu optimieren und Fehler schneller beheben zu können, nutzen wir Webanalyse-Technologien der Firma Mapp Digital c/o Webtrekk GmbH, Boxhagener Str. 76-78, 10245 Berlin. Die Webtrekk GmbH wurde im Bereich Datenschutz vom TÜV Saarland zertifiziert. Insbesondere wurde hierbei die Erfassung und Verarbeitung von Tracking-Daten auf Datenschutzkonformität und Datensicherheit überprüft und zertifiziert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Rahmen der Nutzung dieser Website werden Informationen, die Ihr Browser übermittelt, pseudonymisiert erhoben und ausschließlich in aggregierter Form ausgewertet."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dies erfolgt durch eine Cookie-Technologie und sogenannte Pixel, die auf jeder Website eingebunden sind. Hierbei werden Daten erhoben, wie zum Beispiel Browsertyp/-version, Betriebssystem, Bildschirmauflösung, IP-Adresse (wird ausschließlich unter Kürzung der Endziffern pseudonymisiert zum Zweck der Sessionerkennung und ggf. Geolokalisierung lediglich bis zur Stadt-Ebene erhoben und direkt nach ihrer Verwendung wieder gelöscht), die Website, von der aus Sie uns besuchen, sowie die Seiten, die Sie bei uns besuchen. Eine weitergehende Erstellung von Nutzungsprofilen und Auswertung derselben erfolgt nicht."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nach dem Telemediengesetz haben Sie als Kontaktseite-Besucher das Recht, der Datenspeicherung Ihrer (pseudonymisiert erfassten) Besucherdaten auch für die Zukunft zu widersprechen, so dass sie in Zukunft nicht mehr erfasst werden. Der Datenerhebung und -speicherung durch Webtrekk kann also jederzeit mit Wirkung für die Zukunft widersprochen werden. Verwenden Sie hierzu bitte direkt die entsprechende Opt-out-Funktion unseres Dienstleisters Webtrekk. Hierzu rufen Sie bitte folgenden Link auf:Ich möchte vom Tracking durch Webtrekk ausgeschlossen werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihre Abmeldung vom Tracking wird bei Erfolg bestätigt. Die Abmeldung wird durch ein Cookie aufrechterhalten, das \"webtrekkOptOut\" heißt. Akzeptieren Sie dieses Cookie und löschen Sie es nicht, so müssen Sie nicht erneut eine Abmeldung vom Tracking anfordern."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "AB Tasty der AB TASTY SAS, 38 rue du sentier, 75002, Paris, Frankreich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Webseite verwendet den Dienst AB Tasty der AB TASTY SAS, 38 rue du sentier, 75002, Paris, Frankreich. Dieser Dienst wird verwendet für AB-Testing und zur kontinuierlichen Verbesserung der Webseite. Die verwendeten Cookies ermöglichen es, die Webseiten fallweise zu ändern und Veränderungen zu analysieren, um sie für Kunden passender zu gestalten. Durch den folgenden Link können Kunden der Datenverarbeitung durch AB Tasty auf den Webseiten widersprechen:https://www.generali.de/#abtastyoptout=1"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das so aktivierte Cookie führt dazu, dass AB Tasty nicht mehr ausgeführt wird. Der Widerspruch wird in einem speziellen Cookie gespeichert und ist, so lange das Cookie nicht gelöscht wird, gültig. Wir weisen darauf hin, dass die Webseite in diesem Fall nicht mehr in vollem Umfang verwendet werden kann."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "3. Marketing-Cookies"
+        },
+        {
+            "type": "paragraph",
+            "text": "Marketing-Cookies geben uns Informationen über Ihre Besuche auf unserer Website und den Inhalten, die Sie sich angeschaut haben. Sie helfen uns, für Sie relevante Inhalte zu identifizieren und Ihnen diese anzuzeigen. Zudem ermöglichen sie es uns, Ihnen personalisierte Angebote anzuzeigen und Werbeanzeigen außerhalb unserer Website auf Ihre Interessen abzustimmen."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Facebook-Pixel"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zum Zwecke der Analyse, Optimierung und des wirtschaftlichen Betriebes unseres Onlineangebotes verwenden wir innerhalb unseres Internetauftritts das \"Facebook-Pixel\" unseres Vertragspartners Facebook Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland („Facebook”). Mit Hilfe von sog. Zählpixeln, die auf unseren Seiten integriert sind, können die Aktionen von Nutzern nachverfolgt werden, nachdem diese eine über Facebook geschaltete Werbeanzeige gesehen oder angeklickt haben. Dadurch kann die Wirksamkeit solcher Werbeanzeigen für Zwecke der Statistik und Marktforschung erfasst und optimiert werden. Aus den erhobenen Daten können wir keine Rückschlüsse auf die Identität der Nutzer ziehen. Facebook speichert und verarbeitet diese Daten allerdings dergestalt, dass eine Verbindung zum jeweiligen Facebook-Nutzerprofil möglich ist. Dies ermöglicht es Facebook, Werbeanzeigen auf Seiten bzw. in Anwendungen von Facebook und außerhalb von Facebook zu schalten. Diese Verwendung der Daten kann von uns nicht beeinflusst werden. Weitere Informationen dazu, wie Facebook personenbezogene Daten verarbeitet, finden Sie in den Datenschutzhinweisen von Facebook unterhttps://www.facebook.com/about/privacy/."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir verwenden das Facebook-Pixel auf der Rechtsgrundlage der von Ihnen erteilten Einwilligung. Nähere Informationen zum Facebook-Pixel, insbesondere zu dessen Funktionsweise, zur Art der verarbeiteten personenbezogenen Daten, zu unserer gemeinsamen datenschutzrechtlichen Verantwortlichkeit mit Facebook und zu Ihrer jederzeit gegebenen Möglichkeit, Ihre Einwilligung zu widerrufen, finden Sie in unserenDatenschutzhinweisen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Weitere Dienste-Cookies"
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Cookies ermöglichen es uns, Ihnen andere Arten von Anzeigen oder Tools bereitzustellen (z. B. für Dienste, die nicht unmittelbar unter generali.de verfügbar sind), einschließlich solcher, die für Ihre Interessen relevant sind, und dabei mit zugelassenen Drittanbietern bei der Bereitstellung von Inhalten zusammenzuarbeiten. Bitte beachten Sie, dass Ihre personenbezogenen Daten möglicherweise in Drittländer (z. B. die USA) übermittelt und dort verarbeitet werden, in denen das Risiko eines nicht mit dem EU-Standard vergleichbaren Datenschutzniveaus besteht."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Youtube"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir nutzen das technische Portal und die Dienste von YouTube. Anbieter und verantwortlich für die Datenverarbeitung ist YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA."
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere Details zur Verarbeitung personenbezogener Daten durch YouTube können Sie der Datenschutzerklärung von YouTube entnehmen:https://policies.google.com/privacy?hl=de&gl=de"
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere Richtlinien zu Datensicherheit, E-Mail Nutzung und Dienstleistern, finden Sie in unsererDatenschutzerklärung."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "iAdvize (Chat)"
+        },
+        {
+            "type": "paragraph",
+            "text": "iAdvize (https://www.iadvize.com/de/) bietet eine Kundenplattform mit Chatfunktionen. Anbieter von iAdvize ist die iAdvize SAS mit Sitz in 2 Ter Quai François Mitterrand, Nantes 44200, Frankreich. Zur Nutzung dieses Dienstes werden Cookies gesetzt: Die Laufzeit des Cookies beträgt 390 Tage. Wenn Sie nicht wollen, dass anonymisierte Daten von iAdvize gesammelt werden, klicken Sie bitte unten auf den Opt-Out-Link. Dieses Opt-Out-Cookie löscht die bisher gespeicherten Informationen und verhindert ein weiteres Erfassen von Informationen.Datenschutzbestimmungen und Opt-Out:https://privacy.iadvize.com/en/"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicher zu Hause oder unterwegs: Erhalten Sie ortsgenaue Wetterwarnungen auf Ihr Handy."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "cookie-einstellungen"
+}

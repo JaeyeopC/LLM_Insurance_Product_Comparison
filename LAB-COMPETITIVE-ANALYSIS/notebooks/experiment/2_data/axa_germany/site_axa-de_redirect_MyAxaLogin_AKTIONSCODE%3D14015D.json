@@ -1,0 +1,16 @@
+{
+    "title": "My AXA Login",
+    "metadata": {
+        "version": "1.22.0",
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+        "robots": "noindex",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0",
+        "Content-Security-Policy": "default-src 'self' blob: data:;\nframe-src 'self' *.visualwebsiteoptimizer.com app.vwo.com blob: https://*.doubleclick.net https://cdn.trustcommander.net https://ct.pinterest.com/ https://googletagmanager.com https://www.google.com;\nstyle-src 'self' 'unsafe-inline' *.visualwebsiteoptimizer.com app.vwo.com https://googletagmanager.com s3.amazonaws.com;\nscript-src 'self' 'unsafe-eval' 'unsafe-inline' *.visualwebsiteoptimizer.com app.vwo.com blob: https://*.analytics.google.com https://*.doubleclick.net https://*.google-analytics.com https://cdn.trustcommander.net https://connect.facebook.net https://www.google.com https://www.googleadservices.com https://www.googletagmanager.com https://www.gstatic.com;\nscript-src-elem 'self' 'unsafe-eval' 'unsafe-inline' *.pinimg.com *.visualwebsiteoptimizer.com app.vwo.com https://cdn.trustcommander.net https://connect.facebook.net https://ct.pinterest.com/ https://www.googletagmanager.com https://www.gstatic.com https://www.google.com;\nimg-src 'self' *.entry.axa.de *.visualwebsiteoptimizer.com app.vwo.com axa-cms04-m19.pironet-ndh.com blob: chart.googleapis.com data: https://*.analytics.google.com https://*.doubleclick.net https://*.google-analytics.com https://*.pinterest.com https://privacy.trustcommander.net https://www.facebook.com https://www.google.com https://www.google.de https://www.googletagmanager.com logs1407.xiti.com wingify-assets.s3.amazonaws.com;\nconnect-src 'self' *.axa-de.intraxa *.axa-tech.intraxa *.axa.de *.visualwebsiteoptimizer.com app.vwo.com https://*.analytics.google.com https://*.doubleclick.net https://*.google-analytics.com https://*.google.com https://*.trustcommander.net https://ct.pinterest.com/ https://privacy.commander1.com https://privacy.commander1.com/ctrust https://privacy.commander1.com/privacy-consent/ https://www.google.com;\nfont-src 'self' *.entry.axa-de.intraxa *.entry.axa.de c-entry.axa.de data: entry.axa-de.intraxa entry.axa.de https://www.axa.de"
+    },
+    "content": [],
+    "company_name": "axa_germany",
+    "page_name": "site_axa-de_redirect_MyAxaLogin_AKTIONSCODE%3D14015D"
+}

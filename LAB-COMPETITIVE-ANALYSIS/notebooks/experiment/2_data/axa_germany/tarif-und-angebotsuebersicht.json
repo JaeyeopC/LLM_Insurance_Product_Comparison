@@ -1,0 +1,223 @@
+{
+    "title": "Tarifrechner: Produkt auswählen und Tarif berechnen ⁄ AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Günstige Konditionen mit den ✓ Tarifrechnern von AXA sichern ✓ Versicherung auswählen und Geld sparen ▶ jetzt Tarife online berechnen!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/tarif-und-angebotsuebersicht",
+        "og:title": "Tarifrechner: Produkt auswählen und Tarif berechnen ⁄ AXA",
+        "og:description": "Günstige Konditionen mit den ✓ Tarifrechnern von AXA sichern ✓ Versicherung auswählen und Geld sparen ▶ jetzt Tarife online berechnen!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E1080084670/13192004/tarif-und-angebotsuebersicht-kollegen-im-gespraech_facebook.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E1080084670/13192004/tarif-und-angebotsuebersicht-kollegen-im-gespraech_facebook.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "text": "Tarif- und Angebotsübersicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kollegen im Gespräch"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Zahlreiche, günstige Tarife zur Auswahl",
+                "Individuelle Angebote berechnen"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Ob Sie eine private Krankenversicherung oder eine Kfz-Versicherung suchen: Wir haben nicht nur die passende Versicherung, sondern auch den entsprechenden Tarifrechner dazu. Egal, ob Sie den Anbieter wechseln möchten oder eine Versicherung komplett neu abschließen wollen – mit den Tarifrechnern können Sie sich in Ruhe einen Überblick verschaffen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Fahrzeuge"
+        },
+        {
+            "type": "paragraph",
+            "text": "Autoversicherung von AXA: Mobilitätsgarantie mit kostenlosem Kfz-Schutz für Ihre Touren auf vier Rädern - perfekt abgestimmt auf Ihr Fahrzeug. Mit bequemer Online-Vertragsverwaltung, exzellentem Schadenservice und starken Leistungen. Profitieren Sie von unseren günstigen Tarifen!"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kfz-Versicherung mobil kompakt und mobil komfort",
+                "Kfz-Versicherung mobil online",
+                "Motorrad-Versicherung",
+                "Oldtimer-Versicherung",
+                "Roller-Versicherung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haus und Wohnen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Versicherung für Ihr schönes Zuhause. Schützen Sie Ihr Hab und Gut gegen Schäden und Verlust durch Feuer, Einbruchdiebstahl und Vandalismus, Leitungswasser, Sturm und Hagel."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Hausratversicherung",
+                "Wohngebäudeversicherung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflicht und Recht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Starker Schutz bei finanziellen Forderungen nach verursachten Sachschäden, Personenschäden und Vermögensverlusten. Mit Deckungssummen bis zu 60 Mio. Euro und schon ab 1,76 Euro im Monat."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Privathaftpflichtversicherung",
+                "Hundehaftpflichtversicherung",
+                "Rechtsschutzversicherung von ROLAND"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesundheit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit der Krankenvollversicherung von AXA genießen Sie ambulant und stationär die beste Versorgung und alle Leistungsvorteile als Privatpatient. Die Zusatzversicherungen von AXA für gesetzlich Versicherte schließen die Lücken!"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Krankenvollversicherung",
+                "Auslandsreiseversicherung (Reisen bis zu 56 Tagen)",
+                "Auslandsreiseversicherung (Einzelreisen bis zu 365 Tagen)",
+                "Zahnvorsorge",
+                "stationäre Zusatzversicherung",
+                "Krankentagegeld-Versicherung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vorsorge und Vermögen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten auch im Alter Ihren Lebensstandard finanziell abgesichert haben oder finanziell bei Verlust Ihrer Arbeitskraft abgesichert sein? Profitieren Sie von professionellen Vorsorgekonzepten, die exakt auf Ihren Bedarf zugeschnitten sind und attraktiven Lösungen in allen drei Altersvorsorgeschichten. Mit monatlicher Rentenzahlung, zusätzlichen Assistance-Leistungen bei Unfällen sowie umfangreichem Reha-Management."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Berufsunfähigkeitsversicherung",
+                "private Rentenversicherung",
+                "Relax Rente Angebot"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Geschäftskunden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Individuelle Bürgschaftslinien von AXA für Unternehmen. Zum Beispiel zur Absicherung von Verpflichtungen aus Bauverträgen, von An- und Vorauszahlungen oder von Zeitwertguthaben. Spezial-Lösungen für Unternehmen mit einem Jahresumsatz über 10 Millionen Euro oder einem Bürgschaftsbedarf von mehr als einer Millionen Euro."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bürgschaftsversicherung",
+                "Luftfahrtsversicherung",
+                "Waldversicherung",
+                "Rechtsschutzversicherung"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie Fragen zu einer anderen Versicherung oder einem Service von AXA? Bitte wenden Sie sich an uns und profitieren Sie von unserer Service-Qualität. Ein Betreuer in Ihrer Nähe hilft Ihnen gerne!"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Entdecken Sie unsere Leistungen und Produkte im Vergleich und lassen Sie sich von unseren hervorragenden Ergebnissen überzeugen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/wir-ueber-uns/auszeichnungen/tests-produkte-und-services",
+            "text": "Tests Produkte und Services"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 3203205"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Schreiben Sie uns"
+        },
+        {
+            "text": "Schaden telefonisch melden"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "0800 2920333"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Mit der AXA Online-Schadenmeldung können Sie Ihren Schaden schnell und einfach melden"
+        },
+        {
+            "text": "Online-Schadenmeldung"
+        },
+        {
+            "text": "Jetzt Vorteile nutzen mit unserem schadenservice360°"
+        },
+        {
+            "text": "schadenservice360°"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "tarif-und-angebotsuebersicht"
+}

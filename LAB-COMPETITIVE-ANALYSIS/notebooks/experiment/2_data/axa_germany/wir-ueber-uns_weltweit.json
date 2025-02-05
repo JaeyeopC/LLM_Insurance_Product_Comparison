@@ -1,0 +1,73 @@
+{
+    "title": "AXA weltweit: Global Player & Weltmarke",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Erfahren Sie mehr über die AXA Gruppe ✓AXA ist als Global Player weltweit führender Versicherer und Vermögensverwalter ▶Jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/wir-ueber-uns/weltweit",
+        "og:title": "AXA weltweit: Global Player & Weltmarke",
+        "og:description": "Erfahren Sie mehr über die AXA Gruppe ✓AXA ist als Global Player weltweit führender Versicherer und Vermögensverwalter ▶Jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/wir-ueber-uns",
+            "text": "Über AXA"
+        },
+        {
+            "text": "AXA weltweit"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Globalisierung der Wirtschaft hat viele Märkte und Branchen grundlegend verändert: Nationale Marken haben an Bedeutung verloren, Weltmarken wie die des Global Players AXA gewinnen dagegen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Ursprünge der AXA Gruppe reichen zurück in die späten 70er Jahre, als Claude Bébéar in Rouen die Führung des kleinen Gegenseitigkeitsversicherers Ancienne Mutuelle übernahm, ihn sogleich mit mehreren regionalen Gegenseitigkeitsvereinen verschmolz und wenig später die fast doppelt so große Unternehmensgruppe Drouot kaufte. Unter dem eingängigen Namen AXA, den sich die Gruppe 1985 gab, nahm die Expansion ihren Lauf: in Frankreich, in Europa und schließlich weltweit.Heute ist AXA unter einheitlichem Markennamen auf allen fünf Kontinenten vertreten und einer der weltweit führenden Versicherer und Vermögensverwalter. Im Interbrand Ranking ist AXA seit 2009 stets unter den Top 100 der wertvollsten Marken vertreten.Für die AXA Gruppe sind rund 147.000 Mitarbeitende und Vermittler:innen tätig. 2023 erzielte sie einen Umsatz von 102,7 Milliarden Euro, ein operatives Ergebnis (Underlying Earnings) von 7,6 Milliarden Euro und ein Nettoergebnis (Net Income) von 7,189 Milliarden Euro. Die durch die Gruppe verwalteten Kapitalanlagen hatten im Geschäftsjahr 2023 einen Wert von 946 Milliarden Euro."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.com/",
+            "text": "Zur AXA Gruppe"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "weitere-versicherungsprodukte-wegweiser.jpg"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die Gesellschaften der AXA Konzern AG im Überblick:Gesellschaften",
+                "Informationen über Vorstandsmitglieder und Aufsichtsrat:Konzernvorstand",
+                "Daten und Publikationen des AXA Konzerns:Publikationen",
+                "Fakten zu Geschichte und Entstehung von AXA :Fakten",
+                "Die gemeinnützigen Projekte der AXA:AXA von Herz zu Herz",
+                "Die Kunstsammlung von AXA:AXA Kunstsammlung",
+                "Wann können Sie die Hinweisgeberstelle nutzen?AXA Corporate Governance"
+            ]
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "wir-ueber-uns_weltweit"
+}

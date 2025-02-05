@@ -1,0 +1,393 @@
+{
+    "title": "Kontakt Services Hotline | Generali",
+    "metadata": {
+        "description": "Kontaktieren Sie die Service Hotline der Generali oder nutzen Sie unsere Online Self-Services oder Apps. Melden Sie einen Schaden telefonisch oder online",
+        "keywords": " Daten,Vertrag,Telefonnummer,Service,Schutzbrief,Ansprechpartner,Schaden melden, Kontakt,Online-Services,Online-Formular,Kooperationspartner,Ratgeber",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Service & Kontakt",
+        "og:description": "Nutzen Sie unsere Online-Services oder Apps, kontaktieren Sie unsere Service Hotline oder melden Sie einen Schaden.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Service & Kontakt"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt#online-ser-vices-ver-wal-ten-sie-ihren-ver-trag-84492",
+            "text": "Online-Services"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt#schnelle-hilfe-bei-schaeden-33052",
+            "text": "Schaden"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt#generali-apps-33022",
+            "text": "Apps"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt#kontakt-32976",
+            "text": "Kontakt"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt#ihre-vorteile-bei-unseren-kooperationspartnern-33048",
+            "text": "Kooperationen"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt#gesundheitsrat-ge-ber-33050",
+            "text": "Gesundheitsratgeber"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "SERVICE & KONTAKT"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Online-Ser­vices: ver­wal­ten Sie Ihren Ver­trag"
+        },
+        {
+            "type": "paragraph",
+            "text": "Daten ändern, Versicherungsschutz abfragen, Dokumente anfordern - hier finden Siealle Online-Services."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/18594/a821d3fc8d4f57c2e7f8220206594786/z43-add-document-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Quick Links"
+        },
+        {
+            "type": "link",
+            "href": "https://www.generali.de/service-kontakt/formularcenter#80044",
+            "text": "Daten ändern"
+        },
+        {
+            "type": "link",
+            "href": "https://www.generali.de/service-kontakt/formularcenter#85534",
+            "text": "Dokumente senden"
+        },
+        {
+            "type": "link",
+            "href": "https://www.generali.de/service-kontakt/formularcenter#80046",
+            "text": "Vertragsinformationen anfordern"
+        },
+        {
+            "type": "link",
+            "href": "https://www.generali.de/service-kontakt/formularcenter#80030",
+            "text": "Schaden melden"
+        },
+        {
+            "type": "link",
+            "href": "https://www.generali.de/service-kontakt/formularcenter#85542",
+            "text": "Dokumente empfangen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.generali.de/service-kontakt/formularcenter#81652",
+            "text": "Elektronische Kommunikation"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/82362/7e47b618701bcc0110755871e90db329/y01-friends-88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Beliebte For­mu­lare"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Web-Postfach Krankenversicherung",
+                "Tarifinformation Krankenversicherung",
+                "Mitteilung zum bestehenden Schaden (inkl. Dateiupload)",
+                "Schaden melden: Kfz-Haftpflicht",
+                "Schaden melden: Haftpflicht"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Schnelle Hilfe bei Schä­den"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Scha­den online mel­den"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/haftpflicht",
+            "text": "Haftpflicht"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/kfz-haftpflicht",
+            "text": "Kfz-Haftpflicht"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/kfz-kasko",
+            "text": "Kfz-Kasko"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/kfz-ausland",
+            "text": "Kfz-Ausland"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/unfall",
+            "text": "Unfall"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/hausrat",
+            "text": "Hausrat"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/meinfahrrad",
+            "text": "Fahrrad/Pedelec"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/wohngebaeude",
+            "text": "Wohngebäude"
+        },
+        {
+            "type": "link",
+            "href": "https://www.easyschaden.generali.de/?ep=glas",
+            "text": "Glas"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/gewerbe-sach",
+            "text": "Gewerbe-Sach"
+        },
+        {
+            "type": "link",
+            "href": "https://www.advocard.de/service/schadensfall/ ",
+            "text": "Rechtsschutz"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/unwetter",
+            "text": "Unwetter"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/konto-finanzschutzbrief",
+            "text": "Konto-/Finanzschutzbrief"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wei­te­rer Scha­den-Ser­vice"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten uns zu einem bereits gemeldeten Schaden etwas mitteilen oder Unterlagen schicken?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mitteilung zum Schaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie wol­len schnell über Bear­bei­tungs­schritte Ihres Scha­dens infor­miert wer­den?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadentracking"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie brauchen eine Schutzbriefleistung oder eine Hilfe- und Serviceleistung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schutzbrief-Service"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Scha­den tele­fo­nisch mel­den"
+        },
+        {
+            "text": "PLZ bestätigen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Apps"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "GesundheitsApp"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Laden Sie Arztrechnungen und Rezepte einfach hoch, erhalten Sie Dokumente und prüfen Sie Ihren Gesundheitsschutz."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "MobileHealth App"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gene­rali Mobile Health App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Deine smarte Lösung rund um das Thema Gesundheit - vom Symptom-Check bis zum Online-Arzttermin."
+        },
+        {
+            "type": "link",
+            "href": "/mobilehealth",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Protect Me App"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die kostenlose Wetter-Warn App warnt Dich vor Wetter-Gefahren an Deinen Orten und unterwegs im Auto - auch vor Aquaplaning."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps",
+            "text": "alle Apps"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kontakt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie wollen uns anrufen, eine E-Mail schreiben oder ein Online-Formular ausfüllen? Wir helfen gerne und beantworten Ihre Fragen schnell."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/kontakt",
+            "text": "Übersicht"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ihre Vor­teile bei unse­ren Koope­ra­ti­ons­part­nern"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "CarglassProfitieren Sie von vielen VorteilenVorteile entdecken",
+                "ServicewerkstättenUnser Partnerwerkstattnetz für SieVorteile entdecken",
+                "AmplifonHörgeräte zu attraktiven Sonderkonditionen und mit umfassendem ServicepaketVorteile entdecken",
+                "Mister Spex17 Prozent Rabatt auf das gesamte Sortiment an Brillen und KontaktlinsenVorteile entdecken",
+                "DiashopDiabetes-Versorgung: profitieren Sie von einfacher Lieferung und 5 Prozent Rabatt auf das ZusatzsortimentVorteile entdecken",
+                "KrankentagegeldBesonderer Service für bei der BKK Linde gesetzlich krankenversicherteVorteile entdecken"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesundheitsrat­ge­ber"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Thema Krankenversicherung betrifft jeden: egal, ob Sie gesetzlich oder privat versichert, angestellt oder selbstständig sind. Unser Ratgeber bietet Ihnen viele Informationen rund um Ihren Gesundheitsschutz. Lassen Sie sich darüber hinaus von unseren Spezialisten beraten."
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/krankenratgeber",
+            "text": "zum Ratgeber"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicher zu Hause oder unterwegs: Erhalten Sie ortsgenaue Wetterwarnungen auf Ihr Handy."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt"
+}

@@ -1,0 +1,818 @@
+{
+    "title": "Fahranfänger-Versicherung: Startklar als Young Driver",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "Auto versichern als Fahranfänger: Was kostet eine Fahranfänger-Versicherung? Wie kann man sparen? ► Jetzt berechnen!",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "fahrzeuge.kfz-versicherung.autoversicherung-fahranfaenger",
+        "date": "20241118T08:02:24",
+        "og:title": "Fahranfänger-Versicherung: Startklar als Young Driver",
+        "og:type": "article",
+        "og:description": "Auto versichern als Fahranfänger: Was kostet eine Fahranfänger-Versicherung? Wie kann man sparen? ► Jetzt berechnen!",
+        "og:url": "https://www.huk.de/fahrzeuge/kfz-versicherung/autoversicherung-fahranfaenger.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-top-kfz-service.scale.textBildXS.png",
+        "searchKeywords": "Pkw-Versicherung,Kaufvertrag,Kasko,Select,selekt,Versicherungsbestätigung,Rabattschutz,Zulassung,Kfz-Kennzeichen,Glasschaden,Steinschlag,jährliche Fahrleistung,Rabattretter,Mallorcapolice,Basistarif,Tarifgruppen,Tarifgruppe,Werkstattbindung,Kurzzeit,Kurzkennzeichen,GAP,Leasing,Telematiktarif,Telematic,Ersatzwagen,leihwagen,Zusatzfahrer,Kraftfahrtversicherung,Startklar,Startklar Vertrag,Young driver",
+        "searchHeadline": "Autoversicherung für Fahranfänger",
+        "searchExcerpt": "Die günstige Autoversicherung für Fahranfänger: Sie sparen 20% mit Kasko SELECT. Beratung in Ihrer Nähe oder am Telefon. Jetzt online berechnen & abschließen!",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-fahranfaenger.scale.shield_buehne430.jpg",
+            "alt": "Junge Frau lehnt an rotem Auto"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fahranfänger-Versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kfz-Versicherung für Einsteiger"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Spar-Optionen – Auto als Zweitwagen versichern, Begleitetes Fahren ab 17 oder Kasko SELECT.",
+                "Telematik Plus – Bis zu 30 % Bonus für sicheres Fahren."
+            ]
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-fairste-kfz-schaden.png",
+            "alt": "Focus Money, Fairste Schadenregulierung Ausgabe 11/2024"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-fahranfaenger.scale.shield_buehne430.jpg",
+            "alt": "Junge Frau lehnt an rotem Auto"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-fairste-kfz-schaden.png",
+            "alt": "Focus Money, Fairste Schadenregulierung Ausgabe 11/2024"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Fahranfänger-Versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kfz-Versicherung für Einsteiger"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Spar-Optionen – Auto als Zweitwagen versichern, Begleitetes Fahren ab 17 oder Kasko SELECT.",
+                "Telematik Plus – Bis zu 30 % Bonus für sicheres Fahren."
+            ]
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Das erste eigene Auto: Versicherung für Fahranfänger"
+        },
+        {
+            "type": "paragraph",
+            "text": "Endlich ist derFührerscheinin der Tasche und daserste eigene Autoist gekauft. Ein wichtiger Meilenstein ist erreicht, der Freiheit und Unabhängigkeit bedeutet. Der Weg zur Arbeit, zu Freunden oder die Fahrt in den Urlaub – plötzlich sind da so viele Möglichkeiten, die sich für Fahranfänger bieten."
+        },
+        {
+            "type": "paragraph",
+            "text": "DerAutoschlüsselin der Hand steht nun als Sinnbild für einen neuen Lebensabschnitt, für spontane Ausflüge, Eigenständigkeit und ist für viele junge Menschen ein wichtiger Schritt des Erwachsenwerdens."
+        },
+        {
+            "type": "paragraph",
+            "text": "Doch mit der Freiheit kommt auch die Verantwortung. Wer ein Auto besitzt und fährt, darf das Risiko für kleine Missgeschicke oder gar Unfälle nicht unterschätzen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Autoversicherung für Fahranfänger ist deshalb ein unverzichtbarer Begleiter auf den Straßen. Sie hilft dabei, zumindestfinanzielle SorgenbeiSchädeneinzugrenzen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Inhaltsverzeichnis"
+        },
+        {
+            "type": "link",
+            "href": "#warum",
+            "text": "Warum eine Fahranfänger-Versicherung so wichtig ist?"
+        },
+        {
+            "type": "link",
+            "href": "#sicher",
+            "text": "Sicherheit für Fahranfänger mit der Auto­versicherung derHUK-COBURG"
+        },
+        {
+            "type": "link",
+            "href": "#wer",
+            "text": "Wer gilt für die Auto­versicherung als Fahranfänger?"
+        },
+        {
+            "type": "link",
+            "href": "#welche",
+            "text": "Welche Kfz-Versicherung für Fahranfänger?"
+        },
+        {
+            "type": "link",
+            "href": "#kasko",
+            "text": "Wie sinnvoll ist eine Kasko­versicherung für Fahranfänger?"
+        },
+        {
+            "type": "link",
+            "href": "#versicherung",
+            "text": "Ihre günstige Kfz-Versicherung für Anfänger"
+        },
+        {
+            "type": "link",
+            "href": "#klasse",
+            "text": "Welche Schadenfreiheitsklassen haben Fahranfänger?"
+        },
+        {
+            "type": "link",
+            "href": "#sparen",
+            "text": "So sparen Sie bei der Fahranfänger-Versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Warum eine Fahranfänger-Versicherung so wichtig ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit dem eigenen Auto zu fahren, eröffnet Fahranfängern eine völlig neue Welt vollerFreiheitenundErlebnisse. Doch so aufregend die erste Zeit hinter dem Steuer auch sein mag, bringt sie auch Risiken mit sich. Die Unerfahrenheit von Fahranfängern sorgt für einerhöhtes Risiko, an Unfällen beteiligt zu sein."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die mangelnde Erfahrung beim Autofahren und die noch nicht so ausgeprägte Fähigkeit, Situationen im Straßenverkehr richtig und schnell einschätzen zu können, sind die Hauptgründe dafür."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hinzu kommt, dass junge Autofahrer oft die eigenen Grenzen und die des Fahrzeugs nicht richtig einschätzen können. Daraus kann einriskantes Fahrverhaltenentstehen, das schlimmstenfalls zum Unfall führt. Doch auch kleineMissgeschickewie eine Beule beim Parken können vor allem in den ersten Jahren hinter dem Steuer passieren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Gerade für unerfahrene Autofahrer ist die erste Delle, ein Zusammenstoß mit einem Tier oder auch ein Bruch der Verglasung eine völlig neueemotionaleundfinanzielle Belastung. Deshalb ist es in einem solchen Moment beruhigend, zumindest finanziell abgesichert und unbesorgt zu sein."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sicherheit für Fahranfänger mit der Auto­versicherung derHUK-COBURG"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Autoversicherung für Fahranfänger nimmt Ihnen im Falle eines Schadens die finanziellen Sorgen. Gerade dann, wenn Sie mit demAutofahrengerade erst beginnen, können die neue Verantwortung und die vielen neuen Regeln überfordernd wirken. Dann ist es gut zu wissen, dass Sie sich auf uns als Versicherung verlassen können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Neben der verpflichtenden Kfz-Haftpflichtversicherung gibt es weitere Versicherungen und Zusatzleistungen, die Sie finanziell auch bei selbstverschuldeten Unfällen absichern. So können Sie bei der HUK-COBURG zusätzlich eineTeilkasko-oder Vollkaskoversicherungabschließen, vomKfz-Schutzbriefprofitieren und eineFahrerschutzversicherungabschließen – so haben auch Anfänger ein sicheres Gefühl hinter dem Steuer."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wer gilt für die Versicherung als Fahranfänger?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sind Fahranfänger, sobald Sie das erste Mal Ihren Führerschein erhalten bis zumerfolgreichen Abschluss der Probezeit(2 bis 4 Jahre)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Versicherungen bewerten meist alle Fahrerunter 25 Jahrenals Fahranfänger. Denn im Alter zwischen 18 und 24 Jahren besteht ein hohes Unfallrisiko."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Welche Kfz-Versicherung für Fahranfänger?"
+        },
+        {
+            "type": "paragraph",
+            "text": "EineKfz-Haftpflichtversicherungist gesetzlichvorgeschrieben– und zwar für alle Autofahrer. Verursachen Sie mit Ihrem Auto Schäden an Fremdeigentum oder der Gesundheit von Dritten, kommt die Kfz-Haftpflichtversicherung für die Kosten auf."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dabei sind sowohlSach- und Personenschädenals auchVermögensschädenabgesichert. Die Kfz-Haftpflichtversicherung der HUK-COBURG bietet beispielsweise hohe Deckungssummen: Pro Schadenfall gilt hier eine Höchstentschädigung von 100 Millionen €."
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch dieMallorca-Policegilt Ihr Versicherungsschutz nicht nur für Ihren eigenen Pkw, sondern auch für imeuropäischen Auslandgemietete Pkws– und zwar für bis zu sechs Monate."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tipps:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Mit derFahrerschutzversicherungsichern Sie sich bei selbstverschuldeten Unfällen zusätzlich ab, z. B. auch bei Verdienstausfällen oder Schmerzensgeld.",
+                "Mit dem zusätzlichenKfz-Schutzbriefprofitieren Sie im Fall der Fälle u. a. auch vom Anspruch auf Pannenhilfe inklusive Abschleppdienst.",
+                "Unter Umständen lohnt sich auch eineKaskoversicherungfür Fahranfänger. Die Teilkasko ersetzt Schäden am eigenen Fahrzeug: Sie schützt z. B. bei Diebstahl, Bruch der Verglasung oder einem Zusammenstoß mit einem Tier. Die Vollkasko schützt zusätzlich zur Teilkasko z. B. bei Unfallschäden, etwa bei selbstverschuldeten Unfällen, oder Vandalismus."
+            ]
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie sinnvoll ist eine Kasko­versicherung für Fahranfänger?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Neben der Kfz-Haftpflichtversicherung ist auch eine passende Kaskoversicherung sinnvoll."
+        },
+        {
+            "type": "paragraph",
+            "text": "Welche Kaskoversicherung man als Fahranfänger benötigt, hängt vonindividuellen Faktorenab:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Welches Fahrzeug soll versichert werden?",
+                "Wie hoch ist das persönliche Sicherheitsbedürfnis?"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit einer Kaskoversicherung der HUK-COBURG profitieren Sie u. a. vonfolgenden Vorteilen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Verzicht auf Einwand der groben Fahrlässigkeit:In der Regel erhalten Sie die Leistungen uneingeschränkt, ohne Kürzungen.",
+                "Neupreisentschädigung: Kommt es in den ersten 24 Monaten nach dem Kauf Ihres Neuwagens zu einem Totalschaden, zur Zerstörung oder zum Verlust des Fahrzeugs, erstatten wir den Neupreis."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier sehen Sie den Versicherungsumfang derTeil- und Vollkaskoversicherungauf einen Blick:"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "",
+                    "Teilkasko",
+                    "Vollkasko"
+                ],
+                [
+                    "Bruch der Verglasung",
+                    "",
+                    ""
+                ],
+                [
+                    "Unfallschäden, auch selbst verschuldete",
+                    "",
+                    ""
+                ],
+                [
+                    "Mutwillige Beschädigung Ihres Fahrzeugs durch Fremde / Vandalismus („Neidkratzer“)",
+                    "",
+                    ""
+                ],
+                [
+                    "Schäden durch einen geplatzten Reifen",
+                    "",
+                    ""
+                ],
+                [
+                    "Entwendung, insbesondere Diebstahl sowie Unterschlagung oder Erpressung",
+                    "",
+                    ""
+                ],
+                [
+                    "Brand und Explosion",
+                    "",
+                    ""
+                ],
+                [
+                    "Naturgewalten",
+                    "",
+                    ""
+                ],
+                [
+                    "Zusammenstoß mit Tieren",
+                    "",
+                    ""
+                ],
+                [
+                    "Kurzschluss an der Verkabelung inkl. Folgeschäden am Fahrzeug",
+                    "",
+                    ""
+                ],
+                [
+                    "Tierbiss (z. B. durch einen Marder) am Fahrzeug inkl. Folgeschäden am Fahrzeug",
+                    "",
+                    ""
+                ],
+                [
+                    "Rangier- und Schlingerschäden",
+                    "",
+                    ""
+                ],
+                [
+                    "Schäden durch Transport auf einem Schiff",
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Z. B. Sturm, Hagel, Blitzschlag, Überschwemmung, Lawine, Dachlawine. Wir sind einer der wenigen Versicherer, bei dem Sturm schon ab Windstärke 7 (ca. 52 km/h) aufkommt – nicht wie marktüblich erst ab Windstärke 8."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei Gespannen gilt: Gegenseitige Schäden zwischen dem ziehenden Fahrzeug und seinem Anhänger ohne Einwirkung von außen sind mitversichert. Dazu zählen z. B. Rangierschäden, Schäden beim An- oder Abhängen sowie Schlingerschäden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Voraussetzung: Das Zugfahrzeug ist bei uns vollkaskoversichert und der Versicherungsnehmer des Zugfahrzeugs ist Eigentümer des gezogenen Fahrzeugs."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ihre günstige Kfz-Versicherung für Anfänger"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gerade Fahranfängern fehlt es oft noch an Erfahrung und Sicherheit im Straßenverkehr. Das bestätigen auch die Zahlen:18- bis 24-jährige Fahrerhaben immer noch dashöchste Unfallrisiko."
+        },
+        {
+            "type": "paragraph",
+            "text": "Aus diesem Grund ist die Fahranfänger-Versicherung in vielen Fällen teuer. Wir zeigen Ihnen, wie Sie bei der HUK-COBURG als Fahranfänger in derKfz-Versicherungsparen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie viel kostet eine Fahranfänger-Versicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aufgrund deserhöhten Unfallrisikos, das laut Statistiken für Fahranfänger besteht, berechnen Versichererhöhere Beiträgefür die Kfz-Versicherung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Doch nicht nur das Alter des Versicherungsnehmers spielt eine Rolle für die Beitragshöhe. Es kommt u. a. auch auf folgende Faktoren an:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Fahrzeugtyp",
+                "Alter des Fahrzeugs beim Kauf",
+                "Selbstbeteiligung in der Kaskoversicherung",
+                "Wohnsitz des Halters (Regionalklasse)",
+                "Beruf (Tarifgruppe)",
+                "Jährliche Fahrleistung",
+                "Wer Fahrzeughalter ist",
+                "Wer das Fahrzeug fahren darf",
+                "Wie lange man schon unfallfrei fährt"
+            ]
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Welche Schadenfreiheitsklassen haben Fahranfänger?"
+        },
+        {
+            "type": "paragraph",
+            "text": "DieSchadenfreiheitsklasse(SF-Klasse) gibt Aufschluss über die Anzahl an Jahren, in denen der Versicherte schadenfrei gefahren ist. Mit jedem Kalenderjahr, in dem man schadenfrei unterwegs ist, wird man eineSF-Klasse höhergestuft."
+        },
+        {
+            "type": "paragraph",
+            "text": "Je höheralso dieSF-Klasse,desto niedrigersind dieVersicherungsbeiträge. Der Versicherte profitiert nämlich vom gewährtenSchadenfreiheitsrabatt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Fahranfänger, die zum ersten Mal ihren Führerschein erhalten haben, starten in der Regel in derSF-Klasse 0."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch ein Start in derSF-Klasse ½ist möglich, wenn man schon mehrere Jahre fährt, aber bislang noch kein eigenes Auto versichert hat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit jedem Kalenderjahr, in dem Sie schadenfrei unterwegs sind, steigen Sie eine Klasse auf."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Schadenfreiheitsklassen für Fahranfänger im Detail:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "SF 0: Alle Versicherten, die ihren Führerschein noch keine 3 Jahre besitzen und keine anderweitigen Sondereinstufungen erhalten, starten in der Schadenfreiheitsklasse 0.",
+                "SF ½: Wer schon drei Jahre den Führerschein besitzt, aber erst jetzt sein erstes eigenes Auto versichert, wird in die Sonderklasse SF ½ eingestuft.",
+                "SF M: Das M steht für Malusklasse. Wer in den ersten Versicherungsjahren einen Unfall bzw. Schaden verursacht, wird in die SF M eingestuft. Dies ist die Klasse mit den höchsten Versicherungsbeiträgen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "DieSF-Klasse 50ist die höchste undgünstigste Schadenfreiheitsklasse. Wer hier eingestuft wird, ist seit 50 Kalenderjahren oder mehr schadenfrei unterwegs."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "So sparen Sie bei der Fahranfänger-Versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Als Fahranfänger haben Sie trotz der meist ungünstigenSchadenfreiheitsklassedie Möglichkeit, die hohenVersicherungsbeiträge abzumildern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Allein schon derFahrzeugtypdes versicherten Fahrzeugs kann einengroßen Unterschiedmachen: Für einen Kleinwagen fallen die Beiträge beispielsweise erheblich niedriger aus als für einen großen SUV."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zusätzlich haben Siefolgende Optionen, um als Fahranfänger bei der Versicherung zu sparen:"
+        },
+        {
+            "text": "Telematik Plus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fahranfänger können mit demTelematik-Tarifzusätzliche Kosten sparen. Telematik ist eine innovative Technologie, die dasFahrverhalteneines Fahrers erfasst, wie z. B. dasBremsverhaltenoder dasKurvenverhalten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Dabei werden die Fahrten mit derApp „Mein Auto“sowie einem Telematik-Sensor ganz unkompliziert aufgezeichnet, analysiert und bewertet. Wer vorausschauend und sicher fährt, kann mit Telematik Plus dieVersicherungsbeiträgein der Kfz-Haftpflichtversicherung und Kaskoversicherungsenken."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schließt man den Tarif ab, erhält man schon zu Beginnunabhängig vom FahrverhalteneinenStart-Bonus von 5 %.",
+                "Im Anschluss an die Startphase ist einFolge-Bonusvonbis zu 30 %möglich, der vomindividuellen Fahrverhalten abhängt.",
+                "Der Bonus ist vor allem für Fahranfänger und junge Fahrer interessant."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Über die App „Mein Auto“ erhalten Sie zudemFeedback zu Ihrem Fahrverhalten, wie beispielsweise zum Brems- oder Kurvenverhalten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Anhand dieses Feedbacks können Sie dann IhrFahrverhalten verbessernundzukünftig noch mehr sparen."
+        },
+        {
+            "text": "Fahrzeug als Zweitwagen versichern"
+        },
+        {
+            "type": "paragraph",
+            "text": "Da Sie als Fahranfänger oft in einerungünstigenSchadenfreiheitsklasseeingestuft werden, ist es in der Regel nicht sinnvoll, das Auto direkt selbst zu versichern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Stattdessen haben Sie mit derZweitwagenversicherungdie Option, sich mit Eltern, Großeltern und anderen Verwandten zusammenzutun. Dann wird IhrFahrzeug als Zweitwagenversichert und meist direkt in dieSF-Klasse ½eingestuft."
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Auto ist also über jemand anderen versichert und der Fahranfänger wird lediglich als Fahrer des Autos eingetragen. Kommt es zu einem Unfall oder Schaden mit dem Zweitwagen, wird dann auch nur dieSF-Klasse des Zweitwagensgeändert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hinweis: Unter bestimmten Voraussetzungen bekommen Sie über die Zweitwagenversicherung einegünstige Einstufungfür Ihren Pkw. Wir ermitteln bei der Angebotsberechnung mit unseren Tarifrechnern automatisch die für Siebestmögliche Vertragseinstufung, basierend auf Ihren Angaben."
+        },
+        {
+            "text": "Sparen mit Kasko SELECT"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wählen Sie beim Abschluss Ihrer Kaskoversicherung den Tarif Kasko SELECT, haben Sie die Möglichkeit,20 %auf denKaskobeitrag zu sparen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zudem genießen Sieweitere Vorteile:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Werkstattauswahl durch die HUK-COBURG im Schadenfall.",
+                "Unterstützung bei der Anmietung eines Ersatzfahrzeuges.",
+                "Transportservice zur oder von der Partnerwerkstatt nach Hause, wenn diese mehr als 15 km entfernt ist."
+            ]
+        },
+        {
+            "text": "Teilnahme am Begleiteten Fahren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn das versicherte Fahrzeug im Rahmen des Begleiteten Fahrens ab 17 genutzt wird, ändert sich der Fahrerkreis und eine Meldung an den Versicherer ist sinnvoll. Ihren Fahrerkreis können Sie einfach und schnell in Ihrem persönlichen Kundenbereich „Meine HUK” ändern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Werden Sie als „junger Fahrer“, also mit einem Alter von unter 25 Jahren, eingetragen, können die Beiträge zwar höher ausfallen. Doch es spielt auch eine Rolle, ob Sie bereits am Begleiteten Fahren mit 17 teilgenommen und so Fahrerfahrung gesammelt haben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Häufig profitieren junge Fahrer von einer günstigeren Prämie, wenn sie amBegleiteten Fahrenteilnehmen bzw. teilgenommen haben. Das Begletete Fahren senkt nachweislich das Unfallrisiko."
+        },
+        {
+            "text": "5 %"
+        },
+        {
+            "text": "Mit dem Kombi-Bonus in Ihrer Auto­versicherung sparen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Profitieren Sie schon vom Kombi-Bonus? Mit mindestens 2 kombifähigen Verträgen sinkt der Beitrag in Ihrer Pkw-Haftpflichtversicherung und Kaskoversicherung um 5 %."
+        },
+        {
+            "text": "Jetzt Kombi-Bonus sichern"
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Häufige Fragen zur Fahranfänger-Versicherung"
+        },
+        {
+            "text": "Mit welchen Prozenten werden Fahranfänger eingestuft?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In jederSF-Klassegilt ein Prozentsatz, der auf demGrundbetrag derAutoversicherungbasiert."
+        },
+        {
+            "type": "paragraph",
+            "text": "So werden Sie in derSchadenfreiheitsklasse 0beispielsweise in der Kraftfahrt-Haftpflichtversicherung eines Pkw mit einemBeitragssatz von 100 %eingestuft. Wer sich in derSF-Klasse ½befindet, hat einenBeitragssatz von 65 %."
+        },
+        {
+            "text": "Wie lange gilt man für die Versicherung als Fahranfänger?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In der Regel gelten Sie im Alter von18 bis 24 Jahrenals Fahranfänger. Liegen uns keine Unterlagen für die Zuordnung zu einer höherenSchadenfreiheitsklassevor, starten Sie bei Vertragsbeginn in der SF-Klasse 0 – unabhängig vom Alter."
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Informationen zur Kfz-Versicherungfinden Sie in denallgemeinen Versicherungsbedingungen."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/fahrsicherheit/begleitetes-fahren.html",
+            "text": ""
+        },
+        {
+            "text": "Begleitetes Fahren ab 17"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Infos zum BF17, den Begleitpersonen, der Probezeit und den Auswirkungen auf die Versicherung, lesen Sie in unserem Ratgeber."
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/fahrsicherheit/begleitetes-fahren.html",
+            "text": "Was ist das Begleitete Fahren ab 17?"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unser Service für Sie"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/meine_huk-800px.png",
+            "alt": "Icon: &quot;Mein HUK&quot; Login"
+        },
+        {
+            "type": "paragraph",
+            "text": "„Meine HUK“"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erledigen Sie alles online in Ihrem persönlichen Bereich."
+        },
+        {
+            "type": "paragraph",
+            "text": "Einloggen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/schaden-800px.png",
+            "alt": "Icon: Kontaktformular"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fragen zur Autoversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie noch Fragen? Dann schreiben Sie uns!"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kontaktformular"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/standort-800px.png",
+            "alt": "Icon: Standortnadel – Persönliche Beratung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Persönliche Beratung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finden Sie Ihren Ansprechpartner in Ihrer Nähe."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ansprechpartner suchen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Keine Beratung nötig?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Informieren Sie sich bei unsererausschließlich onlinetätigen Tochtergesellschaft HUK24 zur Kfz-Versicherung."
+        },
+        {
+            "type": "link",
+            "href": "https://www.huk24.de/versicherungen/kfz-versicherung/autoversicherung.jsp?ID=P9999&nmfrom=From_HUK_KFZ_PKW",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://www.huk24.de/versicherungen/kfz-versicherung/autoversicherung.jsp?ID=P9999&nmfrom=From_HUK_KFZ_PKW",
+            "text": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Auto & Mobilität",
+                "Kfz-Versicherung",
+                "Fahranfänger-Versicherung"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "fahrzeuge_kfz-versicherung_autoversicherung-fahranfaenger.html"
+}

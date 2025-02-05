@@ -1,0 +1,24 @@
+similarity_score,comprehensiveness_score,groundedness_score,company_list,category
+1.0,0.5,0.5,"{'v2_axa.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Risikolebensversicherung
+0.8,0.38095238095238093,0.5333333333333333,"{'v2_axa.json', 'v2_sdk.json', 'v2_ergo.json'}",Gemischte Lebensversicherung
+1.0,0.26666666666666666,0.6,"{'v2_axa.json', 'v2_barmenia.json', 'v2_sdk.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Rentenversicherung
+0.8,0.2,0.4333333333333333,"{'v2_axa.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Berufsunfähigkeitsversicherung
+1.0,0.8333333333333333,0.619047619047619,"{'v2_generali.json', 'v2_huk-coburg.json', 'v2_barmenia.json', 'v2_ergo.json'}",Grundfähigkeitsversicherung
+1.0,0.3333333333333333,0.4,"{'v2_dkv.json', 'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json'}",Pflegekostenversicherung
+1.0,0.7083333333333334,0.7083333333333333,"{'v2_dkv.json', 'v2_barmenia.json', 'v2_sdk.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Pflegetagegeldversicherung
+1.0,0.07407407407407407,0.537037037037037,"{'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Haftpflichtversicherung
+1.0,0.6666666666666666,0.42857142857142855,"{'v2_generali.json', 'v2_axa.json', 'v2_arag.json'}",Betriebsunterbrechungsversicherung
+1.0,0.7222222222222222,0.6,"{'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Hausratversicherung
+1.0,0.6666666666666666,0.8,"{'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Gebäudeversicherung
+1.0,0.8888888888888888,0.3333333333333333,"{'v2_generali.json', 'v2_axa.json', 'v2_arag.json'}",Geschäftsinhaltsversicherung
+1.0,0.19047619047619047,0.846153846153846,"{'v2_dkv.json', 'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_generali.json'}",Gewerbeversicherung
+1.0,1.0,0.75,"{'v2_generali.json', 'v2_axa.json', 'v2_barmenia.json', 'v2_huk-coburg.json'}",Bauleistungsversicherung
+1.0,1.0,0.6,"{'v2_generali.json', 'v2_axa.json'}",Maschinenkasko- und Maschinenbruchversicherung
+0.5,0.8333333333333333,0.42857142857142855,"{'v2_axa.json', 'v2_arag.json'}",Kreditversicherung
+0.8,0.9523809523809524,0.5,"{'v2_huk-coburg.json', 'v2_axa.json', 'v2_arag.json'}",Elementarversicherung
+1.0,0.20833333333333331,0.3333333333333333,"{'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_sdk.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Unfallversicherung
+1.0,0.2857142857142857,0.4,"{'v2_dkv.json', 'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_sdk.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Reiseversicherung
+1.0,0.7619047619047619,0.606060606060606,"{'v2_generali.json', 'v2_axa.json', 'v2_arag.json'}",Transportversicherung
+1.0,0.42857142857142855,0.5555555555555555,"{'v2_huk-coburg.json', 'v2_arag.json', 'v2_barmenia.json'}",Tierversicherung
+1.0,1.0,0.619047619047619,"{'v2_generali.json', 'v2_barmenia.json', 'v2_huk-coburg.json'}",Fahrerschutzversicherung
+1.0,0.2222222222222222,0.5,"{'v2_axa.json', 'v2_arag.json', 'v2_barmenia.json', 'v2_generali.json', 'v2_huk-coburg.json', 'v2_ergo.json'}",Rechtsschutzversicherung

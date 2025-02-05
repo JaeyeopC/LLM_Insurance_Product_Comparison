@@ -1,0 +1,148 @@
+{
+    "title": "Private Krankenversicherung: Individueller Schutz | Generali",
+    "metadata": {
+        "description": "Individuelle Angebote für verschiedene Berufsgruppen und Lebenssituationen mit der privaten Krankenversicherung der Generali. ",
+        "keywords": "Krankenversicherung,Krankenvollversicherung, Central Krankenversicherung,Central,private Krankenversicherung,PKV",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Private Krankenversicherung",
+        "og:description": "Individuelle Angebote für verschiedene Berufsgruppen und Lebenssituationen mit der privaten Krankenversicherung der Generali.",
+        "og:image": "https://www.generali.de/resource/blob/20970/5a15ba8de56dd9a90fff50082cf30bee/hero-krankenvollversicherung-data.jpg"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Private Krankenversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/dvag",
+            "text": "Berater finden"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "PRIVATKUNDEN",
+                "GESUNDHEIT & FREIZEIT",
+                "KRANKENVOLLVERSICHERUNG"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Gesetzlich oder privat versichern?Treffen Sie die richtige Wahl - Informieren Sie sich mit dem KV-Kompass über die Unterschiede zwischen gesetzlicher Krankenversicherung (GKV) und privater Krankenversicherung (PKV).Mehr erfahren",
+                "Generali als GesundheitspartnerWir verstehen uns als lebenslanger Partner für unsere Versicherten, der ihre Gesundheit über das gesamte Leben hinweg unterstützt.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pri­vate Kran­ken­ver­si­che­rung – zuge­schnit­ten auf Sie"
+        },
+        {
+            "type": "paragraph",
+            "text": "Entdecken Sie die Vorzüge einer privaten Krankenvollversicherung: Individuelle Angebote für verschiedene Berufsgruppen und Lebenssituationen. Profitieren Sie von weiteren Highlights."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Für Angestellte und SelbstständigeEine umfassende Gesundheitsabsicherung ist Ihnen wichtig? Mit einer klassischen privaten Krankenversicherung treffen Sie immer eine gute Wahl.Mehr erfahren",
+                "Für Ärzte und ZahnärzteAls Mediziner kennen Sie die Vorzüge einer privaten Krankenversicherung aus erster Hand. Sichern Sie sich umfassend ab – zum Spezialtarif für Ärzte.Mehr erfahren",
+                "Für Beamte und BeamtenanwärterErgänzen Sie Ihre Beihilfeleistung mit einer privaten Krankenversicherung der Generali. Sichern Sie sich und Ihre Angehörigen rundum ab.Mehr erfahren",
+                "Für Studenten und AuszubildendeProfitieren Sie schon in jungen Jahren, während des Studiums oder der Ausbildung, von den Vorteilen einer privaten Krankenversicherung mit besonderen Konditionen.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Pflegepflichtversicherung für VollversicherteErgänzen Sie Ihre private Krankenversicherung sinnvoll durch eine private Pflegeversicherung und genießen Sie viele Vorteile im Vergleich zur gesetzlichen Pflegeversicherung.Mehr erfahren",
+                "Krankentagegeld für VollversicherteSichern Sie Ihren gewohnten Lebensstandard auch bei längerer Arbeitsunfähigkeit ab.Mehr erfahren",
+                "Beitragssicherung im AlterSie wünschen sich, dass es Ihnen auch im Alter gut geht? Wichtiger denn je sind dafür erstklassige Leistungen. Und vor allem: attraktive BeiträgeMehr erfahren",
+                "Krankenhaustagegeld-VersicherungSchützen Sie sich vor Mehrkosten im Krankenhaus.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/31310/85f121ba2efe7d016ad62499fe8bdf9f/dvag-logo-gold-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wäh­len Sie Ihren Bera­ter aus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finden Sie einen Berater der Deutschen Vermögensberatung (DVAG) in Ihrer Nähe"
+        },
+        {
+            "text": "Postleitzahl"
+        },
+        {
+            "text": "Berater auswählen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mehr Pro­dukte"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "PflegezusatzversicherungSchützen Sie sich und Ihre Angehörigen vor einer finanziellen Belastung im Pflegefall.Mehr erfahren",
+                "Zusatzversicherung Mein GesundheitsplanErgänzen Sie den Schutz Ihrer gesetzlichen Krankenversicherung in den Bereichen, die Ihnen besonders wichtig sind.Mehr erfahren",
+                "Auslandsreise-KrankenversicherungSicher ins Ausland reisenMehr erfahren",
+                "Vermögensaufbau- & SicherheitsplanIhre Vorsorge unter einem guten SternMehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "privatkunden_gesundheit-freizeit_krankenvollversicherung"
+}

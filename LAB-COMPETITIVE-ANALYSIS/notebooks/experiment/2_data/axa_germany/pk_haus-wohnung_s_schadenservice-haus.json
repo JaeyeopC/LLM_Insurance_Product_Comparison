@@ -1,0 +1,366 @@
+{
+    "title": "Schaden am Haus: Melden und beseitigen ⁄ AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Schadensfall am Haus: Unser schadenservice 360° hilft Ihnen beim✓ Melden eines Schadens am Haus✓ schnellen Schadenbeseitigung ▶ jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/haus-wohnung/s/schadenservice-haus",
+        "og:title": "Schaden am Haus: Melden und beseitigen ⁄ AXA",
+        "og:description": "Schadensfall am Haus: Unser schadenservice 360° hilft Ihnen beim✓ Melden eines Schadens am Haus✓ schnellen Schadenbeseitigung ▶ jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E-1778515033/8703547/schadenservice360-haus_facebook.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E-1778515033/8703547/schadenservice360-haus_facebook.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haus-wohnung",
+            "text": "Haus & Wohnung"
+        },
+        {
+            "text": "Schadenservice Haus"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kinder rennen in die Wohnung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kostenloser Rundumservice im Schadenfall",
+                "Schnelle Hilfe durch Partnerhandwerker",
+                "Organisation aller Handwerksleistungen",
+                "Im Notfall Sofortmaßnahmen 24/7 bei Wasser- und Feuerschäden"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/schaden-melden/",
+            "text": "Online Schaden melden"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/wir-ueber-uns/auszeichnungen/kundenfeedback/kundenbewertung-schadenabwicklung-schadenservice360-haus-axa",
+            "text": "Sehr gutaus 40 Bewertungen(letzte 12 Monate)Gesamt: 1576schadenservice360° Haus20.11.2024"
+        },
+        {
+            "text": "Auf einen Blick"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "Welche Vorteile hat der Schadenservice Haus?",
+                "Wie funktioniert der Schadenservice Haus?",
+                "Wie kann ich einen Schaden melden?",
+                "Für welche Schäden ist der Schadenservice Haus geeignet?",
+                "Wie beurteilen Kunden von AXA den Service?",
+                "Haben Sie noch Fragen?"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "schadenservice360° Haus / AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Schadenfall kommt immer unerwartet und macht oft aufwändige Reparaturen notwendig. Das kostet Geld, aber auch Zeit und Nerven. Die Lösung: unser Schadenservice Haus!Dank unseres deutschlandweiten Handwerkernetzes bekommen Sie konkrete Hilfe, z.B. bei Schäden durch Wasser oder Feuer – im Notfall auch sofort. Unsere Schadenexperten koordinieren für Sie alle erforderlichen Handwerksleistungen. Und auf Wunsch übernimmt AXA die Abrechnung direkt mit den Partnerhandwerkern.Der Schadenservice Haus steht allen Kunden mit einer Wohngebäude-, Hausrat- oder Glasversicherung kostenfrei und freiwillig bei folgenden Schäden zur Verfügung:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Feuer",
+                "Wasser",
+                "Glasbruch",
+                "Einbruchdiebstahl"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration schnelle Hilfe"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schnelle Hilfe"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kontaktaufnahme seitens AXA noch am gleichen Tag der Schadenmeldung",
+                "Vereinbarung eines schnellstmöglichen Vor-Ort-Termins",
+                "24-Stunden Notdienst und notwendige Sofortmaßnahmen bei Schäden durch Wasser und Feuer innerhalb von 3 Stunden"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration alles aus einer Hand"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Alles aus einer Hand"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Persönlicher Ansprechpartner übernimmt die komplette Koordination der Schadenbehebung",
+                "Breites Netzwerk stellt sicher, dass alle benötigten Handwerker schnell und Hand in Hand zusammenarbeiten"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration Sie entscheiden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sie entscheiden"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Welche Arbeiten über unser Handwerkernetz bzw. über eigene Handwerker abgewickelt werden sollen",
+                "Welche Materialien verwendet werden"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration hohe Qualitätsstandards"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Hohe Qualitätsstandards"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Einsatz von Spezialfachkräften, z.B. Leckageortung und Trocknung, stellt schnelles Eindämmen des Schadens sicher",
+                "Professionelle Sanierung bzw. Renovierung wird regelmäßig anhand definierter, hoher Qualitätsstandards seitens AXA geprüft"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration keine Vorleistung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Keine Vorleistung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kostenloses Angebot",
+                "AXA übernimmt auf Wunsch die Abrechnung mit den Partnerhandwerkern direkt"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration Transparenz"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Transparenz der Schadenbearbeitung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Laufende, digitale Information über den Stand der Schadenbearbeitung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie funktioniert der Schadenservice Haus?"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "Sie melden den SchadenMelden Sie den Schaden und entscheiden Sie sich direkt für unser kostenloses Angebot.",
+                "Der Partnerhandwerker meldet sichWir vermitteln Ihnen einen geeigneten Partnerhandwerker, dieser  nimmt innerhalb eines Tages Kontakt zu Ihnen auf und vereinbart einen Vor-Ort-Termin.",
+                "Der Schaden wird begutachtetDer Schaden wird begutachtet und die notwendigen Reparaturarbeiten werden ermittelt. Sie entscheiden, für welche Reparaturen Sie unsere Partnerhandwerker nutzen möchten.",
+                "Der Schaden wird behobenIhr persönlicher Ansprechpartner organisiert für Sie die vereinbarte Schadenabwicklung und koordiniert die erforderlichen Partnerhandwerker. Auf Wunsch übernimmt AXA die komplette Abrechnung direkt mit den Handwerkern."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Schadenabwicklung mit dem schadenservice360°"
+        },
+        {
+            "type": "paragraph",
+            "text": "Melden Sie den entstandenen Schaden in Ihrem Zuhause am besten bei unseren Schadenexperten, die Sie rund um die Uhr unter 0800 2920333 telefonisch erreichen können oder bei ihrem persönlichenAXA Betreuer vor Ort.Unser Tipp: Nutzen Sie die Vorteile des Schadenservice Haus und sprechen Sie unsere Schadenexperten darauf an.So können wir Sie zügig beraten, begleiten und schnellstmöglich Hilfe in die Wege leiten.Alternativ können Sie den Schaden auchonlineoder schriftlich (AXA Konzern AG, Postfach 51171) bei uns melden."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wasserschaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "EinWasserschadenist sehr ärgerlich – oftmals ist das ganze Ausmaß auf den ersten Blick nicht zu erkennen. Deshalb ist es besonders wichtig, den gesamten Schaden durch Fachleute, wie z.B. Bau-Sanierer, Installateure, Fliesenleger mit entsprechender technischer Ausrüstung möglichst zerstörungsfrei identifizieren zu lassen. Verursacht durch u.a. Rohrbruch oder Naturereignisse hinterlässt Wasser an Gebäuden und Möbeln immense Schäden. Dazu gehören durchnässte Wände, Decken und Bodenbelege, Schimmel sowie beschädigte bis unbrauchbare Möbel. Damit verbunden ist ein hoher Sanierungsaufwand und damit auch hohe finanzielle Kosten."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Brandschaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Um die Folgen eines Brandschadens gering zu halten ist eine schnelle Sanierung dringend notwendig. Neben den erheblichen Schäden durch das Löschwasser, oder dem meistens komplett zerstörten Inventar, ist besonders die intensive Geruchsentwicklung, z.B. durch verbrannte Kabel, vor allen Dingen aber der starke Rußbelag eine Belastung. Ruß legt sich durch seine feinen Partikel auch außerhalb des eigentlichen Brandherds überall ab und erfordert eine intensive professionelle Reinigung des weiteren Brandumfeldes durch Renovierungs-Spezialisten."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Glasschaden (bei Schäden an Türen, Fenstern und Kleinmobiliar)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Einen klassischen Glasschaden verbindet man oft mit Schäden an Kleinmobiliar oder Dekoartikeln. Oftmals übersehen wird, dass Schäden an Fenstern, am Cerankochfeld oder an Duschtrennwänden hohe Schadensummen mit sich bringen. Ganz im Sinne der Nachhaltigkeit versuchen unsere Experten für Glasbruchschäden auch hier mit professionellen Reparaturmethoden den Schaden zu beheben und einen Austausch, wenn möglich zu vermeiden – damit der Aufwand für den Kunden gering bleibt."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Einbruchdiebstahlschaden – bei Schäden an Fenstern und Türen oder im Wohnraum"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Einbruch ist seelisch sehr belastend, da hilft oft nur Zeit und ggfs. psychologische Unterstützung. Die Behebung der Schäden an Fenstern und Türen und oft auch durch Vandalismus im Wohnraum dagegen, nehmen wir Ihnen schnell ab. Unsere Fachbetriebe sind Experten für Fenster, Türen und Einrichtungsgegenstände und versuchen Ihnen schnellstmöglich wieder ein sicheres Gefühl zu geben und beschädigte Einrichtung zu reparieren. Und nach erfolgter Reparatur können Sie über unsere Fachbetriebe auch noch einen kostenlosen Sicherheitscheck anfordern, damit Sie sich wieder ganz sicher fühlen können. Rechtstipps für Mieter und Eigentümer finden Sie im AXA Ratgeber."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tina W. ist dankbar, dass ihr geliebtes Zuhause nach einem großen Leitungswasserschaden wieder so schön wie vorher aussieht. Erst vor 2 Jahren war sie mit ihrer Familie nach aufwendiger Renovierung in die eigenen vier Wände gezogen, als plötzlich Wasser von der Wohnzimmerdecke tropfte. Dank AXA und unserem Partnerhandwerker lief die Schadenbehebung zügig und reibungslos. Dabei hatte sie immer einen festen Ansprechpartner an ihrer Seite.Mehr zum AXA Schadenservice erfahren Sie in unserem Video (Dauer: 2:39 min.)."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau berichtet vom Schadenfall in ihrem Haus"
+        },
+        {
+            "type": "link",
+            "href": "",
+            "text": "Abspielen"
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA trägt stets die Kosten der Leckageortung, wenn sie durch einen unserer Partnerhandwerker erfolgt, auch wenn die dadurch ermittelte Schadenursache nicht versichert ist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit dem Schadenservice Haus wird alles für Sie geregelt. Auf Wunsch übernimmt AXA auch direkt die Abrechnung mit unseren Partnerhandwerkern und Sie erhalten später nur noch die Rechnung in Kopie. Dafür müssen Sie lediglich eine Abtretungserklärung unterzeichnen, die Ihnen unser Partnerhandwerker bei seinem Erstbesuch vorlegt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit unseren breit aufgestellten Handwerkernetzen können wir schnell und gezielt auf Ihren Schaden reagieren und vermitteln Ihnen die Experten, den Sie für Ihre Schadenbehebung brauchen wie z.B. Bau-Sanierer, Installateure, Fliesenleger oder Maler. Unsere Partnerhandwerker erfüllen alle einen hohen Servicestandard und werden fortlaufend von AXA geprüft."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haus-wohnung/a/hilfe-eigenheim-bautraeger",
+            "text": "Weitere Tipps für den Bau Ihres Eigenheimes mit Bauträger"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Handwerkerunternehmen, mit denen AXA Dienstleistungsverträge abgeschlossen hat, sind Spezialisten ihres Fachs und halten sich an die vertraglich vereinbarten Abläufe, Servicezeiten und  Qualitätsanforderungen. Das wird bei AXA auch streng überwacht und regelmäßig auch direkt beim Kunden hinterfragt. Damit ist sicher gestellt, dass die Handwerker die AXA zur Schadenbehebung vermittelt, auch wirklich gute Arbeit leisten. Und sollte dies einmal nicht der Fall sein, steht AXA seinen Kunden selbstverständlich bei der Klärung zur Seite."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei komplexeren Schäden, wie z.B. einem Leitungswasserschaden, wo mehrere Partnerhandwerker an der Schadenbehebung beteiligt sind (Spezialisten für Leckageortung, Fliesenleger, Maler etc.), haben Sie einen festen Ansprechpartner an Ihrer Seite. Zusätzlich und auch bei kleineren Schäden erhalten Sie laufend digital einen Einblick zum Stand der Abwicklung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie erhalten die Kosten für die Beseitigung versicherter Schäden bis zur Höhe der Versicherungssumme ersetzt und somit z.B. auch die Reparaturkosten für einen beschädigten Boden. Dabei geht es um die Wiederherstellung des Zustandes von vor dem Schadenereignis und demnach auch nur um den Bodenbelag, der bereits bestanden hat und in der Regel auch nur um die beschädigte Stelle. Unsere Partnerhandwerker können Ihnen aber gerne auch das höherwertige Material verbauen. Die dadurch entstehenden Mehrkosten tragen Sie selbst und rechnen diese direkt mit unseren Partnerhandwerkern ab."
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA vermittelt Ihnen lediglich einen unserer Partnerhandwerker, Auftraggeber bleiben jedoch Sie. Bei dem ersten Besuch unseres Partnerhandwerkers unterschreiben Sie bitte ein entsprechendes Auftragsformular. Damit besteht auch die Gewährleistungspflicht unseres Partnerhandwerkers Ihnen gegenüber."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Direkt und persönlich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Vereinbaren Sie ein Gespräch mit IhremAXA Betreuer vor Ort."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schnell per Telefon"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie erreichen unsere Schadenexperten rund um die Uhr kostenfrei unter0800 2920333."
+        },
+        {
+            "text": "Schaden telefonisch melden"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 2920333 (Inland)"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "0049 221 148-35803 (Ausland)"
+        },
+        {
+            "text": "Schaden online melden"
+        },
+        {
+            "text": "Mit der AXA Online-Schadenmeldung können Sie Ihren Schaden schnell und einfach melden."
+        },
+        {
+            "text": "Online-Schadenmeldung"
+        },
+        {
+            "text": "Postanschrift"
+        },
+        {
+            "text": "AXA Konzern AG, Postfach 51171 Köln"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_haus-wohnung_s_schadenservice-haus"
+}

@@ -1,0 +1,747 @@
+{
+    "title": "Private Krankenversicherung (PKV) / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Premium Gesundheitsschutz mit ✓Top-Versorgung als Privatpatient ✓stabile Beiträge im Alter ✓individuelle PKV-Tarife ▶Jetzt Beitrag berechnen",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/p/private-krankenversicherung",
+        "og:title": "Private Krankenversicherung (PKV) / AXA",
+        "og:description": "Premium Gesundheitsschutz mit ✓Top-Versorgung als Privatpatient ✓stabile Beiträge im Alter ✓individuelle PKV-Tarife ▶Jetzt Beitrag berechnen",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E1678512700/24267114/gesunde-fahrradfahrerin-768-500.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E1678512700/24267114/gesunde-fahrradfahrerin-768-500.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "Private Krankenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine gesunde Frau fährt Fahrrad"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "In 5 Minuten Beitrag berechnen und in wenigen Schritten ausgezeichneten Schutz abschließen",
+                "Status als Privatpatient fürs ganze Leben sichern"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/KVV-Online?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/wir-ueber-uns/auszeichnungen/kundenfeedback/kundenbewertung-leistungsabwicklung-von-axa",
+            "text": "Gutaus 61450 Bewertungen(letzte 12 Monate)Gesamt: 261436Leistungsabwicklung von AXA01.12.2024"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schnelle Facharzttermine",
+                "Behandlung durch den Chefarzt",
+                "Zugang zu neuesten Diagnose- und Therapiemethoden"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Arzt spricht mit seiner Patientin im Krankenhaus"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Große Familie macht einen Spaziergang"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Gesetzliche Alterungsrückstellung beugt hohen Belastungen im fortgeschrittenen Alter vor",
+                "10% Zuschlag für die Alterungsrückstellung entfällt ab dem 60. Lebensjahr, mit dem Eintritt in den Ruhestand auch der Beitrag für das Krankentagegeld",
+                "Weitere Beitragsentlastung im Alter ergänzend zubuchbar – für niedrigere Altersbeiträge"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "AXA ist einer der größten Direktversicherer weltweit mit  Millionen Kunden in Deutschland",
+                "Umfassende Erfahrung und vorausschauendes Wirtschaften ermöglichen, trotz steigender Gesundheitskosten, eine moderate Beitragsentwicklung"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mann entspannt sich im Liegestuhl in der Sonne"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Online Arzt anrufen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Online Arzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Einfach von zu Hause einen Arzt konsultieren und z. B. Rezepte direkt online erhalten – rund um die Uhr, per Telefon oder Videochat"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vorsorgeangebote"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesund bleiben"
+        },
+        {
+            "type": "paragraph",
+            "text": "Umfassende Vorsorgeangebote – und Übernahme von Präventionsmaßnahmen ohne Auswirkungen auf Ihre Beitragsrückerstattung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zahnarztleistungen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zahnarztleistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% Erstattung für Zahnprophylaxe und bis zu 90% Erstattung für Zahnersatz (je nach Tarif)"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Psychotherapie"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vermittlung zur Psychotherapie"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schnelle Vermittlung von Therapieplätzen; bis zu 100% Erstattung (je nach Tarif) der Kosten für ambulante und stationäre Psychotherapie"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Heilmethoden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Alternative Heilmethoden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erstattung auch für alternative Behandlungen und Heilmittel, die von gesetzlichen Krankenkassen nicht übernommen werden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Garantierte Leistungen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Garantierte Leistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nachträgliche Kürzungen einzelner Leistungen wie in der GKV gibt es in der PKV nicht. Sie sichern sich Premiumleistungen auch für die Zukunft"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Gesundheits-App"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Praktisch per App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gesundheit online managen – von Fachärzten und Terminen über Diagnosen, Röntgenbilder etc. bis zu Rechnungen und Erstattungen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "medizinischer Fortschritt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Innovation inklusive"
+        },
+        {
+            "type": "paragraph",
+            "text": "Vom aktuellen medizinischen Fortschritt profitieren: schneller Zugang zu neuen Behandlungsmethoden und  Medikamenten"
+        },
+        {
+            "type": "paragraph",
+            "text": "S"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ab 465,65€ *"
+        },
+        {
+            "type": "paragraph",
+            "text": "M"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ab 564,89€ *"
+        },
+        {
+            "type": "paragraph",
+            "text": "L"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ab 648,31€ *"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "El BonusKompakt Zahn-UKTGV42-U/140PVN"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "ActiveMeKomfort-Zahn-UKTGV42-U/140PVN"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vital900Premium Zahn-UKTGV42-U/140KHT-U/50PVN"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zahnleistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zahnprophylaxe"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zahnersatz"
+        },
+        {
+            "type": "paragraph",
+            "text": "60-70%"
+        },
+        {
+            "type": "paragraph",
+            "text": "75-85%"
+        },
+        {
+            "type": "paragraph",
+            "text": "90%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ambulante Leistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "ambulante Arztbehandlung"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "direkt zum Facharzt (ohne Überweisung)"
+        },
+        {
+            "type": "paragraph",
+            "text": "75%"
+        },
+        {
+            "type": "paragraph",
+            "text": "80%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Online-Arzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Übernahme empfohlener Schutzimpfungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Vorsorge"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Arzneimittel"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% für Generika sonst 80%"
+        },
+        {
+            "type": "paragraph",
+            "text": "ja"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erstattung Heilpraktiker"
+        },
+        {
+            "type": "paragraph",
+            "text": "75% bis max. 1000€/ Jahr"
+        },
+        {
+            "type": "paragraph",
+            "text": "80% bis max. 1000€/ Jahr"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% bis max. 1000€/ Jahr"
+        },
+        {
+            "type": "paragraph",
+            "text": "ambulante Psychotherapie"
+        },
+        {
+            "type": "paragraph",
+            "text": "70% bis max. 50 Sitzungen/ Jahr"
+        },
+        {
+            "type": "paragraph",
+            "text": "80% für beliebig viele Sitzungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% für max. 30 Sitzungen,31-60. Sitzung 80%,ab 61. Sitzung 70%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Heil- und Hilfsmittel"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erstattung Heilmittel (z.B. Massagen, Ergotherapie)"
+        },
+        {
+            "type": "paragraph",
+            "text": "75%"
+        },
+        {
+            "type": "paragraph",
+            "text": "80% bis 1.600€,danach 100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "90%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erstattung Hilfsmittel (z.B. Rollstühle)"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% bei Bezug über AXA,sonst 75%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% bei Bezug über AXA,sonst 80%"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% bei Bezug über AXA,sonst 75%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sehhilfe (Brille und Kontaktlinsen)"
+        },
+        {
+            "type": "paragraph",
+            "text": "100€ für 2 aufeinander folgende Jahre"
+        },
+        {
+            "type": "paragraph",
+            "text": "250€ für 2 aufeinander folgende Jahre"
+        },
+        {
+            "type": "paragraph",
+            "text": "250€ für 2 aufeinander folgende Jahre"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sehschärfekorrektur (z.B. Lasik)"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% bis max. 400€ je Auge/ 10 Jahre"
+        },
+        {
+            "type": "paragraph",
+            "text": "100% bis max. 1.000€ je Auge"
+        },
+        {
+            "type": "paragraph",
+            "text": "100%"
+        },
+        {
+            "type": "paragraph",
+            "text": "Stationäre Leistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Arzt im Krankenhaus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Stationsarzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Chefarzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Chefarzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zimmerart im Krankenhaus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehrbettzimmer(hier wird auch von allgemeiner Pflegeleistung gesprochen)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zweibettzimmer"
+        },
+        {
+            "type": "paragraph",
+            "text": "Einbettzimmer(der 50€ Eigenanteil ist in diesem Tarifpaket über das Krankenhaustagegeld abgesichert)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Krankentagegeld"
+        },
+        {
+            "type": "paragraph",
+            "text": "Krankentagegeld"
+        },
+        {
+            "type": "paragraph",
+            "text": "140€ pro Tagab dem 42. Tag der Arbeitsunfähigkeit"
+        },
+        {
+            "type": "paragraph",
+            "text": "140€ pro Tagab dem 42. Tag der Arbeitsunfähigkeit"
+        },
+        {
+            "type": "paragraph",
+            "text": "140€ pro Tagab dem 42. Tag der Arbeitsunfähigkeit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Selbstbehalt"
+        },
+        {
+            "type": "paragraph",
+            "text": "360€ pro Jahr"
+        },
+        {
+            "type": "paragraph",
+            "text": "20% bis max. 500€"
+        },
+        {
+            "type": "paragraph",
+            "text": "900€ pro Jahr"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rückerstattung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfolgsabhängig: 400€ - 700€ möglich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfolgsabhängig: 700€ - 1.000€ möglich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfolgsabhängig: 700€ - 1.000€ möglich"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/KVV-Online?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau macht Yoga im Wald"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die PKV steht nicht jedem offen. Wenn Sie selbstständig, verbeamtet oder freiberuflich tätig sind, können Sie frei zwischen GKV und PKV wählen. Angestellte können in die PKV wechseln, sofern ihr Jahresbruttogehalt mehr als 69.300 Euro im Jahr (Stand 2024) beträgt. Sie fallen dann nicht mehr unter die gesetzliche Versicherungspflicht und werden in der GKV als freiwillige Mitglieder geführt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/gkv-pkv-wechsel",
+            "text": "Wechsel von GKV zu PKV"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie viel verdienen, kann sich der Wechsel sehr lohnen, da der Beitrag in der PKV nicht mit der Höhe Ihres Einkommens steigt. Besonders hoch ist die Ersparnis, wenn Sie selbstständig oder freiberuflich arbeiten, da Siedie Beiträge für die GKV zu 100% selbstzahlen müssten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei der Wahl Ihrer privaten Krankenversicherung sollten Sie nicht nur auf den aktuell günstigsten Monatsbeitrag achten. Wichtig sind unter anderem auch Leistungsumfang und Gesundheitsservices. AXA bietet eines der breitesten Gesundheitsangebote am Markt. Wir haben die Erfahrung und das Know-how für einen Schutz, der Ihr Grundbedürfnis nach Gesundheit stets im Fokus hat."
+        },
+        {
+            "type": "paragraph",
+            "text": "Maßgeblich für die Beitragshöhe sind vor allem der gewünschte Leistungsumfang sowie Ihr Alter und Ihr Gesundheitszustand bei Vertragsbeginn. Je früher Sie in die PKV wechseln, umso niedriger fallen, auch auf lange Sicht, Ihre Gesundheitskosten aus.Mit der Möglichkeit zur Selbstbeteiligung können Sie zudem die Höhe Ihrer monatlichen Beiträge beeinflussen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcher Tarif in der privaten Krankenversicherung für Sie optimal geeignet ist, hängt von verschiedenen Faktoren ab – zum Beispiel, welche Leistungen Ihnen besonders wichtig sind, ob Sie selbstständig sind, ob Sie eine Selbstbeteiligung wünschen usw. Lassen Sie sich am besten von uns beraten – wir finden gemeinsam mit Ihnen den Tarif, der perfekt zu Ihnen passt!"
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch später gibt es vielfältige Möglichkeiten, Ihren anfangs gewählten Tarif zu ändern. Sie sollten sich dazu stets von unseren Fachleuten beraten lassen – sie werden Ihnen gerne darlegen, welche Optionen des Tarifwechsels für Sie individuell möglich und sinnvoll sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "In der privaten Krankenversicherung wird jede Person separat abgesichert. Ihr neugeborenes Kind können Sie können Sie innerhalb von zwei Monaten nach Geburt ohne jede Gesundheitsprüfung bei AXA versichern, wenn für Sie (oder das andere Elternteil) seit mindestens drei Monaten eine private Krankenvollversicherung bei uns besteht und Sie für das Kind keinen umfangreicheren Schutz als für sich selbst abschließen möchten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Als Privatpatient bekommen Sie von Ihrer Arzt- oder Heilpraktikerpraxis eine Rechnung, die Sie bei uns einreichen – per Post oder ganz einfach digital. Wir prüfen die Rechnungen zügig und überweisen die Erstattung der versicherten Leistungen anschließend umgehend auf Ihr Bankkonto. Stationäre Aufenthalte und Operationen werden im Regelfall mit AXA direkt abgerechnet."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch als Rentner überweisen Sie die Beiträge selbst an die PKV. Ab dem 60. Lebensjahr entfällt der gesetzliche Zuschlag von 10%. Mit Beginn des Rentenbezugs entfallen außerdem Ihre Beiträge für die Krankentagegeldversicherung, sodass Ihr Beitrag insgesamt entlastet wird. Darüber hinaus ist ein Beitragszuschuss durch den Rentenversicherungsträger möglich."
+        },
+        {
+            "type": "paragraph",
+            "text": "In manchen Fällen kann es tatsächlich günstiger sein, Rechnungen zunächst nicht einzureichen und den weiteren Jahresverlauf abzuwarten – etwa, wenn Sie eine Selbstbeteiligung vereinbart haben oder davon ausgehen, dass in einem Kalenderjahr die Leistungen geringer ausfallen werden als Ihre Beitragsrückerstattung bei Leistungsfreiheit. Wenn Sie unsicher sind, was am sinnvollsten ist, hilft Ihnen das Rechnungsmanagement in unserem ePortal „Meine Gesundheit“ weiter."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Angebot anfordern"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir erstellen Ihnen gerne Ihr persönliches Angebot"
+        },
+        {
+            "type": "link",
+            "href": "tel:08002922263",
+            "text": "0800 29 22 263"
+        },
+        {
+            "text": "Öffnungszeiten: Mo. - Fr. 7.30 - 20.00 Uhr"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kundenservice"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Fragen rund um Ihre Verträge erreichen Sie uns unter:"
+        },
+        {
+            "type": "link",
+            "href": "tel:022114841002",
+            "text": "0221 148-41002"
+        },
+        {
+            "text": "Öffnungszeiten: Mo. - Fr. 7.30 - 20.00 Uhr"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/optionstarif-vialife",
+            "text": "Optionstarif VIAlife von AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "*Der Preis bezieht sich auf eine 30-jährige Person."
+        },
+        {
+            "text": "Mit wenigen Klicks zum Angebot"
+        },
+        {
+            "text": "Wir erstellen Ihnen gerne Ihr persönliches Angebot"
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 2922263"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Notfälle im In- und Ausland"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Krankenvoll- und -zusatzversicherte"
+        },
+        {
+            "text": "+49 221 148-36505"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Auslandsreisekrankenversicherte"
+        },
+        {
+            "text": "+49 221 148-36515"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Spezialistensuche"
+        },
+        {
+            "text": "Spezialistensuche"
+        },
+        {
+            "text": "Fragen rund um Ihre Gesundheit"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Gesundheitstelefon"
+        },
+        {
+            "text": "0221 148-41444"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_p_private-krankenversicherung"
+}

@@ -1,0 +1,244 @@
+{
+    "title": "Über uns | Generali",
+    "metadata": {
+        "description": "Die Generali ist eine der führenden Versicherungsgruppen im deutschen Markt mit rund 10 Mio. Kunden.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Über uns",
+        "og:description": " ",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Wir sind einer der führenden Erstversicherer in Deutschland"
+        },
+        {
+            "text": "Unser Ziel ist es, ein lebenslanger Partner für unsere Kunden zu sein."
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns#33998",
+            "text": "Übersicht"
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns#nachhaltigkeit-und-esg-bei-generali-34004",
+            "text": "Nachhaltigkeit"
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns#wichtige-kennzahlen-auf-einen-blick*-34010",
+            "text": "Wichtige Kennzahlen"
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns#die-welt-der-generali-33992",
+            "text": "Die Welt der Generali"
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns#33958",
+            "text": "Gesellschaften und Marken"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "ÜBER UNS"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali ist eine der führenden Erstversicherungsgruppen im deutschen Markt mit Beitragseinnahmen von 14,8 Milliarden Euro und mehr als 9 Millionen Kunden. Als Teil der internationalen Generali Group ist die Generali in Deutschland mit den Marken Generali, CosmosDirekt und Dialog in den Segmenten Leben, Kranken und Schaden/Unfall tätig. Die Produkte der Generali Deutschland Versicherungen sind exklusiv bei der Deutschen Vermögensberatung Unternehmensgruppe erhältlich. Ziel der Generali ist es, für ihre Kunden ein lebenslanger Partner zu sein, der dank eines hervorragenden Vertriebsnetzes im Exklusiv- und Direktvertrieb sowie im Maklerkanal innovative, individuelle Lösungen und Dienstleistungen anbietet."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wich­tige Kenn­zah­len auf einen Blick*"
+        },
+        {
+            "type": "paragraph",
+            "text": "*Geschäftsjahr 2023"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Für Sie daMehr als 9 Mio. Kundinnen und KundenWir wollen Ihnen als Lifetime Partner ein Leben lang zur Seite stehen.",
+                "Nachhaltiges Wachstum14,8 Mrd. € Beiträge im VersicherungsgeschäftEiner der führenden Versicherer Deutschlands.",
+                "Rekordergebnis1.046 Mio. € Operating ResultWir sind konstant auf profitablem Erfolgskurs.",
+                "Engagierte Mitarbeiterrd. 9.200 BeschäftigteUnsere Mitarbeitenden sind deutschlandweit an 12 Standorten für Sie da."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Nach­hal­tig­keit und ESG bei Gene­rali"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gemeinsam für eine bessere Welt: Verantwortung für Umwelt und Gesellschaft bilden das Fundament unseres unternehmerischen Selbstverständnisses."
+        },
+        {
+            "type": "link",
+            "href": "/nachhaltigkeit",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die Welt der Gene­rali"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Generali GroupEin internationaler Player im Versicherungs-und Finanzdienstleistungsmarkt.Mehr erfahren",
+                "Public AffairsFür einen offenen Meinungsaustausch.Mehr erfahren",
+                "SponsorshipsUnser partnerschaftliches Engagement in Sport und Kultur.Mehr erfahren",
+                "Veranstaltungen & TermineBleiben Sie auf dem Laufenden: Bei diesen Events sind wir dabei.Mehr erfahren",
+                "UnternehmenskulturUnsere Kultur treibt unsere Strategie.Mehr erfahren",
+                "Generali No.IDas Generali MagazinMehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Management"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unser Mana­ge­ment"
+        },
+        {
+            "type": "paragraph",
+            "text": "Informationen zum Management der Generali in Deutschland"
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns/management-generali-deutschland-ag",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Strategie"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Stra­te­gie auf einen Blick"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Strategie basiert auf drei Säulen und einem starken Fundament. Erfahren Sie mehr über die globale Group-Strategie „Generali 2024“."
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns/strategie",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zahlen, Daten, Fakten"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zah­len, Daten, Fak­ten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali in Deutschland ist mit 14,9 Milliarden Euro Beitragseinnahmen und mehr als 9 Millionen Kunden eine der führenden Erstversicherungsgruppen auf dem deutschen Markt. Ausführliche Finanzberichte und Präsentationen geben Ihnen einen detaillierten Überblick."
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns/zahlen-daten-fakten",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Compliance"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Com­pliance. Buil­ding Trust."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Unternehmen der Generali in Deutschland führen ihre Geschäfte verantwortungsvoll und jederzeit in Übereinstimmung mit den gesetzlichen Bestimmungen."
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns/compliance",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Gesell­schaf­ten und Mar­ken der Gene­rali in Deutsch­land"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Unternehmen der Generali in Deutschland sind spezialisiert auf Erstversicherung und nahe Finanzdienstleistungen im deutschen Privatkunden- und Gewerbegeschäft. In den Geschäftsfeldern Lebens-, Kranken- und Sachversicherungen besetzen wir die Wachstumsbereiche der Zukunft."
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns/gesellschaften-marken",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mehr über Gene­rali"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "The Human Safety NetMenschen helfen Menschen.Mehr erfahren",
+                "PresseBleiben Sie auf dem Laufenden - alle Publikationen im Überblick.Mehr erfahren",
+                "KarriereWir suchen erstklassige Mitarbeiterinnen und Mitarbeiter.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Vita­li­tyApp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Gesundheitsprogramm motiviert Sie mit kleinen Extras, bewusster zu leben."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/generali-vitality/id1089388341",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.vitality.gli.de&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "ueber-uns"
+}

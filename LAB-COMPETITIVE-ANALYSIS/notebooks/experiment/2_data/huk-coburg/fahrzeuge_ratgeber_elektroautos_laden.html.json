@@ -1,0 +1,746 @@
+{
+    "title": "Elektroauto laden: zuhause & unterwegs",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "E-Auto laden: Wie funktioniert das Aufladen zuhause und unterwegs? Welche Stecker & Kabel braucht man? ➨ Jetzt lesen!",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "fahrzeuge.ratgeber.elektroautos.laden",
+        "date": "20241202T14:01:22",
+        "og:title": "Elektroauto laden: zuhause & unterwegs",
+        "og:type": "article",
+        "og:description": "E-Auto laden: Wie funktioniert das Aufladen zuhause und unterwegs? Welche Stecker & Kabel braucht man? ➨ Jetzt lesen!",
+        "og:url": "https://www.huk.de/fahrzeuge/ratgeber/elektroautos/laden.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/ratgeber/buehne/e-auto-laden.scale.shield_buehne430.jpg",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/e-auto-laden.scale.shield_buehne430.jpg",
+            "alt": "Familie beim E-Auto laden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Elektroauto laden"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/e-auto-laden.scale.shield_buehne430.jpg",
+            "alt": "Familie beim E-Auto laden"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Elektroauto laden"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Öffentliche Ladeinfrastruktur und Aufladen zu Hause"
+        },
+        {
+            "type": "paragraph",
+            "text": "DieLadeinfrastruktur für Elektrofahrzeuge in Deutschland wird immer besser.Noch ist das öffentliche Netz nicht mit dem Tankstellennetz für konventionell betriebene Verbrenner zu vergleichen, aber die Verbreitung nimmt immer weiter zu."
+        },
+        {
+            "type": "paragraph",
+            "text": "Besonders in städtischen Bereichen finden sich ausreichend Ladestationen für das Laden zwischendurch. Auch Einzelhändler haben die Vorteile von Ladesäulen erkannt und bieten auf ihren Parkplätzen Ladestationen für E-Autos an."
+        },
+        {
+            "type": "paragraph",
+            "text": "In den nächsten Jahren wird das Stromtankstellennetz deutlich ausgebautwerden und eine flächendeckende Versorgung wird selbst in ländlichen Regionen möglich sein."
+        },
+        {
+            "type": "paragraph",
+            "text": "Besitzer von Elektroautos können ihr Fahrzeug besonders komfortabel zu Hause laden, wenn genügend Platz vorhanden ist und die notwendigen Rahmenbedingungen (z. B. Nähe zu Stromanschluss) dafür gegeben sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein direkter Zugang zum Fahrzeug ist allerdings die Voraussetzung dafür. Das kann gerade in Ballungsgebieten schwierig sein, wenn zur eigenen Wohnung kein Parkplatz gehört."
+        },
+        {
+            "text": "Jetzt E-Auto-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Inhaltsverzeichnis"
+        },
+        {
+            "type": "link",
+            "href": "#wo",
+            "text": "Wo kann ich ein Elektroauto laden?"
+        },
+        {
+            "type": "link",
+            "href": "#schnell",
+            "text": "Schnelles und langsames Laden"
+        },
+        {
+            "type": "link",
+            "href": "#zuhause",
+            "text": "Wie kann ich mein Elektroauto zuhause laden?"
+        },
+        {
+            "type": "link",
+            "href": "#wallbox",
+            "text": "Was ist eine Wallbox?"
+        },
+        {
+            "type": "link",
+            "href": "#einbauen",
+            "text": "Wer baut eine Wallbox ein?"
+        },
+        {
+            "type": "link",
+            "href": "#stecker",
+            "text": "Ladestecker und Kabel – welche Ladesysteme gibt es?"
+        },
+        {
+            "type": "link",
+            "href": "#strom",
+            "text": "Laden mit Gleichstrom oder Wechselstrom?"
+        },
+        {
+            "type": "link",
+            "href": "#kosten",
+            "text": "Was kostet das Laden?"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kaufberatung für Wallbox, E-Auto und vieles mehr"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/teaser/emobilio_st.scale.sTeaserL.jpg",
+            "alt": "Elektroauto beim Aufladen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finden Sie alles, was Sie für den Umstieg in die E-Mobilität brauchen."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Individuelle Ladelösungen",
+                "Elektroautos für jeden Bedarf",
+                "Umfassende Beratungsangebote"
+            ]
+        },
+        {
+            "text": "Jetzt informieren *"
+        },
+        {
+            "type": "paragraph",
+            "text": "*Vermittelt durch die HUK-COBURG Digitale Services GmbH an die e-mobilio GmbH"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kaufberatung für Wallbox, E-Auto und vieles mehr"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Individuelle Ladelösungen",
+                "Elektroautos für jeden Bedarf",
+                "Umfassende Beratungsangebote"
+            ]
+        },
+        {
+            "text": "Jetzt informieren *"
+        },
+        {
+            "type": "paragraph",
+            "text": "*Vermittelt durch die HUK-COBURG Digitale Services GmbH an die e-mobilio GmbH"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wo kann ich ein Elektroauto laden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Grundsätzlich haben Sie zwei Möglichkeiten, um Ihr Fahrzeug zu laden:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Entweder entscheiden Sie sich füröffentlich zugängliche Ladepunkteoder für einenprivaten Ladepunkt an Ihrem Wohnort.",
+                "Öffentliche Ladestationen finden sich an immer mehr Parkplätzen, Tankstellen und in einigen Parkhäusern.",
+                "Ein privater Ladepunkt findet sich bei Ihnen zuhause, entweder als Wallbox oder einfach als Haushaltssteckdose."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie finde ich öffentliche Ladepunkte?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die meisten öffentlichen Ladesäulen finden Sieüber eine App des jeweiligen Anbieters."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zudem gibt esonline Listen, die verschiedene Ladestationen von diversen Anbietern auflisten, etwa bei derBundesnetzagentur, der alle öffentlichen Ladesäulen gemeldet werden müssen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Einige private Ladestationen dürfen ebenfalls von Fremdnutzern genutzt werden."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Schnelles und langsames Laden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie schnell ein Elektrofahrzeug geladen werden kann, ist von 3 Faktoren abhängig:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "demLadegerät im Auto(On-Board-Charger),",
+                "demLadekabelund",
+                "derStromquelle."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die maximale Geschwindigkeit hängt dabei immer von der langsamsten Komponente ab. Mit derSchnellladefunktionvieler Autos lädt die Batterie innerhalb von rund30 Minuten auf 80%ihrer maximalen Kapazität."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die schnelle Aufladung funktioniert nur mit einem dreiphasigen System. Das bedeutet, dass der Strom im Kabel über 3 Phasen an das Fahrzeug geleitet wird."
+        },
+        {
+            "type": "paragraph",
+            "text": "Anöffentlichen Ladestationenladen Sie Ihr Fahrzeug mit einermaximalen Leistung von bis zu 270 kW. Es gibt aber nur wenige Ladesäulen, die diese Werte erreichen und noch weniger Fahrzeugmodelle, die diese Leistung aufnehmen können."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Für öffentliche Ladestationen werden häufig Ladekarten benötigt, die es beim jeweiligen Betreiber der Station gibt.",
+                "Neben den einzelnen Betreibern gibt es auch sogenannte Roaminganbieter, mit deren Karten sich die Ladestationen von verschiedenen Betreibern nutzen lassen.",
+                "Anbieter mit großen Netzwerken sind z. B. EnBW, newmotion und Maingau."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Anöffentlichen Ladesäulenladen Sie die Akkus Ihres Fahrzeugsdurchschnittlich innerhalb von 2 bis 4 Stunden.Schnellladestationenladen Ihr Fahrzeugin 30 bis 60 Minutenwieder auf. 2 von 3 Ladesäulen in Deutschland unterstützen das schnelle Laden."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie kann ich mein Elektroauto zuhause laden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zuhause können Sie Ihr Fahrzeug z. B. einfachan der Steckdose laden.Der Haushaltsstrom liefert aber nur einegeringe Leistungund Sie müssen mit einer Ladezeit von 8 bis 14 Stunden rechnen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zudem sind ältere Elektroinstallationen häufig nicht auf den Dauerbezug von hohen Leistungen ausgelegt, was kein Schnellladen ermöglicht und sich so negativ auf die Ladedauer auswirkt. Außerdem besteht hier auch einSicherheitsrisiko: Laden über alte Leitungen kann zu Brand führen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sinnvoller ist das Laden an einer sogenannten Wallbox:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Diese spezielle Installation stellt einehöhere Ladeleistungzur Verfügung.",
+                "Abhängig von der Installationsart und der verwendeten Technik kann die Wallbox bis zu 22 kW Ladeleistung zur Verfügung stellen.",
+                "Beachten Sie, dass Modelle mit mehr als 11 kW Ladeleistung bei einer maximalen Stromstärke von 16 Ampere und einer Spannung von 400 Volt genehmigungspflichtig sind.",
+                "Während die meisten Fahrzeuge 11 kW Leistung aufnehmen können, sind 22 kW nur mit neueren Elektrofahrzeugen möglich.",
+                "Der Ladevorgang ist mit einer Wallbox innerhalb von1 bis 4 Stundenabgeschlossen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Hauseigentümerhaben es relativ einfach. Sie können die Wallbox einfach an der gewünschten Stelle installieren. Wenn es einePhotovoltaikanlagegibt, kann diese in die Ladeinfrastruktur integriert werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "AuchMieterkönnen eine Wallbox installieren. Sie benötigen dafür aber einen festen Stellplatz, den nur sie nutzen können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Absprache mit dem Vermieter ist in jedem Fall notwendig, um die Umbaumaßnahmen genehmigen zu lassen. Zudem muss geklärt werden, wie der Anschluss erfolgen soll."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was ist eine Wallbox?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Wallbox ist einespeziell für Elektroautos entwickelte Wandladestation."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie dient als Schnittstelle zwischen Stromnetz und Fahrzeug."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die Wallbox reguliert beim Ladevorgang auch die Stromzufuhr und stimmt sie optimal auf das angeschlossene Fahrzeug ab.",
+                "Nicht alle Autos können mit der vollen Leistung der Wallbox geladen werden. Sie wird an einen 400-Volt-Anschluss angeschlossen und erreicht eine Ladeleistung von bis zu 22 kW.",
+                "Soll einePhotovoltaikanlageintegriert werden, benötigen Sie in der Regel einen sogenannten Energiemanager als Zusatzmodul."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Wallboxen gibt es entweder für ein- oder dreiphasiges Laden. Dreiphasiges Laden ist mit bis zu 22 kW möglich, erfordert aber bis 11 kW eine Anmeldung beim Netzbetreiber und darüber hinaus eine Genehmigung. Einphasiges Laden ist mit maximal 4,6 kW möglich."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wer baut eine Wallbox ein?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Wallboxkann grundsätzlich von jedemElektrikerinstalliert werden. Er prüft dabei auch, ob die vorhandenen Leitungen für die geplante Installation ausreichend dimensioniert sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für den Bau einerprivaten Ladestationkönnen Sie unter UmständenFörderungen durch vergünstigte KfW-Kredite oder einen Zuschusserhalten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch einige Bundesländer haben regionale Förderprogramme aufgelegt, die aber häufig an weitere Voraussetzungen gebunden sind. Weitere Infos zu den Fördermöglichkeiten finden Sie in unserem RatgeberFörderung von Elektroautos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ladestecker und Kabel – welche Ladesysteme gibt es?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Verbreitete Standards sind dasCombined Charging System (CCS), das in Deutschland stark gefördert wird, und das von Tesla betriebeneSupercharger-System."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die vor allem von japanischen Fahrzeugen genutzte CHAdeMO-Ladelösung fristet hingegen in Deutschland ein Nischendasein."
+        },
+        {
+            "type": "paragraph",
+            "text": "An öffentlichen Ladestationen werden in der RegelMode-3-Ladekabelmit einem genormtenTyp-2-Steckereingesetzt. Wallboxen in privaten Haushalten arbeiten meist mit demselben System."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch Hausstromanschlüsse nutzen den Typ-2-Stecker. Einige japanische und amerikanische Hersteller (z. B. Nissan) verwenden Typ-1-Stecker, für die es aberAdaptergibt."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/kfz/e-auto-laden-stecker1.png",
+            "alt": "E-Auto Ladestecker AC-Wechselspannung"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/kfz/e-auto-laden-stecker2.png",
+            "alt": "E-Auto Ladestecker DC-Gleichspannung"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Laden mit Gleichstrom oder Wechselstrom?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Anöffentlichen Ladestationenladen Sie Ihr Fahrzeug entweder mitGleich- oder Wechselstrom.Gleichstromkommt zum Einsatz, wenn Sie Ihr Fahrzeug anSchnellladesäulenladen,Wechselstrombeinormalen Ladestationen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Beim Aufladenzuhause an der Wallbox kommt immer Wechselstromals Ladestrom zum Einsatz. Elektrofahrzeuge können nur Gleichstrom speichern, daher wandelt das Fahrzeug den ankommenden Wechselstrom vor dem Speichern um."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Neues Symbol für Ladestationen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ähnlich zu den Symbolen für Benzin oder Diesel, die bereits 2018 EU-weit eingeführt wurden und sich in den Tankklappen der Autos und an denZapfsäulender Tankstellen befinden, gibt es seit März 2021 nun auch einheitliche Symbole für Elektroautos und Ladestationen. Diese sollen die Entscheidung für die richtige Aufladeoption erleichtern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Diesechseckigen Symbolesind mit verschiedenen Buchstaben gekennzeichnet, die der jeweiligen Konfiguration, dem Spannungsbereich sowie der Art des Stroms – AC (Wechselstrom) und DC (Gleichstrom) – entsprechen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Kennzeichnungen finden sich an neu produzierten Fahrzeugen, an allen Fahrzeug-Ladevorrichtungen, an losenLadekabeln, auf jedem Ladestecker, in der Betriebsanleitung des Fahrzeuges und anE-Ladesäulenin der Nähe der Steckdose beziehungsweise des Fahrzeuganschlusskabels."
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch dieEU-einheitliche Kennzeichnungsoll sichergestellt werden, dass E-Autofahrer auch im Ausland den richtigen Strom laden. Neben den 27 EU-Mitgliedstaaten werden die Label auch in Island, Liechtenstein, Norwegen, Mazedonien, Serbien, der Schweiz und der Türkei zum Einsatz kommen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was kostet das Laden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kostenlose Lademöglichkeitengibt es vor allem auf denParkplätzen größerer Einkaufszentren und Unternehmenund in einigen öffentlichen Parkhäusern und Tiefgaragen. Diemeisten Ladestationen sind aber kostenpflichtig."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie werden von Stadtwerken, Stromanbietern oder zu einem geringen Teil auch von Herstellern der Autos betrieben.Roaminganbieterverbinden die Ladestationen verschiedener Anbieter zu einem größeren Netz und sorgen für eine komfortablere Nutzung."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was kostet Strom tanken an öffentlichen Ladestationen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "An öffentlichen Ladestationen rechnen die Anbieter nach verschiedenen Tarifen ab."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Üblich sind aktuell Tarife, die nachkWhabrechnen. Die Preise liegen hier zwischen35 und 77 Cent pro Kilowattstunde.",
+                "Vereinzelt rechnen Anbieter noch nachLadezeit in Minutenab.",
+                "Wiederum andere berechnenKosten pauschal pro Ladevorgang.",
+                "Einige Anbieter verlangen zudemGrundgebührenfür die erste Einrichtung einer Ladekarte oder monatlich. Dafür ist der Preis pro Ladevorgang häufig niedriger.",
+                "Einige Anbieter ermöglichen auch eineFlatrate, bei der Sie nur einen festen Preis pro Monat unabhängig von der Nutzung zahlen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "In Deutschland dürfen Sie grundsätzlich immer an jeder Stromtankstelle auch ohne eine feste vertragliche Bindung an den Anbieter aufladen. Diese Regelung ist sogar gesetzlich verankert. Zudem ist seit dem 01.04.2019 das Anbieten von reinen Zeittarifen an neuen Ladesäulen verboten. Für bestehende Modelle gibt es aber eine Übergangsfrist."
+        },
+        {
+            "type": "paragraph",
+            "text": "DieAuswahl des passenden Anbieters hängt auch von Ihrer geplanten Nutzung ab. Fahren Sie überwiegend in der näheren Umgebung, kann ein regionaler Anbieter ausreichend sein. Sind Sie häufiger auch innerhalb Europas unterwegs, lohnt sich ein Roaming-Anbieter, der ein möglichst großes Netz an Ladestationen in mehreren Ländern bietet. Alles Weitere zum Thema lesen Sie in unserem Ratgeber zurReichweite von Elektroautos."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was kostet mich die Einrichtung einer Ladestation zuhause?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Kosten für eineWallboxmit22 Kilowatt-Anschlussbetragen zwischen700 und 1.500 €. Wallboxen mit geringeren Leistungen gibt es ab circa 400 €. Zusätzlich kostet dieInstallation zwischen 300 und 1.000 €, je nach gewünschter Anschlussart und der individuellen baulichen Situation."
+        },
+        {
+            "type": "paragraph",
+            "text": "In unserem Ratgeber zum ThemaFörderung für Elektroauto und Wallboxfinden Sie weitere wissenswerte Informationen zu den Kosten und der Förderung von privaten Ladestationen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wir versichern die Ladestation für Ihr Elektroauto kostenlos mit"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/presse/eauto-18002.jpg",
+            "alt": "E-Auto an der Ladesäule"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sindEigenheimbesitzerund haben auf Ihrem Grundstück eine Ladestation für Ihr Elektroauto installiert? Dann gilt der Versicherungsschutz unsererWohngebäudeversicherungauch für Schäden an IhrerLadestation."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben alsMieter oder Wohnungseigentümereine Ladestation für Ihr Elektroauto auf eigene Kosten angeschafft oder übernommen? In unsererHausratversicherungist IhreLadestation auf dem gesamten Grundstück, auf welchem die versicherte Wohnung liegt, versichert. Der Versicherungsschutz besteht beispielsweise nicht nur in der Garage, sondern auch im Carport oder auf dem Außenstellplatz."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Kaskoversicherung ist für Schadenfälle ab 01.01.2025 zur Stelle, wenn kein anderer für den Schaden an Ihrer fest installierten Wallbox oder Induktionsplatte aufkommt. Wir leisten bis 5.000 € je Schadenfall."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was kostet mich das Laden des E-Autos zuhause?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Normaler Haushaltsstrom kostet in Deutschlanddurchschnittlich 0,40 € pro Kilowattstunde."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie zusätzlich noch einePhotovoltaikanlagenutzen, können Sie Ihre Energiekosten für Ihr Fahrzeug noch einmal deutlich reduzieren und zumindest in den Sommermonaten fast umsonst Strom tanken."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Noch Fragen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gern beantworten wir Ihnen alle Fragen rund um das Thema Elektroauto. Sie erreichen uns jederzeit über Ihren persönlichen Ansprechpartner vor Ort oder über unsere Servicehotline09561 96 101. Wir freuen uns auf Ihre Nachricht!"
+        },
+        {
+            "text": "Hier finden Sie Ihren Ansprechpartner vor Ort:"
+        },
+        {
+            "text": "Jetzt suchen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die passende Versicherung für Sie"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/elektroautos.html",
+            "text": ""
+        },
+        {
+            "text": "Elektroautos"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit unserer Kfz-Versicherung erhalten Sie umfassende Leistungen, die besonders auf Elektro- und Hybridautos zugeschnitten sind."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/elektroautos.html",
+            "text": "Zur Versicherung für Elektroautos"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Das könnte Sie auch interessieren"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/foerderung.html",
+            "text": ""
+        },
+        {
+            "text": "Förderung von Elektroautos"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/foerderung.html",
+            "text": "Förderungen und Steuervorteile rund um die E-Mobilität"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/batterie.html",
+            "text": ""
+        },
+        {
+            "text": "Funktionsweise, Herstellung und Kosten"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/batterie.html",
+            "text": "Batterie von Elektroautos"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/reichweite.html",
+            "text": ""
+        },
+        {
+            "text": "Verbrauch, Stromkosten und mehr"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/reichweite.html",
+            "text": "Reichweite von Elektroautos"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos.html",
+            "text": ""
+        },
+        {
+            "text": "Strom tanken entlastet Natur und Geldbeutel"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos.html",
+            "text": "Elektroautos"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/wallbox-mietwohnung-eigentum.html",
+            "text": ""
+        },
+        {
+            "text": "Das müssen Mieter & Eigentümer beachten"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/elektroautos/wallbox-mietwohnung-eigentum.html",
+            "text": "Wallbox für Mietwohnung und Eigentum"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/kfz-versicherung-wechseln.html",
+            "text": ""
+        },
+        {
+            "text": "So einfach geht's"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/kfz-versicherung-wechseln.html",
+            "text": "Kfz-Versicherung wechseln"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Auto & Mobilität",
+                "Elektroautos",
+                "Elektroauto laden"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "fahrzeuge_ratgeber_elektroautos_laden.html"
+}

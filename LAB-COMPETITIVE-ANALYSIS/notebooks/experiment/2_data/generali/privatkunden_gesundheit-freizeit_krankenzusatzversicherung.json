@@ -1,0 +1,143 @@
+{
+    "title": "Mein Gesundheitsplan: Krankenzusatzversicherung | Generali",
+    "metadata": {
+        "description": "Schützen Sie sich vor hohen Kosten und ergänzen Sie den Schutz Ihrer gesetzlichen Krankenversicherung. Jetzt prüfen.",
+        "keywords": "Krankenzusatzversicherung, Gesundheitsplan,Mein Gesundheitsplan,PlanZahn,Plan, PlanJunior",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Krankenzusatzversicherung",
+        "og:description": "Mit Mein Gesundheitsplan können Sie die Leistungen Ihrer gesetzlichen Krankenversicherung in den Bereichen ergänzen, die Ihnen besonders wichtig sind.",
+        "og:image": "https://www.generali.de/resource/blob/21272/ec8e5c724bca96ab6c056a8d873116c5/bild-herostage-krankenzusatzversicherung-data.jpg"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Ihre private Krankenzusatzversicherung nach Maß"
+        },
+        {
+            "text": "Ergänzen Sie den Schutz Ihrer gesetzlichen Krankenversicherung in den Bereichen, die besonders wichtig sind."
+        },
+        {
+            "type": "link",
+            "href": "/dvag",
+            "text": "Berater finden"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "PRIVATKUNDEN",
+                "GESUNDHEIT & FREIZEIT",
+                "KRANKENZUSATZVERSICHERUNG"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Der Rundum-Schutz für Ihre Gesund­heit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gesundheit ist das Wichtigste im Leben. Daher verdient sie den bestmöglichen Schutz. Mit Mein Gesundheitsplan können Sie die Leistungen Ihrer gesetzlichen Krankenversicherung in den Bereichen ergänzen, die Ihnen besonders wichtig sind. Und das Beste ist: Viele Tarife aus Mein Gesundheitsplan enthalten eine Gesundheitsgarantie. Für Sie bedeutet das: Ihr Gesundheitsschutz kann in Zukunft flexibel mitwachsen."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "PlanZahnschutz, Sehhilfen und AuslandsreiseschutzGesundheitsgarantie für Flexibilität in ZukunftMehr erfahren",
+                "Zahnschutz, Sehhilfen und Auslandsreiseschutz",
+                "Gesundheitsgarantie für Flexibilität in Zukunft",
+                "PlanJuniorKieferorthopädie, Zahnschutz, Sehhilfen und AuslandsreiseschutzGesundheitsgarantie für Flexibilität in ZukunftMehr erfahren",
+                "Kieferorthopädie, Zahnschutz, Sehhilfen und Auslandsreiseschutz",
+                "Gesundheitsgarantie für Flexibilität in Zukunft",
+                "PlanZahnZahnersatzZahnbehandlung und ProphylaxeMehr erfahren",
+                "Zahnersatz",
+                "Zahnbehandlung und Prophylaxe",
+                "PlanAmbulantNaturheilverfahren, Telemedizin und VorsorgeGesundheitsgarantie für Flexibilität in ZukunftMehr erfahren",
+                "Naturheilverfahren, Telemedizin und Vorsorge",
+                "Gesundheitsgarantie für Flexibilität in Zukunft",
+                "PlanStationärChefarztbehandlung und Ein- oder ZweibettzimmerGesundheitsgarantie für Flexibilität in ZukunftMehr erfahren",
+                "Chefarztbehandlung und Ein- oder Zweibettzimmer",
+                "Gesundheitsgarantie für Flexibilität in Zukunft"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/31310/85f121ba2efe7d016ad62499fe8bdf9f/dvag-logo-gold-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wäh­len Sie Ihren Bera­ter aus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finden Sie einen Berater der Deutschen Vermögensberatung (DVAG) in Ihrer Nähe"
+        },
+        {
+            "text": "Postleitzahl"
+        },
+        {
+            "text": "Berater auswählen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mehr Pro­dukte"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "PflegezusatzversicherungSchützen Sie sich und Ihre Angehörigen vor einer finanziellen Belastung im Pflegefall.Mehr erfahren",
+                "KrankenvollversicherungEine klassische private Krankenversicherung ist immer eine gute Wahl für alle, denen eine umfassende Gesundheitsabsicherung wichtig ist. Profitieren Sie von weiteren Highlights.Mehr erfahren",
+                "Berufsunfähigkeits­versicherungUnser ausgezeichneter Schutz der Arbeitskraft.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "privatkunden_gesundheit-freizeit_krankenzusatzversicherung"
+}

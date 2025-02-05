@@ -1,0 +1,551 @@
+{
+    "title": "Reifencheck: Alter erkennen & Schäden prüfen",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "Reifen checken: Mindestprofiltiefe, Reifenalter, Reifenfülldruck – diese Faktoren sollten Sie regelmäßig prüfen ➨ Jetzt informieren!",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "fahrzeuge.ratgeber.reifen.reifencheck",
+        "date": "20240417T10:45:06",
+        "og:title": "Reifencheck: Alter erkennen & Schäden prüfen",
+        "og:type": "article",
+        "og:description": "Reifen checken: Mindestprofiltiefe, Reifenalter, Reifenfülldruck – diese Faktoren sollten Sie regelmäßig prüfen ➨ Jetzt informieren!",
+        "og:url": "https://www.huk.de/fahrzeuge/ratgeber/reifen/reifencheck.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/ratgeber/buehne/reifencheck.scale.shield_buehne430.jpg",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/reifencheck.scale.shield_buehne430.jpg",
+            "alt": "Mechaniker überprüft Reifen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Reifencheck"
+        },
+        {
+            "type": "paragraph",
+            "text": "Reifenalter erkennen & Schäden prüfen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/reifencheck.scale.shield_buehne430.jpg",
+            "alt": "Mechaniker überprüft Reifen"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Reifencheck"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Reifenalter erkennen & Schäden prüfen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die 4 Faktoren beim Reifencheck"
+        },
+        {
+            "type": "paragraph",
+            "text": "DerReifencheckkann und sollte von jedem Autofahrer regelmäßig durchgeführt werden – vor allem aber dann, wenn eine längere Dienstreise oder die Fahrt in den Urlaub vor der Tür steht. Beschädigte oder abgefahrene Reifen können keine optimalen Fahrbedingungen mehr gewährleisten und erhöhen das Unfall- und Pannenrisiko."
+        },
+        {
+            "type": "paragraph",
+            "text": "Aber wann sind die Reifen eigentlich abgefahren? Und was genau muss ich prüfen? In diesem Ratgeber lesen Sie, auf welche 4 Faktoren Sie beim Reifencheck unbedingt achten sollten und wie SieReifendruck,Profiltiefeund Co. selbst kontrollieren können."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Inhaltsverzeichnis"
+        },
+        {
+            "type": "link",
+            "href": "#reifen",
+            "text": "1. Reifen auf Beschädigung prüfen"
+        },
+        {
+            "type": "link",
+            "href": "#profiltiefe",
+            "text": "2. Profiltiefe der Reifen messen"
+        },
+        {
+            "type": "link",
+            "href": "#reifencheck",
+            "text": "Video: Der Reifen-Check mit Jens Kuck"
+        },
+        {
+            "type": "link",
+            "href": "#reifenalter",
+            "text": "3. Reifenalter bestimmen"
+        },
+        {
+            "type": "link",
+            "href": "#reifendruck",
+            "text": "4. Reifendruck prüfen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "1. Reifen auf Beschädigung prüfen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Spätestens bei jedem ausführlichen Reifencheck – vor allem aber nach Vorkommnissen wie z. B. Bordsteinremplern – sollte man Felgen und Reifen aufBeschädigungprüfen. Halten Sie besonders nachBeulenoderVerformungenan der Seitenwand Ausschau. Auch die Laufflächen der Reifen können beim Fahren unbemerkt zu Schaden gekommen sein. Immer wieder entdecken Autofahrer eine Schraube im Profil."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hinweis: Wenn Sie einen Reifenschaden an Ihrem Auto entdecken, fahren Sie zu Ihrer eigenen Sicherheit umgehend ingemäßigtem Tempobis zur nächsten Werkstatt. Die Profis entscheiden, ob der Reifen noch repariert werden kann oder komplett ausgetauscht werden muss."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/teaser/reifenwechsel.scale.sTeaserL.jpg",
+            "alt": "Mann wechselt einen Reifen"
+        },
+        {
+            "text": "Radwechsel? Jetzt ganz bequem online buchen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Professioneller Wechsel aller 4 Räder",
+                "In 450 HUK-qualifizierten Werkstätten deutschlandweit",
+                "Transparente Kosten: Bester Service zum attraktiven Festpreis"
+            ]
+        },
+        {
+            "text": "Zum Radwechsel *"
+        },
+        {
+            "type": "paragraph",
+            "text": "* Ein Angebot der HUK-COBURG Autoservice GmbH"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "2. Profiltiefe der Reifen messen"
+        },
+        {
+            "type": "paragraph",
+            "text": "DieMindestprofiltiefeist für alle Reifentypen vom Gesetzgeber vorgeschrieben:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "BeiPKW- und Motorradreifenmuss das Profil mindestens1,6 mmtief sein.",
+                "Leichtkrafträdermüssen mindestens1,0 mmProfiltiefe nachweisen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Das sind allerdings absolute Mindestangaben, die tatsächlichen Empfehlungen sind höher. So sollte die Profiltiefe beiSommerreifen über 3 mmund beiWinter- und Ganzjahresreifen über 4 mmliegen. Zum Vergleich: Neue Reifen haben eine Profiltiefe von8 oder 9 mm."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Warum ist die Profiltiefe so wichtig?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ganz einfach: Je weniger Reifenprofil vorhanden ist, desto geringer ist dieBodenhaftungbzw. der Grip des Fahrzeugs auf der Straße und desto länger wird der Bremsweg. Eine geringe Profiltiefe erhöht zudem das Risiko fürAquaplaning. Wer sich an die allgemeinen Empfehlungen hält, stellt eine ausreichende Bodenhaftung sicher – auch bei Schnee, Glätte und nassen Straßen. Werden die Mindestwerte nicht eingehalten, droht neben der Unfallgefahr zudem einBußgeld."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie prüfe ich die Profiltiefe?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Es gibt verschiedene Möglichkeiten, dieProfiltiefezu messen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "TWI(Tread Wear Indicator): Im Profilgrund der Reifen befinden sich kleine Stege, auchVerschleißindikatorenoder TWI genannt. Diese Stege markieren die Verschleißgrenze. Können Sie keinen Abstand mehr vom Indikator zu den Profilblöcken erkennen, haben Sie die Mindestprofiltiefe bereits unterschritten. Dann ist es höchste Zeit, die Reifen zu wechseln.",
+                "Alternativ können Sie die Profiltiefe in den Rillen neben den Stegen, z. B. mit einemLineal, messen.",
+                "Münztrick: Bewährt hat sich auch die Methode, bei der Sie die Profiltiefe mit einer 1-€-Münze messen. Schlagen Sie das Rad voll aus und schieben Sie die Münze ins Profil. Ihr goldener Messingrand ist genau 3 mm breit. Verschwindet der komplett in der Rille, haben Ihre Reifen noch mindestens 3 mm Restprofil.",
+                "Profiltiefenmesser: Dieses Messgerät wird gerne beimReifenwechselin der Autowerkstatt oder beim Reifenservice als Giveaway in den Wagen gelegt. Es gibt sowohlmechanischeals auchdigitaleAusführungen. Setzen Sie den Messschieber zwischen 2 Profilblöcken an und schieben Sie die Messstange bis auf den Profilgrund. Den Wert der Profiltiefe können Sie dann auf der Skala (mechanisch) oder auf dem Display (digital) ablesen."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Video: Der Reifen-Check mit Jens Kuck"
+        },
+        {
+            "type": "link",
+            "href": "https://www.youtube.com/watch?v=squ1S-fDGZA",
+            "text": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "3. Reifenalter bestimmen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Winterreifen für PKW sollten höchstens8 Jahrealt sein – so die allgemeine Empfehlung. Diese Beschränkung des maximalen Reifenalters ist sinnvoll, denn Winterreifen büßen schon ab einem Alter von 6 Jahren einen Teil ihrer Wintereigenschaften ein. Der Grund dafür ist, dass die Gummimischung mit der Zeit aushärtet. Die Folge: Einverlängerter Bremswegbei Nässe. Tauschen Sie alte Winterreifen also unbedingt rechtzeitig aus, um für genug Haftung auf der Fahrbahn zu sorgen."
+        },
+        {
+            "type": "paragraph",
+            "text": "FürSommerreifenwird ein maximales Reifenalter von8 bis 10 Jahrenempfohlen. BeiAnhänger- und Wohnwagenreifen, die bis zu 100 km/h fahren dürfen, gibt es sogar eine gesetzliche Vorgabe: Hier darf das Reifenalter von6 Jahrennicht überschritten werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Gut zu wissen: Reifen, die vor dem 01.01.2018 produziert wurden, verfügen über das Kürzel„M+S“, wenn sie als wintertauglich gelten. Das ändert sich zukünftig. Auf später produzierten Reifen, die für den Winter geeignet sind, findet man jetzt das„Alpine“-Symbol– ein Berg mit einer Schneeflocke. AbOktober 2024dürfen Reifen, die lediglich das „M+S“-Symbol vorweisen, nicht mehr gefahren werden."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie lese ich das Reifenalter ab?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Reifenalter lesen Sie an derDOT-Nummerauf der Reifenflanke ab. Relevant ist hier der3. Nummernblock. Er istvierstelligund meistovalumrandet."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die ersten 2 Zahlen stehen für die Kalenderwoche, in der ein Reifen produziert wurde.",
+                "Die letzten 2 Zahlen für das Produktionsjahr."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "4. Reifendruck prüfen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der richtige Reifendruck ist nicht nur für die allgemeine Verkehrssicherheit unabdinglich, sondern hilft auch beimSprit sparen. Der optimale Wert für den Luftdruck hängt unter anderem von derBeladungdes Fahrzeugs ab und kann um bis zu 1 Bar variieren. Die Werte für Ihr Fahrzeug finden Sie z. B. hier:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Am Türrahmen derFahrertür(vorne)",
+                "An der Innenseite derTankdeckelklappe",
+                "Auf dem Aufkleber imHandschuhfach",
+                "In derBedienungsanleitung",
+                "In derReifendrucktabelledes Herstellers"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie prüfe ich den Reifendruck?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Am einfachsten prüft man den Reifendruck an derLuftstationbei Tankstellen. Schrauben Sie die Ventilkappe ab und setzen Sie die Düse auf das Ventil. Möglicherweise hören Sie ein kurzes Zischen. Klappen Sie den Arretierungshebel zu und lesen Sie den Reifenluftdruck auf der Anzeige ab."
+        },
+        {
+            "type": "paragraph",
+            "text": "Müssen SieLuft ablassen bzw. nachfüllen, können Sie den gewünschten Luftdruck mit denPlus-/Minus-Tastenan der Säule einstellen. Drücken Sie auf „OK“ und warten Sie, bis der Reifen den eingestellten Wert erreicht hat. Die Säule gibt dann ein akustischesSignal. Wiederholen Sie den Vorgang, bis alle Reifen den richtigen Luftdruck haben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Achtung: Mittlerweile können an einigen TankstellenGebührenfür das Befüllen der Reifen anfallen – mit dem Argument, dass schließlich ein Kompressor betrieben werden muss. Mit einemReifendruckprüfgerätkönnen Sie den Luftdruck Ihrer Reifen aber auch bequem zu Hause oder unterwegs messen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie oft und wann sollte ich den Reifendruck prüfen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Es wird empfohlen, den Reifendruck alle14 Tagezu prüfen. Wer mit zu wenig Reifendruck unterwegs ist, riskiert seineFahrsicherheit. Der Bremsweg ist länger, das Fahrverhalten in Kurven verschlechtert sich. Bei hohem Tempo besteht selbst die Gefahr einesReifenplatzers. Nicht selten führt dies zu Unfällen mit schwerwiegenden Folgen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zu niedriger Reifendruck fördert zudem denReifenverschleißsowie denKraftstoffverbrauch, denn der Rollwiderstand ist erhöht. Zu hoher Fülldruck hingegen hat negative Auswirkungen auf den Fahrkomfort und führt zu ungleichmäßigem Abrieb der Reifen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nach einemReifenwechselsollte der Reifendruck immer überprüft werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tipp 1: Vergessen Sie beim Reifencheck nicht dasErsatzrad."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tipp 2: Wenn Sie mit einemvollbeladenenAuto in den Urlaub fahren, sollten Sie den Druck entsprechenderhöhen. Kalibrieren Sie das eingebauteReifendruckkontrollsystemneu, wenn vorhanden. So verhindern Sie, dass auf der Fahrt die entsprechendeWarnleuchteblinkt."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Noch Fragen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie noch Fragen rund ums Thema Reifencheck? Brauchen Sie weitere Informationen zu unserer Kfz-Versicherung? Wenden Sie sich an Ihren Berater vor Ort oder rufen Sie unseren Kundenservice unter der Hotline09561 96 101an."
+        },
+        {
+            "text": "Hier finden Sie Ihren Ansprechpartner vor Ort:"
+        },
+        {
+            "text": "Jetzt suchen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die passende Versicherung für Sie"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/autoversicherung.html",
+            "text": ""
+        },
+        {
+            "text": "Auto­versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "In der Autoversicherung haben sich bereits rund 9 Millionen Kunden für unseren Classic-Tarif entschieden. Und das aus gutem Grund: Wir bieten gute Angebote mit umfangreichem Schutz zu günstigen Beiträgen."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/autoversicherung.html",
+            "text": "Zur Auto­versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Das könnte Sie auch interessieren"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/reifenwechsel.html",
+            "text": ""
+        },
+        {
+            "text": "Reifenwechsel – wann, wie, wo?"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/reifenwechsel.html",
+            "text": "Was Sie rund ums Thema Reifenwechsel wissen sollten"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/reifenkennzeichnung.html",
+            "text": ""
+        },
+        {
+            "text": "Reifenkennzeichnung"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/reifenkennzeichnung.html",
+            "text": "Alles zu den Symbolen und Zahlen auf Autoreifen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/altreifenentsorgung.html",
+            "text": ""
+        },
+        {
+            "text": "Altreifenentsorgung"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/altreifenentsorgung.html",
+            "text": "Wohin mit den ausgedienten Reifen?"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/winterreifen-im-sommer.html",
+            "text": ""
+        },
+        {
+            "text": "Winterreifen im Sommer"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/winterreifen-im-sommer.html",
+            "text": "Die passenden Reifen zu jeder Jahreszeit"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/einlagerung.html",
+            "text": ""
+        },
+        {
+            "text": "Reifen einlagern"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/reifen/einlagerung.html",
+            "text": "Reifenwechsel und professionelle Einlagerung"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/verkehrssicherheit/hu-au.html",
+            "text": ""
+        },
+        {
+            "text": "Hauptuntersuchung & Abgasuntersuchung"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/verkehrssicherheit/hu-au.html",
+            "text": "Alles Wissenswerte zu HU und AU"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Auto & Mobilität",
+                "Reifen",
+                "Reifencheck"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "fahrzeuge_ratgeber_reifen_reifencheck.html"
+}

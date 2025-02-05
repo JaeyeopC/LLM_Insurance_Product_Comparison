@@ -1,0 +1,2105 @@
+{
+    "gesundheit-organisation-hilfsmittel-service-elektrostimulationsgeraete.md.md": {
+        "Produktname": "Elektrostimulationsgeräte",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Medizinisch notwendige Elektrostimulationsgeräte sind versichert.",
+            "Kostenübernahme für Miete oder Kauf in tariflicher Höhe (z.B. 30 %, 100 %)."
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-orthesen.md.md": {
+        "Produktname": "Orthesen",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Tarifliche Höhe (z.B. 30 %, 100 %)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für medizinisch notwendige Orthesen",
+            "Zusammenarbeit mit qualifizierten Leistungserbringern",
+            "Beratung und Anpassung des Hilfsmittels",
+            "Schnelle Lieferung durch Hilfsmittelpartner"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kosten für Orthesen zur Vorbeugung von Verletzungen (z.B. Sportorthesen)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "sterbefall-online-melden.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-dkv-rechnungs-app-107636.md.md": {
+        "Produktname": "Meine DKV App",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Einfache Registrierung",
+            "Schnelle Einreichung von Dokumenten",
+            "Digitale Verwaltung von Gesundheitsdaten in der elektronischen Gesundheitsakte (eGA)",
+            "Zahlreiche Services",
+            "Viele begeisterte Nutzer"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "zahnzusatzversicherung-kombimed-plus-tarif.md.md": {
+        "Produktname": "KombiMed Zahn Plus",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unbegrenzte Zahnprophylaxe",
+            "Schmerztherapien, z.B. Akupunktur oder Hypnose",
+            "Bleaching innerhalb zweier Kalenderjahre max. 250 €"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "meine-zusatzversicherungen-app.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-pflegeschutzpaket.md.md": {
+        "Produktname": "Pflege Schutz Paket",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "24-Stunden-Versorgungsgarantie",
+            "Vermittlung von Serviceleistungen",
+            "Persönliche Beratung auch für Familienangehörige",
+            "1.000€ Einmalzahlung ab Pflegegrad 2",
+            "Pflegerische Hilfen und Körperpflege",
+            "Angebote zur Entlastung von Pflegenden im Alltag",
+            "Hauswirtschaftliche Hilfen",
+            "Technische Hilfen im Haus",
+            "Abrechnungsservice"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "betriebliche-krankenversicherung.md.md": {
+        "Produktname": "Betriebliche Krankenversicherung (bKV) der DKV",
+        "Versicherungsart": "Betriebliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Klare Anreize und starke Gesundheitsvorteile",
+            "Faire Kalkulation, konstante Beträge",
+            "Absicherung erfolgt nach Ihren Wünschen",
+            "Erhöht Ihre Attraktivität als Arbeitgeber",
+            "Familienangehörige können mitversichert werden",
+            "Keine Kosten für Arbeitnehmer",
+            "Individuelle Zusammenstellung der Versicherungsschutzes",
+            "Keine Gesundheitsprüfung, keine Wartezeiten",
+            "Einschluss von Vorerkrankungen",
+            "Einstieg in laufende Behandlungen",
+            "Beitragsfreiheit in entgeltfreien Zeiten (außer bei BonusMed Pflege Plus)",
+            "Fortführungsrecht auch bei Eintritt in die Rente oder Arbeitgeberwechsel ohne Gesundheitsprüfung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine entgeltfreien Zeiten bei BonusMed Pflege Plus",
+            "Keine Alterungsrückstellungen für die Mitarbeiter (außer bei BonusMed Pflege Plus)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-treppensteighilfen.md.md": {
+        "Produktname": "Treppensteighilfen",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Geräteschaden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Voraussetzung ist ein bestehender Pflegegrad und Befürwortung durch den medizinischen Dienst der Privaten Pflegeversicherung"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "produkte-krankentagegeld-versicherung-106339.md.md": {
+        "Produktname": "Krankentagegeldversicherung",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Krankentagegeld ohne zeitliche Begrenzung für jeden Tag der Arbeitsunfähigkeit",
+            "Krankentagegeld auch für Sonn- und Feiertage",
+            "Krankentagegeld ist steuerfrei",
+            "Anpassung des Krankentagegelds alle 3 Jahre möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-blutdruckmessgeraete.md.md": {
+        "Produktname": "Blutdruckmessgeräte",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Bis zu 50 Euro",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme in tariflicher Höhe (z.B. 30 %, 100 %)",
+            "Beratung zum Hilfsmittel",
+            "Qualitativ hochwertige Versorgung",
+            "Anpassung des Hilfsmittels",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "reiseversicherungen.md.md": {
+        "Produktname": "Reisekrankenversicherung für Gäste aus dem Ausland (Incoming)",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "ab 1,70 € / Tag für eine 18-jährige Person (für Reisen bis zu 45 Tagen)",
+        "Gültigkeitsbereich": "weltweit",
+        "Vertragslaufzeit": "Bis zu 45 Tage",
+        "Weitere Leistungen": [
+            "Leistungsstarker Schutz bei Krankheit oder Unfall im Ausland",
+            "Langzeitaufenthalte im Ausland",
+            "Gäste aus dem Ausland",
+            "Reiserücktritt & Reiseabbruch",
+            "Unerwartete, schwere Erkrankung (auch im Zusammenhang mit Covid-19) im Versicherungsschutz enthalten",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-blutzuckermessgeraete.md.md": {
+        "Produktname": "Blutzuckermessgeräte",
+        "Versicherungsart": "Hilfsmittelversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Bis zu 75 Euro (Kostenübernahme in tariflicher Höhe, z.B. 30 %, 100 %)",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Blutzuckermessgeräte sind versichert",
+            "Beratung zum Hilfsmittel",
+            "Qualitativ hochwertige Versorgung",
+            "Anpassung des Hilfsmittels",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-bildschirmlesegeraete.md.md": {
+        "Produktname": "Bildschirmlesegeräte",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bildschirmlesegeräte sind versichert",
+            "Vereinbarte Konditionen mit Partnern (z.B. Rabatte)",
+            "Tarifliche Leistung (z.B. 30 %, 100 %)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-brustprothesen.md.md": {
+        "Produktname": "Brustprothesen",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für Brustprothesen alle zwei Jahre",
+            "Kostenübernahme für Spezial-BH (2x pro Jahr, Eigenanteil 15 Euro je BH)",
+            "Kostenübernahme für Spezial-Badeanzug (1x pro Jahr, Eigenanteil 40 Euro je Badeanzug)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-dusch-toilettenrollstuehle.md.md": {
+        "Produktname": "Dusch-Toilettenrollstühle",
+        "Versicherungsart": "Pflegeversicherung, Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Mögliche Eigenbeteiligung bei zusätzlicher Ausstattung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör (z.B. Toiletteneimer mit Deckel)",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen",
+            "Kostenloser Austausch bei Defekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Bezug eines Dusch-/Toilettenrollstuhles parallel zu einem einfachen Toilettenrollstuhl ist nicht versichert"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hilfsmittel-zur-parenterale-ernaehrung.md.md": {
+        "Produktname": "Hilfsmittel zur parenteralen Ernährung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung der Infusionspumpe",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt",
+            "Beratung zu Hilfsmitteln und Verbrauchsmaterialien",
+            "Individuelle Therapiebegleitung",
+            "Technischer Notdienst"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-einlagen.md.md": {
+        "Produktname": "Einlagen",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zwei Einlagenpaare pro Jahr versichert",
+            "Tarifliche Leistung (z.B. 30 %, 100 %) für Einlagen",
+            "Beratung und Anpassung durch qualifizierte Leistungserbringer",
+            "Schnelle Lieferung durch Hilfsmittelpartner"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hilfsmittel-zur-enteralen-ernaehrung.md.md": {
+        "Produktname": "Hilfsmittel zur enteralen Ernährung",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hilfsmittel zur enteralen Ernährung sind versichert",
+            "Leihweise Überlassung der Ernährungspumpe im Rahmen einer Fallpauschale",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt",
+            "Beratung zu Hilfsmitteln und Verbrauchsmaterialien",
+            "Individuelle Therapiebegleitung",
+            "Technischer Notdienst"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pflegewelt-pflege-dashboard.md.md": {
+        "Produktname": "Pflege-Dashboard",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Online-Anzeige Ihrer Pflegedetails",
+            "Erinnerung für nächsten Beratungseinsatz",
+            "Unterstützung bei der Planung der pflegerischen Versorgung",
+            "Vermeidung von Kürzungen bei Pflegeleistungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "kindernachversicherung-app.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "rueckruf-service-telefon-anruf.md.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Vertrag",
+            "Leistung/Abrechnung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-schlafapnoe-geraete.md.md": {
+        "Produktname": "Schlafapnoegeräte",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör und Verbrauchsmaterialien (z.B. Masken, Filter)",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Geräteschaden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hausnotrufsysteme.md.md": {
+        "Produktname": "Hausnotrufsysteme",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kassen- und anbietereinheitlicher Festpreis pro Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "24 Stunden Erreichbarkeit, 7 Tage die Woche",
+            "Notruf per Knopfdruck",
+            "Schnelle Hilfe vor Ort im Notfall",
+            "Miete des Hausnotrufsystems wird in tariflicher Höhe übernommen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Voraussetzung ist ein bestehender Pflegegrad",
+            "Überwiegend allein lebend und kein Notruf über normales Telefon möglich"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "produkte-beihilfetarif-beamtenanwaerter-beamte-referendare-111254.md.md": {
+        "Produktname": "BeihilfeMed Tarifsystem",
+        "Versicherungsart": "Private Krankenversicherung für Beamte und Beamtenanwärter",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Starke Leistungen beim Arzt, Zahnarzt und im Krankenhaus",
+            "Zugang zu modernen Therapien",
+            "Vorsorge- und Gesundheitsprogramme",
+            "Fallmanagement",
+            "Hilfsmittelservice",
+            "Zahlreiche Beratungsangebote rund um die Gesundheit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-tracheostoma-hilfsmittel.md.md": {
+        "Produktname": "Tracheostoma-Hilfsmittel",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Alle erforderlichen Hilfsmittel (z.B. Absauggeräte, Standard-Inhalationsgerät)",
+            "Zubehör und Verbrauchsmaterialien (z.B. Absaugkatheter, Filter)",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Geräteschaden",
+            "Beratung zu den verschiedenen Hilfsmitteln und Verbrauchsmaterialien",
+            "Individuelle Therapiebegleitung",
+            "Technischer Notdienst"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-auslandsreisekrankenversicherung-Familie-Einzelperson.md.md": {
+        "Produktname": "Jahresschutz: Auslandskranken bis zu 8 Wochen",
+        "Versicherungsart": "Auslandskrankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schnelle Hilfe durch 24-Stunden-Notruf-Service",
+            "COVID-19-Erkrankungen sind mitversichert",
+            "Medizinischer sinnvoller Krankenrücktransport für Sie und Ihre Begleitperson",
+            "Versicherungsschutz bei Pandemien",
+            "Versicherungsschutz bei bestehenden Reisehinweisen und -warnungen durch das Auswärtige Amt in allen Ländern der Welt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "gesundheit-dkv-gesundheitstelefon-15869.md.md": {
+        "Produktname": "Gesundheitstelefon Zahn",
+        "Versicherungsart": "Zahnmedizinischer Beratungsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individuelle Beratung zu Gesundheitsthemen",
+            "Hilfe bei der Suche nach einem Spezialisten",
+            "Erläuterung von Diagnosen und Zweitmeinungsservice",
+            "Allgemeine medizinische Beratung",
+            "Arzneimittelberatung",
+            "Reisemedizinische Beratung",
+            "Ernährungsberatung",
+            "Nennung von kooperierenden Zahnärzten",
+            "Nennung von Zahnärzten für eine zahnärztliche Zweitmeinung",
+            "Beantwortung zahnmedizinischer Fragen",
+            "Information zu bestimmten Therapien",
+            "Auskunft zur Erstattung zahnärztlicher Behandlung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Beratung ersetzt keinen Arztbesuch",
+            "Es werden weder Diagnosen gestellt noch Therapieempfehlungen gegeben",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "unfall.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-reiseversicherung-reiseruecktrittsversicherung-reiseabbruchversicherung.md.md": {
+        "Produktname": "Reiserücktrittsversicherung & Reiseabbruchversicherung",
+        "Versicherungsart": "Reiseversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung der Stornokosten bei Reiserücktritt",
+            "Absicherung bei Reiseabbruch aufgrund unvorhergesehener Umstände",
+            "Optionaler Ergänzungs-Schutz Covid-19"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "gesundheit-psyche.md.md": {
+        "Produktname": "Psyche",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hilfe bei Depressionen - Online-Unterstützung",
+            "Ängste überwinden - Online-Unterstützung",
+            "Raus aus dem Burnout - Online-Selbsthilfe",
+            "Aktivprogramm: Einfache Entspannung",
+            "Gesundheitsprogramm: Seele im Gleichgewicht",
+            "Aktivprogramm: Geistig fit bleiben",
+            "Gesundheitstelefon",
+            "Digitale Arztsprechstunde"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "zahnheilkunde.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Parodontitisbehandlung",
+            "Wurzelbehandlung",
+            "Füllungen und Inlays",
+            "Herausnehmbarer Zahnersatz (Teilprothese, Vollprothese)",
+            "Festsitzender Zahnersatz (Kronen, Brücken)",
+            "Implantate"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Kostenübernahme für Implantate durch gesetzliche Krankenversicherungen ohne Zahn-Zusatzversicherung"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-zum-verbrauch-bestimmte-pflegehilfsmittel.md.md": {
+        "Produktname": "Pflegehilfsmittel zum Verbrauch",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Bis zu 42 € monatlich",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Vereinfachte Kostenerstattung für zum Verbrauch bestimmte Hilfsmittel",
+            "Monatliche Zahlung im Rahmen eines Dauerauftrages",
+            "Keine Rechnungseinreichung erforderlich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nicht versichert nach dem Standardtarif oder Basistarif",
+            "Kein Pflegeergänzungstarif PEK mitversichert"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hustenassistenten.md.md": {
+        "Produktname": "Hustenassistenten",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör und Verbrauchsmaterialien (z.B. Masken, Filter)",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Gerätedefekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kontraindikationen, die eine Abstimmung mit einem Facharzt erfordern"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-orthopaedische-massschuhe.md.md": {
+        "Produktname": "Orthopädische Maßschuhe",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Tariflich vorgesehener Eigenanteil",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherung von zwei Paar Straßenschuhen und einem Paar Hausschuhen",
+            "Regelnutzungsdauer von zwei Jahren für Straßenschuhe und vier Jahren für Hausschuhe",
+            "Verzicht auf erneute ärztliche Verordnung bei Folgeversorgung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Orthopädische Sport- oder Badeschuhe",
+            "Orthopädische Sicherheitsschuhe für den beruflichen Alltag",
+            "Reparaturen an Sohlen und Absätzen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "zahnzusatzversicherung-kdt-tarif.md.md": {
+        "Produktname": "KombiMed Zahn Tarif KDT",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Bis zu 100% der erstattungsfähigen Aufwendungen",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Besonders günstige Beiträge",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Verdoppelung des Festzuschusses der Krankenkasse",
+            "Zuschuss zu den Kosten von Zahnersatz und Zahnkronen",
+            "Keine Gesundheitsfragen erforderlich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "private-krankenversicherung-zur-beihilfe-111848.md.md": {
+        "Produktname": "DKV BeihilfeMed Option Tarif BOPT",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "6 Jahre",
+        "Weitere Leistungen": [
+            "Wechsel in die private Krankenversicherung bei Beihilfeberechtigung",
+            "Flexible Wahl des BeihilfeMed Tarifs bei Beginn der Beihilfe",
+            "Keine weitere Gesundheitsprüfung bei späterem Wechsel"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Möglichkeit der Verlängerung des Optionstarifs",
+            "Verfall des Optionstarifs ohne Beihilfeanspruch innerhalb der Laufzeit",
+            "Höchstaufnahmealter ist 49 Jahre"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-pulsoximeter.md.md": {
+        "Produktname": "Pulsoximeter",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Bis zu 50 Euro für Fingerpulsoximeter",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung komplexer Pulsoximeter mit Monitoring und Speicherfunktion",
+            "Zubehör und Verbrauchsmaterialien inklusive",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Geräteschaden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-infusionspumpen.md.md": {
+        "Produktname": "Infusionspumpen",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Infusionspumpen mit Zubehör sind versichert",
+            "Notwendige Hilfsmittel zum Verbrauch werden gekauft",
+            "Leihweise Überlassung der Infusionspumpe im Rahmen einer Fallpauschale",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt",
+            "Beratung zu Hilfsmitteln und Verbrauchsmaterialien",
+            "Individuelle Therapiebegleitung",
+            "Technischer Notdienst"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "Pflegebeduerftigkeit_und_Pflegeleistungen.md.md": {
+        "Produktname": "Pflegezusatzversicherung",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Antrag auf Feststellung der Pflegebedürftigkeit",
+            "Begutachtung durch Medicproof",
+            "Pflegeleistungen je nach Pflegegrad",
+            "Verhinderungspflege"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "produkte-stationaere-zusatzversicherung-chefarzt-privat-versicherung-104066.md.md": {
+        "Produktname": "Krankenhauszusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 2,79 € / Monat für eine 20-jährige Person",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Krankenhauswahl",
+            "Freie Arztwahl, auch Chefarztbehandlung",
+            "Unterbringung im Ein- oder Zweibettzimmer",
+            "Krankenhaustagegeld",
+            "Top-Experten-Vermittlung",
+            "Keine Wartezeit bei Unfällen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von 3 Monaten bei Krankheiten",
+            "Wartezeit von 8 Monaten bei Entbindungen, Zahnersatz und Psychotherapie"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-guenstige-private-krankenversicherung-vollversicherung-106321.md.md": {
+        "Produktname": "Private Krankenversicherung für Selbständige, Arbeitnehmer und Freiberufler",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Die monatlichen Beiträge richten sich nach dem gewählten Tarif, Alter und Gesundheitszustand",
+        "Gültigkeitsbereich": "Weltweit (zeitlich begrenzt außerhalb der EU/EWR)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zugang zu modernen Therapien",
+            "Vorsorge- und Gesundheitsprogramme",
+            "Fallmanagement",
+            "Hilfsmittelservice",
+            "Zahlreiche Beratungsangebote"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorerkrankungen können zu Risikozuschlägen oder Ausschlüssen führen",
+            "Kinder oder andere Familienmitglieder müssen separat versichert werden"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-rollatoren.md.md": {
+        "Produktname": "Rollatoren",
+        "Versicherungsart": "Kranken- oder Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Mögliche Eigenbeteiligung bei zusätzlicher Komfortausstattung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör",
+            "Reparaturen und Instandsetzungen",
+            "Vom Hersteller vorgeschriebene Wartungen",
+            "Kostenloser Austausch bei Defekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-toilettenhilfen.md.md": {
+        "Produktname": "Toilettenhilfen",
+        "Versicherungsart": "Pflegeversicherung, Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Je nach Modell kann eine Eigenbeteiligung anfallen",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Notwendige Toilettenhilfen mit gültiger Hilfsmittelnummer sind versichert",
+            "Beratung zum Hilfsmittel",
+            "Qualitativ hochwertige Versorgung",
+            "Anpassung des Hilfsmittels",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Zusätzlich gewünschte Ausstattung, die dem Komfort dient, ist selbst zu tragen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-toilettenrollstuehle.md.md": {
+        "Produktname": "Toilettenrollstühle",
+        "Versicherungsart": "Pflegeversicherung, Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Je nach Modell kann eine Eigenbeteiligung anfallen",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör (z.B. Toiletteneimer mit Deckel)",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen",
+            "Kostenloser Austausch bei Defekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Der Bezug eines Toilettenrollstuhles neben einem Dusch-/Toilettenrollstuhl ist nicht versichert"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hilfsmittel-uebersicht.md.md": {
+        "Produktname": "DKV Hilfsmittelservice",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Deutschland",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Nutzung rund um die Uhr",
+            "Kooperationspartner in ganz Deutschland",
+            "Beratung und Klärung der Kostenübernahme",
+            "Schnelle Lieferung von Hilfsmitteln"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-kommunikationshilfen.md.md": {
+        "Produktname": "Kommunikationshilfen",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Deutschland",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individuelle Versorgung mit Kommunikationshilfen",
+            "Beratung durch Fachberater mit therapeutischem Hintergrund",
+            "Möglichkeit, Geräte zu Hause auszuprobieren",
+            "Rabatte bei Partnern der DKV",
+            "Direktabrechnung mit der DKV, sofern der Tarif dies vorsieht"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hilfsmittel-zur-insulintherapie.md.md": {
+        "Produktname": "Hilfsmittel zur Insulintherapie",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hilfsmittel zur Insulintherapie sind versichert",
+            "Notwendige Hilfsmittel zum Verbrauch werden nach individuellem Verbrauch gekauft",
+            "Insulinpumpe wird gekauft, mit einer Regelnutzungsdauer von ca. fünf Jahren",
+            "Tarifliche Leistung (z.B. 30 %, 100 %) wird gezahlt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-rundum-zusatzversicherung.md.md": {
+        "Produktname": "Rundum-Zusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Arztwahl mit höchstmöglicher Versorgungsqualität",
+            "Reduzierung von Zuzahlungen (z. B. Vorsorge, Heilmittel oder Alternativmedizin)",
+            "Moderne Zahnersatzlösungen (z. B. Implantate statt Prothese)",
+            "Umfangreiche Leistungen für die Zahnbehandlung und Kieferorthopädie",
+            "Freie Krankenhaus- und Arztwahl für die bestmögliche Versorgung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-badewannenlifter.md.md": {
+        "Produktname": "Badewannenlifter",
+        "Versicherungsart": "Pflegeversicherung, Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Je nach Modell kann eine Eigenbeteiligung anfallen",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör (z.B. Dreh- und Übersetzhilfe)",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Mehrfachversorgung für den Bade- und Duschbereich",
+            "Zusätzliche gewünschte Ausstattung, die dem Komfort dient, ist selbst zu tragen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "zusatzversicherungen.md.md": {
+        "Produktname": "Krankenhaus Zusatzversicherung für Kinder",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Arztwahl",
+            "Freie Krankenhauswahl",
+            "Schutz für Zahnersatz",
+            "Prophylaxe",
+            "Rundumschutz ab Beginn ohne Wartezeit",
+            "Reduzierung der Zuzahlungen für Brille, Vorsorge, Medikamente, Alternativmedizin",
+            "Private Zusatzleistungen",
+            "Unabhängigkeit bei Pflegebedürftigkeit",
+            "Umfangreiche Beratung für die Familie",
+            "Kombination von gesetzlicher und privater Versicherung",
+            "Privatpatient beim Arzt, Zahnarzt und in der Klinik",
+            "Einbettzimmer",
+            "Chefarztbehandlung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-sauerstoffgeraete.md.md": {
+        "Produktname": "Sauerstoffgeräte",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör und Verbrauchsmaterialien (z.B. Masken, Filter)",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Geräteschaden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-kompressionsstruempfe.md.md": {
+        "Produktname": "Kompressionsstrümpfe",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme in tariflicher Höhe (z.B. 30 %, 100 %)",
+            "Beratung zum Hilfsmittel – online, in der Filiale oder vor Ort",
+            "Qualitativ hochwertige Versorgung",
+            "Hilfsmittel führender Hersteller",
+            "Anpassung und Erprobung des Hilfsmittels",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hoergeraete.md.md": {
+        "Produktname": "Hörgeräte",
+        "Versicherungsart": "Hörgeräteversicherung",
+        "Deckungssumme": "Bis zu 1.500 Euro pro Ohr (inkl. Otoplastik)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenlose Nachbetreuung",
+            "Reparaturservice",
+            "Direktabrechnung mit der DKV, sofern der versicherte Tarif dies vorsieht"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kosten für den Gebrauch und die Pflege von Hörgeräten (z.B. Batterien, Ladegeräte, Reinigungsmittel, TV-Connector)",
+            "Hörgeräteversicherungen, Sorglos-Pakete etc."
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "produkte-verband-gruppenversicherung-freiberufler-16954.md.md": {
+        "Produktname": "Verbandsgruppenversicherung für Freiberufler",
+        "Versicherungsart": "Gruppenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Exzellenter Versicherungsschutz zu günstigen Konditionen für Freiberufler"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "produkte-private-zahnzusatzversicherung-106318.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Bis zu 100 % Erstattung (inkl. Vorleistung der Gesetzlichen Krankenversicherung)",
+        "Selbstbeteiligung": "Auswahl eines Eigenanteils von 20 %, 10 % oder 0 %",
+        "Preis": "Ab 5,70 € / Monat (je nach Tarif und Alter)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Mindestlaufzeit von 2 Jahren, danach monatliches Kündigungsrecht",
+        "Weitere Leistungen": [
+            "100 % Erstattung für Zahnfüllungen und Inlays",
+            "Erstattung bei kieferorthopädischen Behandlungen für Kinder bis zu 2.000 €",
+            "Parodontologische und Wurzelbehandlungen",
+            "Zahnprophylaxe, z.B. Zahnreinigung",
+            "Schmerztherapie wie Narkose, Akupunktur und Hypnose",
+            "Bleaching innerhalb von zwei Kalenderjahren max. 250 €"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Erstattung für bereits angeratene oder laufende Behandlungen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "kindernachversicherung.md.md": {
+        "Produktname": "Neugeborenes hinzuversichern",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Rückwirkende Versicherung ab Geburt",
+            "Keine Gesundheitsprüfung",
+            "Keine Wartezeiten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Angebot gilt nur für private Voll- und Zusatzversicherungen",
+            "Angebot kann nur 2 Monate ab Geburt wahrgenommen werden"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-apps-und-co-unsere-digitalen-gesundheitsangebote.md.md": {
+        "Produktname": "Apps und Co. – unsere digitalen Gesundheitsangebote",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Digitale Gesundheitsangebote zur Unterstützung im Alltag",
+            "Ergänzung zur ambulanten Behandlung",
+            "Verschiedene Apps und Online-Programme für spezifische Gesundheitsbedürfnisse (z.B. Schlaf- und Entspannungs-App für Kinder, Online-Unterstützung bei Ängsten und Depressionen, digitales Rückentraining, Tinnitus App, digitale Schwangerschaftsbegleitung, Blutdruckmanagement, Nierengesundheit, Burnout-Selbsthilfe, digitale Arztsprechstunde)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Die Apps/Online-Programme können die ärztliche Leistung nicht ersetzen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "downloads_50076948-Sonderaktion-Wartezeitverzicht-Krankenhaus-Urkunde-03-2024.pdf.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gesundheit-familienprogramme.md.md": {
+        "Produktname": "DKV-Familienprogramme",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kostenlos",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Regelmäßige Telefongespräche mit einem Coach",
+            "Nutzung der Thieme Coach App",
+            "Individuelle Beratung von der Schwangerschaft bis zur Geburt",
+            "Unterstützung in den ersten Lebensjahren des Kindes"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Teilnahme für Versicherte mit Basis-, Standard- und Notlagentarif"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "reiseschutz-versicherungen-auslandskrankenversicherung.md.md": {
+        "Produktname": "Auslandskrankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Bei der Reise­kranken­versicherung für eine einzelne Reise (Tages­prämie) innerhalb Europas gibt es eine Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Weltweiter Schutz, auch bei Reisehinweisen und Reisewarnungen",
+            "COVID-19 Erkrankungen sind mitversichert",
+            "Heimaturlaube bis zu 8 Wochen sind mitversichert",
+            "Keine Gesundheitsprüfung bei Lang­zeit-Auslands­kranken­versicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "zahnzusatzversicherung-kombimed-tarif.md.md": {
+        "Produktname": "KombiMed Zahn",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Entscheidung über die Höhe des Eigenanteils: bis zu 100 % Erstattung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europäische Union, Europäischer Wirtschaftsraum, Schweiz",
+        "Vertragslaufzeit": "Mindestlaufzeit von zwei Jahren, danach monatliches Kündigungsrecht",
+        "Weitere Leistungen": [
+            "Zahnbehandlung, Zahnersatz, Implantate, Kieferorthopädie",
+            "Prophylaxe, professionelle Zahnreinigung",
+            "Aufbaustufe mit Zusatzleistungen wie unbegrenzte Prophylaxe, Bleaching, Schmerztherapie",
+            "Keine Wartezeit",
+            "Bonus für regelmäßige Zahnvorsorge"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kieferorthopädische Leistungen grundsätzlich nur für Kinder und Jugendliche, außer bei Unfall",
+            "Versicherungsschutz nur in der EU, EWR und Schweiz, nicht in weiteren Staaten"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-gesundheitsprogramme.md.md": {
+        "Produktname": "DKV-Gesundheitsprogramme",
+        "Versicherungsart": "Gesundheitsprogramme",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kostenlos",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Jederzeit kündbar",
+        "Weitere Leistungen": [
+            "Telefonische Beratung durch Thieme",
+            "Unterstützung bei chronischen Erkrankungen",
+            "Regelmäßige Telefongespräche mit einem Coach",
+            "Nutzung der Thieme Coach App"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Teilnahme nicht möglich für Basis-, Standard- und Notlagentarif",
+            "Teilnahme nicht möglich ohne Krankheitskostenvollversicherung oder bestimmte Tarife (KombiMed Ambulant KAMP, BestMed BMG)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-beatmungsgeraete.md.md": {
+        "Produktname": "Beatmungsgeräte",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör und Verbrauchsmaterialien (z.B. Masken, Filter)",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Geräteschaden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "DKV_Pflegewelt.md.md": {
+        "Produktname": "Pflege Schutz Paket",
+        "Versicherungsart": "Private Pflege Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unterstützung durch compass private pflegeberatung GmbH",
+            "Self-Services bei Pflegebedürftigkeit und Pflegeleistungen",
+            "Checklisten und Services zur Organisation der Pflege",
+            "Download-Center für erforderliche Dokumente"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "gesundheit-digitale-sprechstunde-112306.md.md": {
+        "Produktname": "Online Arzt: Digitale Sprechstunde",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "24/7 per Videogespräch erreichbar",
+            "Keine Wartezeiten – Arztgespräch innerhalb von 30 Minuten",
+            "Medizinische Beratung durch approbierte Ärztinnen und Ärzte mit Sitz in Deutschland",
+            "Digitales Rezept oder AU aufs Handy",
+            "Exzellente Behandlung durch erfahrene Ärzte mit deutscher Zulassung",
+            "Apothekennetzwerk (Apotheken vor Ort, Versandapotheke)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Ausgenommen Versicherte im Basis-, Standard- und Notlagentarif"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "meine-zusatzversicherungen.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-familie.md.md": {
+        "Produktname": "Caterna: digitale Amblyopie Therapie",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Begleitung durch die Schwangerschaft",
+            "Unterstützung bei neuen und ungewohnten Erfahrungen",
+            "Individuelle Begleitung durch 40 Schwangerschaftswochen",
+            "Unterstützung bei Erziehung und Entwicklung der Kinder",
+            "Kindgerechte Hörerlebnisse zur Entspannung und zum Schlafen",
+            "Online-Sehschulung mit altersgerechten Sehübungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "private-krankenversicherungen.md.md": {
+        "Produktname": "Private Krankenversicherung",
+        "Versicherungsart": "Krankenvollversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hochwertige, individuelle medizinische Versorgung",
+            "Krankentagegeldversicherung",
+            "Kur-Tagegeldversicherung",
+            "Kindernachversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "zahn-von-der-untersuchung-bis-zur-erstattung.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unterstützung bei der Einreichung von Rechnungen und Heil- und Kostenplänen",
+            "Erstattung der Kosten für die Erstellung eines Heil- und Kostenplans im tariflichen Umfang",
+            "Beratung und Informationen rund um das Thema Zahn"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Vorleistung auf die Implantatversorgung durch die gesetzliche Krankenversicherung",
+            "Leistungen nur für bereits durchgeführte Behandlungen in der privaten Krankenversicherung"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-krankenversicherung-grosskunden-firmen-1556.md.md": {
+        "Produktname": "Arbeitnehmerfinanzierte bKV",
+        "Versicherungsart": "Betriebliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Günstigere Beiträge als bei Einzelversicherungen",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Annahmegarantie für versicherungsfähige Personen",
+            "Sofortiger Versicherungsschutz ohne Wartezeiten bei Tarifen mit Gesundheitsfragen",
+            "Fortführung zu Bedingungen der Einzelversicherung bei Jobwechsel möglich",
+            "Mitversicherung der Angehörigen möglich, teilweise ohne Gesundheitsprüfung",
+            "Einfache Prozesse und geringer Verwaltungsaufwand",
+            "Erhöhung der Attraktivität als Arbeitgeber",
+            "Reduzierung der Lohnnebenkosten möglich",
+            "Kostenneutrale Sozialleistungen",
+            "Unterstützung durch einen festen Ansprechpartner vor Ort"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-prothesen.md.md": {
+        "Produktname": "Prothesen",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für Prothesen in medizinisch notwendiger Ausführung in tariflicher Höhe",
+            "Individuelle Beratung zur prothetischen Versorgung",
+            "Möglichkeit, verschiedene Prothesenpassteile während der Interimsversorgung zu testen",
+            "Professionelle Einweisung in die Bedienung",
+            "Schnelle Lieferung",
+            "Hilfsmittel-Notdienst",
+            "Reparatur- und Wartungsservice",
+            "Beratung zu Hause",
+            "Abwicklung mit der DKV durch Partner",
+            "Direktabrechnung mit der DKV, sofern der Tarif dies vorsieht"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "Premiumtarif_fuer_Privatversicherte.md.md": {
+        "Produktname": "PremiumMed",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Je nach Tarif und Selbstbeteiligungsstufe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "100% für ärztliche Leistungen",
+            "90% Zahnersatz und Zahnkronen",
+            "100% für Chefarztbehandlung und Ein- oder Zweibettzimmer",
+            "Bei bestimmten schweren Erkrankungen innerhalb von nur 5 Werktagen zum Top-Experten",
+            "Garantierte und erfolgsabhängige Beitragsrückerstattung (BRE) nach einem leistungsfreien Jahr – je nach Tarif und Selbstbeteiligungsstufe bis zu 3.600 Euro",
+            "Je 1.500 Euro Entbindungspauschale + max. 3.600 Euro Elterngeldpauschale bei Bezug von Elterngeld"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-ambulante-kranken-zusatzversicherung-106319.md.md": {
+        "Produktname": "Ambulante Zusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leistungen für Brille, Kontaktlinsen oder Lasik",
+            "Präventionskurse & Vorsorgeuntersuchungen außerhalb der gesetzlich definierten Zeiträume",
+            "Kostenübernahme von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-betriebliche-krankenversicherung-arbeitnehmer.md.md": {
+        "Produktname": "bKV-Lösungen für Arbeitnehmer und Familienangehörige",
+        "Versicherungsart": "Betriebliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Möglichkeit, eigenfinanziert zusätzlichen Versicherungsschutz zu attraktiven Konditionen zu beantragen",
+            "Online-Rechner für die Versicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-kompressionstherapiegeraete.md.md": {
+        "Produktname": "Kompressionstherapiegeräte",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für medizinisch notwendige Kompressionstherapiegeräte in tariflicher Höhe",
+            "Beratung und Versorgung durch qualifizierte Hilfsmittelpartner",
+            "Anpassung und Erprobung des Hilfsmittels",
+            "Schnelle Lieferung durch Hilfsmittelpartner"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kostenübernahme nur nach Ausschöpfung der komplexen physikalischen Entstauungstherapie (KPE)",
+            "Kontraindikationen wie Thrombophlebitis, Thrombose, Erysipel, dekompensierte Herzinsuffizienz müssen ausgeschlossen sein"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "dialog-kontakt-tarife-produkte-betriebliche-krankenversicherung-angebot-anfordern-dkv_63_1625_1628.md.md": {
+        "Produktname": "Betriebliche Krankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-bade-und-duschhilfen.md.md": {
+        "Produktname": "Bade- und Duschhilfen",
+        "Versicherungsart": "Pflegeversicherung, Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Je nach Modell kann eine Eigenbeteiligung anfallen",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Notwendige Bade- oder Duschhilfen mit gültiger Hilfsmittelnummer sind versichert",
+            "Beratung zum Hilfsmittel",
+            "Qualitativ hochwertige Versorgung",
+            "Anpassung des Hilfsmittels",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Eine Mehrfachversorgung für den Bade- und Duschbereich ist nicht versichert",
+            "Zusätzlich gewünschte Ausstattung, die dem Komfort dient, ist selbst zu tragen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-milchpumpen.md.md": {
+        "Produktname": "Milchpumpen",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Milchpumpen sind versichert",
+            "Tarifliche Leistung (z.B. 30 %, 100 %)",
+            "Beratung zum Hilfsmittel",
+            "Qualitativ hochwertige Versorgung",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nicht immer sind Mutter und Kind gemeinsam bei der DKV versichert. Ein anderer Krankenversicherer könnte der richtige Ansprechpartner sein."
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-kurversicherung-private-zusatzversicherung-107086.md.md": {
+        "Produktname": "Kur-Tagegeldversicherung",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Bis zu 160 EUR Tagegeld für stationäre und ambulante Kuraufenthalte",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Auszahlung in bar und steuerfrei für jeden Tag des Aufenthaltes (bis zu 28 Tage alle 3 Jahre)",
+            "Keine Gesundheitsprüfung",
+            "Als Kassenpatient einen Tagessatz von 40 EUR vereinbaren"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-absauggeraete.md.md": {
+        "Produktname": "Absauggeräte",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt",
+            "Übernahme der Kosten für Verbrauchsmaterialien wie Absaugkatheter und Bakterienfilter"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "online-services.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-inhalationsgeraete.md.md": {
+        "Produktname": "Inhalationsgeräte",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Medizinisch notwendige Inhalationsgeräte sind versichert",
+            "Vereinbarte Konditionen mit Partnern (z.B. Rabatte)",
+            "Beratung zum Hilfsmittel – online, in der Filiale oder vor Ort",
+            "Qualitativ hochwertige Versorgung",
+            "Anpassung und Erprobung des Hilfsmittels",
+            "Schnelle Lieferung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-hilfsmittel-gegen-dekubitus.md.md": {
+        "Produktname": "Hilfsmittel gegen Dekubitus",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung von Antidekubitus-Matratzen im Rahmen einer Fallpauschale",
+            "Zubehör, Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt",
+            "Rabatte beim Kauf von Antidekubitus-Sitzkissen oder Lagerungshilfen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-cgm-systeme.md.md": {
+        "Produktname": "CGM-Systeme",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Medizinisch notwendige CGM-Systeme sind versichert.",
+            "Kostenübernahme in tariflicher Höhe (z.B. 30 %, 100 %).",
+            "Alarmfunktion bei Über- oder Unterzuckerung."
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nutzung ersetzt nicht die „blutige“ Blutzuckermessung.",
+            "Kostenübernahme wird im Einzelfall geprüft, wenn medizinisch erforderlich."
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-patientenlifter.md.md": {
+        "Produktname": "Patientenlifter",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör",
+            "Reparaturen, Instandsetzungen, vom Hersteller vorgeschriebene Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Voraussetzung für die Kostenübernahme ist ein bestehender Pflegegrad und eine Immobilität"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-mobile-rampe.md.md": {
+        "Produktname": "Mobile Rampe",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Pflegerisch notwendige mobile Rampen mit gültiger Hilfsmittelnummer sind versichert.",
+            "Bestimmte Konditionen für die Versorgung mit mobilen Rampen (z.B. Rabatte).",
+            "Kostenübernahme aus der Pflegeversicherung bei bestehendem Pflegegrad.",
+            "Möglichkeit zur Beantragung von Türschwellenüberbrückungen oder stationären Rampen im Rahmen von Wohnumfeldverbesserungsmaßnahmen."
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Voraussetzung für die Kostenübernahme ist ein bestehender Pflegegrad und die Unfähigkeit, Stufen selbstständig zu überwinden."
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "gesundheit-aktivprogramme.md.md": {
+        "Produktname": "DKV-Aktivprogramme",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kostenlos",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Aktivprogramm: Gesunde Ernährung",
+            "Aktivprogramm: Bewegung im Alltag",
+            "Aktivprogramm: Gesunder Rücken",
+            "Aktivprogramm: Einfache Entspannung",
+            "Aktivprogramm: Erholsamer Schlaf",
+            "Aktivprogramm: Gesund abnehmen",
+            "Aktivprogramm: Fit im Homeoffice",
+            "Aktivprogramm: Geistig fit bleiben",
+            "Aktivprogramm: Endlich rauchfrei"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Teilnahme nur für Versicherte mit Krankheitskostenvollversicherung (außer Basis-, Standard- und Notlagentarif)",
+            "Teilnahme für Versicherte mit Tarifen KombiMed Ambulant KAMP oder BestMed BMG"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "ersatzversicherungsschein-beantragen.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "produkte-private-pflegezusatzversicherung-jetzt-handeln.md.md": {
+        "Produktname": "Private Pflege Zusatzversicherung",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 4,71 € / Monat für eine 20-jährige Person im Tarif PTG",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sofortiger Versicherungsschutz ohne Wartezeit bei Pflegetagegeld und Pflegezuschuss",
+            "Erhalten Sie 60 € staatliche Förderung im Jahr (Förder-Pflegeversicherung)",
+            "Keine Gesundheitsprüfung (Förder-Pflegeversicherung)",
+            "Verdoppelung der gesetzlichen Leistungen (Pflege-Zuschuss)",
+            "Finanzielle Freiheit mit Tagessätzen zwischen 5 und 160 € (Pflegetagegeld)",
+            "Dynamische Anpassung des Pflegetagegeldes",
+            "Pflegeheimplatz-Garantie innerhalb von 24 Stunden (Pflege Schutz Paket)",
+            "Einmalige Zahlung von 1.000 € ab Pflegegrad 2 (Pflege Schutz Paket)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von 5 Jahren bei Förder-Pflege, entfällt bei Unfall",
+            "Wartezeit von 3 Jahren bei Pflege-Schutz-Paket, entfällt bei Unfall"
+        ],
+        "category": "Pflegetagegeldversicherung"
+    },
+    "produkte-auslandsreisekrankenversicherung-Familie-Einzelperson-bis-12-monate.md.md": {
+        "Produktname": "Auslandskrankenversicherung bis zu 12 Monate für Einzelpersonen",
+        "Versicherungsart": "Auslandskrankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Selbstbeteiligung",
+        "Preis": "Ab 39,00 EUR pro Person und Monat",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "1 bis 12 Monate",
+        "Weitere Leistungen": [
+            "Leistungsstarker Schutz bei Krankheit oder Unfall im Ausland",
+            "Schnelle Hilfe durch 24-Stunden-Notruf-Service",
+            "Medizinisch sinnvoller Krankenrücktransport",
+            "COVID-19 Erkrankungen sind mitversichert",
+            "Weltweiter Versicherungsschutz bei Pandemien",
+            "Versicherungsschutz bei bestehenden Reisehinweisen und -warnungen durch das Auswärtige Amt in allen Ländern der Welt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "dkv-gesundheitsservices.md.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-besser-atmen.md.md": {
+        "Produktname": "Besser Atmen",
+        "Versicherungsart": "Gesundheitsprogramm",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unterstützung bei Atemtechniken",
+            "Informationen zu Atemwegserkrankungen",
+            "Tipps zur Asthmakontrolle",
+            "Informationen zu Allergien und Schnarchen",
+            "Unterstützung beim Rauchstopp"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-bewegungstrainer.md.md": {
+        "Produktname": "Bewegungstrainer",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör",
+            "Reparaturen oder Instandsetzungen",
+            "Kostenloser Austausch bei Gerätedefekt",
+            "Konditionen für den Kauf (z.B. Rabatte)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-peruecken.md.md": {
+        "Produktname": "Perücken",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Tarifliche Höhe (z.B. 30 %, 100 %)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für Perücken in medizinisch notwendiger Ausführung",
+            "Möglichkeit, vorab ein Angebot einzureichen, um den Leistungsanspruch zu klären"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wunsch nach einer bestimmten Frisur und Haarlänge fällt in den eigenen Verantwortungsbereich"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-rollstuehle.md.md": {
+        "Produktname": "Rollstühle",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Hilfsmittels",
+            "Zubehör",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt",
+            "Konditionen für den Kauf (z.B. Rabatte)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Besondere Ausstattung, die medizinisch nicht erforderlich ist, ist nicht versichert (Eigenanteil erforderlich)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-onkologie.md.md": {
+        "Produktname": "Onkologie",
+        "Versicherungsart": "Gesundheitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Krebsvorsorgeuntersuchungen",
+            "Chemotherapie",
+            "Strahlentherapie",
+            "Anschlussrehabilitation",
+            "Krebsnachsorge",
+            "Onkologisches Fallmanagement",
+            "Digitale Arztsprechstunde"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "Krankenhauszusatzversicherung_fuer_Kinder.md.md": {
+        "Produktname": "Krankenhaus Zusatzversicherung für Kinder",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Privatpatient im Krankenhaus bei Krankheiten und nach Unfällen",
+            "Freie Krankenhaus- und Arztwahl",
+            "Ein- oder Zweibettzimmer",
+            "Zugang zu Top-Experten innerhalb von 5 Werktagen bei bestimmten schweren Erkrankungen (z. B. Herzklappenfehler, Tumorerkrankungen)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gesundheit-diabetes.md.md": {
+        "Produktname": "Diabetes",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Informationen zu Diabetes Typ 1 und Typ 2",
+            "Tipps zur Ernährung und Bewegung bei Diabetes",
+            "Unterstützung bei der Blutzuckerregulation",
+            "Informationen zu diabetischen Komplikationen wie diabetischer Fuß und Augenbeschwerden",
+            "Gesundheitsprogramme und digitale Arztsprechstunde"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gesundheit-organisation-hilfsmittel-service-pflegebetten.md.md": {
+        "Produktname": "Pflegebetten",
+        "Versicherungsart": "Pflegeversicherung, Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Mögliche Eigenbeteiligung bei zusätzlicher Komfortausstattung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Leihweise Überlassung des Pflegebetts",
+            "Zubehör (z.B. Bettgalgen, Seitengitter)",
+            "Reparaturen, Instandsetzungen, Wartungen und sicherheitstechnische Kontrollen",
+            "Kostenloser Austausch bei Defekt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Zusätzliche gewünschte Ausstattung, die dem Komfort dient, ist selbst zu tragen"
+        ],
+        "category": "Pflegekostenversicherung"
+    }
+}

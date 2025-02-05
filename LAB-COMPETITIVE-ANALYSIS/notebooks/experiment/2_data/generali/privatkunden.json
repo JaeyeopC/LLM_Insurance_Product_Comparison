@@ -1,0 +1,538 @@
+{
+    "title": "Produktübersicht Versicherungen für Privatkunden. Alle Produkte im Überblick I Generali",
+    "metadata": {
+        "description": "Eine Übersicht aller Produkte für Privatkunden der Generali. Produktübersicht aller Versicherungen bei der Generali wie die Rundum-Schutz Bündel oder unsere Versicherungen für junge Leute.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Privatkunden",
+        "og:description": "Eine Übersicht aller Produkte für Privatkunden der Generali. Produktübersicht aller Versicherungen bei der Generali wie die Rundum-Schutz Bündel oder unsere Versicherungen für junge Leute.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Versicherungen für Privatkunden"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine junge Familie kocht gemeinsam in der Küche"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#85520",
+            "text": "Fahrzeug"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#85520",
+            "text": "Zuhause"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83450",
+            "text": "Gesundheit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83450",
+            "text": "Pflege"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83824",
+            "text": "Freizeit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83824",
+            "text": "Unfall"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83830",
+            "text": "Recht"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83830",
+            "text": "Haftung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#84134",
+            "text": "Vorsorge"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#84134",
+            "text": "Finanzen"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#-82530",
+            "text": "Rundum-Schutz"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#exklu-siv-fuer-junge-leute-85406",
+            "text": "Young Line"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "PRIVATKUNDEN"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Beliebte Pro­dukte"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kranken-vollversicherung",
+                "Krankenzusatz-versicherung",
+                "Privathaftpflicht",
+                "Kfz-Versicherung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unsere Paket-Lösun­gen schüt­zen Sie umfas­send:"
+        },
+        {
+            "type": "blockquote",
+            "text": "Individuell auf Ihre Bedürfnisse angepasstMit Zuwahlbausteinen flexibel erweiterbarAttraktive Beitragsvorteile erhaltenZum Rundum-Schutz"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/18402/fb5938ea6e389ef722be3fc2e18ca2d9/z07-vehicle-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Fahr­zeug"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/kfz-versicherung",
+            "text": "Kfz-Versicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/elektro-fahrzeuge",
+            "text": "Elektro-Fahrzeug"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/oldtimer-optimal",
+            "text": "Oldtimer Optimal"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/motorradversicherung",
+            "text": "Motorrad"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/moped-e-scooter",
+            "text": "Moped & E-Scooter"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kfz-Services:Kfz-Schutzbrief,Fahrer-Mobilitätsschutz,Digitale Pannenhilfe"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79706/6d176c462f62674c038fcae43345330d/a-42-house-insurance-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zuhause"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/hausratversicherung",
+            "text": "Hausratversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/glasversicherung",
+            "text": "Glasversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/photovoltaikversicherung",
+            "text": "Photovoltaik"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/kunstversicherung",
+            "text": "Kunstversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/bauversicherungen",
+            "text": "Bauversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/wohngebaeudeversicherung",
+            "text": "Wohngebäude"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schutzbriefe:Haus- und Wohnungsschutzbrief,Konto- und Finanzschutzbrief"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/37666/6cf16654290a207dc01ef87f49a16ec1/z04-health-2-data.png",
+            "alt": "Icon Herz"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesund­heit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/krankenvollversicherung",
+            "text": "Krankenvollversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/krankentagegeld-vollversicherte",
+            "text": "Krankentagegeld für Vollversicherte"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/beitragsentlastung-im-alter",
+            "text": "Beitragsentlastung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/krankenzusatzversicherung",
+            "text": "Krankenzusatzversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/krankentagegeld-zusatzversicherte",
+            "text": "Krankentagegeld für Zusatzversicherte"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/krankenhaustagegeld",
+            "text": "Krankenhaustagegeld"
+        },
+        {
+            "type": "paragraph",
+            "text": "Services:Gesundheitsservices,Ratgeber"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79920/12502651ad53d989a3c45822655fa14b/y48-oldman-assistance-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Pflege"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/pflegepflichtversicherung-vollversicherte",
+            "text": "Pflegepflicht für Vollversicherte"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/pflegezusatzversicherung",
+            "text": "Pflegezusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/78008/fc6ecdaacd980e0a92698024f36fad7b/z01-holiday-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Frei­zeit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/reiseversicherung",
+            "text": "Reiseversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/freizeit-versicherung",
+            "text": "Freizeitversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/reise-krankenversicherung",
+            "text": "Reise-Krankenversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/wassersportversicherung",
+            "text": "Wassersport"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/campingversicherung",
+            "text": "Camping"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79928/dbc8d745191549e15d7585e7c7cba4b9/y45-oldman-accident-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unfall"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/unfallversicherung",
+            "text": "Unfallversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/unfallversicherung/unfall-assistance-xxl",
+            "text": "Unfall Assistance XXL"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/kinderunfallversicherung",
+            "text": "Kinderunfall"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/50968/9d26f804d28188e529ac25e6a0d9c255/z45-education-data.png",
+            "alt": "Neuer Inhalt (1)"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Recht"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/recht-haftung/rechtsschutzversicherung",
+            "text": "Rechtsschutzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/19846/6fa67ff34c3654ca96ad4b085409d8fb/z09-accident-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haf­tung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/recht-haftung/privathaftpflichtversicherung",
+            "text": "Privathaftpflicht"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/recht-haftung/haus-grundbesitzerhaftpflichtversicherung",
+            "text": "Haus-/Grundbesitzer"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/recht-haftung/tierhalterhaftpflichtversicherung",
+            "text": "Tierhalter"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/recht-haftung/gewaesserschaden-haftpflichtversicherung",
+            "text": "Gewässerschaden"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/33918/115e4468caa4bddc767860e5d93b03cb/z20-investment-euro-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vor­sorge"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/berufsunfaehigkeitsversicherung",
+            "text": "Berufsunfähigkeit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/sofort-rente",
+            "text": "Sofort-Rente"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/risikolebensversicherung",
+            "text": "Risikoleben"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/direktversicherung",
+            "text": "Direktversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/sterbegeldversicherung",
+            "text": "Sterbegeld"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/grundfaehigkeitsversicherung",
+            "text": "Grundfähigkeit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/basis-rente",
+            "text": "Rürup-Rente"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/18602/2fe41fda6007a4670c0b318570c0c61c/z19-money-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Finan­zen"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/bausparen-finanzieren",
+            "text": "Bausparen"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/parkdepot-flex",
+            "text": "Parkdepot Flex"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/vorsorge-finanzen/vermoegens-einkommensplan",
+            "text": "Vermögen / Einkommen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Details zuFondsauswahlundGoldanlage."
+        },
+        {
+            "text": "Rundum-Schutz-Pakete"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Vermögenswerte absichernBausteine:PrivathaftpflichtUnfallHausratHaushalt-Glasweitere attraktive ZusatzbausteineVermögenssicherungspolice",
+                "Privathaftpflicht",
+                "Unfall",
+                "Hausrat",
+                "Haushalt-Glas",
+                "weitere attraktive Zusatzbausteine",
+                "Optimal vorsorgenBau­steine:VermögensaufbauArbeitskraftabsicherungSchwere KrankheitenHinterbliebenenabsicherungPflegeabsicherungVermögensaufbau & Sicherheitsplan",
+                "Vermögensaufbau",
+                "Arbeitskraftabsicherung",
+                "Schwere Krankheiten",
+                "Hinterbliebenenabsicherung",
+                "Pflegeabsicherung",
+                "Für die Zukunft Ihrer KinderBau­steine:VermögensaufbauSchüler-BUBU-OptionVersorgerschutzKinderinvaliditätsabsicherungMein Zukunftsplan",
+                "Vermögensaufbau",
+                "Schüler-BU",
+                "BU-Option",
+                "Versorgerschutz",
+                "Kinderinvaliditätsabsicherung",
+                "Im Pflegefall geschütztBausteine:Steuerfreie PflegerenteBeitragsfreistellung ab Pflegegrad 2Stabile TarifbeiträgeBeitragsrückgewähr bei TodPflegeheimplatz innerhalb von 24 hMein Pflegeschutz",
+                "Steuerfreie Pflegerente",
+                "Beitragsfreistellung ab Pflegegrad 2",
+                "Stabile Tarifbeiträge",
+                "Beitragsrückgewähr bei Tod",
+                "Pflegeheimplatz innerhalb von 24 h"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Exklu­siv für junge Leute"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Du & dein ZuhauseKeine unnötigen BeiträgeSchutz für dich & dein ZuhauseJährliche Anpassung möglichYoung & Home",
+                "Keine unnötigen Beiträge",
+                "Schutz für dich & dein Zuhause",
+                "Jährliche Anpassung möglich",
+                "Dein LebenJetzt für später vorsorgenSelber entscheiden, wie viel du anlegen willstWähle zwischen vier AnlagemöglichkeitenYoung & Life",
+                "Jetzt für später vorsorgen",
+                "Selber entscheiden, wie viel du anlegen willst",
+                "Wähle zwischen vier Anlagemöglichkeiten",
+                "Dein FahrzeugSchadenfreiheitsrabatt aufbauen auch ohne eigenes AutoAlle Autos fahren, die bei der Generali versichert sindVon 18 bis 30 JahreYoung & Drive",
+                "Schadenfreiheitsrabatt aufbauen auch ohne eigenes Auto",
+                "Alle Autos fahren, die bei der Generali versichert sind",
+                "Von 18 bis 30 Jahre",
+                "Dein RechtAnwaltliche BeratungBerufs-, Verkehrs- und WohnungsrechtschutzAngepasst an deine LebenssituationYoung & Law",
+                "Anwaltliche Beratung",
+                "Berufs-, Verkehrs- und Wohnungsrechtschutz",
+                "Angepasst an deine Lebenssituation",
+                "Dein VermögenRente für später aufbauenMit kleinem Beitrag sparenStufenweise ansteigender Beitrag möglichVermögensaufbau",
+                "Rente für später aufbauen",
+                "Mit kleinem Beitrag sparen",
+                "Stufenweise ansteigender Beitrag möglich"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/24182/3ff151fd7f73ce75b5700ad930ffc233/dvag-logo-weiss-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mobile Apps"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Generali GesundheitsAppNutzen Sie viele Services der Generali einfach über Ihr Smartphone, zum Beispiel, um uns Arztrechnungen und Rezepte zu schicken.Mehr erfahren",
+                "Generali Mobile HealthDie smarte Lösung rund um das Thema Gesundheit – vom Symptom-Check bis zum Online-Arzttermin.Mehr erfahren",
+                "Generali Protect MeDie kostenlose App Generali Protect Me warnt zuverlässig vor gefährlichen WetterereignissenMehr erfahren",
+                "Generali VitalityAppDas Gesundheitsprogramm belohnt ein gesundes Leben. Punkte sammeln durch Sport, gesunde Ernährung und regelmäßige Vorsorge. Attraktive Prämien warten auf Sie.Mehr erfahren"
+            ]
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "privatkunden"
+}

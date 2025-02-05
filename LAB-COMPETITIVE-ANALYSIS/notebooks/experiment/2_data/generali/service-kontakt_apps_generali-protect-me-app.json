@@ -1,0 +1,398 @@
+{
+    "title": "Generali Protect Me App",
+    "metadata": {
+        "description": "Die kostenlose App Generali Protect Me warnt Sie zuverlässig vor gefährlichen Wetterereignissen.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Generali Protect Me App",
+        "og:description": " ",
+        "og:image": "https://www.generali.de/resource/blob/70466/082125f639893e2452fbf6f6dc82e584/protectme-app-thumbnail-data.png"
+    },
+    "content": [
+        {
+            "text": "Pro­tect Me App"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Lass Dich rechtzeitig vor Unwettern warnen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hol Dir jetzt die Protect Me App."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=LP%20unten&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&gl=DE",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/91530/9262751233c8cd4774132e6f917e7387/qr-code-protect-me-app-data.jpg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87634/6fb16b0b364b362953cf327b33f9393e/wingshape-outline-white-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87634/6fb16b0b364b362953cf327b33f9393e/wingshape-outline-white-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87620/6bd1ed313662606ffb36a060c2e92b3d/iphone-overlay-png-data.png",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app#erhalte-rechtzeitig-wetter-warnungen-und-schuetze-was-dir-lieb-ist-70352",
+            "text": "Übersicht"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app#vorteile-70350",
+            "text": "Vorteile"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app#so-funktioniert-s-62460",
+            "text": "So funktioniert's"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app#faq-haeu-fig-gestellte-fra-gen-71028",
+            "text": "FAQ"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "APPS",
+                "GENERALI PROTECT ME APP"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Erhalte recht­zei­tig Wet­ter-War­nun­gen und schütze, was Dir lieb ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ob zuhause, beim Autofahren oder an Orten Deiner Wahl – mit der Protect Me App bekommst Du ortsgenaue Wetter-Warnungen direkt auf Dein Handy. So erfährst Du rechtzeitig, wann und wo welche Wettergefahr wahrscheinlich ist und was Du tun kannst."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jetzt neu mit Regenradar und Wetter-Vorhersage für Deine Orte: Checke vor Deinem Spaziergang oder Trip, ob es trocken bleibt und wie das Wetter wird."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Vor­teile"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Mehr Schutz vor UnwetterfolgenVerlässliche Warnungen und konkrete Verhaltens-Tipps direkt auf Dein Handy",
+                "Warnungen beim FahrenLive-Karte mit aktuellen Gefahren wie Aquaplaning und Nebel auf Fernstraßen",
+                "Verlässliche Wetter-DatenNutzt ausschließlich Wetter-Daten von Meteologix AG (auch bekannt als \"Kachelmannwetter\")",
+                "Kostenlos und ohne RegistrierungAlle Funktionen sind frei nutzbar, auch wenn Du kein Kunde bei Generali bist."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "So funk­tio­niert's"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Funktionen im Überblick"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Funktionen im Überblick",
+                "Wetter-Warnungen direkt auf das Handy",
+                "Warnungen vor und während der Fahrt",
+                "Regenradar",
+                "Wettervorhersage für Deine Orte",
+                "Tipps und Hilfe"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wetter-Warnungen direkt auf das Handy"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für bis zu vier Orte in Deutschland kannst Du Wetter-Warnungen als Push-Nachricht abonnieren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Darin erfährst Du, wann & in welcher Stärke eine Wetter-Gefahr dort wahrscheinlich ist. Außerdem bekommst Du in der Nachricht Tipps, was Du in der Wetter-Situation tun kannst, um Dich & Dein Hab und Gut besser davor zu schützen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warnungen vor und während der Fahrt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Auf der Live-Karte für das Straßen-Wetter kannst Du die aktuellen Wetter-Warnungen für Autobahnen und Bundesstraßen in Deutschland einsehen. Die Warnungen kannst Du auch mit Deinen Kontakten teilen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Regenradar und Wettervorhersage"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auf der Radar-Karte kannst Du den aktuellen Niederschlag und die Vorhersage für die nächsten 1,5 Stunden einsehen.",
+                "Für Deine Orte hast Du außerdem die Wetter-Vorhersage für heute, morgen und übermorgen zur Hand – ohne Werbeunterbrechung."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Jeweils mit den Daten von Kachelmannwetter"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Tipps und Hilfe"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was kann ich bei Aquaplaning tun? Wie kann ich mein Haus sturmsicherer machen? Und welche Versicherungen greifen überhaupt bei Sturm? Unter „Tipps und Hilfe“ findest Du Informationen dazu, wie Du Dich besser vor Wetter-Schäden schützen kannst."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ - häu­fig gestellte Fra­gen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was kann die Pro­tect Me App?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Generali Protect Me warnt Dich ortsgenau vor Unwetter. Beim Autofahren und an Orten Deiner Wahl. Die Warnungen für Deine Orte kannst Du als Push-Nachricht erhalten. Die Warnungen auf Straßen kannst Du Dir beim Fahren vorlesen lassen und vor der Fahrt auf der Live-Karte einsehen. Außerdem kannst Du auf der Radar-Karte den aktuellen Niederschlag und die Vorhersage für die nächsten 1,5 Stunden sowie die Wetter-Vorhersage für Deine Orte einsehen – kostenlos und ohne Werbeunterbrechung."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Woher bekommt die Pro­tect Me App die Wet­ter­da­ten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Wetterdaten liefert dieMeteologix AG,in Deutschland auch als Kachelmannwetter (https://kachelmannwetter.com/de) bekannt.Das Unternehmen nutzt zusätzlich zu den Wetterdaten des Deutschen Wetterdienstes Daten aus eigenen Wetterstationen. Diese bilden ein engmaschiges Netz. Kachelmannwetter bereitet die Daten speziell auf und berechnet diese nach einer eigens entwickelten Methode, um noch verlässlichere Werte zu erzielen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Für wel­ches Land kann ich Wet­ter-War­nun­gen von der Pro­tect Me App bekom­men?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Generali Protect Me schickt Dir Wetter-Warnungen für Bundesstraßen und Autobahnen sowie für bis zu vier selbst gewählte Orte in Deutschland. Sie schickt keine Wetter-Warnungen für Orte oder Straßen in anderen Ländern."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kann ich die Pro­tect Me App kos­ten­los nut­zen, auch wenn ich kein Kunde bei der Gene­rali bin?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, Du kannst die App kostenfrei in vollem Funktionsumfang nutzen, auch wenn Du kein Kunde bei der Generali bist. Für die Protect Me App musst Du auch nicht bezahlen. Es gibt außerdem keine versteckten Kosten."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ist die Pro­tect Me App tat­säch­lich kos­ten­frei oder gibt es irgendwo ver­steckte Kos­ten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für die Protect Me App musst Du nicht bezahlen. Sie ist in vollem Funktionsumfang kostenfrei. Du musst auch kein Kunde bei der Generali sein."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was zei­gen die Wet­ter-War­nun­gen der Pro­tect Me App an?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Wetter-Warnungen zeigen Dir an, wann, wo und in welcher Warnstufe Wetter-Gefahren wahrscheinlich sind. In den Warnungen für Deine Orte bekommst Du außerdem Tipps, was Du tun kannst, um Dich und Dein \"Hab und Gut\" besser zu schützen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was bedeu­ten die drei Warn­stu­fen der Pro­tect Me App?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Stufen zeigen die Stärke oder Schwere einer Wetter-Gefahr an. Das sind zum Beispiel die Windstärke, die Niederschlagsmenge oder die Größe von Hagelkörnern.Du kannst einstellen, ab welcher Warnstufe Du Wetter-Warnungen bekommst.  Die Einstellungen für Warnungen auf Straßen und für Deine selbst gewählten Orte kannst Du getrennt wählen.Diese drei Warnstufen gibt es:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "\"mäßig\"Du bekommst Warnungen für alle drei Stufen.",
+                "\"erhöht\"Du bekommst Warnungen der beiden Warnstufen \"erhöht\" und \"hoch\".",
+                "\"hoch\"Du bekommst nur die Warnungen der Warnstufe \"hoch\"."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kann ich die Pro­tect Me App auch im Aus­land nut­zen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die App schickt keine Wetter-Warnungen für andere Länder. Du kannst aber natürlich auch im Ausland alle Deine Warnungen aufrufen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was macht die Pro­tect Me App mit den Daten mei­ner Fahr­ten und Adres­sen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Standort teilenDie Entscheidung, ob Du Deinen Standort teilst, liegt bei Dir und ist freiwillig. Allerdings kannst Du bestimmte Funktionen der App nur nutzen, wenn Du Deinen Standort teilst:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Warnungen während Deiner Fahrt auf Bundesstraßen oder Autobahnen",
+                "Anzeige Deiner aktuellen Position auf der Live-Karte"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Stimmst Du nicht zu, kann Dir die App keine Warnung während der Fahrt ausspielen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Push-NachrichtenDie Entscheidung, ob Du Push-Mitteilungen von Protect Me erlaubst, liegt bei Dir und ist freiwillig.Du solltest sie aktiveren, wenn Du"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "eine Push-Nachricht für die Wetter-Warnungen für Deine Orte erhalten möchtest.",
+                "einen Hinweis als Push-Nachricht erhalten möchtest, wenn die Warnungen für Deine Fahrt automatisch nach 60 Minuten gestoppt wurden."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vor wel­chen Wet­ter-Gefah­ren warnt mich die Pro­tect Me App wäh­rend einer Fahrt?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die App warnt Dich auf Bundesstraßen und Autobahnen in Deutschland vor diesen Wetter-Gefahren:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Aquaplaning",
+                "Hagel",
+                "Glätte",
+                "Sturm",
+                "Nebel"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vor wel­chen Wet­ter-Gefah­ren warnt mich die Pro­tect Me App an mei­nen selbst gewähl­ten Orten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die App warnt Dich vor diesen Wetter-Gefahren:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sturm",
+                "Sturzflut",
+                "Starkregen",
+                "Gewitter",
+                "Glätte",
+                "Schneefall",
+                "Hitze"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Du hast Fra­gen zur App?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Antworten findest Du in unseren häufig gestellten Fragen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die passende Antwort ist nicht dabei? Dann schicke uns gerne eine E-Mail anprotectme@generali.de."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Protect Me App ist kostenlos und frei verfügbar – egal, wo und wie Du versichert bist. Die App ist nicht an eine Versicherung bei der Generali Gruppe oder an eine andere Versicherung gebunden. Mehr dazu kannst Du in denNutzungsbedingungenerfahren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier findest Du dieDatenschutzhinweisezur Protect Me App.Die Generali Protect Me App ist ein Angebot derGenerali Deutschland Versicherung AG."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=LP%20unten&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&gl=DE",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_apps_generali-protect-me-app"
+}

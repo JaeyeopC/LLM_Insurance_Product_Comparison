@@ -1,0 +1,1389 @@
+{
+    "title": "Schadenfreiheitsklasse: SF-Klasse-Tabelle & Rabatt",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "Schadenfreiheitsklassen der Kfz-Versicherung: Berechnung & Tabelle ✔ SF-Klasse übertragen ➨ Jetzt informieren!",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "fahrzeuge.ratgeber.schadenfreiheitsklasse",
+        "date": "20241015T08:46:56",
+        "og:title": "Schadenfreiheitsklasse: SF-Klasse-Tabelle & Rabatt",
+        "og:type": "article",
+        "og:description": "Schadenfreiheitsklassen der Kfz-Versicherung: Berechnung & Tabelle ✔ SF-Klasse übertragen ➨ Jetzt informieren!",
+        "og:url": "https://www.huk.de/fahrzeuge/ratgeber/schadenfreiheitsklasse.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/ratgeber/buehne/sf-klasse.scale.shield_buehne430.jpg",
+        "searchKeywords": "Schadenfreiheit,Schadensfreiheitsklasse,SF-Klasse,SF,SFK,Rückstufung,Schadensfreiheitsrabatt,Schadensfreiheit,Rabattübernahme,sfr übertragung,sf übertragung",
+        "searchHeadline": "Was ist die Schadenfreiheitsklasse (SF-Klasse)?",
+        "searchExcerpt": "Mit jedem schadenfreien Versicherungsjahr in der Kfz-Versicherung verbessert sich die sogenannte Schadenfreiheitsklasse (SF Klasse). Jetzt lesen!",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/sf-klasse.scale.shield_buehne430.jpg",
+            "alt": "Kleines Auto und Geldstapel"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadenfreiheitsklasse"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles Wichtige zur SF-Klasse"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/sf-klasse.scale.shield_buehne430.jpg",
+            "alt": "Kleines Auto und Geldstapel"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Schadenfreiheitsklasse"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Alles Wichtige zur SF-Klasse"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was ist die Schadenfreiheitsklasse?"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "DieSchadenfreiheitsklasse (SF-Klasse)gibt die Anzahl der schadenfreien Jahre in derKfz-Versicherungan.",
+                "Mit jedemschadenfreien Kalenderjahrwird man eineSchadenfreiheitsklasse höher gestuft.",
+                "Je höher die Schadenfreiheitsklasse, destohöherauch der vom Versicherer gewährteSchadenfreiheitsrabatt(und dementsprechend niedriger der zu zahlendeBeitragssatz).",
+                "Für dieKfz-Haftpflicht- und Vollkaskoversicherungwird dabei jeweilseine eigenständige Schadenfreiheitsklassevergeben – die Klassen können also unterschiedlich sein, z. B. wenn in einer der Versicherungen ein Schaden reguliert wurde.",
+                "In derTeilkaskoversicherunggibt eskeine Schadenfreiheitsklassen."
+            ]
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Inhaltsverzeichnis"
+        },
+        {
+            "type": "link",
+            "href": "#wo",
+            "text": "Wo finde ich meine SF-Klasse?"
+        },
+        {
+            "type": "link",
+            "href": "#berechnen",
+            "text": "Wie kann man die SF-Klasse berechnen?"
+        },
+        {
+            "type": "link",
+            "href": "#SFTabellen",
+            "text": "Wo finde ich Tabellen zur SF-Klasse?"
+        },
+        {
+            "type": "link",
+            "href": "#bedeutungSF",
+            "text": "Was bedeuten SF ½, 0 und M?"
+        },
+        {
+            "type": "link",
+            "href": "#schaden",
+            "text": "Wann wird die SF-Klasse zurückgestuft?"
+        },
+        {
+            "type": "link",
+            "href": "#vermeiden",
+            "text": "Wie kann ich eine Rückstufung der SF-Klasse vermeiden?"
+        },
+        {
+            "type": "link",
+            "href": "#uebernahme",
+            "text": "Bis zu welcher Schadenhöhe lohnt sich die Selbstübernahme?"
+        },
+        {
+            "type": "link",
+            "href": "#rabattschutz",
+            "text": "Rabattschutz: Rückstufung und Sondereinstufung"
+        },
+        {
+            "type": "link",
+            "href": "#sfuebernehmen",
+            "text": "Schadenfreiheitsklasse übernehmen"
+        },
+        {
+            "type": "link",
+            "href": "#erstesauto",
+            "text": "Wie bekommt man als Fahranfänger eine günstige SF-Klasse?"
+        },
+        {
+            "type": "link",
+            "href": "#formular",
+            "text": "Wo finde ich das Formular zur Übertragung der SF-Klasse?"
+        },
+        {
+            "type": "link",
+            "href": "#zweitwagen",
+            "text": "Wie wird mein Zweitwagen eingestuft?"
+        },
+        {
+            "type": "link",
+            "href": "#fahranfaenger",
+            "text": "Lohnt sich die Zweitwageneinstufung für Fahranfänger?"
+        },
+        {
+            "type": "link",
+            "href": "#unterbrechung",
+            "text": "Unterbrechung des Versicherungsschutzes"
+        },
+        {
+            "type": "link",
+            "href": "#tabellen",
+            "text": "Tabellen zur SF-Klasse"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wo finde ich meine SF-Klasse?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihreaktuelle Schadenfreiheitsklassefinden Sie in IhrerBeitragsrechnung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Kunden sehen diese auch in ihrem persönlichen ServicebereichMeine HUK."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie kann man die SF-Klasse berechnen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie ein Angebot für das kommende Jahr berechnen möchten undin diesem Jahr unfallfreigefahren sind,addieren Sie eine Klassezu der SF-Klasse auf Ihrer Beitragsrechnung  hinzu. Dies gilt, solange Sie noch nicht die höchste Stufe erreicht haben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben IhreVersicherungsunterlagen nicht zur Hand? Dann überlegen Sie für die Ermittlung der SF-Klasse, wie vieleKalenderjahreSie schonununterbrochen und schadenfrei gefahrensind."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hilfsweise können Sie vielleicht auch IhrFührerscheindatumzur fiktiven SF-Ermittlung nutzen und die SF-Klasse annähernd nach demAusstellungstagIhres Führerscheines ermitteln."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jedoch gilt immer:Maßgeblich für die korrekte Vertragseinstufung ist immer die Auskunft des Vorversicherers zum Schadenverlauf."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wo finde ich Tabellen zur SF-Klasse?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tabellen zum Schadenfreiheitsrabatt-Systemfinden Sie bei uns am Ende derVersicherungsbedingungenIhres Vertrags."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tabellen zu Ihrem bereits laufenden Vertrag können Sie online unterMeine HUKeinsehen und herunterladen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die aktuellenSF-Klassen-Tabellender wichtigsten Fahrzeuge stellen wir Ihnen am Ende dieses Ratgebers zur Verfügung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für alle anderen Fahrzeuge finden Sie die Tabellen außerdem in denVersicherungsbedingungenab Seite 24 (PDF)."
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was bedeuten SF ½, 0 und M?"
+        },
+        {
+            "type": "paragraph",
+            "text": "SF ½"
+        },
+        {
+            "type": "paragraph",
+            "text": "DieSchadenfreiheitsklasse ½ist eine Sonderklasse, die zugrunde gelegt werden kann, wennerstmaligein Pkw versichert werden soll und noch keine Schadenfreiheitsklasse übernommen werden kann. Wer z. B.drei Jahre seinen Führerschein besitzt, darf mit dieser Klasse starten."
+        },
+        {
+            "type": "paragraph",
+            "text": "SF 0"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit derSchadenfreiheitsklasse 0startet jeder, der einen Pkw versichert,weniger als drei JahredenFührerschein besitztundkeine Sondereinstufungaus einer anderen Kombination erhalten kann."
+        },
+        {
+            "type": "paragraph",
+            "text": "SF M"
+        },
+        {
+            "type": "paragraph",
+            "text": "DieSchadenfreiheitsklasse Mist eine Schadenklasse. In diese werden z. B. Pkw eingestuft, dieschadenbelastetsind. Eine schlechtere Einstufung gibt es in Schadenfreiheitssystem nicht."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wann wird die SF-Klasse zurückgestuft?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn man einenSchadenüber seine Kfz-Versicherungregulieren lässt, wird man in eineniedrigere Schadenfreiheitsklassezurückgestuft."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie weit man zurückgestuft wird,hängtvon derbereits erreichten SF-Klasse ab. Dies ist zudem von Versicherer zu Versicherer und von Tarif zu Tarif unterschiedlich geregelt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rückstufungstabellen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie kann ich eine Rückstufung der SF-Klasse vermeiden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Kunden können uns nach Schadenabschlussinnerhalb von 12 MonatendieEntschädigung zurückerstatten, dann wird ihr Vertrag alsschadenfreibehandelt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tipp:Melden Sie unsauch kleine Schädenund lassen Sie diese durch unsere Spezialisten regulieren.Danach entscheiden Siein aller Ruhe, ob Sie den Schaden selbst übernehmen wollen."
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bis zu welcher Schadenhöhe lohnt sich die Selbstübernahme?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Selbstübernahme lohnt sich immer dann, wenn dieEntschädigung geringer ist alsdie zu erwartendeBeitragserhöhungdurch die Rückstufung der Schadenfreiheitsklasse."
+        },
+        {
+            "type": "paragraph",
+            "text": "In Ihrem persönlichen Servicebereich„Meine HUK“können Sie Ihre Rückstufung im Schadenfall selbst berechnen. So sehen Sie, ob es für Sie günstiger ist, einen Schaden über uns regulieren zu lassen oder selbst zu begleichen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Rückstufung trotz Rabattschutz"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eineinzelner Schadenführt bei eingeschlossenemRabattschutznicht zur Rückstufung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Abdemzweiten Schadenerfolgt dieRückstufung nach den geltenden Rückstufungstabellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Der rabattgeschützte Schaden bleibt dabei unberücksichtigt. Der Vertrag wird also so zurückgestuft, als wäre ein Schaden weniger eingetreten."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sondereinstufung Rabattschutz"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aufpassen solltenwechselwillige Versicherte, die in ihrer aktuellen Police einen sogenannten Rabattschutz vereinbart und bereits in Anspruch genommen haben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die bisherige Versicherung hat die Schadenfreiheitsklasse in diesem Fall ohne Berücksichtigung des Schadens weitergeführt."
+        },
+        {
+            "type": "paragraph",
+            "text": "An dieNachversicherungwird jedoch dertatsächliche Schadenverlauf weitergegeben. D.h. der Schadenfallführt beim neuen Versicherer zu einer Rückstufung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tipp:Falls Sie in Ihrem bestehenden Vertragbereits einen Rabattschutzin Anspruch genommen haben, fragen Sie vor einemVersicherungswechselerst bei demneuen Versichereran, ob und umwie viele Klassen Sie zurückgestuft werden."
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Schadenfreiheitsklasse übernehmen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Um den Beitrag in der Kfz-Versicherung möglichst gering zu halten, gibt es für Versicherungsnehmer unter bestimmten Umständen die Möglichkeit, eineSchadenfreiheitsklasse (SF-Klasse) zu übernehmen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Übertragung kann beispielsweise innerhalb bestimmter Fahrzeuggruppen erfolgen oder zwischen bestimmten Personenkreisen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kann man die SF-Klasse für ein anderes Fahrzeug mitnehmen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Mitnahme der Schadenfreiheitsklasse istgrundsätzlich möglich, wenn beideFahrzeuge derselben Fahrzeuggruppezugeordnet werden oder das Fahrzeug, von dem der Schadenverlauf übernommen wird, einerhöheren Fahrzeuggruppeangehört."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Versicherer unterscheiden hier3 Fahrzeuggruppen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei uns sind diese Fahrzeuggruppen wie folgt unterteilt:"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Untere Fahrzeuggruppe",
+                    "Mittlere Fahrzeuggruppe",
+                    "Obere Fahrzeuggruppe"
+                ],
+                [
+                    "PkwCampingfahrzeugLieferwagenKrankenwagenKleinkraftradLeichtkraftrad/-rollerKraftrad/-rollerQuad & TrikeAusnahme: Fahrzeuge mit Versicherungskennzeichen"
+                ],
+                [
+                    "LkwZugmaschinenLandwirtschaftliche Zugmaschinen"
+                ],
+                [
+                    "OmnibusseSonderfahrzeuge (außer Krankenwagen)"
+                ]
+            ]
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kann ich meine SF-Klasse vom Motorrad aufs Auto übertragen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer von seinemMotorrad oder Leichtkraftrad auf einen Pkw umsteigt, kann denSchadenverlauf vom Zweirad also mitnehmen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Einzige Voraussetzung ist, dass die „alte“ Versicherung beendet wird."
+        },
+        {
+            "type": "paragraph",
+            "text": "Tipp:Auch wenn Sieschon länger nicht mehr Motorrad fahren, kann sich der Blick in die alten Unterlagen lohnen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die meisten Versicherer akzeptieren dieMitnahme der SF-Klasse noch bis zu 7 Jahrenach Kündigung des alten Vertrages –wir sogarbei einer Unterbrechung vonbis zu 10 Jahren."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die Schadenfreiheitsklasse bleibt gleich – der Rabatt ändert sich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei den einzelnenKfz-Versicherungen(Pkw, Motorrad, Leichtkraftrad etc.) sind Schadenfreiheitsklassen unterschiedlich gestaffelt – weshalb gleiche Klassen unterschiedliche Rabatte aufweisen können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Beispiel:Bei derMotorrad-Versicherungreicht die Staffelung der Schadenfreiheitsklassen meist nur von 0 bis 20 – der Schadenfreiheitsrabatt der Kfz-Haftpflicht in SF-Klasse 3 beträgt bei uns 39%."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei derAutoversicherungreicht die Staffelung der Schadenfreiheitsklassen meist von 0 bis 50 – der Beitragssatz der Kfz-Haftpflicht in SF-Klasse 3 beträgt bei uns 52%."
+        },
+        {
+            "type": "paragraph",
+            "text": "Übertragen wird also bei einem Fahrzeugwechsel ausschließlich die Anzahl der schadenfreien Jahre, nicht der daraus resultierende Schadenfreiheitsrabatt. Aus diesem Grund können auch eventuell bestehende Vorteile aus einer Sondereinstufung nicht übertragen werden."
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was gilt für Leichtkrafträder?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Leichtkrafträder gilt: Berücksichtigt werden die „unfallfreien Jahre“"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bei derLeichtkraftradversicherungendet die Staffelung mit Erreichen der Schadenfreiheitsklasse 3.",
+                "Die unfallfreien Jahre werden jedoch von der Versicherung weiter erfasst und bei einem Wechsel z. B. zum Pkw angerechnet."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Beispiel:Wenn Sie Ihr Leichtkraftrad nach Erreichen der höchsten SF-Klasse 3 noch 10 weitere Jahre unfallfrei versichert haben, werden diese Jahre bei einem Wechsel zur Autoversicherung automatisch angerechnet und Sie steigen mit SF-Klasse 13 ein."
+        },
+        {
+            "type": "paragraph",
+            "text": "DieÜbertragung des Schadenfreiheitsrabattesauf ein neues Fahrzeug istauch beigleichzeitigemVersicherungswechselmöglich."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kann eine SF-Klasse auf eine andere Person übertragen werden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Übertragung einer Schadenfreiheitsklasse auf eine andere Person istgrundsätzlich möglich, aber nicht beliebig."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei uns mussfür eine erfolgreiche Übertragungunter anderem auch einVerwandtschaftsverhältniszugrunde liegen. Die Übertragung ist möglich vom:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Ehepartner",
+                "Lebenspartner",
+                "Vater / Mutter bzw. Schwiegervater / Schwiegermutter",
+                "Großvater / Großmutter",
+                "Sohn / Tochter bzw. Schwiegersohn / Schwiegertochter",
+                "Bruder / Schwester"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Stief-, Pflege- und Adoptiv-Verhältnisse erkennen wir ebenfalls an."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sind alle Voraussetzungen für die Anrechnung der SF-Klasse von einer anderen Person erfüllt, wird die SF-Klasse neu berechnet. Es kann abermaximal die SF-Klasse übernommen werden, die im Vertrag der anderen Person vorhandenist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Anrechnung der SF-Klasse ist bei uns unter bestimmten Voraussetzungen auch von einerjuristischen Person möglich."
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie bekommt man als Fahranfänger eine günstige SF-Klasse?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nicht jederFahranfängernimmt nach der Führerscheinprüfung gleich im eigenen Wagen Platz. Oft nutzen junge Fahrer die Autos der Eltern und Großeltern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Irgendwann soll dann aber doch eineigener Pkwvor der Tür stehen und selbst versichert werden. Der Autokauf reißt immer ein tiefes Loch ins Portemonnaie.Sparenlässt sich eventuell bei derAutoversicherungdes ersten eigenen Wagens."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie tief Sie als Versicherungsneuling dafür in die Tasche greifen müssen, kann von Ihrer bisherigen Fahrpraxis abhängen. Hat man in der Vergangenheit z. B.regelmäßig das Auto seiner Eltern, Schwieger- oder Großeltern genutzt, kann man eventuell denSchadenfreiheitsrabattdieses Wagensübernehmen."
+        },
+        {
+            "type": "paragraph",
+            "text": "So funktioniert die Übernahme der SF-Klasse:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Ihr Verwandter muss – alsbisheriger Anspruchsberechtigter– auf denSchadenfreiheitsrabatt(SF-Rabatt) des gemeinsam genutzten Pkw verzichten.",
+                "Sie beantragen als künftiger Versicherungsnehmer dieÜbernahme dieses Rabatts.",
+                "Übernehmen können Sie nur die Zeit, die Sie das Fahrzeug genutzt haben.",
+                "Maximalist in jedem Falldie SF-Klasse, die im bisherigen Vertrag vorhanden ist.",
+                "Als Nachweis für die Dauer der Fahrzeugnutzung teilen Sie dem Versicherer zusätzlich mit,wie lange Sie einen Führerschein besitzen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Dieser Zeitraum entscheidet darüber, in welche SF-Klasse der neue Kfz-Versicherungsvertrag eingestuft wird."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wo finde ich das Formular zur Übertragung der SF-Klasse?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei der HUK-COBURG brauchen Siekein gedrucktes Formular oder PDF mehr, um die Schadenfreiheitsklasse zu übertragen bzw. zu übernehmen."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sie stellen einfach einenKfz-Versicherungsantragundgeben die andere Person an, von der Sie die SF-Klasse übernehmen wollen.",
+                "Diebetreffende Personwird dannvon unsim Anschluss schriftlich darüberinformiert."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "So kommen Sienoch schnellerzu Ihrer neuenKfz-Versicherung- ganz ohne Unterschrift der anderen Person und unnötigen Papierkram."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie wird mein Zweitwagen in der SF-Klasse eingestuft?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn einzusätzliches Fahrzeugversichert werden soll, z. B. ein schickes Cabrio für den Sommer, spricht man von einem „Zweitwagen“."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie ein zusätzliches Fahrzeug versichern, bekommen Sie unter bestimmten Voraussetzungen über unsereZweitwagenversicherungeinegünstige Einstufungfür Ihren Pkw. Bei der Angebotsberechnung in unserenTarifrechnernermitteln wir aufgrund Ihrer Angabenautomatischdiebestmögliche Vertragseinstufung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine bessere Zweitwageneinstufung bieten wirnicht nur für Pkw, sondern auch für einCampingfahrzeug, einMotorradoder auch für einQuad oder Trikean."
+        },
+        {
+            "text": "Jetzt Kfz-Versicherung berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Lohnt sich die Zweitwageneinstufung für Fahranfänger?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Führerschein ist endlich in der Tasche und die große Freiheit winkt. Nun fehlt nur noch ein passendes Fahrzeug."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zum Glück wollen die Eltern des jungen Fahrers ohnehin ein neues Fahrzeug kaufen. Das alte Fahrzeug soll zukünftig vom Kind gefahren werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "So gehen Sie beiFahranfängernmeist am günstigsten vor:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Statt nun das Fahrzeug umzumeldenund die Versicherung mitSF 0auf den jungen Fahrer anzumelden, bleibt dasFahrzeug auf die Eltern angemeldet.",
+                "Die bisherigeSchadenfreiheitsklasse übertragendie Eltern auf ihrneues Fahrzeugund dasalte Fahrzeugwird alsZweitwagenmit einem jungen Fahrer neu eingestuft.",
+                "Meist ist dannzumindest die SF½ für den Zweitwagen möglich.",
+                "Nach einigen Jahren Fahrpraxis kann derSchadenfreiheitsrabattvondiesem Zweitfahrzeugdannauf das Kind übertragen werden.",
+                "Dieses startet dann nicht wieder mit SF ½, sondern mit den bis dahin herausgefahrenen schadenfreien Jahren."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr als dieDauer des Führerscheinbesitzeskann aber nicht übernommen werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahren Sie in unserem Ratgeber mehr darüber, wie Sie IhrenZweitwagen versichern."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was passiert mit meiner SF-Klasse bei einer Unterbrechung des Versicherungsschutzes?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihre Versicherung wird unterbrochen, wenn Sie Ihr Fahrzeugvorübergehend stilllegenoderverkaufen, ohne sich gleich ein neues Fahrzeug zuzulegen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für die Einstufung Ihres Vertrags nach Ende der Unterbrechung ist entscheidend,wie langedieUnterbrechung dauert. Aktuell stufen wir danach ein:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Liegen Beginn und Ende der Unterbrechungim selbenoder in unmittelbaraufeinanderfolgenden Kalenderjahren, übernehmen wir denSchadenverlaufals wäre der Versicherungsschutznicht unterbrochenworden.",
+                "Ansonsten gilt: Bei einer Unterbrechungvon bis zu 10 Jahrenübernehmen wir denSchadenverlauf, wie ervor der Unterbrechungbestand.",
+                "Nachmehr als 10 Jahrenerfolgt die Einstufung wie bei einemerstmalig abgeschlossenen Vertrag. Ausnahme: Sie können durch eine Original-Bescheinigung des bisherigen Versicherers eine Vorversicherungszeit nachweisen, dann berücksichtigen wir diese."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Tabellen zur SF-Klasse : Schadenfreiheitsklassen, Einstufung, Beitragssätze & Rabatte ausgewählter Fahrzeuge"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Pkw"
+                ],
+                [
+                    "Dauer schadenfreier ununterbrochener Verlauf",
+                    "SF-Klasse",
+                    "Kfz-Haftpflicht",
+                    "Vollkasko"
+                ],
+                [
+                    "in Kalenderjahren",
+                    "Beitragssatz in %"
+                ],
+                [
+                    "50 und mehr",
+                    "50",
+                    "14",
+                    "15"
+                ],
+                [
+                    "49",
+                    "49",
+                    "15",
+                    "16"
+                ],
+                [
+                    "48",
+                    "48",
+                    "15",
+                    "16"
+                ],
+                [
+                    "47",
+                    "47",
+                    "15",
+                    "17"
+                ],
+                [
+                    "46",
+                    "46",
+                    "16",
+                    "17"
+                ],
+                [
+                    "45",
+                    "45",
+                    "16",
+                    "17"
+                ],
+                [
+                    "44",
+                    "44",
+                    "16",
+                    "18"
+                ],
+                [
+                    "43",
+                    "43",
+                    "17",
+                    "18"
+                ],
+                [
+                    "42",
+                    "42",
+                    "17",
+                    "18"
+                ],
+                [
+                    "41",
+                    "41",
+                    "18",
+                    "19"
+                ],
+                [
+                    "40",
+                    "40",
+                    "18",
+                    "19"
+                ],
+                [
+                    "39",
+                    "39",
+                    "18",
+                    "19"
+                ],
+                [
+                    "38",
+                    "38",
+                    "19",
+                    "20"
+                ],
+                [
+                    "37",
+                    "37",
+                    "19",
+                    "20"
+                ],
+                [
+                    "36",
+                    "36",
+                    "19",
+                    "20"
+                ],
+                [
+                    "35",
+                    "35",
+                    "20",
+                    "21"
+                ],
+                [
+                    "34",
+                    "34",
+                    "20",
+                    "21"
+                ],
+                [
+                    "33",
+                    "33",
+                    "20",
+                    "21"
+                ],
+                [
+                    "32",
+                    "32",
+                    "21",
+                    "22"
+                ],
+                [
+                    "31",
+                    "31",
+                    "21",
+                    "22"
+                ],
+                [
+                    "30",
+                    "30",
+                    "22",
+                    "23"
+                ],
+                [
+                    "29",
+                    "29",
+                    "22",
+                    "23"
+                ],
+                [
+                    "28",
+                    "28",
+                    "23",
+                    "23"
+                ],
+                [
+                    "27",
+                    "27",
+                    "23",
+                    "24"
+                ],
+                [
+                    "26",
+                    "26",
+                    "24",
+                    "24"
+                ],
+                [
+                    "25",
+                    "25",
+                    "24",
+                    "25"
+                ],
+                [
+                    "24",
+                    "24",
+                    "25",
+                    "25"
+                ],
+                [
+                    "23",
+                    "23",
+                    "25",
+                    "25"
+                ],
+                [
+                    "22",
+                    "22",
+                    "26",
+                    "26"
+                ],
+                [
+                    "21",
+                    "21",
+                    "27",
+                    "26"
+                ],
+                [
+                    "20",
+                    "20",
+                    "27",
+                    "27"
+                ],
+                [
+                    "19",
+                    "19",
+                    "28",
+                    "27"
+                ],
+                [
+                    "18",
+                    "18",
+                    "29",
+                    "28"
+                ],
+                [
+                    "17",
+                    "17",
+                    "29",
+                    "28"
+                ],
+                [
+                    "16",
+                    "16",
+                    "30",
+                    "29"
+                ],
+                [
+                    "15",
+                    "15",
+                    "30",
+                    "29"
+                ],
+                [
+                    "14",
+                    "14",
+                    "31",
+                    "30"
+                ],
+                [
+                    "13",
+                    "13",
+                    "32",
+                    "31"
+                ],
+                [
+                    "12",
+                    "12",
+                    "33",
+                    "31"
+                ],
+                [
+                    "11",
+                    "11",
+                    "34",
+                    "32"
+                ],
+                [
+                    "10",
+                    "10",
+                    "35",
+                    "33"
+                ],
+                [
+                    "9",
+                    "9",
+                    "36",
+                    "34"
+                ],
+                [
+                    "8",
+                    "8",
+                    "38",
+                    "35"
+                ],
+                [
+                    "7",
+                    "7",
+                    "40",
+                    "36"
+                ],
+                [
+                    "6",
+                    "6",
+                    "43",
+                    "37"
+                ],
+                [
+                    "5",
+                    "5",
+                    "45",
+                    "39"
+                ],
+                [
+                    "4",
+                    "4",
+                    "48",
+                    "40"
+                ],
+                [
+                    "3",
+                    "3",
+                    "52",
+                    "42"
+                ],
+                [
+                    "2",
+                    "2",
+                    "56",
+                    "44"
+                ],
+                [
+                    "1",
+                    "1",
+                    "60",
+                    "45"
+                ],
+                [
+                    "",
+                    "1/2",
+                    "65",
+                    "49"
+                ],
+                [
+                    "",
+                    "0",
+                    "100",
+                    "60"
+                ],
+                [
+                    "",
+                    "M",
+                    "117",
+                    "81"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Krafträder, Motorrad, Quad, Trike"
+                ],
+                [
+                    "Dauer schadenfreier ununterbrochener Verlauf",
+                    "SF-Klasse",
+                    "Kfz-Haftpflicht",
+                    "Vollkasko"
+                ],
+                [
+                    "in Kalenderjahren",
+                    "Beitragssatz in %"
+                ],
+                [
+                    "20 und mehr",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                [
+                    "19",
+                    "19",
+                    "21",
+                    "24"
+                ],
+                [
+                    "18",
+                    "18",
+                    "21",
+                    "25"
+                ],
+                [
+                    "17",
+                    "17",
+                    "21",
+                    "25"
+                ],
+                [
+                    "16",
+                    "16",
+                    "22",
+                    "26"
+                ],
+                [
+                    "15",
+                    "15",
+                    "22",
+                    "26"
+                ],
+                [
+                    "14",
+                    "14",
+                    "23",
+                    "27"
+                ],
+                [
+                    "13",
+                    "13",
+                    "23",
+                    "28"
+                ],
+                [
+                    "12",
+                    "12",
+                    "24",
+                    "29"
+                ],
+                [
+                    "11",
+                    "11",
+                    "25",
+                    "30"
+                ],
+                [
+                    "10",
+                    "10",
+                    "25",
+                    "31"
+                ],
+                [
+                    "9",
+                    "9",
+                    "26",
+                    "32"
+                ],
+                [
+                    "8",
+                    "8",
+                    "27",
+                    "33"
+                ],
+                [
+                    "7",
+                    "7",
+                    "29",
+                    "35"
+                ],
+                [
+                    "6",
+                    "6",
+                    "31",
+                    "37"
+                ],
+                [
+                    "5",
+                    "5",
+                    "33",
+                    "40"
+                ],
+                [
+                    "4",
+                    "4",
+                    "35",
+                    "43"
+                ],
+                [
+                    "3",
+                    "3",
+                    "39",
+                    "47"
+                ],
+                [
+                    "2",
+                    "2",
+                    "41",
+                    "50"
+                ],
+                [
+                    "1",
+                    "1",
+                    "50",
+                    "60"
+                ],
+                [
+                    "",
+                    "1/2",
+                    "65",
+                    "85"
+                ],
+                [
+                    "",
+                    "0",
+                    "90",
+                    "100"
+                ],
+                [
+                    "",
+                    "M",
+                    "130",
+                    "120"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Noch Fragen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie habenFragen zur Schadenfreiheitsklasseoder zu IhrerKfz-Versicherung? Nutzen Sie das Beratungsangebot der HUK-COBURG und kontaktieren Sie Ihren Berater vor Ort."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unseren Kundenservice erreichen Sie unter unserer Servicehotline09561 96 101."
+        },
+        {
+            "text": "Hier finden Sie Ihren Ansprechpartner vor Ort:"
+        },
+        {
+            "text": "Jetzt suchen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die passende Versicherung für Sie"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/autoversicherung.html",
+            "text": ""
+        },
+        {
+            "text": "Auto­versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "In der Autoversicherung haben sich bereits rund 9 Millionen Kunden für unseren Classic-Tarif entschieden. Und das aus gutem Grund: Wir bieten gute Angebote mit umfangreichem Schutz zu günstigen Beiträgen."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/autoversicherung.html",
+            "text": "Zur Auto­versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Das könnte Sie auch interessieren"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/unfall-pannen/richtiges-verhalten-bei-unfall.html",
+            "text": ""
+        },
+        {
+            "text": "Unfall – was nun?"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/unfall-pannen/richtiges-verhalten-bei-unfall.html",
+            "text": "Wie verhalte ich mich bei einem Unfall richtig?"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/unfall-pannen/auffahrunfall.html",
+            "text": ""
+        },
+        {
+            "text": "Auffahrunfall"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/unfall-pannen/auffahrunfall.html",
+            "text": "Wer hat Schuld bei einem Auffahrunfall?"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/unfall-pannen/unfall-im-ausland.html",
+            "text": ""
+        },
+        {
+            "text": "Unfall im Ausland"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/unfall-pannen/unfall-im-ausland.html",
+            "text": "Richtiges Verhalten bei einem Unfall im Ausland"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/auto-abmelden.html",
+            "text": ""
+        },
+        {
+            "text": "Auto abmelden"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/auto-abmelden.html",
+            "text": "Wie melde ich mein Auto ab?"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/beste-kfz-versicherung/so-machen-wir-das.html",
+            "text": ""
+        },
+        {
+            "text": "Wir machen's möglich"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/beste-kfz-versicherung/so-machen-wir-das.html",
+            "text": "Das System hinter den günstigen Kfz-Versicherungen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/kfz-versicherung-sparen.html",
+            "text": ""
+        },
+        {
+            "text": "Jetzt Geld sparen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/ratgeber/kfz-versicherung-sparen.html",
+            "text": "Tipps wie Sie in der Kfz-Versicherung sparen können"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Auto & Mobilität",
+                "Schadenfreiheitsklasse"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "fahrzeuge_ratgeber_schadenfreiheitsklasse.html"
+}

@@ -1,0 +1,583 @@
+{
+    "title": "Mobile Health",
+    "metadata": {
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Generali Mobile Health",
+        "og:description": "Alles für deine Gesundheit. In einer App.\nApple App Store\nGoogle Play",
+        "og:image": "https://www.generali.de/resource/blob/48346/8dee6f5815a5e13637bc4bad39f2e64e/bild-thumbnail-data.png"
+    },
+    "content": [
+        {
+            "text": "Mobile Health App"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Von Arzt bis Z. In einer App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Deine smarte Lösung rund um das Thema Gesundheit – vom Symptom-Check bis zum Arzttermin. Immer und überall, wo du online bist."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1628340179?pt=123008344&ct=LP%20Banner%20unten&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.ghs.gmh&hl=de",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/92322/6e6d55b40455940db52f284a1b1fb48a/qr-code-gmh-app-data.png",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87634/6fb16b0b364b362953cf327b33f9393e/wingshape-outline-white-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87634/6fb16b0b364b362953cf327b33f9393e/wingshape-outline-white-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87620/6bd1ed313662606ffb36a060c2e92b3d/iphone-overlay-png-data.png",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/mobilehealth#aus-smartphone-wird-smart-doc-60176",
+            "text": "Übersicht"
+        },
+        {
+            "type": "link",
+            "href": "/mobilehealth#vorteile-78850",
+            "text": "Vorteile"
+        },
+        {
+            "type": "link",
+            "href": "/mobilehealth#so-funktioniert-s-78860",
+            "text": "So funktioniert's"
+        },
+        {
+            "type": "link",
+            "href": "/mobilehealth#datensicherheit-47482",
+            "text": "Datensicherheit"
+        },
+        {
+            "type": "link",
+            "href": "/mobilehealth#faq-haeu-fig-gestellte-fra-gen-82746",
+            "text": "FAQ"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "GENERALI MOBILE HEALTH APP"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Aus Smart­phone wird Smart Doc"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du willst mit einem Arzt sprechen ohne das Haus zu verlassen? Verlässliche Antworten bekommen ohne stundenlang googlen zu müssen? Und deine Gesundheit nicht nur auf einen Blick, sondern in deiner Hand haben?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das ist alles kein Problem. Mit der neuen Generali Mobile Health App."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schnelle und verlässliche Hilfe",
+                "kostenlos",
+                "für alle Versicherten über 18"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie funktioniert die Mobile Health App?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Um das Video starten zu können, wird externer Inhalt der Videoplattform Youtube geladen. Youtube ist ein\nAngebot von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“). Mit der Nutzung\nvon Youtube erhebt Google Daten zur Bereitstellung des Dienstes, daneben für Zwecke der Werbung,\nMarktforschung und/oder bedarfsgerechten Gestaltung seiner Services, wobei ggf. auch Informationen aus anderen\nGoogle-Diensten verknüpft werden. Mehr Information zuGoogles Umgang mit dem Datenschutz."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Klick auf „Akzeptieren“ willigen Sie ein, dass Ihre personenbezogenen Daten durch Google verarbeitet\nwerden und möglicherweise in Drittländer (z. B. die USA) übermittelt werden, in denen das Risiko eines nicht\nmit dem EU-Standard vergleichbaren Datenschutzniveaus besteht."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Klick auf „Akzeptieren“ willigen Sie ein, dass durch das Google-Angebot YouTube Daten erhoben und (u.a.\nin das Drittland USA) übermittelt werden.Dies geschieht nicht nur zur Bereitstellung des Videos, sondern auch für Zwecke der Werbung, Marktforschung und\nzur Gestaltung der Google-Services.Mehr…"
+        },
+        {
+            "text": "Akzeptieren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Vor­teile"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Passenden Online-Arzt findenDie digitale Gesundheitsversorgung in der Online-Sprechstunde: unkompliziert und kompetent",
+                "Symptome bestimmen und zuordnenSchnelle Hilfe bei der Einordnung von Beschwerden: Was kann es sein, was ist zu tun, sollte ich zum Arzt?",
+                "Fragen zu Krankheiten klärenDie Suchmaschine liefert fundierte Informationen zu Wesen und Behandlung aller geläufigen Krankheiten.",
+                "Leichter Zugang zu SpezialistenHier findest du eine qualifizierte Zweitmeinung oder Experten für bestimmte Operationen."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "So funk­tio­niert's"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Online-Arztpraxis"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Online-Arzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du möchtest dich per Video-Sprechstunde ärztlich beraten lassen? Die App verlinkt dich an unseren Partner TeleClinic."
+        },
+        {
+            "type": "paragraph",
+            "text": "Über die TeleClinic kannst du auf ein bundesweites Netzwerk qualifizierter (Fach-)Ärzte zugreifen. Dort erhältst du auch Privatrezepte und Krankschreibungen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Symptome verstehen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Du fühlst dich unwohl und weißt nicht, warum?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Überprüfe mit dem KI basierten Symptom- und Krankheits-Checker, auf welche Krankheiten die Symptome hinweisen, oder welche Krankheit möglicherweise vorliegt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahre, was du im Falle einer bestimmten Krankheit selbst tun kannst und ob oder wie dringend eine ärztliche Beratung ist."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Krankheiten A-Z"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Such­ma­schine für deine Gesund­heits-Fra­gen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du möchtest wissen, was es mit einer bestimmten Krankheit auf sich hat, woran man sie erkennt und wie man sie behandelt?Unter Krankheiten A-Z findest du verständliche Antworten - aus medizinisch verlässlichen Quellen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zugang zu Spezialisten"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Bes­ser auf Num­mer sicher"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei dir steht eine wichtige Operation an und du willst wissen, bei wem du dafür gut aufgehoben bist?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Oder du hast eine Diagnose bekommen und möchtest eine qualifizierte Zweitmeinung einholen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir finden für dich einen passenden Spezialisten."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unsere Part­ner"
+        },
+        {
+            "type": "paragraph",
+            "text": "Damit wir dir die passenden Antworten auf deine Fragen und Lösungen für dein Gesundheitsanliegen bieten können, arbeiten wir mit ausgewählten Partnern zusammen:"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Online-Arzt­pra­xis: Tele­Cli­nic"
+        },
+        {
+            "type": "paragraph",
+            "text": "Teleclinic hält ein bundesweites Netzwerk hochqualifizierter Ärztinnen und Ärzte bereit. In einer Video-Sprechstunde können sich Patienten von jedem Ort aus durch Ärzte beraten und behandeln lassen. Dabei bietet die TeleClinic über 60 verschiedene Behandlungen in denen Rezepte, Krankschreibungen und Überweisungen ausgestellt werden können. Das Netzwerk hochqualifizierter Ärzte umfasst über 30 Fachrichtungen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier mehr überTeleClinicerfahren."
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    ""
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sym­ptom- und Krank­heits-Che­cker: Xund"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Partner für den Symptom- und Krankheits-Checker ist XUND. Das 2018 in Wien gegründete Unternehmen hat einen KI gesteuerten Gesundheits-Assistenten entwickelt, den wir in die Generali Mobile Health App integriert haben. Der XUND Gesundheits-Assistent wurde als Medizinprodukt der Klasse IIa zertifiziert und vom TÜV als sichere Anwendung klassifiziert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier mehr überXUNDerfahren."
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    ""
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Krank­hei­ten A-Z: Thieme und Xund"
+        },
+        {
+            "type": "paragraph",
+            "text": "DieInhaltefür unsere medizinischeBibliothek mit ausführlichen Steckbriefenzu denam häufigsten gesuchten Krankheitsbildernmit detaillierten Informationen zuDiagnose, Behandlung und Ausblickstellen wir inKooperation mitunseren PartnernXUND Solutions GmbHundGeorg Thieme Verlag KGbereit."
+        },
+        {
+            "type": "paragraph",
+            "text": "XUND hat einen KI basierten Gesundheits-Assistenten entwickelt, den wir in die Generali Mobile Health App integriert haben. Die zugrunde liegenden Algorithmen können Millionen medizinischer Publikationen aus der Literatur analysieren. Hier mehr überXUNDerfahren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Thieme ist marktführender Anbieter von Gesundheits-Informationen. Die internationale Unternehmensgruppe nutzt dafür ein breites Experten- und Partnernetzwerk sowie die qualitativ hochwertigen Inhalte aus 200 Fachzeitschriften und 4400 Buchtiteln. Hier mehr überThiemeerfahren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Außerdem binden wir ergänzendauch Inhalteder Stiftung für Qualität und Wirtschaftlichkeit im Gesundheitswesen e. V. als Trägerin des Instituts für Qualität und Wirtschaftlichkeit im Gesundheitswesen (IQWiG) ein. Diese Inhalte stehen unter der Internet-Adresse „gesundheitsinformation.de“ öffentlich zur Verfügung."
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zugang zu Spe­zia­lis­ten: Bet­ter­Doc"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Partner für die Vermittlung an Spezialisten – zum Beispiel für eine Operation oder eine medizinische Zweitmeinung – ist BetterDoc.Das Kölner Unternehmen mit einem in Deutschland einzigartigen Experten-Gremium sammelt fortlaufend Informationen über die besten Spezialisten in Deutschland, analysiert und misst die Qualität ihrer Behandlung sowie Beratung mit wissenschaftlichen Methoden - garantiert unabhängig."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier mehr überBetterDocerfahren."
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    ""
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Daten­si­cher­heit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Generali Mobile Health hast du deine Gesundheit und deine Daten in deiner Hand. Du bestimmst, welche Daten du speicherst und welche du mit wem teilen möchtest. Und wir sorgen für die nötige Sicherheit."
+        },
+        {
+            "type": "paragraph",
+            "text": "Deine Daten sind mit aktuellen Verschlüsselungs- und Sicherheitsstandards vor dem Zugriff unbefugter Dritter geschützt. Wir nutzen Rechenzentren und Server in der Europäischen Union. Mit den Betreibern der Server ist vereinbart, dass deine Daten den europäischen Rechtsraum nicht verlassen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Details dazu kannst du in unserenDatenschutzhinweisennachlesen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "FAQ - häu­fig gestellte Fra­gen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Fragen zur Nutzung der App"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ich habe mein Pass­wort ver­ges­sen. Was kann ich tun?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erstelle dir einfach ein neues Passwort. Klicke dafür auf dem Startscreen oben links auf die drei Striche. Wähle „Login/Registrieren“. Klicke auf „Einloggen“ und gib deine E-Mail-Adresse ein. Im nächsten Schritt klickst Du auf „Passwort vergessen“. Trage hier deine E-Mail-Adresse ein und klicke auf „Code anfordern“. Du bekommst den Code an deine E-Mail-Adresse geschickt. Bitte prüfe dein Postfach, klicke in unserer E-Mail auf den Link zur Bestätigung. Du gelangst wieder in die App und kannst ein neues Passwort vergeben. Dazu erhältst du von uns eine Bestätigung per E-Mail."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was pas­siert mit mei­nen Daten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Infos zum Datenschutz findest Du unter„Datenschutzhinweise“. Du findest den Menüpunkt im Hauptmenü. Klicke dafür auf die drei Striche oben links."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ich habe zuge­stimmt, dass meine Daten ver­ar­bei­tet und gespei­chert wer­den dür­fen. Kann ich das rück­gän­gig machen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Deine Zustimmung kannst du jederzeit widerrufen. Dazu musst du dein Benutzerkonto löschen. Du kannst dann nicht mehr alle Services der App nutzen. Klicke dafür auf dem Startscreen oben links auf die drei Striche. Klicke auf „Login/ Registrierung“ und logge dich ein. Danach klickst du auf „Meine Daten“ und ganz unten auf „Benutzerkonto löschen“. Der Widerruf gilt ab diesem Moment. Alternativ kannst du uns deinen Widerruf zuschicken:"
+        },
+        {
+            "type": "paragraph",
+            "text": "Generali Health Solutions GmbHHansaring 40-5050670 Köln"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ich habe zuge­stimmt, dass mir Mar­ke­ting-E-Mails geschickt wer­den dür­fen. Das möchte ich wider­ru­fen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Deine Zustimmung kannst du jederzeit, ganz oder teilweise, widerrufen. Klicke dafür auf dem Startscreen oben links auf die drei Striche. Klicke auf „Login/Registrierung“ und logge dich ein. Ganz unten klickst du auf „Meine Einstellungen“ und schiebst den Regler bei „Marketing-E-Mails“ nach links. Der Widerruf gilt ab diesem Moment. Du kannst uns deinen Widerruf auch per Post schicken an:"
+        },
+        {
+            "type": "paragraph",
+            "text": "Generali Health Solutions GmbHHansaring 40-5050670 Köln"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wie kann ich mein Benut­zer­konto löschen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Klicke dafür auf dem Startscreen oben links auf die 3 Striche. Logge dich ein. Danach klickst du auf „Mehr“. Klicke die Kachel Meine Daten an. Scrolle runter und dort siehst du in rot „Konto löschen“."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Muss ich bei der Gene­rali ver­si­chert sein, um die Ser­vices kos­ten­los nut­zen zu kön­nen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nein, die App ist für alle frei und kostenlos verfügbar. Um alle Services nutzen zu können, brauchst du ein Benutzerkonto. Ohne Benutzerkonto kannst du deine Daten nicht speichern."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kann ich meine Rech­nun­gen über die Gene­rali Mobile Health App ein­rei­chen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nein. Die Generali Mobile Health App unterstützt dich in allen Fragen zu deiner Gesundheit. Diese App ist für jeden frei und kostenlos verfügbar. Du kannst dich über Erkrankungen informieren, Symptome checken, Video-Sprechstunden mit Ärzten buchen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Um Rechnungen einzureichen, benötigst du die Generali GesundheitsApp. Diese App nutzen ausschließlich Versicherte der Generali Krankenversicherung AG. Als Versicherter kannst du dort Rechnungen hochladen oder deinen Vertrag ansehen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kann ich mich in der App über die bio­me­tri­sche Authen­ti­fi­zie­rung anmel­den?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die GMH-App ermöglicht dir die Anmeldung per biometrischer Authentifizierung. Wenn dein Handy diese Funktion unterstützt, kannst du sie in den Einstellungen aktivieren. Die Einrichtung variiert je nach Gerät und Betriebssystem. Schau im Nutzerhandbuch deines Handys oder online nach, wie du die biometrische Authentifizierung einrichtest. Bei Problemen wende dich an den Support deines Handyherstellers, suche online nach Hilfe oder schicke uns eine E-Mail an:support-mobilehealth.de@generali.com."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Fragen zum Symptom-Checker"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kann ich mich auf die Ergeb­nisse des Sym­ptom-Checkers ver­las­sen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja. Unser Symptom-Checker hilft dir, die wahrscheinlichsten Ursachen für deine Beschwerden zu finden. Die Technologie wertet zu jeder Krankheit wissenschaftliche Studien aus. Ein Team aus Ärzten und Ärztinnen überprüft alle Informationen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wel­che Krank­hei­ten deckt der Sym­ptom-Che­cker ab?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Symptom-Checker wertet mit künstlicher Intelligenz Fachartikel zu rund 500 Krankheiten aus. Eine Übersicht findest du in der App bei „Krankheiten A-Z”."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Prü­fen Ärzte oder Ärz­tin­nen alle Inhalte?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja. Erfahrene Ärzte oder Ärztinnen prüfen jede Information, bevor wir sie veröffentlichen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wer kann die App nut­zen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jeder, der mindestens 18 Jahre alt ist."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ersetzt der Sym­ptom-Che­cker einen Arzt­be­such?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nein, unser Symptom-Checker ersetzt keinen Arztbesuch. Er hilft dir aber, deine Beschwerden einzuschätzen und die nächsten Schritte zu wählen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Fragen zu BetterDoc/Zugang zu Spezialisten"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wann brau­che ich Bet­ter­Doc?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gerade wenn man schwer oder chronisch erkrankt ist oder operiert werden muss, braucht man besonders gute Ärzte. Für Patienten ist es aber meist schwierig, Ärzte und Kliniken verlässlich einzuschätzen. Den richtigen Facharzt an seiner Seite zu haben, ist entscheidend für den Heilungsprozess. Genau hier hilft BetterDoc und findet den passenden Spezialisten für dich oder deinen Angehörigen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ich habe keine ein­deu­tige Dia­gnose. Kann ich den Ser­vice den­noch nut­zen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, das kannst Du. Manche Patienten haben bereits einen oder mehrere Ärzte aufgesucht. Trotzdem gibt es keine eindeutige Diagnose. Auch in dieser Situation hilft dir BetterDoc, einen Spezialisten zu finden."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wie fin­det Bet­ter­Doc den rich­ti­gen ärzt­li­chen Spe­zia­lis­ten für mich?"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Du bekommst einen Fragebogen per Mail und beschreibst, was du über deine Krankheit weißt. Zu einem vereinbarten Termin ruft dich ein BetterDoc-Arzt an. Mit ihm besprichst du, was du von einem Spezialisten für deine Krankheit erwartest.",
+                "Das medizinische Team von BetterDoc sucht dann in einer eigenen Datenbank mit objektiven Qualitätskriterien nach Spezialisten, zum Beispiel anhand von Qualifikationen, Fallzahlen oder Publikationen. Ist deine Krankheit sehr komplex oder selten, kann BetterDoc sich mit Spezialisten aus dem eigenen Beirat mit über 2.500 führenden medizinischen Experten austauschen.",
+                "Schließlich schlägt BetterDoc dir bis zu vier Spezialisten vor und begründet ausführlich, warum diese für dich besonders geeignet sind. Wenn du möchtest, kannst du hierzu erneut mit dem BetterDoc-Team telefonieren. Wenn du dich für einen Spezialisten entscheidest, vereinbart dein BetterDoc-Arzt auch gern einen Termin für dich."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wie kann ich den Ser­vice nut­zen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du erreichst BetterDoc montags bis freitags zwischen 09:00 Uhr und 17:00 Uhr unter der kostenlosen Telefonnummer0800 4446999. Du benötigst einen Code, um dich zu identifizieren. Diesen bekommst du in der Generali Mobile Health App unter „Zugang zu Spezialisten“."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Muss ich für den Bet­ter­Doc-Ser­vice etwas bezah­len?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nein. Für jeden registrierten Nutzer ist der Service kostenlos. Nenne hierzu bei deiner Anfrage bei BetterDoc den Zugangscode. Den Zugangscode erhältst du als registrierter Nutzer der Generali Mobile-Health App unter „Zugang zu Spezialisten“."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die passende Antwort ist nicht dabei, dann schicke uns gerne eine E-Mail ansupport-mobilehealth.de@generali.com."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali Mobile Health App ist kostenlos für alle ab 18 Jahren verfügbar – egal, wo und wie du versichert bist. Die App ist nicht an eine Versicherung bei der Generali Gruppe oder an eine andere Versicherung oder Krankenkasse gebunden. Mehr dazu in denNutzungsbedingungenerfahren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali Mobile Health App ist ein Angebot vonGenerali Health Solutions GmbH."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Mobile Health"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles für deine Gesundheit. In einer App."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1628340179?pt=123008344&ct=LP%20Banner%20unten&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.ghs.gmh&hl=de",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "mobilehealth"
+}

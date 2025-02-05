@@ -1,0 +1,103 @@
+{
+    "title": "Ratgeber | Generali",
+    "metadata": {
+        "description": "Lesen Sie hier wichtige Informationen oder lassen Sie sich von unseren Spezialisten vor Ort beraten über Themen wie: Krankenversicherung, Pflegeversicherung, Vorsorge, Heil- und Hilfsmittel, Krankentagegeld, Zahn u.v.a.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Ratgeber",
+        "og:description": "Das Thema Krankenversicherung betrifft jeden: egal, ob Sie gesetzlich oder privat versichert, angestellt oder selbstständig sind. Lesen Sie hier wichtige Informationen rund um Ihren Gesundheitsschutz nach oder lassen Sie sich von unseren Spezialisten vor Ort beraten.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Ratgeber"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "PRIVATKUNDEN",
+                "GESUNDHEIT & FREIZEIT",
+                "GESUNDHEITSRATGEBER"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Thema Krankenversicherung betrifft jeden: egal, ob Sie gesetzlich oder privat versichert, angestellt oder selbstständig sind. Lesen Sie hier wichtige Informationen rund um Ihren Gesundheitsschutz nach oder lassen Sie sich von unseren Spezialisten vor Ort beraten."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Ratgeber KrankenversicherungMehr erfahren",
+                "Ratgeber PflegeversicherungMehr erfahren",
+                "Ratgeber Stationärer Aufenthalt und RehaMehr erfahren",
+                "Ratgeber Heil- und HilfsmittelMehr erfahren",
+                "Ratgeber VorsorgeMehr erfahren",
+                "Ratgeber ZahnMehr erfahren",
+                "Ratgeber PsychotherapieMehr erfahren",
+                "Ratgeber KrankentagegeldMehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wei­tere The­men zu Kran­ken­ver­si­che­rung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Das PrimärarztprinzipMehr erfahren",
+                "Gebührenordnung GOÄ / GOZMehr erfahren",
+                "FAQs zur VersicherungspflichtMehr erfahren",
+                "Das BürgerentlastungsgesetzMehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "privatkunden_gesundheit-freizeit_krankenratgeber"
+}
