@@ -1,0 +1,379 @@
+{
+    "title": "Formularcenter – alle Formulare & PDFs im Überblick I Generali",
+    "metadata": {
+        "description": "Formularcenter der Generali. Hier finden Sie alle Formulare und PDFs für verschiedene Anliegen wie Daten ändern oder Vertragsinformationen. Hier das passende Formular bei Generali finden.",
+        "keywords": "formulare,formular,formularcenter,PDF,online-formulare,Ändern Sie Ihre Daten zum Vertrag, fragen Sie Ihren Versicherungsschutz und Vertragsdaten ab, fordern Sie Dokumente an und reichen Sie Dokumente ein.,eVB,Internationale Versicherungskarte,Bankverbindung,SEPA,login,postfach,kundendaten ändern,daten ändern,dokumente anfordern,dokumente einreichen,versicherungsschutz abfragen,dokumente empfangen,status leistungsantrag,rechnung einrichen,arztrechnung,kostenplan,bankverbindung ändern,zahlungsweise ändern,zahlungweise,änderung kfz,fahrleistung,änderung fahrleistung,vertrag,versichertenkarte,einwilligung email,bescheinigung finanzamt,rechnungskopie,wertauskunft,beitragsbescheinigung,tarifinformation,heil- und Kostenplan,arbeitsunfähigkeit,pflegeleistung beantragen,versicherungsbedingungen,einloggen",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Formularcenter",
+        "og:description": "Hier finden Sie alle Formulare und PDFs für verschiedene Anliegen. Ändern Sie Ihre Daten zum Vertrag, fragen Sie Ihren Versicherungsschutz oder Vertragsdaten ab, fordern Sie Dokumente an und reichen Sie Dokumente ein.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Online-Services und Formulare"
+        },
+        {
+            "text": "Unsere digitalen Services im Überblick"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/formularcenter#80044",
+            "text": "Daten ändern"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/formularcenter#80046",
+            "text": "Vertragsinformationen anfordern"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/formularcenter#85534",
+            "text": "Dokumente senden"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/formularcenter#85542",
+            "text": "Dokumente empfangen"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/formularcenter#80030",
+            "text": "Schaden melden"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/formularcenter#81652",
+            "text": "Elektronische Kommunikation"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "SERVICE & KONTAKT",
+                "ONLINE-SERVICES UND FORMULARE"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/82362/7e47b618701bcc0110755871e90db329/y01-friends-88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Beliebte Formulare"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Web-Postfach Krankenversicherung",
+                "Tarifinformation Krankenversicherung",
+                "Mitteilung zum bestehenden Schaden (inkl. Dateiupload)",
+                "Schaden melden: Kfz-Haftpflicht",
+                "Schaden melden: Haftpflicht"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/80248/6e7cb3476c2b4601c92b5e311b6a37d4/w-16-registration-positive-88x88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Daten ändern"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Sach- und Lebensversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bankdaten",
+                "Beitragszahler",
+                "Lastschriftmandat",
+                "Zahlungsweise",
+                "Fahrerkreis und Fahreralter",
+                "Jährliche Fahrleistung",
+                "Haftpflicht: Mitversicherte Person",
+                "Referenzkonto Parkdepot Flex",
+                "Profilupdate Young & Home",
+                "Hausrat und Gebäude: Gerüst am Haus melden"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten Ihren Namen und/oder Ihre Adresse ändern?Schicken Sie bitte eineE-Mailoder rufen Sie uns unter089 5121-4477an (Mo bis Fr 8–19 Uhr)."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Krankenversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bankdaten",
+                "Bankdaten betriebliche Krankenversicherung",
+                "Beitragszahler",
+                "Lastschriftmandat",
+                "Arbeitsunfähigkeit",
+                "Pflegeleistungen"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten Ihren Namen und/oder Ihre Adresse ändern?Schicken Sie bitte eineE-Mailoder rufen Sie uns unter0221 1636-0an (Mo bis Fr 8–19 Uhr)."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/80244/29e81a3987765c32ef0f92742b3f5314/w-03-claim-neutral-88x88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vertragsinformationen anfordern"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Sach- und Lebensversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bescheinigung Finanzamt",
+                "Rechnungskopie",
+                "Vertragsabschrift",
+                "Wertauskunft",
+                "Elektronische Versicherungsbestätigung (eVB)",
+                "Internationale Versicherungskarte",
+                "ServiceCard"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Krankenversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Beitragsbescheinigung und Versicherungsschein",
+                "Tarifinformation",
+                "Vertragsauskunft",
+                "Versicherungskarte",
+                "Mister Spex Gutschein",
+                "Diashop Gutschein",
+                "Informationen zu Produkten"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/85532/30e0a15d0fa9245f7565c6d83acded03/w16-upload-bills-88x88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Dokumente senden"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Krankenversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Rechnung/Beleg",
+                "Heil- und Kostenplan",
+                "For­mu­lar Zahn­bo­nus",
+                "Leis­tungs­an­trag Aus­lands­reise-Kran­ken­ver­si­che­rung",
+                "Antrag Kran­ken­haus­ta­ge­geld"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Status Leistungsantrag"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Abfrage",
+                "Abmeldung"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/85530/8a49f79a0159aa639960795e5dcef509/w43-smart-phone-download-88x88-data.png",
+            "alt": "Download"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Dokumente empfangen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Web-Postfach Krankenversicherung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Alles für Ihre Kran­ken­ver­si­che­rung in einer App"
+        },
+        {
+            "type": "blockquote",
+            "text": "Rechnungen und Rezepte hochladenDokumente erhaltenGesundheitsschutz prüfenProfitieren Sie von den Vorteilen unsererGenerali GesundheitsApp."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/80246/04f53055a71ffc84524044f83b136afb/z-32-car-accident-88x88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schaden melden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Einen neuen Schaden melden:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Gewerbe-Sach",
+                "Glas",
+                "Haftpflicht",
+                "Hausrat",
+                "Kfz-Haftpflicht",
+                "Kfz-Kasko",
+                "Kfz-Ausland",
+                "Konto- und Finanzschutzbrief",
+                "Fahrräder / Pedelecs",
+                "Unfall",
+                "Wohngebäude"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Einen Unwetterschaden melden:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Unwetter Kfz",
+                "Unwetter Gebäude-/ Hausratversicherung"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Schutzbriefleistung oder Hilfe- und Serviceleistung nutzen:"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schutzbrief-Service"
+        },
+        {
+            "type": "paragraph",
+            "text": "Information nachmelden:"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mitteilung zum bestehenden Schaden (inkl. Dateiupload)Bitte halten Sie dazu Ihre Schadennummer bereit."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/81666/ed98694706c137917dec954a57cf57fd/x41-contact-generali-88-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Elektronische Kommunikation"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Sach- und Lebensversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Einwilligung",
+                "Widerruf"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Krankenversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Einwilligung",
+                "Widerruf"
+            ]
+        },
+        {
+            "type": "blockquote",
+            "text": "Das passende Formular fehlt?Sie erreichen uns schnell über unsere allgemeinen Kontaktformulare:Kontaktformular Sach- und LebensversicherungKontaktformular KrankenversicherungWenden Sie sich alternativ gerne an Ihrenpersönlichen Berater."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Vita­li­tyApp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Gesundheitsprogramm motiviert Sie mit kleinen Extras, bewusster zu leben."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/generali-vitality/id1089388341",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.vitality.gli.de&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_formularcenter"
+}

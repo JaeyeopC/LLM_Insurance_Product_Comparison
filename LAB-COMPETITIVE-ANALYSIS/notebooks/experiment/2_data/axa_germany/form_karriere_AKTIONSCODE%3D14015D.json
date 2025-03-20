@@ -1,0 +1,71 @@
+{
+    "title": "Kontakt-Formular Karriere",
+    "metadata": {
+        "GOOGLEBOT": "NOARCHIVE",
+        "ROBOTS": "NOINDEX, NOFOLLOW",
+        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0"
+    },
+    "content": [
+        {
+            "text": "xml:namespace prefix = css3vml ns = \"urn:schemas-microsoft-com:vml\" /"
+        },
+        {
+            "type": "image",
+            "src": "/form/resources/layout-2014/img/axade/header-logo.png",
+            "alt": ""
+        },
+        {
+            "text": "Zu welchem Thema hast du eine Frage?"
+        },
+        {
+            "text": "Dein Anliegen:"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Angaben zu deiner Person:"
+        },
+        {
+            "text": "Vorname"
+        },
+        {
+            "text": "Nachname"
+        },
+        {
+            "text": "E-Mail"
+        },
+        {
+            "text": "Telefon/Mobiltelefon (optional)"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "",
+                    "Ich habe dieInformationen zur Datenverarbeitungzur Kenntnis genommen. Meine angegebenen Daten werden zum Zweck der Erstellung und Bearbeitung meiner Anfrage von der AXA Konzern AG gespeichert."
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte überprüfe noch einmal deine Eingaben. Wenn alles in Ordnung ist, dann klicke bitte auf \"Jetzt absenden\"."
+        },
+        {
+            "type": "link",
+            "href": "javascript:$('#formValues').submit();",
+            "text": "Jetzt absenden"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/impressum",
+            "text": "Impressum"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/datenschutz",
+            "text": "Datenschutz"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "form_karriere_AKTIONSCODE%3D14015D"
+}

@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+
+
+
+<html>
+<head>
+	
+	<title>Kontakt-Formular Karriere</title>
+	
+
+	<META NAME="GOOGLEBOT" CONTENT="NOINDEX, NOFOLLOW">
+	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+	<META NAME="GOOGLEBOT" CONTENT="NOSNIPPET">
+	<META NAME="GOOGLEBOT" CONTENT="NOARCHIVE">
+	<link rel="stylesheet" type="text/css" href="/form/resources/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="/form/resources/css/bootstrap-glyphicons.css" />
+	<link rel="stylesheet" type="text/css" href="/form/resources/elusive-iconfont/css/elusive-webfont.css" />
+	<link rel="stylesheet" type="text/css" href="/form/resources/layout-2014/css/style.css" />
+	
+	<link rel="stylesheet" type="text/css" href="/form/resources/layout-2014/css/style-axade.css" />
+    
+    
+	
+    
+	<link rel="stylesheet" type="text/css" href="/form/resources/css/bootstrap-datepicker.css" />
+	<link rel="stylesheet" href="/form/resources/css/iconfont.css">
+
+	<link rel="stylesheet" type="text/css" href="/form/resources/css/bootstrap-datetimepicker.min.css"/>
+
+	<!-- viewport should not be scalable to prevent zooming behavior -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
+
+	
+
+	<script type="text/javascript" src="/form/resources/js/lib/html5shiv.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/respond.min.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/jquery.min.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/jquery-ui-1.13.2.min.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/bootstrap.bundle.min.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/bootstrap-datepicker.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/bootstrap-datepicker.de.js"></script>
+	<script type="text/javascript" src="/form/resources/js/lib/bootstrap-datetimepicker.min.js"></script>
+	<script type="text/javascript" src="/form/resources/layout-2014/js/functions.js"></script>
+
+
+
+<script type="text/javascript">
+	var baseValidationServiceURL = '/form/validate/';
+	var errors = {};
+
+	function endsWith(str, suffix) {
+		return str.indexOf(suffix, str.length - suffix.length) !== -1;
+	}
+
+	$(document).ready(function () {
+		var $form_ = $("#formValues");
+		var $inputfields_ = $form_.find('input.form-control.input-sm').not('.captcha').not('.input-date');
+		$.each($inputfields_, function (index, value) {
+			$('#' + value.id).bind({
+				focusout: function () {
+					validateClientSide(this);
+					validateChildDependencies($(this).attr('childDependencies'));
+				},
+			});
+		});
+
+		var $selectfields_ = $form_.find('select.form-select.form-select-sm');
+		$.each($selectfields_, function (index, value) {
+			$('#' + value.id).bind({
+				change: function () {
+					validateClientSide(this);
+				}
+			});
+		});
+
+		var $radiofields_ = $form_.find('input:radio');
+		$.each($radiofields_, function (index, value) {
+			$('#' + value.id).bind({
+						click: function () {
+							validateClientSide(this, true);
+							validateChildDependencies($(this).attr('childDependencies'));
+						}
+					}
+			);
+		});
+
+		var $checkboxes_ = $form_.find('input:checkbox');
+		$.each($checkboxes_, function (index, value) {
+			$('#' + value.id).bind({
+						click: function () {
+							validateClientSide(this, true, true);
+						}
+					}
+			);
+		});
+
+		var $textareas_ = $form_.find('textarea');
+		$.each($textareas_, function (index, value) {
+			if (!!value.id) {
+				$('#' + value.id).bind({
+							focusout: function () {
+								validateClientSide(this, true, true);
+							}
+						}
+				);
+			}
+		});
+
+		var $errorfields_ = $form_.find('.error');
+		$.each($errorfields_, function (index, value) {
+			if (endsWith(this.id, '_error')) {
+				if (this.style.display != 'none') {
+					addError(this.id);
+				}
+			}
+		});
+
+		$("#iban_zp").keyup(function () {
+			if ($(this).val() == "") {
+				$('#kontonummer_zp').prop('disabled', false);
+				$('#blz_zp').prop('disabled', false);
+			} else {
+				$('#kontonummer_zp').prop('disabled', true);
+				$('#blz_zp').prop('disabled', true);
+			}
+		});
+
+		$("#kontonummer_zp").keyup(function () {
+			if ($(this).val() == "") {
+				$('#iban_zp').prop('disabled', false);
+				$('#bic_zp').prop('disabled', false);
+			} else {
+				$('#iban_zp').prop('disabled', true);
+				$('#bic_zp').prop('disabled', true);
+			}
+		});
+	});
+
+
+	function validateClientSide(inputElement, useNameInsteadOfId, isCheckbox) {
+		var elementId = (useNameInsteadOfId) ? inputElement.name : inputElement.id;
+		if (elementId == null) {
+			elementId = inputElement.attr("name");
+		}
+//		console.log('called validateClientSide - Element:'+inputElement.id+' Value:'+inputElement.value);
+		//build serviceURL
+		var serviceURL = baseValidationServiceURL + 'karriere';
+		serviceURL += "/";
+		serviceURL += elementId;
+		serviceURL += "/";
+		//serviceURL += encodeURIComponent(getElementValue(inputElement, isCheckbox));
+//		console.log('sending request::'+serviceURL);
+		//call validation-service
+		$.ajax({
+			type: "POST",
+			url: serviceURL,
+			data: $('#formValues').serialize(), // serializes the form's elements.
+			success: function (response) {
+				if (response != null) {
+					if (!response.isValid && typeof response.errors != 'undefined' && response.errors != null) {
+						if (response.errors.length > 0) {
+							//add error-message
+//						console.log('append error to ' + inputElement.id);
+							$.each(response.errors, function (index, value) {
+								$('#' + elementId + '_error').text(value);
+								if ($('#' + elementId).parent().hasClass('input-group')) {
+									// Verbund Felder
+									var bla = $('#' + elementId).parent();
+									var seen = {};
+									$.each(bla.parent().children(), function () {
+										if ($(this).hasClass('error') && $(this).text() != '' && seen[$(this).text()]) {
+											console.log(this.id);
+											removeError(this.id);
+//										$(this).hide();
+										} else if ($(this).hasClass('error') && $(this).text() != '') {
+											seen[$(this).text()] = true;
+											console.log("seen: " + $(this).text());
+											addError(this.id);
+											$(this).show();
+										}
+									});
+								} else if ($('#' + elementId).is("textarea")) {
+									if (!$('#' + elementId).val()) {
+										addError(elementId + '_error');
+										$('#' + elementId + '_error').show();
+									} else {
+										removeError(elementId + '_error');
+									}
+
+								} else {
+									// kein Verbund Feld
+									addError(elementId + '_error');
+									$('#' + elementId + '_error').show();
+								}
+							});
+						}
+					} else {
+						//clean errors if no errors left
+						console.log("no errors, response is valid, cleanup:")
+						removeError(elementId + '_error');
+					}
+				} else {
+					//no response??
+//				console.log('ERROR: response ist null');
+				}
+			}
+		});
+	}
+
+	function getElementValue(inputElement, isCheckbox) {
+		var val = inputElement.value;
+		if (isCheckbox) {
+			// bei mehreren Checkboxen mit demselben Namen
+			// werden hier alle ausgewaehlten Werte
+			// mit "||" getrennt aneinander gehaengt; bei der
+			// Pflichtfeldpruefung bewirkt dies, dass es reicht,
+			// wenn mindestens ein Haekchen gewaehlt wurde
+			var val = "";
+			$('input[name="' + inputElement.name + '"]').each(function () {
+				if ($(this).is(':checked')) {
+					val += (val != "" ? "||" : "") + $(this).val();
+				}
+			});
+		}
+		return val;
+	}
+
+	function doSubmitNextPage(actionString) {
+
+		if ($('#formValues').length > 0
+				&& null != actionString
+				&& typeof actionString != 'undefined') {
+			//console.log('doSubmit:: actionString='+actionString);
+			if ($('#boxflexForm').length > 0) {
+				checkBoxflexForm(actionString);
+				return false;
+			} else {
+				$('#formValues').attr('action', actionString);
+			}
+		}
+		return true;
+	}
+
+	function removeError(name) {
+		console.log("error input name " + name);
+		delete errors[name];
+		$('#' + name + '_error').text('');
+		$('#' + name).hide();
+		if (noErrors()) {
+			$('#error_global').css("visibility", "hidden");
+		}
+	}
+
+	function addError(name) {
+		errors[name] = "error";
+		$('#error_global').css("visibility", "visible");
+	}
+
+	function numberOfErrors() {
+		var counter = 0;
+		for (var error in errors) {
+			counter++;
+		}
+
+		return counter;
+	}
+
+	function noErrors() {
+		return numberOfErrors() == 0;
+	}
+
+	function callback(url) {
+		var win = window.opener;
+		if (typeof win == 'undefined' || win == null) {
+			window.location.href = url;
+		} else {
+			win.location.href = url;
+			win.focus();
+			self.close();
+		}
+
+	}
+
+	function validateChildDependencies(childDependenciesAttr) {
+		if (typeof childDependenciesAttr !== typeof undefined && childDependenciesAttr != "") {
+			var childDependenciesArray = childDependenciesAttr.split(',');
+			$.each(childDependenciesArray, function (i, val) {
+				var element = $("#" + val);
+				validateClientSide(element);
+			});
+		}
+	}
+
+	function checkBoxflexForm(actionString) {
+		if ($('#aenderung_Namen_Anschrift1').is(':checked') || $('#aenderung_Namen_Anschrift2').is(':checked')
+				|| ($("#umzug_tag option:selected").text() != "Tag" && $("#umzug_monat option:selected").text() != "Monat" && $("#umzug_jahr option:selected").text() != "Jahr")
+				|| $.trim($('#neue_Wohnflaeche').val()).length > 0
+				|| $('#ein_Zwei_Mehrfamilienhaus1').is(':checked') || $('#ein_Zwei_Mehrfamilienhaus2').is(':checked') || $('#ein_Zwei_Mehrfamilienhaus3').is(':checked')
+				|| $.trim($('#geldinstitut').val()).length > 0 || $.trim($('#iban').val()).length > 0
+				|| $.trim($('#lebensituation').val()).length > 0
+				|| $('#eigentuemer_Privat_genutzten_Immobilien1').is(':checked') || $('#eigentuemer_Privat_genutzten_Immobilien2').is(':checked')
+				|| $('#eigentuemer_Hunden_oder_Pferden1').is(':checked') || $('#eigentuemer_Hunden_oder_Pferden2').is(':checked')
+				|| $('#eigentuemer_Nebengebaeuden_ueber_10qm1').is(':checked') || $('#eigentuemer_Nebengebaeuden_ueber_10qm2').is(':checked')
+				|| $('#eigentuemer_Grundstuecken_ueber_2000qm1').is(':checked') || $('#eigentuemer_Grundstuecken_ueber_2000qm2').is(':checked')
+				|| $('#eigentuemer_Solar_Geothermie_Anlagen1').is(':checked') || $('#eigentuemer_Solar_Geothermie_Anlagen2').is(':checked')
+				|| $('#eigentuemer_Wassersportfahrzeugen1').is(':checked') || $('#eigentuemer_Wassersportfahrzeugen2').is(':checked')
+				|| $('#eigentuemer_Fahrraeder_Elektrofahrraeder1').is(':checked') || $('#eigentuemer_Fahrraeder_Elektrofahrraeder2').is(':checked')
+				|| $('#zusaetzlichen_Wertsachen1').is(':checked') || $('#zusaetzlichen_Wertsachen2').is(':checked')
+				|| $('#vermietung_Wohnung_Haus1').is(':checked') || $('#vermietung_Wohnung_Haus2').is(':checked')
+				|| $('#gewerbliche_Nutzung_Wohnung_Haus1').is(':checked') || $('#gewerbliche_Nutzung_Wohnung_Haus2').is(':checked')
+				|| $('#mehr_erfahren_ueber_Versicherungsschutz1').is(':checked') || $('#mehr_erfahren_ueber_Versicherungsschutz2').is(':checked')
+				|| $.trim($('#sonstige_Beratung').val()).length > 0) {
+			$('#formValues').attr('action', actionString);
+			$('#formValues').submit();
+
+		} else {
+			if ($('#ErrorMessage').length > 0) {
+				$('#ErrorMessage').remove();
+			}
+			$('<div id="ErrorMessage" style="color:red; margin-top:10px">Da sich Ihre Lebenssituation nicht verändert hat, ist der Versand des Fragebogens nicht erforderlich</div>').insertAfter('.btn.btn-small.btn-primary');
+
+			return false;
+		}
+	}
+</script>
+
+    
+    
+
+	 
+
+
+	
+		<!-- data layer -->
+		
+		
+		
+		
+		
+   		
+		
+       	
+    		
+        
+
+		
+		
+
+		
+		
+			<script type="text/javascript">
+				//<![CDATA[
+				window.dataLayer = window.dataLayer || [];
+				dataLayer = [{
+					env_work : 'prod',
+					env_platform : 'axa.de',
+					env_website_mode : 'generic',
+					broker_id : '',
+					broker_hp_id : '',
+					broker_name : '',
+					broker_status : '',
+					action_code : '14015D',
+					page_type : 'form',
+					page_cat1 : 'karriere',
+					page_cat2 : '',
+					page_cat3 : '',
+					page_name : 'page_1',
+					search_type : '',
+					search_keywords : '',
+					search_results_number : '',
+					calculator_saveid : ''
+				}]
+				//]]>
+			</script>
+
+
+			<!--2. TrustCommander -->
+			<script type="text/javascript">
+				var tCPrivacyTagManager = "gtm";
+			</script>
+			<script type="text/javascript" src=https://cdn.trustcommander.net/privacy/1439/privacy_v2_7.js></script>
+
+
+
+			<!--3. Google Tag Manager -->
+			
+			<script type="text/tc_privacy" data-category="1">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W9WSTRG');</script>
+			<!-- End Google Tag Manager -->
+		
+	
+
+
+
+
+
+
+	
+<script type="text/javascript">
+<!-- 
+var _$listen = new Object();
+
+function getOptions(_sbtype) {
+	if(arguments[1] != undefined && arguments[1] == true) {_dynamic = true;}
+	else {_dynamic = false;}
+	var funcname = "getOptions" + _sbtype + "(_sbtype, _dynamic)";
+	eval(funcname);
+}
+
+//-->
+</script>
+	<link rel="SHORTCUT ICON" href="/form/resources/layout-2014/img/axade/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+	<div id="wrap">
+
+	
+    
+    
+        
+             
+             
+                  
+
+		<!-- HEADER -->
+		<css3-container style="Z-INDEX: 1; POSITION: fixed; DIRECTION: ltr; TOP: 0px; LEFT: 0px"><outset-box-shadow style="POSITION: absolute; TOP: 0px; LEFT: 0px"><group1><?xml:namespace prefix = css3vml ns = "urn:schemas-microsoft-com:vml" /><css3vml:shape style="POSITION: absolute; WIDTH: 1547px; HEIGHT: 65px; TOP: 3px; BEHAVIOR: url(#default#VML); LEFT: 3px" coordsize = "3094,130" coordorigin = "1,1" filled = "t" fillcolor = "#c8c8c8" stroked = "f" path = " m-6,0 qy0,-6 l3094,-6 qx3100,0 l3100,130 qy3094,136 l0,136 qx-6,130 x e"><css3vml:fill></css3vml:fill><css3vml:fill></css3vml:fill></css3vml:shape></group1></outset-box-shadow><background style="POSITION: absolute; TOP: 0px; LEFT: 0px"><group1><css3vml:shape style="POSITION: absolute; WIDTH: 1547px; HEIGHT: 65px; TOP: 0px; BEHAVIOR: url(#default#VML); LEFT: 0px" coordsize = "3094,130" coordorigin = "1,1" fillcolor = "white" stroked = "f" path = " m0,0 l3094,0,3094,130,0,130 xe"><css3vml:fill></css3vml:fill></css3vml:shape></group1></background></css3-container>		
+		<div class="navbar fixed-top shadow">
+			<div class="container">
+				<span class="navbar-brand">
+					<img src="/form/resources/layout-2014/img/axade/header-logo.png" />
+				</span>
+				
+					
+				
+				
+    		</div>
+    	</div>
+		<!-- /HEADER -->   		
+
+             
+        
+    
+
+		<!-- CONTENT --> 		
+    	<div class="container">
+			<div class="boxwhite content shadow">
+				<form id="formValues" action="#" method="POST">
+				<input id="organummer" name="organummer" type="hidden" value=""/>
+				<input id="scid" name="scid" type="hidden" value=""/>
+				<input id="locid" name="locid" type="hidden" value=""/>
+				<input id="hpId" name="hpId" type="hidden" value=""/>
+
+				<input id="securityToken" name="securityToken" type="hidden" value="3a9aa73d8c1864ea80d522d7d0293c85294ef41"/>
+				
+				
+		        			            <div class="row  ">
+		              <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+		                <div class="box-content" id="teaser">
+		                	<h1></h1>
+
+		                </div>
+		              </div>
+		            </div>
+
+	            
+				
+				
+				
+					
+					
+					
+						
+							
+							<div class="module ">
+								<div class="Frage_Karriere_mit_Nachricht">
+									
+									
+										
+
+<div class="row">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="box-content form-group-label">
+            <h2></h2>
+        </div>
+    </div>
+</div>
+<div class="row">
+    
+    
+    
+
+
+
+
+
+
+	<div class="col-12 col-sm-8 col-md-4 col-lg-4">
+		<div class="box-content form-content">
+			<div class="form-group">
+
+
+
+
+
+
+<script type="text/javascript">
+var _$frage_karriere = "";
+
+<!-- erstellen array mit allen List values -->
+
+	_$listen["list_frage_karriere"] = new Array(
+	
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		
+		new Array("Frage zum Bewerbungsprozess","Frage zum Bewerbungsprozess","",false)
+		
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		,
+		new Array("Frage zu einer bestimmten Vakanz","Frage zu einer bestimmten Vakanz","",false)
+		
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		,
+		new Array("Frage zu einer laufenden Bewerbung","Frage zu einer laufenden Bewerbung","",false)
+		
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		,
+		new Array("Frage zu Messen und Events","Frage zu Messen und Events","",false)
+		
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		,
+		new Array("Anmeldung Azubi-Insights","Anmeldung Azubi-Insights","",false)
+		
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		,
+		new Array("Karrierecoaching Duale Karriere","Karrierecoaching Duale Karriere","",false)
+		
+	
+		
+		
+		
+		
+		
+			
+			
+			
+		
+		,
+		new Array("Sonstiges","Sonstiges","",false)
+		
+	);
+
+
+
+
+function getOptionsfrage_karriere(_sbtype, _dynamic) {
+	
+		
+		
+			printOptionsfrage_karriere(_$listen["list_frage_karriere"]);
+		
+	
+}
+
+
+function printOptionsfrage_karriere(_list) {
+	
+	
+	
+	
+	
+	
+		document.write('<option value="" disabled selected>Bitte auswählen...</option>');
+	
+	
+	
+	if (_list) {
+	    for(var i=0;i<_list.length;i++) {
+			var selected = "";
+			if(_list[i][0] == _$frage_karriere
+				|| ('' == _$frage_karriere && _list[i][3] == true)){
+			    selected = ' selected="selected"';
+			}
+	        document.write('<option'+selected+' value="'+_list[i][0]+'" relText="'+_list[i][2]+'">'+_list[i][1]+'</option>');
+	    }
+	}
+}
+</script>
+
+
+<label for="frage_karriere">Zu welchem Thema hast du eine Frage? 
+	
+</label>
+<select id="frage_karriere" name="frage_karriere" class="form-select form-select-sm " onchange="setOptionsfrage_karriere(this)">
+	<script language="javascript">getOptions("frage_karriere");</script>
+</select>
+
+<script type="text/javascript">
+function setOptionsfrage_karriere(_sb) {
+	_$frage_karriere = _sb.options[_sb.selectedIndex].value;
+	
+	<!-- Alle Kinder die Vorhanden sind ändern -->
+	
+}
+
+function changeOptionsfrage_karriere(_list, _sbtype) {
+   console.log("changeOptionsfrage_karriere - _sbtype="+_sbtype);
+   var sb = document.getElementById(_sbtype);
+   if(typeof sb == 'undefined'
+	   || sb == null
+	   || typeof sb.options == 'undefined'
+	   || sb.options == null){
+       //might be input instead of select-box because of specialCars-logic in oldtimerversicherung
+       return;
+   }
+   sb.options.length = 0;
+   
+   
+	
+	
+	
+	
+	
+		sb.options[0] = new Option("Bitte auswählen...", "");
+	
+	
+   
+   if (_list){
+		for (var i=0;i<_list.length;i++) {
+			sb.options[i+1] = new Option(_list[i][1], _list[i][0],false,_list[i][3]);
+		}
+	}
+  _$frage_karriere = "";
+  
+  <!-- Alle Kinder die Vorhanden sind ändern -->
+	
+	
+  removeError("frage_karriere_error");
+}
+
+
+</script>
+
+	
+	
+		
+		
+			<div id="frage_karriere_error" class="error"
+				style="display: none"></div>
+		
+	
+
+
+	</div>
+	</div>
+	</div>
+
+
+    
+    
+
+</div>
+<div class="row">
+    
+    
+    
+
+
+
+
+
+
+
+
+	<div class="col-12 col-sm-8 col-md-8 col-lg-8">
+
+		<div class="box-content form-content">
+			<div class="form-group">
+				
+				
+					<label>Dein Anliegen: </label>
+				
+				<textarea id="anliegen_du" name="anliegen_du" class="form-control input-sm"></textarea>
+			
+			
+			
+			
+				
+				
+					<div id="anliegen_du_error" class="error"
+						style="display: none"></div>
+				
+			
+		
+			
+			</div>
+		</div>
+
+	</div>
+
+
+    
+    
+</div>
+
+
+									
+									
+								</div>
+							</div>
+						
+							
+							<div class="module ">
+								<div class="Name_Email_Telefon">
+									
+									
+										
+
+            <div class="row">					
+              <div class="col-12 col-sm-12 col-md-12 col-lg-12">						
+                <div class="box-content form-group-label">
+                	<h2>Angaben zu deiner Person:</h2>                        
+                </div>                    
+              </div>                
+            </div>
+			<div class="row">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+	<div class="col-12 col-sm-8 col-md-4 col-lg-4">
+
+<div class="box-content form-content">
+	<div class="form-group">
+		
+		
+		
+			<label>Vorname 
+				
+			</label>
+		
+
+		
+		
+
+		
+			
+			
+				<input id="vorname_du" name="vorname_du" class="form-control input-sm" type="text" value=""/>
+			
+		
+
+		
+			
+			
+				
+				
+					<div id="vorname_du_error" class="error"
+						 style="display: none"></div>
+				
+			
+		
+	</div>
+</div>
+
+	</div>
+
+
+				
+				
+
+				
+				
+				
+
+
+
+
+
+
+
+
+
+	<div class="col-12 col-sm-8 col-md-4 col-lg-4">
+
+<div class="box-content form-content">
+	<div class="form-group">
+		
+		
+		
+			<label>Nachname 
+				
+			</label>
+		
+
+		
+		
+
+		
+			
+			
+				<input id="name_du" name="name_du" class="form-control input-sm" type="text" value=""/>
+			
+		
+
+		
+			
+			
+				
+				
+					<div id="name_du_error" class="error"
+						 style="display: none"></div>
+				
+			
+		
+	</div>
+</div>
+
+	</div>
+
+
+				
+				
+		</div>
+			<div class="row">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+	<div class="col-12 col-sm-8 col-md-4 col-lg-4">
+
+<div class="box-content form-content">
+	<div class="form-group">
+		
+		
+		
+			<label>E-Mail 
+				
+			</label>
+		
+
+		
+		
+
+		
+			
+			
+				<input id="e_mail_du" name="e_mail_du" class="form-control input-sm" type="text" value=""/>
+			
+		
+
+		
+			
+			
+				
+				
+					<div id="e_mail_du_error" class="error"
+						 style="display: none"></div>
+				
+			
+		
+	</div>
+</div>
+
+	</div>
+
+
+				
+			</div>
+			<div class="row">
+				
+				
+				
+				
+				
+
+
+
+	<div class="col-12 col-sm-8 col-md-4 col-lg-4">
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+<div class="box-content form-content">
+	<div class="form-group">
+		
+			
+				<label>Telefon/Mobiltelefon (optional) </label>
+			
+			
+			
+		
+		<div class="input-group">
+			<div class="tel_vorwahl">
+				<input id="tel_vorwahl" name="tel_vorwahl" class="form-control input-sm" type="text" value=""/>
+			</div>
+			<div class="spacer">&nbsp;</div>
+			<div class="tel_durchwahl">
+				<input id="tel_durchwahl" name="tel_durchwahl" class="form-control input-sm" type="text" value=""/>
+			</div>
+		</div>
+		
+		
+
+
+		
+			
+			
+				<div id="tel_vorwahl_error"
+					class="error error-hidden" style="display: none"></div>
+			
+		
+
+		
+			
+			
+				<div id="tel_durchwahl_error"
+					class="error error-hidden" style="display: none"></div>
+			
+		
+	</div>
+</div>
+
+	</div>
+
+
+				
+				
+				
+				
+			</div>
+
+            
+									
+									
+								</div>
+							</div>
+						
+							
+							<div class="module ">
+								<div class="Datenschutz_Module_du">
+									
+									
+										
+
+
+
+
+
+
+
+	<div class="row">
+		<div class="col-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="box-content form-group-label">
+				
+				
+			</div>
+		</div>
+	</div>
+	<div class="row">
+				
+
+
+
+
+
+
+
+
+	<div class="col-12 col-sm-12 col-md-12 col-lg-12">
+		<div class="box-content form-content">
+			<div class="div-custom-checkbox">
+				<div class="form-group">
+
+
+				
+				
+				
+				
+				
+					
+					
+					
+						
+						
+						
+						
+							
+						
+						
+						
+					
+					
+					<table>
+						<tr>
+							<td class="div-custom-checkbox">
+								<input id="datenschutz_du1" name="datenschutz_du" class="custom-checkbox" type="checkbox" value="Ja"/><input type="hidden" name="_datenschutz_du" value="on"/>
+							</td>
+							<td class="label_ja">Ich habe die <a href="https://www.axa.de/site/axa-de/get/documents/axade/PDF-Upload/BT-PDF/2018-AXA-IVD-mit-DLUE-OF.pdf" target="_blank" title="Informationen zur Datenverarbeitung" >Informationen zur Datenverarbeitung</a> zur Kenntnis genommen. Meine angegebenen Daten werden zum Zweck der Erstellung und Bearbeitung meiner Anfrage von der AXA Konzern AG gespeichert.</td>
+						</tr>
+						
+
+
+					</table>
+					
+					
+				
+
+
+			</div>
+			<div>
+
+			
+				
+				
+				
+
+				
+					
+					
+						<div id="datenschutz_du_error" class="error errorCheckbox"
+							style="display: none"></div>
+					
+				
+			
+
+
+
+			</div>
+		</div>
+	</div>
+	</div>
+
+
+
+				
+	
+	</div>
+
+
+     
+									
+									
+								</div>
+							</div>
+						
+				
+
+				
+
+
+
+				
+
+				
+
+  				<div class="row">
+  					<div class="col-12 col-sm-12 col-md-12 col-lg-12">
+  						<div class="box-content form-content">
+						
+							<p>&nbsp;</p>
+						
+  						</div>
+  					</div>
+  				</div>
+  				
+					<div class="row">
+					
+						
+							
+							
+								<div class="col-12 col-sm-12 col-md-12 col-lg-12">
+									<div class="box-content form-content">
+										<p>
+											Bitte überprüfe noch einmal deine Eingaben. Wenn alles in Ordnung ist, dann klicke bitte auf "Jetzt absenden".
+										 </p>
+									</div>
+								 </div>
+							
+						
+				    
+					</div>
+				
+				<div class="row">
+					<div class="col-12 col-sm-12 col-md-12 col-lg-12">
+						
+						
+						
+							
+							
+						
+						
+						
+							<div class="box-content form-content">
+								<div class="box-content-btn left">
+									
+									 
+									
+	            						<a class="btn btn-small btn-primary" id="formsubmitbutton" title="Jetzt absenden" alt="Jetzt absenden" href="javascript:$('#formValues').submit();" onClick="javascript:doSubmitNextPage('/form/karriere/1/2'); ">Jetzt absenden<i class="icon-chevron-right"></i></a>
+									
+								</div>
+	                        </div>
+						
+					</div>
+
+                </div>
+                
+
+				</form>
+			</div>
+		</div>
+        <!-- /CONTENT  -->
+		
+			
+			
+			
+				
+
+<!-- FOOTER -->
+
+    
+    
+        <div class="container text-center">
+            <div class="row footer">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12"><br/>
+                    
+                    
+                        <a href="https://www.axa.de/impressum" target="_blank">Impressum</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    
+                    
+                        <a href="https://www.axa.de/datenschutz" target="_blank">Datenschutz</a> <br/> <br/> <br/>
+                    
+                </div>
+            </div>
+            
+        </div>
+    
+
+
+
+
+<!-- /FOOTER -->
+
+			
+		
+
+	</div>
+
+	
+		
+			
+			
+		
+	
+
+	
+
+</body>
+</html>

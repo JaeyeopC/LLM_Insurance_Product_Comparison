@@ -1,0 +1,1333 @@
+{
+    "title": "Ratgeber Haftpflichtversicherung / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Umfassender Ratgeber rund um die Haftpflichtversicherung ►Jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/haftpflicht/r/haftpflichtversicherung-ratgeber",
+        "og:title": "Ratgeber Haftpflichtversicherung / AXA",
+        "og:description": "Umfassender Ratgeber rund um die Haftpflichtversicherung ►Jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht",
+            "text": "Haftpflicht"
+        },
+        {
+            "text": "Ratgeber - Haftpflichtversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mutter und Kind spielen mit einem Flugzeug"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haftpflichtschäden sind keine Lappalie, sondern können Sie finanziell ruinieren. Wir erklären in diesem Ratgeber anhand vieler Beispiele, was für Haftungsfälle auftreten können und wie dieprivate HaftpflichtversicherungSie absichert."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau vergleicht Haftpflichtversicherungen auf ihrem Tablet"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Finanztest-Ausgabe vergleicht Haftpflichtversicherungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Viele unterschiedliche Haftpflichtversicherungen wurden durch Finanztest in der Ausgabe 09/2023 geprüft. Erfahren Sie hier mehr über den Umfang des Tests und wie die Versicherungen und insbesondere AXA abgeschnitten hat."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/finanztest-haftpflichtversicherung",
+            "text": "Finanztest Haftpflichtversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vater und Sohn haben Spass an Halloween"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Halloween-Streiche"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wann kommt eine Privathaftpflichtversicherung für Halloween Streiche auf und wann nicht? Die Grenze zw. Halloween-Streichen und Sachbeschädigung ist hierbei nicht immer eindeutig."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/sachbeschaedigung-halloween",
+            "text": "Sachbeschaedigung an Halloween"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Paar interessiert sich für eine Haftpflichtversicherung und informiert sich online"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vorschäden bei der Haftpflichtversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Worauf zu achten ist, wenn Sie eine neue Haftpflichtversicherung abschliessen möchten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/vorschaden-haftpflichtversicherung",
+            "text": "Vorschäden bei der Haftpflichtversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kinder spielen zusammen im Wald"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflichtversicherung für Kinder"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sind Kinder in der Haftpflichtversicherung der Eltern von Geburt an mitversichert und wenn ja, wie lange? Was müssen Eltern bei der Familienhaftpflicht beachten?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-kinder",
+            "text": "Haftpflicht für Kinder"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Rentner schaut nach einer privaten Haftpflichtversicherung online"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Private Haftpflichtversicherung für Senioren und Rentner"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie man auch im hohen Alter ausreichend versichert bleiben kann und warum auch dann eine Versicherung wichtig ist."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-senioren",
+            "text": "Privathaftpflicht für Senioren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Männer machen Ihre Steuerklärung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "So machen Sie Ihre Haftpflichtversicherung in der Steuererklärung geltend"
+        },
+        {
+            "type": "paragraph",
+            "text": "Setzen Sie die private Haftpflichtversicherung ganz einfach von der Steuer ab."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-steuererklaerung",
+            "text": "Haftpflichtversicherung von der Steuer absetzen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann liest aufmerksam ein Schreiben"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was ist ein Regress?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir klären auf, was genau hinter Regressanforderungen sowie Regressansprüchen steckt. Lesen Sie auch, was ein Mieter- und ein Arbeitgeber-Regress bedeutet und wer für Schäden haften muss."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/regress",
+            "text": "Regress"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau schaut auf ihr Handy und sitzt auf einer Wiese"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Handy kaputt - zahlt die Privathaftpflichtversicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihr Handy ist kaputt? Erfahren Sie in welchem Schadenfall die private Haftpflichtversicherung für den Schaden aufkommt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/handy-kaputt",
+            "text": "Handy kaputt"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Studierende beim Spaziergang im Wald"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflichtversicherung für Studenten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ist eine eigene Haftpflichtversicherung für Studenten oder Azubis sinnvoll? Wie sind junge Leute von Anfang an optimal versichert?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflicht-studenten",
+            "text": "Haftpflichtversicherung für Studenten"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann und Frau beladen geliehenes Auto für einen Umzug"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schäden am fremden Auto - zahlt die private Haftpflichtversicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer kommt für den Schaden auf, wenn Sie ein fremdes oder geliehenes Auto beschädigen?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/schaden-am-fremden-auto",
+            "text": "Haftpflichtversicherung Schaden am fremden Auto"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau vergleicht Haftpflichtversicherungen an ihrem Laptop"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Selbstbeteiligung bei Haftpflichtversicherung sinnvoll?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Welche Gründe für, welche Gründe gegen eine Selbstbeteiligung in der Haftpflichtversicherung sprechen und wie die meisten Versicherungsnehmer:innen entscheiden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflicht-selbstbeteiligung",
+            "text": "Haftpflichtversicherung Selbstbeteiligung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau vergleicht Haftpflichtversicherungen an ihrem Laptop"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kriterien für den Vergleich von Haftpflichtversicherungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Warum ist es wichtig, bei der Wahl einer Privathaftpflichtversicherung individuelle Leistungen der Versicherungen miteinander zu vergleichen? Wir erklären Ihnen, worauf es beim Vergleich ankommt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-vergleich",
+            "text": "Vergleich Haftpflichtversicherungen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau steht mit Laptop und telefoniert"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Mietschäden in der Wohnung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Von Mietschäden oder Mietsachschäden spricht man, wenn ein Mieter fest verbaute, zur Mietwohnung gehörende Dinge wie Böden, Türen, Sanitäranlagen oder etwa eine Einbauküche beschädigt. Was zahlt die Privathaftpflichtversicherung – und was nicht?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/mietsachschaeden",
+            "text": "Mietsachschäden in der Wohnung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau lässt Drohne steigen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflichtversicherung für Drohnen"
+        },
+        {
+            "type": "paragraph",
+            "text": "In diesem Artikel erfahren Sie, welche Risiken Sie kennen müssen und was bei einer Drohnenhaftpflichtversicherung beachtet werden sollte."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/drohnen-versicherung",
+            "text": "Drohnenhaftpflichtversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Kind fährt eine Piste herunter"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Skifahren in Italien: Haftpflichtversicherung jetzt Pflicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit Januar 2022 ist eine Haftpflicht Versicherung für alle Skifahrer in Italien und Südtirol Pflicht. Hier erfahren Sie was Sie bei der Urlaubsbuchung beachten müssen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/skifahren-in-italien",
+            "text": "Skifahren in Italien"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Schwangere mit Tochter"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Familienhaftpflichtversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit einer Privathaftpflichtversicherung für Familien können Sie nicht nur sich selbst, sondern auch alle im Haushalt lebenden Familienmitglieder versichern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-fuer-familien",
+            "text": "Privathaftpflicht für Familien"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junge Frau genießt die Sonne"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Auslandsprivathaftpflicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie im Ausland Urlaub machen oder sich im Rahmen Ihres Studiums oder Arbeit länger im Ausland aufhalten, ist bei der Auswahl zentral, ob und wie lange Ihre Privathaftpflichtversicherung Ihnen auch außerhalb von Deutschland Versicherungsschutz bietet."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-im-ausland",
+            "text": "Privathaftpflicht im Ausland"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Schlüssel verloren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste zum Verhalten bei Schlüsselverlust"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schlüssel verloren – was muss ich tun?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was ist zu tun, wenn der Wohnungsschlüssel weg ist und wie kann man einem Verlust vorzubeugen?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/schluessel-verloren",
+            "text": "Schlüssel verloren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kinder kreuzen die Straße"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wer haftet, wenn Kindern im Straßenverkehr etwas passiert?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Alptraum aller Eltern: ihr Kind ist in einen Unfall im Straßenverkehr verwickelt. Ist das Kind in einem solchen Fall versichert und wenn ja, in welchem Umfang?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/kinder-strassenverkehr-unfall-haftung",
+            "text": "Haftung bei Kindern im Straßenverkehr"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau liest einen Vertrag auf ihrem Sofa"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Privathaftpflicht wechseln"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben sich Ihre Lebensumstände geändert? Wünschen Sie sich besseren  Versicherungsschutz? Es kann sich lohnen, Ihre private Haftpflichtversicherung zu wechseln."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-kuendigen-wechseln",
+            "text": "Privathaftpflicht wechseln"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau spaziert alleine"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum die Privathaftpflicht für Singles unverzichtbar ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie nur für Schäden verantwortlich sind, die Sie selbst verursacht haben, sind Ihr Versicherungsbedarf und die benötigten Leistungen häufig weniger umfangreich."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-fuer-singles",
+            "text": "Privathaftpflicht für Singles"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Frauen im Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Brandloch im Auto"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Loch im Autositz ist nicht nur unschön, sondern kann durch die regelmäßige Benutzung des Sitzes auch noch weiter aufreißen, wenn es nicht geflickt wird."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/brandloch-im-autositz",
+            "text": "Brandloch im Autositz reparieren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Handy ins Wasser gefallen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste Handy wasserdicht machen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Handy Wasserschaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Handy ist ins Wasser gefallen? Jetzt ist schnelles Handeln gefragt, um es vielleicht doch noch vor irreparablen Schäden zu retten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/handy-wasserschaden",
+            "text": "Handy Wasserschaden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau schaut auf ihr Handy an"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum die Privathaftpflicht zu den sinnvollsten Versicherungen gehört?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Private Haftpflichtversicherung ist so wichtig, weil jeder Mensch gesetzlich dazu verpflichtet ist, für alle von ihm verursachten Schäden zu haften und mit seinem gesamten Privatvermögen dafür aufzukommen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-sinnvoll",
+            "text": "Ist eine Privathaftpflicht sinnvoll?"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junges, verliebtes Ehepaar"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Privathaftpflicht für Paare"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was bietet eine Private Haftpflichtversicherung für verheiratete und unverheiratete Lebenspartner und Ehepaare?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privathaftpflicht-fuer-paare",
+            "text": "Privathaftpflicht für Paare"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Fußballtrainerin mit Kindern"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Im Ehrenamt versichert"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unentgeltliche Arbeit sollte belohnt werden! Damit Ihnen kein Schaden bei der freiwilligen Ausübung Ihres Ehrenamts entsteht, sind einige Versicherung notwendig. Welche Sie brauchen, um abgesichert zu sein, erfahren Sie hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/ehrenamt-haftpflicht-risiken",
+            "text": "Haftungsrisiken im Ehrenamt"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann surft im Internet"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste: Wie lernt man eine Drohne zu fliegen?"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Drohne leihen und Flugmanöver lernen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Worauf Sie achten sollten, wenn Sie eine Drohne mieten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/drohne-leihen",
+            "text": "Drohne leihen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau reist mit ihrem Hund"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste Reisen mit Hund"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Reisen mit Hund"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du planst eine Familienurlaub mit dem Hund? Wir verraten Dir, was vor Reisen mit Hund beachtet werden soll und wie Du die Reise im Auto oder im Flugzeug am besten planst."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/reisen-mit-hund",
+            "text": "Reisen mit Hund"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Katze und Kind im Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sicher unterwegs mit Haustieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hunde, Katzen, Meerschweinchen, Vögel bringen einfach Leben in die Bude. Autofahren kann dennoch bei den Vierbeinern Stress auslösen. Haustiere können durch ihr Verhalten auch Schäden verursachen, für die der Halter haftbar gemacht wird."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/reisen-mit-tieren",
+            "text": "Tiere im Auto"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Rotweinflecken auf dem Teppich"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Rotweinflecken entfernen, Streit vermeiden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eigentlich sollte es ein schöner Abend mit Freunden sein. Doch ausgerechnet der Lieblingsrotwein sorgt für ein vorzeitiges Ende der Party."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/rotweinflecken-entfernen",
+            "text": "Rotweinflecken entfernen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Katze und kaputter Blumentopf"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Geliebte Mitbewohner – treue Gefährten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haustier ist nicht gleich Haustier: Mit jeder Tierart sind auch verschiedene Risiken verbunden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/tipps-haustierhalter",
+            "text": "Tipps für Haustierhalter"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Freunde ziehen um"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste zum Umzug"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gefälligkeitsschäden bei Ausbau, Umbau, Umzug"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Gefälligkeit ist definiert als die unentgeltliche Erbringung einer Arbeit oder Dienstleistung, auf die der Leistungsempfänger keinen Anspruch hat. Doch was, wenn dabei etwas schief geht?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/gefaelligkeitsschaeden",
+            "text": "Gefälligkeitsschäden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Musik mit Smartphone bei Party spielen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gelöschte Dateien wiederherstellen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir verraten Dir, was Du im Falle eines Datenverlusts tun solltest, wie Du gelöschte Dateien doch noch wiederherstellen kannst und wie Du in Zukunft für solche Fälle vorsorgst."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/geloeschte-dateien-wiederherstellen",
+            "text": "Daten wiederherstellen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Rettungshund mit Menschen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Retter auf vier Pfoten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rettungshund sind großartige Helfer im Einsatz für Leben und Gesundheit. Über die hilfreichen Vierbeiner erzählt uns eine Hundeliebhaberin, wie sie zur Arbeit mit Hunden gekommen ist, was zur Ausbildung gehört und wie der Rettungseinsatz funktioniert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/retter-auf-vier-pfoten",
+            "text": "Retter auf vier Pfoten"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Therapiehund mit seiner Besitzerin"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Therapiehunde und ihre Ausbildung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Therapiehund mit der richtigen Ausbildung unterstützt als Begleithund Menschen bei medizinischen Behandlungen wie Psychotherapie oder Physiotherapie."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/therapiehunde",
+            "text": "So helfen Therapiehunde"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Mädchen mit Einkaufswagen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Recht beim Kaufen, Umtauschen und Zurückgeben"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bevor Kunden die Geldbörse oder Kreditkarte zücken, sollten sie über ihre Rechte beim Einkaufen Bescheid wissen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/rechtstipp-umtausch-fehlkauf",
+            "text": "Recht beim Kaufen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kind schaut in den Backofen und entdeckt einen Allmählichkeitsschaden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Allmählichkeitsschäden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was versteht man unter einem Allmählichkeitsschaden? Und ist ein solcher immer von der Privathaftpflichtversicherung abgedeckt?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/allmaehlichkeitsschaeden",
+            "text": "Allmählichkeitsschäden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Jungs versuchen Ihr Spielfahrzeug durch den Schnee zu schieben"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schneeräumpflicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Immobilienbesitzer sollten wissen, dass sie für Unfälle haften, die sich auf Ihren nicht von Schnee befreiten oder gestreuten Grundstücken ereignen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/schneeraeumpflicht",
+            "text": "Schneeräumpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junge Frau steht lachend mit einem Obstkorb in der Küche"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haushaltsversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Oftmals wird umgangssprachlich von der \"Haushaltsversicherung\" gesprochen. Was bedeutet der Begriff Haushaltsversicherung versus der Hausratversicherung? Lesen Sie hier mehr dazu."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haushaltsversicherung",
+            "text": "Haushaltsversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Frauen stehen zusammen am Grill"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflichtversicherung: Ist sie Pflicht?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein kurzer Moment der Unaufmerksamkeit und plötzlich – ein entsetztes Aufstöhnen, das teure Porzellan der Nachbar:innen zerbricht beim Grillen auf dem Boden! Eine Haftpflichtversicherung kann Ihnen jetzt aus der Patsche helfen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-pflicht",
+            "text": "Ist die Haftpflicht eine Pflichtversicherung?"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Paar schaut zusammen in den Laptop"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflichtversicherung kündigen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten Ihre Privathaftpflicht von AXA kündigen? Oder überlegen, die Haftpflicht eines anderen Anbieters zu kündigen und zu AXA zu wechseln? Hier finden Sie alle wichtigen Informationen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-kuendigen",
+            "text": "Kündigung der Privathaftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Männer bei einem Spaziergang"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Doppelversicherung Haftpflicht: Ist das möglich?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie für das Alter vorsorgen möchten, ist es keine schlechte Idee, beispielsweise zwei Lebensversicherungen parallel zu besitzen. Eine Doppelversicherung bei der Haftpflicht hingegen ist unnötig – und sogar riskant. Lesen Sie in diesem Beitrag, warum das so ist und wie Sie eine Mehrfachversicherung der Haftpflicht vermeiden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/doppelversicherung-haftpflicht",
+            "text": "Doppelversicherung Haftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "kaputte Brille, die auf dem Boden liegt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zeitwert Haftpflichtversicherung: Was ist das?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie sich schon einmal gefragt, wie Ihre Haftpflichtversicherung den Betrag berechnet, den sie im Schadensfall erstattet? Bei privaten Haftpflichtschäden wird der Zeitwert des beschädigten Gegenstands ausbezahlt. Die Zeitwertberechnung folgt aber bestimmten, definierten Regeln."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/zeitwert-haftpflichtversicherung",
+            "text": "Zeitwert Haftpflichtversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Haftpflicht für geliehene Sachen: Was gilt? / AXA"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflicht für geliehene Sachen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was gilt bei der Haftpflichtversicherung für geliehene Sachen und wer haftet für gemietete Gegenstände? Sind Schadensfälle an gemieteten KFZ Sonderfälle? Erfahren Sie alles Wichtige in unserem Beitrag!"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflicht-geliehene-sachen",
+            "text": "Haftpflicht geliehene Sachen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Golfer auf Golfplatz beim Ausholen zum nächsten Schlag"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Für Golf ist eine Haftpflichtversicherung sinnvoll"
+        },
+        {
+            "type": "paragraph",
+            "text": "Viele Schäden, die Sie als Golfspieler verursachen, können teuer werden. Mit einer Privathaftpflicht lassen sich viele Risiken gut absichern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/golf-haftpflichtversicherung",
+            "text": "Haftpflichtversicherung für Golfer"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Waschmaschine aus der Schaum herausläuft"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflicht Schaden melden ohne Rechnung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Einen Haftpflichtschaden melden Sie der Versicherung am besten so schnell wie möglich. Das geht auch ohne Rechnung oder Belege. Lesen Sie hier, was Sie beachten müssen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflicht-schaden-ohne-rechnung",
+            "text": "Haftpflicht Schaden ohne Rechnung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Brille mit kaputtem Brillenglas"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflicht bei kaputter Brille"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie jemandes Brille beschädigen, ist nicht nur guter Rat teuer: Vermeiden Sie mit einer Haftpflichtversicherung, die teils hohen Kosten für die Erstattung alleine zu tragen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-brille",
+            "text": "Haftpflicht Brille"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Thailänder besichtigt einen Tempel"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "In Pattaya leben: Welchen Schutz bietet die Haftpflichtversicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Es gibt sicherlich eine Reihe von verlockenden Vorteilen, als Renter:in in Pattaya zu leben. Doch welcher Schutz gilt im Ausland, was deckt vor allem die Haftpflichtversicherung in der weiten Ferne ab?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-pattaya",
+            "text": "Haftpflichtversicherung Pattaya"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Holografische Bedienoberfläche mit einer Hand im Hintergrund"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Internetrecht: Alle wichtigen Infos zusammengefasst"
+        },
+        {
+            "type": "paragraph",
+            "text": "Plötzlich flattert eine Abmahnung wegen einer Urheberrechtsverletzung bei Ihnen ins Haus! Schon eine kleine Unwissenheit im Internetrecht kann sowohl geschäftlich als auch privat zu existenzbedrohenden Strafen führen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-pflicht",
+            "text": "Internetrecht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau sitzt auf Sofa und informiert sich mit ihrem Handy über Versicherungspakete"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Versicherungspakete"
+        },
+        {
+            "type": "paragraph",
+            "text": "Versicherungen sollen Sie im Schadensfall vor finanziellen Belastungen schützen. Mit einem Versicherungspakete werden für einen umfassenden Schutz mehrere Arten von Versicherungen kombiniert. Aber wann und für wen lohnen sich Kombi-Versicherungen als Sicherheitsnetz?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/privatschutz-versicherungspakete",
+            "text": "Versicherungspakete"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mehrere Freunde feiern und singen zusammen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Leistungen der privaten Haftpflichtversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Welche verschiedenen Leistungen deckt eine private Haftpflichtversicherung ab? Und sind in einer Familie alle Personen gleichermaßen in der Haftpflichtversicherung versichert? Lesen Sie in diesem Artikel alles zum Thema Leistungen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflicht-leistungen",
+            "text": "Leistungen der privaten Haftpflichtversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann trägt Karton und Stuhl durch eine Tür"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflicht-Hausrat-Kombi"
+        },
+        {
+            "type": "paragraph",
+            "text": "Manche Versicherungen lassen sich ideal miteinander kombinieren, wie die Haftpflicht-Hausrat-Kombiversicherung: Sie schützt vor den Schadenersatzansprüchen Dritter und kommt für Sachschäden an Ihrem Eigentum auf. So sind Sie rundum abgesichert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflicht-hausrat-kombi",
+            "text": "Haftpflicht Hausrat Kombi"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann und Frau gehen mit Hund fröhlich spazieren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Forderungsausfall und Haftpflichtversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was ist eine Forderungsausfall-Versicherung genau und wann greift sie? Wir klären in diesem Artikel darüber auf, wer zahlt, wenn jemand keine Privathaftpflichtversicherung hat."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/forderungsausfall-haftpflichtversicherung",
+            "text": "Forderungsausfall Haftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei junge Männer gehen zusammen auf der Straße spazieren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was bedeutet Haftpflicht?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unfälle können teuer sein. Ob Sie jemanden versehentlich verletzt oder sein Eigentum beschädigt haben – Risiken gibt es viele. Mit einer Haftpflichtversicherung sind Sie im Ernstfall finanziell abgesichert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/was-bedeutet-haftpflicht",
+            "text": "Was bedeutet Haftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Brauner Hund sitzt im Büro an einem Schreibtisch und schaut auf den Monitor"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Hund im Büro"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Hund im Büro bringt viele Vorteile mit sich: Ein positives Arbeitsklima, Stressreduzierung der Mitarbeiter:innen sowie ein gutes Image für das Unternehmen. Doch wann dürfen Sie Ihren Hund mit zur Arbeit nehmen und welche Regeln gelten für einen Bürohund?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/buerohund",
+            "text": "Hund im Büro"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann geht mit einem Hund an der Leine spazieren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was ist bei einem Hundebiss zu beachten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer haftet, wenn ein Hund beißt und welche Konsequenzen können entstehen? Wir unterscheiden dabei auch, ob ein Mensch oder ein anderes Tier von einem Hund gebissen wird. Erfahren Sie hier mehr."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/hundebiss",
+            "text": "Hundebiss"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau kuschelt mit ihrer schwarzen Katze"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Katzenhaftpflicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Welche Versicherung zahlt, wenn die eigene Katze einen Schaden verursacht? Was sind die häufigsten Katzenhaftpflicht-Schäden?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/katzenhaftpflicht",
+            "text": "Katzenhaftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann begutachtet einen Schaden am Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haftpflichtschäden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Muss ich jeden Schaden der Haftpflichtversicherung melden? Und welche Schritte unternehme ich, um einen Schaden bestmöglich der Versicherung zu melden?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtschaeden",
+            "text": "Haftpflichtschäden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Pärchen sitzt auf der Terrasse"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vermieterhaftpflichtversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wann haften Vermieter:innen für Schäden, die Mieter:innen in der vermieteten Wohnung oder dem Haus verursachen? Wir klären auf, was die Vermieterhaftpflicht abdeckt. Lesen Sie hier mehr."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/vermieterhaftpflicht",
+            "text": "Vermieterhaftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Große Welle im Meer"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kite-Versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Brauche ich für eine Extremsportart wie Kite-Surfen eine Haftpflichtversicherung? Wir erklären Ihnen, warum sie wichtig ist und welche zusätzlichen Versicherungen sinnvoll sind."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/kite-versicherung",
+            "text": "Kite-Versicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Woman is reading a letter"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Information in English: Everything you need to know about the Liability Insurance in Germany"
+        },
+        {
+            "type": "paragraph",
+            "text": "Accidental mishaps happen quickly. If you are responsible for damage, you must also put it right. In Germany, if you do not have liability insurance, you are legally obliged to bear the costs yourself. Here you can find out everything you need to know on the subject."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/liability-insurance",
+            "text": "Liability Insurance"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann begutachtet einen Schaden am Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Welche Auswirkungen hat eine Hochzeit für die Haftpflichtversicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sollten Ehepartner eine Haftpflichtversicherung zusammenlegen oder kündigen? Sind Ehepartner automatisch mitversichert? Auf diese und weitere Fragen finden Sie hier Antworten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/hochzeit-haftpflichtversicherung#anker25995606",
+            "text": "Haftpflicht nach einer Hochzeit"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Senior erhält Hilfe am Laptop durch eine Pflegerin im Pflegeheim"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Private Haftpflichtversicherung im Pflegeheim"
+        },
+        {
+            "type": "paragraph",
+            "text": "Benötigt eine Pflegeperson im Pflegeheim eine besondere Haftpflichtversicherung, z.B. eine Kollektivversicherung des Pflegeheims oder reicht die eigene Private Haftpflichtversicherung aus? Erfahren Sie hier mehr über die Vor- und Nachteile."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-pflegeheim",
+            "text": "Haftpflichtversicherung im Pflegeheim"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann beim Segeln"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wellenreiten ohne Sorgen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bin ich beim Wassersport durch meine private Haftpflicht abgesichert und wo reicht dieser Schutz vielleicht nicht mehr aus? Was Sie dringend beherzigen sollten, verraten wir Ihnen hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/haftpflichtversicherung-wassersport",
+            "text": "Haftpflichtversicherung Wassersport"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Große Welle im Meer"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unterschied Hausrat und Haftpflicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wo liegen eigentlich die Unterschiede zwischen Hausrat und Haftpflicht und muss ich mich gegen beides absichern? Über die jeweils abgedeckten Schäden und Risiken gibt dieser Artikel Aufschluss."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haftpflicht/a/hausrat-haftpflicht-unterschied",
+            "text": "Unterschiede kennen lernen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Checkliste für Reisen mit dem Hund (PDF, 80 KB)",
+                "Checkliste für einen gut geplanten und entspannten Umzug (PDF, 71 KB)",
+                "Checkliste Handy wasserdicht machen (PDF, 158 KB)",
+                "Checkliste Schlüsselverlust (PDF, 162 KB)"
+            ]
+        },
+        {
+            "text": "Schreiben Sie uns"
+        },
+        {
+            "text": "In wenigen Minuten zum Angebot"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 3203205"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_haftpflicht_r_haftpflichtversicherung-ratgeber"
+}

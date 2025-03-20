@@ -1,0 +1,681 @@
+{
+    "title": "Meine HUK - Login & Registrierung",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "Meine HUK - Ihr online Servicebereich. Mit Postfach, Vertragsverwaltung & vielen weiteren Services. Jetzt einloggen!",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "service.meine-huk",
+        "date": "20241118T08:18:19",
+        "og:title": "Meine HUK - Login & Registrierung",
+        "og:type": "article",
+        "og:description": "Meine HUK - Ihr online Servicebereich. Mit Postfach, Vertragsverwaltung & vielen weiteren Services. Jetzt einloggen!",
+        "og:url": "https://www.huk.de/service/meine-huk.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/produktseite/grafiken/meinehuk-leistungen.scale.persProfilS.png",
+        "searchKeywords": "Meine HUK, Zugangsdaten vergessen,Zugangsdaten,Login,Adresse ändern,Namensänderung,Kontoänderung,Konto ändern,Adressänderung,ummelden,Änderungsmitteilung,Bafög,Einzugsermächtigung,Bescheinigung,Steuerbescheinigung,Vertragsänderungen,Ummeldung,Lastschrift,Lastschriftmandat,superpin,Mailadresse,Bankdaten,Kontodaten,Kontonummer,Leistungsabrechnung,Posteingang,Rückstufungsretter,Beitragsbescheinigung,Umzug,sepa mandat,kontodaten ändern,Schadensnummer,huk de meineHUK,Universalaccount,Universal-Login,ebox,Ebox,E-Box,Bankverbindung ändern,Fahrerkreisänderung,startpasswort,Sepamandat,Zahlungsart ändern",
+        "searchHeadline": "Meine HUK | Login & Registrierung",
+        "searchExcerpt": "Meine HUK - Ihr online Servicebereich. Mit Postfach, Vertragsverwaltung & vielen weiteren Services. Jetzt einloggen!",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/buehne-meinehuk-couch.scale.shield_buehne430.jpg",
+            "alt": "Frau sitzt mit Tablet auf der Couch"
+        },
+        {
+            "type": "paragraph",
+            "text": "„Meine HUK“ – Ihr persönliches Kundenportal"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Verträge jederzeit und überall im Blick",
+                "Schäden online melden und nachverfolgen",
+                "Schnell, einfach und sicher mit dem elektronischen Postfach"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/buehne-meinehuk-couch.scale.shield_buehne430.jpg",
+            "alt": "Frau sitzt mit Tablet auf der Couch"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "„Meine HUK“ – Ihr persönliches Kundenportal"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Verträge jederzeit und überall im Blick",
+                "Schäden online melden und nachverfolgen",
+                "Schnell, einfach und sicher mit dem elektronischen Postfach"
+            ]
+        },
+        {
+            "text": "Jetzt anmelden"
+        },
+        {
+            "text": "Jetzt registrieren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Versicherungen online managen, ohne auf persönliche Beratung zu verzichten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr als 3 Millionen Kunden vertrauen bereits unseren digitalen Services. Sie möchten Ihre Versicherungen jetzt auch online managen? Mit wenigen Klicks stehen Ihnen alle Funktionen Ihres persönlichen Kundenportals zur Verfügung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ganz gleich, wie Sie mit uns in Kontakt treten möchten – wir sind immer für Sie da. Nach der Registrierung für „Meine HUK” stehen Ihnen weiterhin alle Kontaktwege offen."
+        },
+        {
+            "text": "Jetzt anmelden"
+        },
+        {
+            "text": "Jetzt registrieren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Das sind Ihre Vorteile"
+        },
+        {
+            "type": "paragraph",
+            "text": "Noch nie war es so einfach, den Überblick über die eigenen Versicherungsangelegenheiten zu behalten. „Meine HUK“ ist Ihr persönlicher, elektronischer und umweltschonender Versicherungsordner."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/startseite/topthema/vertrag.svg",
+            "alt": "Icon: Vertrag"
+        },
+        {
+            "type": "paragraph",
+            "text": "Verträge und Daten ändern"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/postfach.svg",
+            "alt": "Icon: Postfach"
+        },
+        {
+            "type": "paragraph",
+            "text": "Postfach nutzen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/schaden-melden.svg",
+            "alt": "Icon: Ausrufezeichen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schäden melden und nachverfolgen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/persoenliche-daten.svg",
+            "alt": "Icon: Schreiben"
+        },
+        {
+            "type": "paragraph",
+            "text": "Merkliste anlegen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/icon-ecodrive-feedback.svg",
+            "alt": "Icon: Sterne"
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere Services"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/startseite/topthema/vertrag.svg",
+            "alt": "Icon: Vertrag"
+        },
+        {
+            "text": "Verträge und Daten ändern"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sie können jederzeit Ihre Verträge einsehen und ändern, z.B. die Zahlungsweise anpassen.",
+                "Halten Sie Ihre persönlichen Informationen mit Hilfe von eigenständigen Aktualisierungen auf dem neuesten Stand.",
+                "Erhalten Sie rund um die Uhr einen Überblick über Ihr Beitragskonto.",
+                "Greifen Sie schnell und einfach auf Ihre Dokumente zu und erhalten Sie detaillierte Informationen zu Ihren Versicherungen.",
+                "Beantragen Sie ganz einfach wichtige Dokumente wie die internationale Versicherungskarte (grüne Karte) oder Nachweise für das Finanzamt."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/postfach.svg",
+            "alt": "Icon: Postfach"
+        },
+        {
+            "text": "Postfach nutzen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Durch den elektronischen Versand erhalten Sie Ihre Unterlagen schnell und unkompliziert. Sie sparen Zeit, da Sie nicht auf den Postweg angewiesen sind.",
+                "Egal wo Sie sich befinden, Sie haben jederzeit und überall Zugriff auf Ihre Unterlagen. Sie können diese in Echtzeit einsehen und bearbeiten.",
+                "Wir halten Sie stets auf dem Laufenden. Sie erhalten umgehend Benachrichtigungen über neue Post in Ihrem elektronischen Postfach.",
+                "Durch die elektronische Kommunikation sparen wir Papier und schonen die Umwelt.",
+                "Ihre vertraulichen Informationen sind bei uns in einem geschützten Bereich aufbewahrt."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/schaden-melden.svg",
+            "alt": "Icon: Ausrufezeichen"
+        },
+        {
+            "text": "Schäden melden und nachverfolgen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sie können einenSchaden jederzeit online meldenund uns gerne Fotos und Belege per E-Mail aninfo@huk-coburg.dezur Verfügung stellen. Bitte geben Sie zusätzlich Ihre Schadennummer an, damit wir die Belege und Fotos entsprechend zuordnen können.",
+                "Ihre gemeldeten Schäden und den jeweiligenSchadenstatuskönnen Siejederzeit einsehen. Angezeigt werden u.a. laufende Schäden zu Ihrer Kfz-Versicherung, zu Ihrer Haftpflichtversicherung sowie zu Ihrer Hausrat- und Wohngebäudeversicherung. Zu den Details der Schäden halten wir Sieüber die aktuellen Bearbeitungsschritteimmer auf dem Laufenden.",
+                "Sie können IhreRückstufung im Schadenfall online berechnen.Das heißt Sie können prüfen, ob es für Sie günstiger ist, einen Schaden über uns regulieren zu lassen oder selbst zu begleichen."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/persoenliche-daten.svg",
+            "alt": "Icon: Schreiben"
+        },
+        {
+            "text": "Merkliste anlegen"
+        },
+        {
+            "text": "Sie geben nur einmal Ihre persönlichen Daten ein – bei der erstmaligen Registrierung. So kommen Sie bei jedem weiteren Login noch schneller zu Ihrem Angebot bzw. Antrag."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Vorteile der Merkliste:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Online können Sie sämtliche Eingaben im Tarifrechner oder der Schadenmeldung Ihrer Merkliste in „Meine HUK” hinzufügen, bis zu 90 Tage lang aufrufen und weiter bearbeiten.",
+                "Sie können einen Vertrag auf Grundlage Ihrer gespeicherten Eingaben abschließen.",
+                "Nicht mehr benötigte gespeicherte Eingaben können Sie löschen."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/icon-ecodrive-feedback.svg",
+            "alt": "Icon: Sterne"
+        },
+        {
+            "text": "Weitere Services"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "In der Servicewelt finden Sie auf Sie zugeschnittene Serviceangebote.",
+                "Wir unterstützen Sie mit hilfreichen Ratgebern, Apps und Autoservice-Aktionen."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "In nur wenigen Schritten zu Ihrem persönlichen Kundenportal"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/telematik_einrichten_1.svg",
+            "alt": ""
+        },
+        {
+            "text": "Registrieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für die Registrierung in „Meine HUK” geben Sie als erstes IhreE-Mail-Adresseund einPasswortan, anschließend IhreRufnummer. Mit Ihrer angegebenen Rufnummer können Sie zukünftig Ihr Passwort zurücksetzen. Diese wird ausschließlich für die Konto-Verwaltung verwendet – nicht für Werbezwecke."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/telematik_einrichten_2.svg",
+            "alt": ""
+        },
+        {
+            "text": "Verträge verknüpfen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nach derRegistrierungkönnen Sie bereits vorhandeneVerträgemit Ihrem Kundenbereich verknüpfen, indem Sie IhrenNamen, IhrGeburtsdatumund IhrePostleitzahleingeben."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/telematik_einrichten_3.svg",
+            "alt": ""
+        },
+        {
+            "text": "Identifizieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben folgende Möglichkeiten Ihre Identität zu bestätigen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Jederzeit und völlig unkompliziert mit demSelfie-Ident-Verfahrenunseres Kooperationspartners Nect.",
+                "VorhandenesSuper-Passworteingeben oder auf dem Postweg anfordern.",
+                "Freischaltung mit einempersönlichen Kundenberatervor Ort durchführen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Geschützer Zugang– Ihre Daten werden verschlüsselt übertragen. Durch die Identifizierung via Selfie-Ident-Verfahren, dem Super-Passwort oder mit Hilfe eines persönlichen Beraters vor Ort ist Ihr Kundenportal optimal geschützt. So können Sie ohne Sorgen alle Vorteile von „Meine HUK” nutzen."
+        },
+        {
+            "text": "Jetzt registrieren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wir sind für Sie da – und weiterhin auf jedem Kanal erreichbar"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/meinehuk/teaser1-test.jpg",
+            "alt": "Zweigeteiltes Bild: Frau sitzt mit Tablet auf dem Sofa und zwei Frauen in einem Beratungsgespräch"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ganz gleich, ob Sie Ihre Versicherungsangelegenheiten online, per Telefon oder bei einem Berater vor Ort erledigen möchten – wir sind immer für Sie da. Ihnen stehen jederzeit alle Kontaktkanäle offen. Immer so, wie es für Sie am praktischsten ist."
+        },
+        {
+            "type": "link",
+            "href": "/hukinfo/af/form.html?formname=/kontakt/email-huk",
+            "text": "Zum Kontaktformular"
+        },
+        {
+            "type": "link",
+            "href": "tel:+49956196101",
+            "text": "09561 96 101"
+        },
+        {
+            "type": "link",
+            "href": "/service/ansprechpartner/suchergebnis.html",
+            "text": "Persönlichen Berater auswählen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "„Meine HUK“ – So einfach geht’s"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Wichtigste zu Ihrem persönlichen Kundenportal „Meine HUK” kompakt zusammengefasst."
+        },
+        {
+            "type": "link",
+            "href": "https://www.youtube.com/watch?v=5lnHyP3HhXc",
+            "text": ""
+        },
+        {
+            "text": "Jetzt anmelden"
+        },
+        {
+            "text": "Jetzt registrieren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Häufige Fragen zu „Meine HUK“"
+        },
+        {
+            "text": "Welche Verträge kann ich online einsehen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Grundsätzlich werden in Ihrer Vertragsübersicht alle laufenden Verträge angezeigt, die Sie bei der HUK-COBURG abgeschlossen haben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Verträge aus folgenden Bereichen können Sie in „Meine HUK“ jedochnicht einsehen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Direktversicherungen",
+                "Bausparen & Baufinanzierung",
+                "betriebliche Altersversorgung",
+                "beitragsfrei gestellte Verträge",
+                "Verträge die über Kooperationspartner (z.B. BARMER, Siemens) abgeschlossen wurden."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Treffen die genannten Punkte nicht zu und Ihr HUK-COBURG-Vertrag erscheint dennoch nicht in Ihrer Vertragsübersicht, kann das folgende Ursachen haben:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Beendete Verträge werden nach 90 Tagen automatisch aus der Vertragsübersicht entfernt.",
+                "Der fehlende Vertrag ist ein Vertrag, der nicht auf Ihren Namen abgeschlossen wurde (z.B. Vertrag des Ehepartners). Aus datenschutzrechtlichen Gründen können wir nur Ihre Verträge im Kundenportal zur Verfügung stellen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sollten oben genannte Punkte nicht zutreffen und Ihr Vertrag nicht sichtbar sein, nehmen Sie bitteKontaktmit uns auf, damit wir das Problem schnellstmöglich lösen können."
+        },
+        {
+            "text": "Wo kann ich online Formulare oder Bescheinigungen anfordern?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In „Meine HUK“ können Sie nach Auswahl des Vertrages folgende versicherungsrelevante Formulare über den Tab „Dokumente“ anfordern:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Versicherungsschein",
+                "Antragskopien",
+                "Schadenvisitenkarte",
+                "Unfall- und Pannenhelfer",
+                "Europäischer Unfallbericht",
+                "Kfz-Kaufvertrag",
+                "Internationale Versicherungskarte (ehemals Grüne Karte)",
+                "Beitragsbescheinigungen für die Steuererklärung / Finanzamtsbescheinigung",
+                "Bescheinigung über die Höhe der Vorsorgeaufwendungen",
+                "Bescheinigung der Kranken- und Pflegeversicherung für den Arbeitgeber oder die Beihilfestelle",
+                "Studentenbescheinigung",
+                "Übertragungswertbescheinigung"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie noch nicht registriert sind, dann können Sie die Dokumente auch unter der Servicehotline 09561 96 101 anfordern, Mo. bis Fr. von 08:00 - 21:00 Uhr."
+        },
+        {
+            "text": "Wie kann ich meinen Vertrag ändern?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In „Meine HUK“ können Sie Verträge jederzeit ändern. Sie können zum Beispiel:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Zusatzbausteine wie Telematik Plus oder den Haus- und Wohnungsschutzbrief einschließen.",
+                "Die Versicherungssumme erhöhen.",
+                "Die jährliche Fahrleistung anpassen.",
+                "Ihre Zahlungsweise ändern.",
+                "Ihre Adresse ändern oder eine neue E-Mail-Adresse hinterlegen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "So einfach geht’s:Melden Sie sich in „Meine HUK“ an. Wählen Sie den Vertrag in der Vertragsübersicht aus. Klicken Sie auf „Anzeigen\" und passen Sie anschließend Ihren Vertrag an."
+        },
+        {
+            "text": "Wie kann ich meine Dokumente zukünftig online erhalten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Als Kunde der HUK-COBURG können Sie sich bestimmte Dokumente auch einfach und bequem online zusenden lassen. Aktuell sind dies folgende Unterlagen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Vertragsdokumentein der Kraftfahrt- (mit Ausnahme der Roller- und Mopedversicherung), Haftpflicht-, Unfall-, Sach-, Rechtsschutz- sowie Kranken- und Lebensversicherung.",
+                "Beitragsrechnungder Sparten Kraftfahrt-, Haftpflicht-, Unfall-, Sach- sowie Rechtsschutzversicherung.",
+                "Leistungsabrechnungsschreibenund Bescheinigungen (Arbeitgeber-, Studenten-, Finanzamts- und Übertragungswertbescheinigung) in der Krankenversicherung."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Informationen zum aktuellen Versandweg, eine Übersicht der bereits erhaltenen Online-Dokumente oder eine Änderung des Versandwegs gehen Sie in der Navigation über den Bereich „Postfach“."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zum Postfach"
+        },
+        {
+            "text": "Welche Schäden kann ich online melden und anschließend online einsehen?"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schäden zu IhrerKfz-Versicherung(z. B. Auffahrunfall, Glasschaden, Wildschaden).",
+                "Schäden zu IhrerHaftpflichtversicherung(z. B. Beschädigung von Brille oder Smartphone eines Dritten bzw. des Waschbeckens in Ihrer Mietwohnung).",
+                "Schäden zu IhrerHaus- und Wohngebäudeversicherung(z. B. Wasserrohrbruch, Sturmschaden).",
+                "Schäden zu IhrerRechtsschutzversicherung."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Jetzt Schaden online melden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fotos und Belege können Sie uns gerne per E-Mail aninfo@huk-coburg.dezur Verfügung stellen. Bitte geben Sie zusätzlich Ihre Schaden-Nummer an, damit wir die Fotos und Belege zuordnen können."
+        },
+        {
+            "type": "paragraph",
+            "text": "In IhrerSchadenübersichtwerden Ihnen allelaufenden Schädenzu Ihrer Kfz-Versicherung, zu Ihrer Haftpflichtversicherung sowie zu Ihrer Hausrat- und Wohngebäudeversicherung angezeigt. Abgeschlossene, d. h. bereitsregulierte Schädenwerden3 Jahre nach Schadenabschlussautomatisch aus Ihrer Schadenübersichtgelöscht."
+        },
+        {
+            "text": "Ich habe meine Zugangsdaten vergessen. Was soll ich tun?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben IhreZugangsdaten vergessenoder können sich mit Hilfe Ihres Start-Passworts nicht anmelden, dann nutzen Sie die Möglichkeit sich mit dem Super-Passwort freizuschalten. Sie können mit Ihrem Super-Passwort ein neues Passwort vergeben."
+        },
+        {
+            "type": "paragraph",
+            "text": "So geht's:"
+        },
+        {
+            "type": "paragraph",
+            "text": "E-Mail-Adresse vergessen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Klicken Sie oben rechts im Menüpunkt auf „Anmelden” und anschließend auf „E-Mail-Adresse/Passwort vergessen”.",
+                "Wählen Sie „E-Mail-Adresse vergessen?”.",
+                "Geben Sie Ihren Vornamen, Ihren Nachnamen und Ihr Geburtsdatum an und klicken Sie auf „Weiter”.",
+                "Anschließend können Sie sich mit dem Einmal-Passwort, welches per SMS an die hinterlegte Mobilfunknummer verschickt wird oder mit Ihren Super-Passwort anmelden."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Passwort vergessen oder Start-Passwort abgelaufen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Klicken Sie oben rechts im Menüpunkt auf „Anmelden” und anschließend auf „E-Mail-Adresse/Passwort vergessen”.",
+                "Geben Sie Ihre E-Mail-Adresse ein und klicken Sie auf „Weiter”.",
+                "Anschließend können Sie sich mit dem Einmal-Passwort, welches per SMS an die hinterlegte Mobilfunknummer verschickt wird oder mit Ihren Super-Passwort anmelden."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben noch kein Super-Passwort?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dann fordern Sie sich dieses einfach auf unserer Internetseite an. Klicken Sie oben rechts im Menüpunkt auf „Anmelden” und anschließend auf „E-Mail-Adresse/Passwort vergessen”. Nach der Eingabe Ihrer E-Mail-Adresse klicken Sie auf „Weiter” und anschließend wählen Sie „Super-Passwort anfordern” aus. Über den Link „Super-Passwort nicht vorhanden?” erhalten Sie das Super-Passwort in den nächsten Tagen per Post. Anschließend können Sie sich mit dem Super-Passwort wie oben beschrieben in Ihrem Servicebereich anmelden."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Weitere Fragen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr Informationen finden Sie auf unsererHilfeseite."
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Meine HUK"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "service_meine-huk.html"
+}

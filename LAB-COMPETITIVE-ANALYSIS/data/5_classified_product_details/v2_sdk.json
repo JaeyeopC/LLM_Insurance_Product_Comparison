@@ -1,0 +1,1158 @@
+{
+    "versicherungen_private-krankenversicherung_vorsorgeuntersuchungen-in-der-schwangerschaft.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz des Lächelns ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_pkv-fuer-angestellte.md": {
+        "Produktname": "PKV für Angestellte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Wählbar von 0 bis 30 % bei ambulanten Behandlungen",
+        "Preis": "Ab ca. 315 € monatlich (für Arbeitnehmer)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Freie Arztwahl, Chefarztbehandlung und Einbettzimmer",
+            "Heilpraktikerleistungen",
+            "Individuell wählbarer Zahntarif mit 100 % Erstattung für Zahnbehandlung und bis zu 90 % für Zahnersatz",
+            "Rückerstattung von 3 Monatsbeiträgen bei Leistungsfreiheit",
+            "15 flexibel kombinierbare Tarifbausteine",
+            "Erstattung über die Höchstsätze der Gebührenordnung für Ärzte und Zahnärzte",
+            "Frühzeitige Bildung von Rückstellungen für höhere Gesundheitskosten im Alter",
+            "Gesundheitsleistungen und Experten-Beratung im Krankheitsfall",
+            "Umfassendes Angebot an Vorsorgemaßnahmen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen.md": {
+        "Produktname": "Elektronikversicherung",
+        "Versicherungsart": "Unfall- und Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bis zu 100 % Erstattung bei Zahnzusatz",
+            "Gesund werden mit viel Komfort",
+            "Umfassende Naturheil- und Präventionsleistungen",
+            "Keine Geldsorgen bei längerer Krankheit",
+            "Versorgt wie ein Privatpatient",
+            "Optimaler Schutz auch für unterwegs",
+            "Für mehr Würde. Wenn es darauf ankommt.",
+            "Im Alter bestens versichert bleiben",
+            "Rente vom Arbeitgeber fördern lassen",
+            "Angehörige im Todesfall entlasten",
+            "Damit Sie sich nach einem Unfall ganz auf Ihre Gesundheit konzentrieren können",
+            "Nie wieder Angst vor Missgeschicken",
+            "Schützen Sie Ihr Rad oder E-Bike vor Schäden und Diebstahl",
+            "Smartphone & Co: Individualschutz für verwirklichte Träume"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_zusatzversicherung_praxis-zusatzversicherung_angebot.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen_auslandsreiseassistance.md": {
+        "Produktname": "Auslandsreise­assistance",
+        "Versicherungsart": "Notfallservice im Ausland",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Benennung eines Arztes vor Ort",
+            "Kontaktaufnahme zum jeweiligen Hausarzt",
+            "Organisation des Informationsaustausches zwischen den beteiligten Ärzten",
+            "Organisation eines medizinisch sinnvollen und vertretbaren Rücktransports nach Deutschland",
+            "Im Todesfall Organisation und Überführung des Versicherten zum Bestattungsort in Deutschland",
+            "Benachrichtigung der Angehörigen und/oder des Arbeitgebers"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "versicherungen_private-krankenversicherung_private-krankenversicherung-fuer-aerzte-ein-muss-fuer-jeden-mediziner.md": {
+        "Produktname": "PKV für Ärzte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Flexibel wählbar",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hochwertige medizinische Versorgung",
+            "Flexibilität durch individuell anpassbare Tarife",
+            "Finanzielle Sicherheit durch Krankentagegeld",
+            "Individuelle Tarife und Rabatte",
+            "Modulares Baukastensystem für Anpassungsfähigkeit",
+            "Umfangreiche Zusatz- und Gesundheitsleistungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung_ambulante-zusatzversicherung_ambulante-operationen-das-muessen-sie-wissen.md": {
+        "Produktname": "Ambulante Zusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz bei ambulanten Operationen",
+            "Unterstützung bei der Nachsorge",
+            "Erstattung von Hilfsmitteln wie Schienen und Gehhilfen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "downloads_Broschueren_Broschuere-Zahnzusatzversicherung-1.780.pdf.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_mhplus.md": {
+        "Produktname": "Auslandskrankenversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Umfangreiche Leistungen ergänzend zur gesetzlichen Mindestabsicherung",
+            "Nachvollziehbare Erstattungsmechanik",
+            "Unkomplizierter Tarifstufen-Wechsel ohne Gesundheitsprüfung",
+            "Optimale Abdeckung des ambulanten Bereichs",
+            "Sehhilfe, Schutzimpfung, Hörgerät, Heilpraktiker",
+            "Transparente Tarifstruktur",
+            "Einzelzimmer",
+            "Fundierte ärztliche Informationen",
+            "Rooming-In für Kinder",
+            "Kostenübernahme bei Krankenhausaufenthalt",
+            "Kürzere Wartezeiten",
+            "Bessere medizinische Versorgung",
+            "Leistungen einer privaten Krankenversicherung für gesetzlich Versicherte",
+            "Finanzielle Absicherung bei längerer Krankheit",
+            "Absicherung bei Krankheit oder Unfall im Ausland"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "versicherungen_altersvorsorge_private-altersvorsorge.md": {
+        "Produktname": "Fondsrente performance+",
+        "Versicherungsart": "Private Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zusatzbausteine, wie Pflege, Todesfall- sowie Vertragsschutz jederzeit hinzufügbar",
+            "Beiträge und Versicherungsschutz sind flexibel anpassbar",
+            "Zuzahlungen und Kapitalentnahmen bis ins hohe Rentenalter",
+            "Sicherheit einer klassischen Anlageform mit attraktiver Verzinsung",
+            "Regelmäßiger Treuebonus",
+            "Risikofreude und Sicherheitsbedürfnis im Einklang",
+            "Freiheit in der Gestaltung der Fondsanlage",
+            "Vielfältige Möglichkeiten - passend zum Leben",
+            "Nachhaltig vorsorgen: performance+ gibt es auch als „GrüneRente“"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "versicherungen_zusatzversicherung_zahnzusatzversicherung.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 3,63 € monatlich (je nach Tarif)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bis zu 100 % Erstattung bei Zahnersatz",
+            "100 % Erstattung bei Zahnprophylaxe",
+            "Sofortschutz ohne Wartezeit",
+            "Kieferorthopädie bis zu 3.000 €",
+            "Zahnbehandlung bis zu 100 % je nach Tarif"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Deckung für Behandlungen, die vor Abschluss der Versicherung begonnen oder geplant wurden",
+            "Zahnstaffel in den ersten vier Jahren mit begrenzter Erstattung",
+            "Maximal drei fehlende Zähne sind bei Antrag abgesichert"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "services_online-services_rechnung-einreichen.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_rechner_Link_zum_Beitragsrechner%3D%26cHash%3Da6865385d46ea89f85bb0fcfb124d83a.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "services_online-services_mitglieder-werben-mitglieder.md": {
+        "Produktname": "Unfallversicherung",
+        "Versicherungsart": "Unfall- und Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen_gesundheitsberatung.md": {
+        "Produktname": "Gesundheitsberatung und Facharztterminservice",
+        "Versicherungsart": "Gesundheitsberatung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kostenlos",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Persönliche und kompetente Beratung zu Gesundheitsthemen",
+            "Unterstützung bei Krankheiten, Untersuchungen und Behandlungen",
+            "Arzt- und Krankenhaussuche",
+            "Informationen zu Arzneimitteln und Impfungen",
+            "Gesundheitsvorsorge und Prävention",
+            "Beratung bei Behandlungsfehlern",
+            "Unterstützung bei Vorsorgedokumenten und Pflege",
+            "Facharztterminservice"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_angebot.md": {
+        "Produktname": "Unfallversicherung der SDK",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "services_online-services_adresse-aendern.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "downloads_Broschueren_Broschuere-Gegenueberstellung-GKV-PKV-1.645a.pdf.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen_gesundheitsdienstleistungen-fuer-krankenzusatzversicherte.md": {
+        "Produktname": "Gesundheitsdienstleistungen für Zusatzversicherte",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gesundheitsberatung & Facharztterminservice",
+            "Digitaler Arztbesuch",
+            "Psychologischer Beratungsservice"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung_krankentagegeldversicherung.md": {
+        "Produktname": "Krankentagegeldversicherung der SDK",
+        "Versicherungsart": "Krankentagegeldversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Zusatzschutz schon ab 2,20 € / Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erhalt des Einkommens bei längerer Krankheit",
+            "Sicherheit für die Familie",
+            "Für Selbstständige und Freiberufler geeignet",
+            "Versorgungslücke für Privat Versicherte schließen",
+            "Steuerfreie Leistung",
+            "Dynamische Absicherung",
+            "Lückenlose Deckung nach 6 Wochen Krankengeld"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistung bei Krankheiten durch Alkoholkonsum",
+            "Kein Krankentagegeld bei Arbeitslosigkeit oder Vollrente aus der Rentenversicherung"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung_krankentagegeldversicherung_gelassen-gesund-werden-mit-der-sdk-sicherheit-im-krankheitsfall.md": {
+        "Produktname": "Krankentagegeldversicherung der SDK",
+        "Versicherungsart": "Krankentagegeldversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Längstens für 78 Wochen (inkl. 6 Wochen Lohnfortzahlung des Arbeitgebers)",
+        "Weitere Leistungen": [
+            "Zahlung eines Betrags in vereinbarter Höhe, um das fehlende Einkommen auszugleichen",
+            "Zahlung ohne Abzug von Steuern oder Sozialversicherungsbeiträgen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Beamte und Beamtenanwärter während eines Referendariats brauchen kein Krankentagegeld versichern, da der Dienstherr die Weiterzahlung der Bezüge übernimmt."
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_work-life-balance-fuer-medizinerinnen-und-mediziner.md": {
+        "Produktname": "PKV für Ärzte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individuell angepasste Tarife",
+            "Erhebliche Rabatte (20 % Ärzterabatt auf stationären Tarif S1 und alle ambulanten Tarife)",
+            "Hohe Leistungsstandards (freie Arztwahl, Einbettzimmer im Krankenhaus)",
+            "Beitragsstabilität und Fairness"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "services_online-services_bescheinigungen.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_altersvorsorge_pflegezusatzversicherung.md": {
+        "Produktname": "Pflegezusatzversicherung der SDK",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 31,81 € monatlich (Tarif Basis), ab 45,43 € monatlich (Tarif Comfort), ab 68,15 € monatlich (Tarif Top)",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Finanzielle Unabhängigkeit durch Schließen der Versorgungslücke",
+            "Umfassende Unterstützung bei der Organisation von Pflegeleistungen",
+            "Frühzeitige Vorsorge auch für Kinder",
+            "Optionale Zusatzbausteine mit freier Verfügung des Monatsgeldes",
+            "Beitragsbefreiung",
+            "Pflegeassistance und -beratung",
+            "Lebenslange Dynamik optional wählbar",
+            "Einmalzahlung bei erstmaliger Pflegebedürftigkeit optional wählbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegetagegeldversicherung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen_augen-lasern.md": {
+        "Produktname": "Augenlaserkorrektur",
+        "Versicherungsart": "Gesundheitsdienstleistung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Deutschlandweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Jahrelange Erfahrung in der refraktiven Chirurgie",
+            "Umfassende Beratung und Betreuung",
+            "Hohe Behandlungsqualität",
+            "Qualifizierte und erfahrene Fachärzte der Augenheilkunde",
+            "Deutschlandweit Standorte mit moderner Ausstattung",
+            "Freie Arztwahl"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "downloads_Broschueren_Broschuere-Ambulante-Zusatzversicherung-1.781.pdf.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_private-krankenversicherung_beratung_Link_zur_Beratungsseite%3D%26cHash%3D553e9040acb494b2eb7aa0b54dda71f4.md": {
+        "Produktname": "Unfallversicherung der SDK",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen_brille.md": {
+        "Produktname": "Brillenglasrabatt",
+        "Versicherungsart": "Zusatzleistung zur Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hochwertige Brillengläser in Ihrer Stärke für Ihre aktuelle oder neue Brille bzw. Sonnenbrille",
+            "Bis zu 70 % günstiger als die UVP der Hersteller",
+            "5 % Rabatt für SDK-Mitglieder mit Vollversicherung oder ambulanter Krankenzusatz­versicherung (Tarif AP)",
+            "Kostenlose Beratung durch kompetente Augenoptiker",
+            "Komplett versandkostenfrei mit 100 Tagen Rückgaberecht"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_zusatzversicherung_auslandskrankenversicherung_rechner.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "downloads_Broschueren_Broschuere-Krankenhauszusatzversicherung-1.782.pdf.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Angabe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_altersvorsorge_betriebliche-altersvorsorge.md": {
+        "Produktname": "Betriebliche Altersvorsorge",
+        "Versicherungsart": "Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unbegrenzt steuerfreier Aufbau der Altersvorsorge",
+            "Zahlungen des Arbeitgebers sind steuerfrei und ggf. sozialversicherungsfrei",
+            "Betrieblich finanzierte Teile sind Hartz IV-sicher",
+            "Attraktive Sparleistung durch Abführung der Beiträge aus dem Bruttogehalt",
+            "Vertrag kann bei Arbeitgeber-Wechsel mitgenommen werden",
+            "Gesetzlicher und/oder vertraglicher Insolvenzschutz",
+            "Lebenslange Altersrente oder einmalige Kapitalabfindung",
+            "Besteuerung der Leistung erst im Rentenalter",
+            "Sicherheit für Hinterbliebene durch Beitragsrückgewähr und Rentengarantiezeit",
+            "Jährliche Wertbestätigung über den aktuellen Stand der Versorgung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "versicherungen_zusatzversicherung_krankentagegeldversicherung_angebot.md": {
+        "Produktname": "Unfallversicherung",
+        "Versicherungsart": "Unfall- und Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz des Lächelns ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "versicherungen_zusatzversicherung_zahnzusatzversicherung_wurzelbehandlung-das-muessen-sie-wissen.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Übernahme der Kosten für zahntechnische Sonderleistungen",
+            "Übernahme der Kosten für Zahnprophylaxe"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Behandlung mit unklaren Erfolgsaussichten"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_altersvorsorge_sterbegeldversicherung.md": {
+        "Produktname": "Sterbegeld Versicherung",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Lebenslanger Versicherungsschutz",
+        "Weitere Leistungen": [
+            "Keine Gesundheitsfragen",
+            "Optionale Beitragsbefreiung im Pflegefall",
+            "Finanzielle Absicherung für Bestattungskosten",
+            "Absicherung im Ausland (Rückführung bei Todesfall)",
+            "Überschuss-Beteiligung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gemischte Lebensversicherung"
+    },
+    "versicherungen_zusatzversicherung_ambulante-zusatzversicherung.md": {
+        "Produktname": "Ambulante Zusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 14,14 € monatlich",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung für Sehhilfen und Augenoperationen",
+            "Umfassende Naturheil- und Präventionsleistungen",
+            "Inklusive Auslands­kranken­versicherung",
+            "Erstattung für Lasik-Operationen bis zu 1.000 € pro Auge",
+            "Erstattung für Naturheilverfahren bis zu 1.000 € alle zwei Jahre",
+            "Erstattung für Hilfsmittel bis zu 1.000 € alle zwei Jahre",
+            "Erstattung für Vorsorge, Schutzimpfungen und Präventionskurse bis zu 500 € alle zwei Jahre",
+            "Unbegrenzte Nutzung des Gesundheitstelefons für psychologische Unterstützung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung.md": {
+        "Produktname": "Auslandskrankenversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bis zu 100 % Erstattung bei Zahnersatz",
+            "Kostenzuschüsse für Zahnbehandlungen und Zahnprophylaxe sowie für Kronen, Brücken, Prothesen oder Implantate",
+            "Kostenübernahme für die Behandlung beim gewünschten Spezialisten im Ein- oder Zweibettzimmer bei Krankenhausaufenthalten",
+            "Kostenübernahme bei ambulanten stationsersetzenden Operationen",
+            "Umfassende Naturheil- und Präventionsleistungen",
+            "Mehr Leistungen für Sehhilfen, Naturheilverfahren, Vorsorge und Prävention",
+            "Keine Geldsorgen bei längerer Krankheit",
+            "Versorgt wie ein Privatpatient",
+            "Optimaler Schutz auch für unterwegs"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "versicherungen_private-krankenversicherung_pkv-fuer-aerzte.md": {
+        "Produktname": "PKV für Ärzte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Variabel, z.B. 20% bis max. 480 € bei ambulanten Behandlungen",
+        "Preis": "Beispielbeiträge variieren, z.B. 612,87 € bis 703,63 € monatlich",
+        "Gültigkeitsbereich": "National und international",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Modulare Gestaltungsmöglichkeiten",
+            "20% Rabatt auf ambulante Tarife und stationären Tarif S1",
+            "Bevorzugte Behandlung im Krankenhaus (Einzelzimmer, Chefarztbehandlung)",
+            "Zahnbehandlungen 100% abgesichert",
+            "Krankentagegeld ab der 5. oder 7. Woche",
+            "Beitragsrückerstattung (3 Monatsbeiträge)",
+            "Digitale Services (Rechnungseinreichung per App)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung.md": {
+        "Produktname": "GesundheitsFair",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Faire Beiträge für echte Premium-Leistungen – auch im Rentenalter",
+            "Individuelle Tarifanpassung und umfangreiche Wechseloptionen",
+            "Beratung und Unterstützung in allen Gesundheitsfragen",
+            "Altersrückstellung und Beitragsentlastung für stabilere Beiträge im Alter",
+            "Gesundheitsberatung mit Facharztterminservice inklusive",
+            "Übernahme ausgewählter Vorsorgemaßnahmen ohne Auswirkung auf Beitragsrückerstattung oder Selbstbehalt",
+            "Leistungsfreiheit wird belohnt: Beitragsrückerstattung schon im 1. Jahr möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "services.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "services_online-services_sdk-app-und-kundenportal.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "downloads_Broschueren_Broschuere-Optionstarif-Private-Krankenversicherung-1.645s.pdf.md": {
+        "Produktname": "Keine Angabe",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [],
+        "Ausnahmen oder Ausschlüsse": [],
+        "category": "Keine Übereinstimmung"
+    },
+    "versicherungen_private-krankenversicherung_rechner.md": {
+        "Produktname": "Unfallversicherung der SDK",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "versicherungen_zusatzversicherung_auslandskrankenversicherung.md": {
+        "Produktname": "Auslands­kranken­versicherung der SDK",
+        "Versicherungsart": "Auslandskrankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Schutz für eine Person Tarif 15,05 € jährlich, Schutz für Familien Tarif 37,20 € jährlich, Schutz für Personen 60+ Tarif 26,75 € jährlich",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Ärztliche Rundum-Versorgung",
+            "Weltweiter Krankenrücktransport",
+            "Übernahme von Bergungskosten",
+            "24/7 Notrufservice",
+            "Ambulante & ärztliche Behandlung",
+            "Arznei-, Verbands- und Hilfsmittel",
+            "Zahnbehandlung und Zahnersatz",
+            "Transport zur stationären Behandlung oder zum Notfallarzt",
+            "Behandlung und Unterbringung im Krankenhaus",
+            "Bestattung und Überführung",
+            "Unfall-Leistungen",
+            "Verlängerung des Auslandskrankenschutzes"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Quarantänekosten sind nicht versichert",
+            "Leistungen im Zusammenhang mit einer veränderten Heimreise sind nicht versichert"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "versicherungen_private-krankenversicherung_pkv-fuer-beamte_angebot.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_optionstarif-fuer-angestellte.md": {
+        "Produktname": "Optionstarif für Angestellte",
+        "Versicherungsart": "Private Krankenversicherung (Optionstarif)",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Bis zum 40. Lebensjahr, ohne Alterungsrückstellungen kalkuliert",
+        "Weitere Leistungen": [
+            "Aktuellen Gesundheitszustand einfrieren",
+            "Direkt Privatpatient-Status im Krankenhaus",
+            "Option auf den Eintritt in die PKV",
+            "Wahl zwischen Ein- oder Zweibettzimmer im Krankenhaus"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung_zahnzusatzversicherung_was-die-zunge-ueber-sie-verraet.md": {
+        "Produktname": "Zahnzusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_unfall-und-sachversicherung_unfallversicherung.md": {
+        "Produktname": "Unfallversicherung der SDK",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Invaliditätssumme bis zu 50.000 € (linear), bis zu 87.500 € (bei Vollinvalidität, progressiv)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 7,08 € monatlich (Tarif U100)",
+        "Gültigkeitsbereich": "Deutschland",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Finanzielle Absicherung auch für Ihre Familie",
+            "Individuelle Zusatzleistungen",
+            "Flexible Verwendung des Kapitals",
+            "Versorgungslücken schließen",
+            "Flexibel wählbare Zusatzoptionen",
+            "Kinder rundum absichern",
+            "Mehr Leistung bei schweren Unfällen",
+            "Assistance-Leistungen wie Hilfe im Haushalt, Reha-Organisation, Kinderbetreuung",
+            "Paket Unfall-Hilfeleistungen, Reha, Pflege und Experten, Familien-Assistance, Kinder-Assistance",
+            "Zusatz-Baustein Basis und Top mit Leistungen wie Kurtagegeld, Hilfsmittel, Zahnersatz, Kosmetische Operationen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kein Schutz bei absichtlicher Selbstverletzung oder grober Fahrlässigkeit",
+            "Keine gesetzliche Absicherung für Kleinkinder, Hausfrauen/-männer und Senioren in der Freizeit",
+            "Leistungen aus der privaten Unfallversicherung sind in der Regel nicht steuerpflichtig, außer Rentenzahlungen aus einer Unfallrente."
+        ],
+        "category": "Unfallversicherung"
+    },
+    "services_online-services_bankverbindung-aendern.md": {
+        "Produktname": "Unfallversicherung",
+        "Versicherungsart": "Unfall- und Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "versicherungen_private-krankenversicherung_gesundheitsdienstleistungen_suchservice.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_beratung.md": {
+        "Produktname": "Unfallversicherung der SDK",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit",
+            "Finanzielle Vorsorge bis ins hohe Alter",
+            "Finanzielle Absicherung der Familie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "versicherungen_private-krankenversicherung_optionstarif-fuer-studenten.md": {
+        "Produktname": "Optionstarif für Studierende",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Monatlicher Beitrag 9,85 € (Beispiel Marie), 10,55 € (Beispiel Tom)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Bis maximal zu deinem 39. Geburtstag, solange du noch immatrikuliert bist",
+        "Weitere Leistungen": [
+            "Gesundheitszustand einfrieren",
+            "Wechsel in die Private ohne erneute Gesundheitsprüfung",
+            "Premiumleistung und Spitzenmedizin sichern",
+            "Krankentagegeld und Pflegepflichtversicherung enthalten",
+            "Freie Wahl zwischen ambulanten, Zahntarifen und stationären Wahlleistungstarifen nach Studium",
+            "Kombination mit Zusatztarifen zur gesetzlichen Krankenversicherung möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Bei bestehenden Vorerkrankungen wird ein festgelegter Risikozuschlag vereinbart",
+            "In seltenen Fällen könnte eine private Krankenversicherung aufgrund des Gesundheitszustands nicht möglich sein, was auch den Abschluss des Optionstarifs ausschließt"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_pkv-fuer-selbststaendige.md": {
+        "Produktname": "PKV für Selbstständige",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Frei wählbar, prozentual (0-30 %) oder fester Betrag",
+        "Preis": "Ab ca. 475 € Tarifbeitrag",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Premium Leistungen: Freie Arztwahl, Chefarztbehandlung, Einbettzimmer",
+            "Heilpraktikerleistungen",
+            "Individuell wählbarer Zahntarif mit 100 % Erstattung für Zahnbehandlung und bis zu 90 % für Zahnersatz",
+            "Beitragsrückerstattung bei Leistungsfreiheit",
+            "Frei kombinierbare Tarifbausteine",
+            "Stabile Beiträge durch Rückstellungen",
+            "Gesundheitsleistungen und Experten-Beratung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung_praxis-zusatzversicherung.md": {
+        "Produktname": "Praxiszusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "20 %, max. 200 € Eigenbeteiligung",
+        "Preis": "Tarif 93,26 € monatlich (Privatpatient beim Arzt), Tarif 18,13 € monatlich (Privatpatient beim Zahnarzt)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bessere medizinische Versorgung",
+            "Schnellere Terminvergabe beim Facharzt",
+            "Leistungen für Naturheilverfahren",
+            "Volle Kostentransparenz",
+            "Zahnleistungen als optionale Ergänzung wählbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Kostenübernahme für Hilfsmittel",
+            "Keine stationäre Heilbehandlung abgedeckt"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_angebot_Link_zum_Kontaktformular%3D%26cHash%3D7aa32a358f3ffce2e55eb91f87c4b041.md": {
+        "Produktname": "Zahnzusatzversicherung der SDK",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz ohne Wartezeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_zusatzversicherung_krankenhauszusatzversicherung.md": {
+        "Produktname": "Krankenhauszusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 6,84 € monatlich (je nach Tarif)",
+        "Gültigkeitsbereich": "Europaweit oder weltweit (je nach Tarif)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstklassiger Schutz ohne Wartezeit",
+            "Freie Arztwahl mit Chefarztbehandlung",
+            "Absicherung flexibel anpassbar",
+            "Auch im Ausland geschützt",
+            "Ein- oder Zweibett-Zimmer",
+            "Rooming-In für Kinder unter 16 Jahren",
+            "Ambulante stationsersetzende Operationen",
+            "Ersatzkrankenhaustagegeld"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "versicherungen_private-krankenversicherung_pkv-fuer-beamte.md": {
+        "Produktname": "PKV für Beamte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "0 € oder alternativ 10 % Selbstbehalt bzw. max. 260 € / Jahr",
+        "Preis": "412,27 € monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Premium Leistungen mit freier Wahl des Facharztes",
+            "Heilpraktikerbehandlung",
+            "Volle Kostenübernahme für Behandlungen und Zahnersatz",
+            "Komfortable Unterbringung im Zweibett-Zimmer mit Privatarztbehandlung",
+            "Beitragsrückerstattung bei Leistungsfreiheit",
+            "Anpassbarer Versicherungsschutz",
+            "Stabile Beiträge auch im Alter",
+            "Gesundheitsleistungen und Experten-Beratung",
+            "Umfassendes Angebot an Vorsorgemaßnahmen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    }
+}

@@ -1,0 +1,487 @@
+{
+    "title": "Private Rentenversicherung / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Lebenslange Rentenzahlung ✓individuelle private Rentenversicherungsprodukte ✓flexible Vorsorge ✓hohe Renditechancen ▶ jetzt vergleichen!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/altersvorsorge/p/private-rentenversicherung",
+        "og:title": "Private Rentenversicherung / AXA",
+        "og:description": "Lebenslange Rentenzahlung ✓individuelle private Rentenversicherungsprodukte ✓flexible Vorsorge ✓hohe Renditechancen ▶ jetzt vergleichen!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge",
+            "text": "Altersvorsorge"
+        },
+        {
+            "text": "Private Rentenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau blickt entspannt in die Zukunft"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kostenlose und unverbindliche 30-minütige Altersvorsorgeberatung",
+                "Individuelle Rentenlösung unter Einbezug von Alter, Einkommen und Zielen"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://satellite.booking-time.com/?key=188c631b5d68271b",
+            "text": "Beratungsgespräch"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/lead-privatrente?AKTIONSCODE=14015D",
+            "text": "Angebot anfordern"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine private Rentenversicherung oder auch Privatrente ist eine Versicherung, die Ihnen im Alter eine zusätzliche Einkommensquelle bietet. Für Ihre private Altersvorsorge zahlen Sie während der Laufzeit bzw. der Ansparphase regelmäßig einen festen Betrag ein und im Gegenzug erhalten Sie als Versicherungsnehmer zum Rentenbeginn eine lebenslange monatliche Rente oder eine vereinbarte Auszahlungssumme zu einem bestimmten Zeitpunkt.AXA bietet verschiedene Rentenversicherungsprodukte mit individuellen Anpassungsmöglichkeiten an, um sicherzustellen, dass Ihre private Altersvorsorge optimal auf Ihre Bedürfnisse abgestimmt ist."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auf Wunsch Beitragsgarantie von bis zu 80 % auf Ihre regelmäßig eingezahlten Beiträge",
+                "Gewinnabsicherung durch kostenlose Umschichtung Ihrer Geldanlage in den letzten fünf Vertragsjahren",
+                "Wahlweise mit jährlicher Indexbeteiligung die Chancen des Kapitalmarkts nutzen – ohne die garantierte Rente zu gefährden"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration: Frau macht Yoga"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration: Team diskutiert über Entwicklungen in der Altersvorsorge"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Investieren Sie entweder vollständig in Fonds oder integrieren Sie optional nur eine zusätzliche, freie Fondsanlage z. B. in ETFs",
+                "Durch breite Streuung der Kapitalanlagen profitieren Sie jederzeit vom optimalen Verhältnis aus Sicherheit und Rendite",
+                "Nutzen Sie diese Renditechancen auch noch im Rentenbezug"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere ausführliche Informationen zu unseren Investmentlösungen sowie Factsheets mit Nachhaltigkeits-Infos finden Sie hier:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Investmentlösungen",
+                "Factsheets und Nachhaltigkeits-Infos"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Änderung und Abwahl der Anlagestrategie jederzeit möglich",
+                "Auch möglich sind Zuzahlungen, Entnahmen, Erhöhungen, Beitragspausen und -herabsetzungen",
+                "Gestalten Sie Ihre Investmentanlage selbst oder legen Sie das Management in die Hände unserer Anlageexpert:innen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration: Mann entspannt sich im Liegestuhl in der Sonne"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration: Mann mit Hund mit Windrädern im Hintergrund"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auf Wunsch genauso renditestarke Kapitalanlage in ausschließlich nachhaltige, nach ESG-Kriterien zertifizierte Fonds möglich",
+                "Berücksichtigung von Nachhaltigkeit in Bezug auf ökologische Aspekte, soziale Ansprüche und Fragen der Unternehmensführung"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die internationalen AXA Gruppe gehört zu den weltweit größten Versicherungsanbietern und Kapitalanlegern",
+                "Erfahrung, Stärke und Kompetenz überzeugen in Deutschland 7,3 Millionen Kunden und unabhängige Ratingagenturen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Illustration: Mann und Frau stehen vor einer AXA Agentur"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Lebenslange Rentenzahlung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für einen gesicherten Ruhestand erhalten Sie Ihre Privatrente ein Leben lang, unabhängig davon wie alt Sie werden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wahlrecht bei Rentenauszahlung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Auszahlung erfolgt je nach Bedarf als lebenslange Rente, als Einmalzahlung oder als Kombination aus beidem"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Attraktive Steuervorteile"
+        },
+        {
+            "type": "paragraph",
+            "text": "Optimieren Sie Ihre Vorsorge mit individuell nutzbaren Steuervorteilen, um finanziell das Meiste aus Ihrer Rente herauszuholen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vererbbarkeit und Todesfall-Leistung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bestimmen Sie, wer das Vertragsvermögen/die Rente erhalten soll – unabhängig von Testament oder Erbfolge"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Altersvorsorge leicht gemacht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rundum-Sorglos-Paket: Ein Berater steht Ihnen zur Seite und passt das Produkt bei Bedarf an Ihre Lebensumstände an"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Chance auf mehr Rente fürs gleiche Geld"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit der Rentenphase Performance wird Ihr Vermögen auch während des Rentenbezugs weiter am Kapitalmarkt beteiligt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-1373810646/axade/medien/privatkunden/altersvorsorge/privatrente/leistungsdetails-private-rentenversicherung.pdf",
+            "text": "Leistungsdetails"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Icon Euromünzen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Der demografische Wandel belastet die Tragfähigkeit der gesetzlichen Rente",
+                "Die Altersrente entspricht durchschnittlich nur 40 % Ihres letzten Nettogehalts**Finanzielle Situation im Ruhestand bei einem angenommen Nettoeinkommen von 3000 €(Studie des Prognos-Instituts im Auftrag der deutschen Versicherungswirtschaft 2015, Voraussetzung: 45 Beitragsjahre jeweils mit Durchschnittseinkommen)",
+                "Kostenlose, unverbindliche Vorsorgeberatung inkl. Rentenplan durch unsere Expert:innen"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://satellite.booking-time.com/?key=188c631b5d68271b",
+            "text": "Beratungsgespräch"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sorgen Sie mit monatlichen Beiträgen oder Einmalzahlungen vor",
+                "Finden Sie Ihre persönliche Balance zwischen Sicherheit und Rendite",
+                "Eine private Rentenversicherung von AXA bietet für jede:n die passende Altersvorsorge"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junger Mann gießt eine Pflanze"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Nutzen Sie Renditechancen der weltweiten Finanzmärkte",
+                "Unsere Anlageprofis sind an Ihrer Seite",
+                "Besonders gut für lange Laufzeiten geeignet"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/fondsrente",
+            "text": "Mehr zur JustInvest Fonds-Rente"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junge Frau arbeitet mit Laptop in einem Baum"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Gute Renditeaussichten mit 100% nachhaltigen Investments",
+                "Ein Beitrag für die Zukunft von Umwelt und Gesellschaft",
+                "Lange Laufzeiten für optimale Ergebnisse"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/fondsrente-greeninvest",
+            "text": "Mehr zur JustGreenInvest Fonds-Rente"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junge Frau relaxt im Garten in der Hängematte"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Besonders risikoarme Anlageformen",
+                "Auch für kürzere Laufzeiten unter 10 Jahren geeignet",
+                "Zusätzliche Renditechancen auf Wunsch möglich"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/relax-rente",
+            "text": "Mehr zur Relax Rente"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Eine private Rentenversicherung (Privatrente) bietet im Vergleich zur gesetzlichen Rentenversicherung eine Reihe von Vorteilen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Durchgarantierte Leistungen und langfristige Sicherheitschafft sie eine solide Basis für die finanzielle Absicherung im Ruhestand und ermöglichtindividuelle Gestaltungsmöglichkeitenund einegrößere Flexibilität.",
+                "Im Gegensatz zur gesetzlichen Rente, deren Höhe u. a. von den Pflichtbeiträgen während des Arbeitslebens abhängt, basiert die private Rentenhöhe auf denindividuellen Einzahlungen und den vertraglichen Bedingungen. Dies bedeutet, dass man die Höhe der Beiträge in einer privaten Rentenversicherung selbst bestimmen kann, was eine bessereKontrolle über die eigene Altersvorsorgeermöglicht.",
+                "Bei der gesetzlichen Rente ist der Renteneintritt in der Regel an ein festgelegtes Rentenalter gebunden. Bei einer privaten Rentenversicherung kann man denRentenbeginn und damit den Auszahlungsbeginn flexibel gestalten, je nach individuellem Bedarf und den persönlichen Lebensumständen. Darüber hinaus bietet Ihnen die Wahl zwischenverschiedenen Auszahlungsformenzusätzliche Flexibilität. Sie können sich für einemonatliche Renteentscheiden, die Ihnen regelmäßige Einkünfte im Ruhestand garantiert. Alternativ können Sie zwischen einerEinmalzahlung oder einer Kombination aus beiden Auszahlungsformenwählen.",
+                "Eine private Rentenversicherung bietet zudem zusätzlichenSchutz vor Altersarmut. Da die gesetzliche Rente oft nicht ausreicht, um den gewohnten Lebensstandard im Ruhestand zu halten, kann eine Privatrente diese Versorgungslücke schließen und für eine finanziell sorgenfreie Zukunft sorgen.",
+                "Außerdem könnensteuerliche Vorteilebei der privaten Rentenversicherung genutzt werden, um die finanzielle Belastung während des Erwerbslebens und im Ruhestand zu reduzieren."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die private Rentenversicherung (Privatrente) ist eine lohnenswerte Lösung für alle, die ihre Rentenlücke schließen möchten, um ihren Lebensstandard mit Rentenbeginn aufrechtzuerhalten. Besonders Selbstständige, Berufstätige ohne gesetzliche Rentenansprüche, Personen mit zusätzlichem Vorsorgebedarf und Arbeitnehmer, die ihre Renteneinkünfte aufstocken möchten, profitieren von einer individuell gestaltbaren Altersvorsorge.Die frühzeitige Auseinandersetzung mit dem Thema Altersvorsorge ist von großer Bedeutung. Empfehlenswert ist es, die gesetzliche Rente schon in jungen Jahren durch eine private Rentenversicherung zu ergänzen, denn je länger Sie warten, umso teurer wird es. Als optimal wird der Zeitpunkt gesehen, an dem jemand im Berufsleben Fuß gefasst hat. Mit Ende 20 oder Anfang 30 ist es realistisch, dass ein Teil des Gehalts in die private Altersvorsorge fließen kann.Je länger die Einzahlungsphase, desto größer ist das angesparte Kapital im Ruhestand. Aber auch bei weniger als zehn Jahren bis zum Ruhestand gibt es Produkte wie die Relax Rente von AXA, die helfen, die Rentenlücke zu schließen. Eine Option, die besonders in Kombination mit bereits erworbenen Ansprüchen der Deutschen Rentenversicherung sinnvoll sein kann."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/private-altersvorsorge",
+            "text": "Weitere Infos zur passenden privaten Altersvorsorge"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Höhe der monatlichen Einzahlung, die Sie für Ihre private Rentenversicherung wählen, wird maßgeblich vonindividuellen Faktorenbestimmt. Dazu zählen dasgewünschte Rentenniveau, Ihr Eintrittsalter, die Vertragslaufzeit und Ihre Renditeerwartungen.In einer persönlichen Beratung helfen Ihnen unsere erfahrenen Anlagexpert:innen dabei, die für Sie beste Rentenlösung zu finden. Gemeinsam analysieren wir Ihre Bedürfnisse, Ziele und wirtschaftlichen Faktoren, um die optimale monatliche Einzahlung zu ermitteln – damit Sie zum Rentenbeginn finanziell bestmöglich aufgestellt sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, eine private Rentenversicherung (Privatrente) kannproblemlos mit anderen Vorsorgeprodukten wie einer Berufsunfähigkeitsabsicherung kombiniertwerden. Dies bietet den Vorteil, dass Sie nicht nur für Ihre Altersvorsorge, sondern auch für den Fall einerBerufsunfähigkeit finanziell abgesichertsind. Eine individuelle Beratung kann Sie dabei unterstützen, die optimale Kombination aus verschiedenen Vorsorgeprodukten zu finden, die nicht nur Ihre Rentenversicherung, sondern auch Ihre Berufsunfähigkeitsabsicherung, eine Pflegeversicherung und möglicherweise Ihre Krankenversicherung einschließt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, in der fondsgebundenen Rentenversicherung haben Sie jederzeit die Möglichkeit, Ihren Anlagemix anzupassen. Der Wechsel kann sich entweder nur auf alle zukünftigen Beitragszahlungen auswirken - oder sie ändern die Fondsauswahl auch beim bisher vorhandenen Guthaben. Diese Flexibilität ermöglicht es Ihnen, Ihre Investitionen je nach Marktsituation und Ihren persönlichen Zielen anzupassen.Unsere erfahrenen Berater:innen stehen Ihnen dabei jederzeit zur Seite, um die optimale Anlagestrategie zu verfolgen und Ihre finanzielle Sicherheit zu gewährleisten. Durch eine stetige Begleitung und professionelle Unterstützung finden wir gemeinsam die passende Investmentlösung, die Ihren individuellen Bedürfnissen gerecht wird."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, bei AXA können Sie Ihre private Rentenversicherung (Privatrente) flexibel an Ihre aktuellen Bedürfnisse anpassen."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Beitragsanpassungen und Einzahlungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie über Ihre Fondsauswahl bestimmen Sie auch selbst über die Höhe Ihrer Beiträge. Es ist jederzeit möglich, einen höheren Monatsbeitrag zu beantragen. Sollten Sie zudem absehbar größere Geldbeträge zur Verfügung haben, können Sie einmal pro Jahr mindestens 250 € zusätzlich in Ihre fondsgebundene Rentenversicherung einzahlen und Ihr Anlagevermögen vergrößern."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Beitragspausen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Leben birgt viele Überraschungen – und ist eben manchmal auch finanziell herausfordernd. Geben Sie uns Bescheid. Sie können Ihre Beitragszahlungen in die fondsgebundene Rentenversicherung bis zu zwei Jahre lang pausieren."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Entnahmen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine größere Anschaffung steht an oder das Auto braucht eine teure Reparatur? Es ist kein Problem, Ihnen einen Teil Ihres Guthabens einfach zwischendurch auszuzahlen. Geht es lediglich darum, auf Monatsbasis flüssiger zu sein? Sie können Ihre regelmäßigen Beiträge für die Fonds-Rente ebenfalls jederzeit herabsetzen."
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA bietet Ihnen transparente und attraktive Konditionen für Ihre private Rentenversicherung. Die Kosten für Verwaltung, Abschluss und Risikoabsicherung werden bei uns sorgfältig gestaltet, um Ihnen eine erstklassige private Altersvorsorgelösung zu bieten.Unser erfahrenen Anlageexpert:innen stehen Ihnen gerne jederzeit zur Verfügung, um die genaue Höhe der Kosten und Gebühren gemäß dem gewählten Tarif zu erläutern. Wir legen großen Wert darauf, dass Sie die Kostenstruktur Ihrer privaten Rentenversicherung vor Vertragsabschluss vollständig verstehen, damit Sie die Rentabilität und die langfristigen Vorteile Ihrer Versicherung richtig einschätzen können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Zeiten für Sparer bleiben schwierig. Auf Sparbüchern und Tagesgeldkonten, den traditionell sicheren Anlageformen, gibt es zwar aufgrund der Leitzinserhöhung derzeit wieder Renditen und vorerst keine Negativzinsen mehr. Allerdings übersteigt die Inflationsrate nach wie vor die aktuellen Zinssätze. Das bedeutet, dass Ihr Geld auf traditionellen Sparkonten real jedes Jahr an Kaufkraft verliert.Eine Investition am Kapitalmarkt bietet langfristig attraktive Renditechancen. Durch gezielte Anlagen in Aktien, Fonds, ETFs und Anleihen können Sie Ihr Vermögen potenziell steigern und eine solide private Altersvorsorge aufbauen."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Ertragsentwicklung von Anlageformen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vergleich von Anlageformen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Tagesgeld:Entwicklung des durchschnittlichen Zinssatzes für Tagesgeld in Deutschland 2020; Quelle: Statista, veröffentlicht durch die Deutsche Bundesbank.",
+                "Festgeld 10 Jahre:Entwicklung der nominalen Durchschnittszinsen von Festgeldangeboten in Deutschland bis April 2020; Quelle: Statista in Kooperation mit Verivox.",
+                "Aktienfonds:Rendite-Dreieck Deutsches Aktieninstitut, Zeitraum 1990 bis 2020, Fondskosten i. H. v. 0,16 % berücksichtigt."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Renditechancen am Kapitalmarkt variieren je nach Anlagestrategie. Aktien sind bei weitem nicht so riskant, wie viele glauben. Und auch wenn das Auf und Ab der Aktienmärkte den Laien manchmal beunruhigt, gleichen sich diese Marktschwankungen insbesondere bei längeren Laufzeiten und breit gestreuter Anlage wieder aus. Die Statistik zeigt: Auf lange Sicht überwiegen die Chancen am Kapitalmarkt die Risiken.So konnten an der Börse in der Vergangenheit trotz Finanzkrisen auf lange Sicht immer sehr gute und vor allem auch stabile Renditen erzielt werden."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Grafik Entwicklung Index MSCI World"
+        },
+        {
+            "type": "paragraph",
+            "text": "Krisenwirkung auf die MSCI World WertentwicklungHistorische Wertentwicklung MSCI World in EUR/ DM. Datenquelle Bloomberg & eigene Berechnung. Renditen p. a. nach Fondskosten (0,05 %) und vor Steuern. Aus den Werten der Vergangenheit lässt sich keine Garantie für entsprechende Entwicklungen in der Zukunft ableiten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit dem AXA-Sicherungsvermögen sorgen wir als Versicherer dafür, dass Ihr Geld bei uns in besten Händen ist. Unsere Anlageexpert:innen wählen die Kapitalanlagen nicht nur sorgfältig aus, sondern prüfen diese auch regelmäßig.Mit Wahl der Relax Rente verzichten Sie in der Regel auf eine freie Investmentanlage. Die Anlage erfolgt im Sicherungsvermögen der AXA Lebensversicherung AG mit bewährten Kapitalanlage- und Sicherungsprinzipien.Die Fonds-Rente bietet viel Flexibilität und höhere Rendite bei etwas mehr Risiko. Dennoch: Wir haben verschiedene Haltebuchten für Sie eingerichtet. Dort können Sie Ihre erzielten Erfolge parken. Da ist zum einen die Garantie-Option. Zum Absichern Ihrer Gewinne können Sie in Zeiten hoher Kurse bis zu 50 % Ihres Fondsguthabens einfach in das Sicherungsvermögen von AXA übertragen. Wenn es so weit ist und die Auszahlung ansteht, ist dieses Geld auf jeden Fall da. Alle Überschüsse, die wir Ihnen während der Laufzeit gutschreiben, fließen weiter in die von Ihnen gewählte Anlagestrategie – zusammen mit Ihren fortlaufenden Beiträgen. Sobald es Ihnen wieder passend erscheint, können Sie zurück in den Kapitalmarkt wechseln. In den letzten fünf Jahren der Ansparphase steht Ihnen zudem unser kostenfreies Absicherungsmanagement zur Verfügung. Damit Sie zum Zeitpunkt der Auszahlung auf der sicheren Seite sind, übertragen wir nach und nach das Vermögen aus den Fonds in risikoärmere Anlagen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Inflation kann erhebliche Auswirkungen auf Ihre Geldanlage haben, da sie die Kaufkraft Ihres Geldes im Laufe der Zeit reduziert. Wenn die Inflationsrate höher ist als die Rendite Ihrer Anlagen, verliert Ihr Kapital an realer Wertigkeit. Das bedeutet, dass Sie in Zukunft mit dem gleichen Betrag weniger kaufen können.Gerade die aktuell hohen Inflationsraten zeigen, wie schnell die Preise weltweit steigen können.  Die langen Laufzeiten der meisten privaten Rentenversicherungen eröffnen die Möglichkeit, höhere Inflationsraten auszugleichen. Dennoch ist es ratsam, Ihre Geldanlage regelmäßig zu überprüfen und gegebenenfalls anzupassen, um den Auswirkungen der Inflation entgegenzuwirken."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nachhaltigkeit in der privaten Altersvorsorge bezieht sich auf die Integration von umweltfreundlichen, sozialverträglichen und ethischen Kriterien in die Geldanlage und Rentenplanung. Dies bedeutet, dass bei der Auswahl von Kapitalanlagen besondere Sorgfalt auf die Einhaltung von Nachhaltigkeitskriterien (ESG-Kriterien) gelegt wird. Diese Investitionen können beispielsweise erneuerbare Energien, Bildungsförderung oder ethische Arbeitspraktiken umfassen.Ihre AXA Rentenversicherung bietet die Möglichkeit, Ihre Altersvorsorge nachhaltig zu gestalten. Bereits vor mehr als 10 Jahren hat die AXA damit begonnen, Nachhaltigkeitskriterien bei der Auswahl von Kapitalanlagen für das Sicherungsvermögen und das Sondervermögen Plus zu berücksichtigen. Seitdem wurden diese Kriterien kontinuierlich weiterentwickelt und sukzessive etabliert. Darüber hinaus haben Sie im Rahmen der freien Investmentanlage die Option, nachhaltige Investments zu wählen.Denn die Kapitalanlagegesellschaften von AXA verfolgen eine eigene nachhaltige Anlagestrategie (ESG-Strategie), die einen Großteil des AXA-Portfolios verwaltet und somit zur Integration von Umwelt-, Sozial- und Governance-Aspekten in Ihrer Altersvorsorge beiträgt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Fonds mit ESG-Strategie berücksichtigen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "ökologische Aspekte (E = Environment)",
+                "soziale Ansprüche (S = Social)",
+                "Fragen der Unternehmensführung (G = Governance)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die ESG-Kriterien sind ein Bewertungssystem, das Unternehmen und deren Nachhaltigkeitsperformance bewertet. Nachhaltigkeit ist also kein reines Umweltthema, sondern umfasst auch den Umgang eines Unternehmens mit seinen Mitarbeitern, mit dem Thema Menschenrechte und die Grundsätze guter Unternehmensführung. Unternehmen mit höheren ESG-Kriterien gelten als nachhaltiger, da sie umweltbewusste Praktiken, soziale Verantwortung und eine transparente Unternehmensführung fördern.Um nachhaltige Finanzprodukte transparenter und vergleichbarer zu machen, hat die EU im März 2021 die sogenannte Offenlegungsverordnung erlassen. Sie klassifiziert Geldanlagen (z. B. Fonds) anhand ihres Nachhaltigkeitsgrades in drei Kategorien. Unabhängig von der jeweiligen Einstufung muss für jedes Finanzprodukt offengelegt werden, ob und wie Nachhaltigkeitskriterien bei der Kapitalanlage berücksichtigt werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nein, nachhaltige Investitionen bedeuten nicht zwangsläufig weniger Rendite. In der Vergangenheit wurde oft angenommen, dass Nachhaltigkeit mit finanziellen Einbußen einhergeht, aber zunehmend zeigen Studien, wie bspw. der University of Oxford und der Harvard Business School, dass nachhaltige Unternehmen langfristig eine ähnliche oder sogar bessere finanzielle Performance erzielen können wie herkömmliche Unternehmen. Die Integration von ESG-Kriterien kann dazu beitragen, Risiken zu reduzieren und langfristig stabile Renditen zu erzielen, während gleichzeitig positive Auswirkungen auf die Gesellschaft und die Umwelt erzielt werden."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vergleich Indizes MSCI World"
+        },
+        {
+            "type": "paragraph",
+            "text": "blau: MSCI Worldrot: MSCI World SRIMSCI World vs. MSCI World SRI seit 2007Indexiert auf 100, Datenquelle Bloomberg & eigene Berechnung, Index in USD, Abruf am 29.07.2022"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Basisinformationsblätter beinhalten wesentliche Informationen zu den einzelnen Anlageprodukten und geben einen Überblick über die Art des Produktes sowie das Risiko. Sie sollen zudem ein besseres Verständnis über die Kosten und möglichen Gewinne geben und einen Vergleich mit anderen Produkten ermöglichen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/s/basisinformationsblaetter",
+            "text": "zu den Basisinformationsblättern"
+        },
+        {
+            "text": "Mit wenigen Klicks zum Angebot"
+        },
+        {
+            "text": "Wir erstellen Ihnen gerne Ihr persönliches Angebot"
+        },
+        {
+            "text": "Angebot anfordern"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 3203205"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Sie haben Fragen?"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0221 148-41003"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_altersvorsorge_p_private-rentenversicherung"
+}

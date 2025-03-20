@@ -1,0 +1,415 @@
+{
+    "title": "Produktübersicht Versicherungen für Geschäftskunden. Alle Produkte im Überblick I Generali",
+    "metadata": {
+        "description": "Eine Übersicht aller Produkte für Geschäftskunden der Generali. Produktübersicht aller Versicherungen für Geschäftskunden bei der Generali wie das Konzept Firmen-Safe oder die betriebliche Krankenversicherung.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Geschäftskunden",
+        "og:description": "Eine Übersicht aller Produkte für Geschäftskunden der Generali. Produktübersicht aller Versicherungen für Geschäftskunden bei der Generali wie das Konzept Firmen-Safe oder die betriebliche Krankenversicherung.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Versicherungen für Geschäftskunden"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88146",
+            "text": "Gesundheit"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88146",
+            "text": "Vorsorge"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88176",
+            "text": "Sach"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88176",
+            "text": "Gebäude"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88448",
+            "text": "Recht"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88448",
+            "text": "Haftung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88442",
+            "text": "Technik"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88442",
+            "text": "Waren"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88226",
+            "text": "Transport"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#88226",
+            "text": "Kfz-Flotte"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden#-89348",
+            "text": "Rundum-Schutz"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "GESCHÄFTSKUNDEN"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Beliebte Pro­dukte"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Konzept FirmenSAFE",
+                "Betriebliche Krankenversicherung",
+                "Automaten-versicherung",
+                "Gewerbliche Haftpflicht"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unsere Paket-Lösun­gen schüt­zen Sie umfas­send:"
+        },
+        {
+            "type": "blockquote",
+            "text": "Individuell auf Ihre Bedürfnisse angepasstMit Zuwahlbausteinen flexibel erweiterbarAttraktive Beitragsvorteile erhaltenZum Rundum-Schutz"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/37666/6cf16654290a207dc01ef87f49a16ec1/z04-health-2-data.png",
+            "alt": "Icon Herz"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesund­heit"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/betriebliche-krankenversicherung-inland",
+            "text": "Betriebliche Krankenversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/auslands-gruppenversicherung",
+            "text": "Auslands-Gruppenversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/betriebliches-gesundheitsmanagement",
+            "text": "Betriebliches Gesundheitsmanagement"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/77954/54e27eb309636f08a6d5d000608c55f6/y33-worker-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Betrieb­li­che Vor­sorge"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/direktversicherung",
+            "text": "Direktversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/pensionszusage",
+            "text": "Pensionszusage"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/bav-kollektivplan",
+            "text": "bAV Kollektivplan"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/zeitwert-altersteilzeitkonten",
+            "text": "Zeitwert- und Altersteilzeitkonten"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/pensionsfonds",
+            "text": "Pensionsfonds"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/unterstuetzungskasse",
+            "text": "Unterstützungskasse"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/gruppen-unfallversicherung",
+            "text": "Betriebliche Gruppen-Unfallversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/gesundheit-betriebliche-vorsorge/aktuarielle-dienstleistungen",
+            "text": "Aktuarielle Dienstleistungen"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79682/9eb6a81332f87bf9621c46ce1e7f4776/a-32-workstation-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sach­ver­si­che­rung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/sach-inhaltsversicherung",
+            "text": "Sach-Inhaltsversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/ertragsausfallversicherung",
+            "text": "Ertragsausfall"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/78012/a0944be563a961d35eaaa076ff0c0c5b/z03-enterprise-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gebäu­de­ver­si­che­rung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/dynamische-sach-gebaeudeversicherung#dynamische-sach-gebaeudeversicherung-25668",
+            "text": "Sach-Gebäudeversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/bauversicherungen#bauversicherung-19324",
+            "text": "Bauversicherung"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79658/1b8120400834cf6892766c3d112f434b/a-21-education-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Recht"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/firmenrechtsschutzversicherung",
+            "text": "Firmenrechtsschutz"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79730/84911429ba592f6f0603a6b8d756ba35/a-54-protection-damager-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Haf­tung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/gewerbliche-haftpflichtversicherung",
+            "text": "Gewerbliche Haftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/19110/4645bb4dc72f4102d41a72a93d02d9f5/z90-cloud-data.png",
+            "alt": "Neuer Inhalt (3)"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Tech­nik"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/elektronikversicherung",
+            "text": "Elektronik"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/maschinenversicherung",
+            "text": "Maschinen"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/geschaeft-gebaeude/maschinen-kaskoversicherung",
+            "text": "Maschinen- & Kasko"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/fahrzeug-zuhause/photovoltaikversicherung",
+            "text": "Photovoltaik"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/44312/625222a2a36a7542c79c52ae3b9cb109/z92-package-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Waren"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/warenversicherung",
+            "text": "Warenversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/tiefkuehlgutversicherung",
+            "text": "Tiefkühlgut"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/automatenversicherung",
+            "text": "Automatenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79770/89ccc85fe5e86abfda220aeb9c7ec4ea/a-66-courier-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Trans­port"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/werkverkehrversicherung",
+            "text": "Werkverkehr"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/luftfahrtversicherung",
+            "text": "Luftfahrt"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/ausstellungs-versicherung",
+            "text": "Ausstellungsversicherung"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/tiefkuehlgutversicherung",
+            "text": "Tiefkühlgut"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/frachtfuehrerhaftungs-versicherung",
+            "text": "Frachtführerhaftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/79718/722dcf239ffbaa530857ba7776c30adc/a-48-car-analysis-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kfz-Flotte"
+        },
+        {
+            "type": "link",
+            "href": "/geschaeftskunden/waren-transport/gewerbe-kompakt-mobil",
+            "text": "Gewerbe Kompakt Mobil"
+        },
+        {
+            "text": "Rundum-Schutz-Pakete"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Für kleine und mittelständische UnternehmenVorteile:Leistungsstarker Rundum-Schutz im PaketFür Unternehmen bis 1,5 Millionen € UmsatzVersicherungs-Schutz ab dem ersten TagCyber-Service-Versicherung optionalKonzept FirmenSAFE",
+                "Leistungsstarker Rundum-Schutz im Paket",
+                "Für Unternehmen bis 1,5 Millionen € Umsatz",
+                "Versicherungs-Schutz ab dem ersten Tag",
+                "Cyber-Service-Versicherung optional",
+                "Für größere mittelständische UnternehmenVorteile:Dynamische Sach-Inhaltsversicherung und BetriebshaftpflichtversicherungFrei wählbare ZusatzbausteineMaßgeschneiderte AbsicherungFür Unternehmen bis 10 Mio. € VersicherungssummeUnternehmenssicherungspolice",
+                "Dynamische Sach-Inhaltsversicherung und Betriebshaftpflichtversicherung",
+                "Frei wählbare Zusatzbausteine",
+                "Maßgeschneiderte Absicherung",
+                "Für Unternehmen bis 10 Mio. € Versicherungssumme",
+                "Für gewerbliche ImmobilienVorteile:Dynamische Sach-GebäudeversicherungFür viele Gebäudearten und -größenFrei wählbare ZusatzbausteineMaßgeschneiderte AbsicherungImmobiliensicherungspolice",
+                "Dynamische Sach-Gebäudeversicherung",
+                "Für viele Gebäudearten und -größen",
+                "Frei wählbare Zusatzbausteine",
+                "Maßgeschneiderte Absicherung",
+                "Für LandwirteVorteile:Dynamische Sach-InhaltsversicherungBetriebshaftpflichtversicherungDynamische Sach-GebäudeversicherungMaßgeschneiderte AbsicherungLandwirtschaft",
+                "Dynamische Sach-Inhaltsversicherung",
+                "Betriebshaftpflichtversicherung",
+                "Dynamische Sach-Gebäudeversicherung",
+                "Maßgeschneiderte Absicherung"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/24182/3ff151fd7f73ce75b5700ad930ffc233/dvag-logo-weiss-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wei­tere Ange­bote für Geschäfts­kun­den"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Erfolgsfaktor MitarbeitergesundheitÜberzeugen Sie als attraktiver Arbeitgeber. Stärken Sie mit den Lösungen der Generali Health Solution GmbH die Gesundheit Ihrer Mitarbeiter.Wirksame Gesundheitsprogramme",
+                "Kostenfreies ArbeitgeberportalbAV- und bKV-Verwaltung schnell und effizient: Behalten Sie den Überblick über alle und den Einblick in einzelne Verträge.bAV und bKV digital verwalten"
+            ]
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "geschaeftskunden"
+}

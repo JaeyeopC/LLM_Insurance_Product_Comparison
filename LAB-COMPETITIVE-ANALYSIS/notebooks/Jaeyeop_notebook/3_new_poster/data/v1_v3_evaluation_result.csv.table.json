@@ -1,0 +1,49 @@
+{
+  "columns": [
+    {
+      "field": "similarity_score",
+      "title": "similarity_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 158
+    },
+    {
+      "field": "comprehensiveness_score",
+      "title": "comprehensiveness_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 230
+    },
+    {
+      "field": "groundedness_score",
+      "title": "groundedness_score",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 194
+    },
+    {
+      "field": "company_list",
+      "title": "company_list",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 535
+    },
+    {
+      "field": "category",
+      "title": "category",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 250
+    }
+  ]
+}

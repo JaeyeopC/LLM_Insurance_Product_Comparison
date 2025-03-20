@@ -1,0 +1,175 @@
+{
+    "title": "Presse und Medien Pressebereich | Generali",
+    "metadata": {
+        "description": "Überblick zu den Pressemitteilungen und den Pressekontakten der Generali erhalten. Entdecken Sie die Termine, Veranstaltungen und die Mediathek der Generali.\n",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Pres­se­",
+        "og:description": "Bleiben Sie auf dem Laufenden - alle Publikationen im Überblick.",
+        "og:image": "https://www.generali.de/resource/blob/33150/1f719ebdeea2e2bbf58de5b85ba12422/hero-bild-data.jpg"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Pressebereich"
+        },
+        {
+            "text": "Informationen für Journalisten und Pressevertreter"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "link",
+            "href": "/presse#top-news-35422",
+            "text": "Top News"
+        },
+        {
+            "type": "link",
+            "href": "/presse#mediathek-35428",
+            "text": "Mediathek"
+        },
+        {
+            "type": "link",
+            "href": "/presse#pressekontakt-der-generali-in-deutschland-35430",
+            "text": "Pressekontakt"
+        },
+        {
+            "type": "link",
+            "href": "/presse#veranstaltungen-termine-35432",
+            "text": "Veranstaltungen & Termine"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "PRESSE"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Gerade in der heutigen Zeit kommt dem unabhängigen Qualitätsjournalismus eine immer wichtigere Aufgabe zu. Spitzenjournalismus muss einen neutralen Standpunkt einnehmen, die „Faktenvielfalt“ reflektieren und damit den Menschen eine unvoreingenommene Orientierung geben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier erhalten Sie einen Überblick zu unseren Pressemitteilungen & Pressekontakten, Terminen & Veranstaltungen sowie eine umfassende Mediathek."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Top News"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "15.11.2024Finanzinformationen zum 30.09.2024MEHR ERFAHREN",
+                "12.11.2024Generali-Studie „Betriebliche Altersversorgung (bAV) im Mittelstand 2024“: bAV mit Zusatzleistungen ist erfolgreiches Mittel zur Mitarbeitergewinnung und -bindungMEHR ERFAHREN",
+                "08.11.2024Generali erneut unter den weltweit besten Unternehmen für FrauenMEHR ERFAHREN",
+                "31.10.2024Erstklassige Kundenorientierung und starkes Produktangebot: Generali Deutschland Versicherungen erhalten Bestnoten von Assekurata-RatingsMEHR ERFAHREN",
+                "23.10.2024CosmosDirekt als Superbrand ausgezeichnetMEHR ERFAHREN",
+                "04.10.2024Generali und UNDP veröffentlichen gemeinsamen Bericht über den Einsatz „Parametrischer Versicherungen zum Aufbau finanzieller Resilienz“MEHR ERFAHREN"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Pressemitteilungen der Generali Deutschland, ihrer Konzernmarken sowie der internationalen Generali Group in der Gesamtübersicht:"
+        },
+        {
+            "type": "link",
+            "href": "/presse/mitteilungen",
+            "text": "Alle Pressemitteilungen"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/35402/4479ae0d6cf417efd3e8ae23e65bc427/bild-neu-mediathek-data.jpg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Media­thek"
+        },
+        {
+            "type": "paragraph",
+            "text": "Druckfähiges Bildmaterial, Logos und Studien für Ihre Berichterstattung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Pres­se­kon­takt der Gene­rali in Deutsch­land"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei Fragen zu unseren Unternehmen der Generali in Deutschland, Produkten oder Veröffentlichungen wenden Sie sich bitte an unser Team in der Pressetelle."
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Kontakte im Überblick"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ver­an­stal­tun­gen & Ter­mine"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bleiben Sie auf dem Laufenden: Bei diesen Events sind wir dabei."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mehr über Gene­rali"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Über unsWir stellen Ihnen unser Unternehmen vor.Mehr erfahren",
+                "ManagementHier erfahren Sie mehr über das Management unseres Unternehmens.Mehr erfahren",
+                "Zahlen, Daten, FaktenRelevante Informationen zur Generali in Deutschland.Mehr erfahren",
+                "NachhaltigkeitWir wollen einen nachhaltigen Beitrag für die Zukunft unserer Gesellschaft leisten.Mehr erfahren",
+                "KarriereWir suchen erstklassige Mitarbeiterinnen und Mitarbeiter.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Vita­li­tyApp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Gesundheitsprogramm motiviert Sie mit kleinen Extras, bewusster zu leben."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/generali-vitality/id1089388341",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.vitality.gli.de&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "presse"
+}

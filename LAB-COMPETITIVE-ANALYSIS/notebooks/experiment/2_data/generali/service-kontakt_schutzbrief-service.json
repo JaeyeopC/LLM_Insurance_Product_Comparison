@@ -1,0 +1,101 @@
+{
+    "title": "Mit den Schutzbriefen der Generali von Assistance-, Hilfe- & Serviceleistungen profitieren I Generali",
+    "metadata": {
+        "description": "Mit den Schutzbriefen der Generali Asisstance-, Hilfe- & Serviceleistungen erhalten. Sie haben einen Schutzbrief und brauchen Hilfe? Wir helfen Ihnen gerne weiter.",
+        "keywords": "Schutzbrief, Kfz-Schutzbrief. Haus- und Wohnungschutzbrief, Kontoschutz, Finanzschutz, Konto- und Finanzschutzbrief, Hausschutzbrief, Finanzschutzbrief, Konto-Schutzbrief, Auto-Schutzbrief, IT-Assistance, Notfallcenter, Smart Home, smarthome, Notfall, Notfallnummer, Hotline, Hotlines, Konto, Wespennest, Schlüsseldienst, Schlüssel, Pannenhilfe, Panne, Pannendienst, ausgesperrt, Kinderbetreuung,Technik-Hotline, Heimelektronik, Computer, Smartphone, iPhone, Smartphones, Tablet, Personalcomputer, Drucker, Scanner, Netzwerkrouter, Digitalkameras, Spielekonsolen, Fernsehgeräte, Softwareprobleme, Betriebssystem, Computerprobleme, Hardware, Software, Konfiguration von Hardware, Umgang mit Hardware, Umgang mit Software, Installation von Software, Deinstallation von Software, Datenträger, Cloud, iCloud, Datensicherung, Online-Datensicherung, Online Cloud, Cloudeinrichtung, Cloudzugang, Cyber, Cyber-Security-Hotline, Cyber-Mobbing, Cyber-Crime, Phishing, Identitätsdiebstahl,Handwerker,Schutzbrief-Service,Hilfeleistung",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Schutzbrief-Service",
+        "og:description": "Assistance-, Hilfe- & Serviceleistungen",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Schutzbrief-Service"
+        },
+        {
+            "text": "Sie benötigen Assistance-, Hilfe- oder Serviceleistungen?"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "SERVICE & KONTAKT",
+                "SCHUTZBRIEF-SERVICE"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Unsere Service-Teams sind rund um die Uhr für Sie da."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Kfz-SchutzbriefPannen- oder Unfallhilfe sowie weitere Schutzbriefleistungen089 55987-261Digitale Pannenhilfe startenLEISTUNGEN IM ÜBERBLICK",
+                "Haus- und Wohnungsschutzbriefim Bereich Hausratversicherung089 55987-661LEISTUNGEN IM ÜBERBLICK"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Konto- und FinanzschutzbriefSchutz für Ihr Konto und Ihre Finanz­mit­tel vor Miss­brauch089 55987-661OnlinemeldungLEISTUNGEN IM ÜBERBLICK",
+                "IT-Assistanceim Rahmen des Haus- und Wohnungsschutzbriefes089 55987-661LEISTUNGEN IM ÜBERBLICK"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Reiseassistance & AuslandsreisekrankenversicherungHilfe- und Serviceleistungen rund um Ihre Reise ins Ausland089 55987-8302LEISTUNGEN IM ÜBERBLICK"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicher zu Hause oder unterwegs: Erhalten Sie ortsgenaue Wetterwarnungen auf Ihr Handy."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_schutzbrief-service"
+}

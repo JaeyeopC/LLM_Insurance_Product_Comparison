@@ -1,0 +1,299 @@
+{
+    "title": "Unser Beitrag zum Umweltschutz / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Reduktion des ökologischen Fußabdruckes in folgenden Handlungsfeldern: Energie ✓ Papier ✓ Dienstreisen ▶ jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/wir-ueber-uns/nachhaltigkeit/umweltschutz",
+        "og:title": "Unser Beitrag zum Umweltschutz / AXA",
+        "og:description": "Reduktion des ökologischen Fußabdruckes in folgenden Handlungsfeldern: Energie ✓ Papier ✓ Dienstreisen ▶ jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E-660519413/21489189/umweltschutz-waldbild-1200x627.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E-660519413/21489189/umweltschutz-waldbild-1200x627.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/wir-ueber-uns",
+            "text": "Über AXA"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/wir-ueber-uns/nachhaltigkeit",
+            "text": "Unsere Verantwortung"
+        },
+        {
+            "text": "Unser Beitrag zum Umweltschutz"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Thema Umweltschutz, symbolisiert durch einen grünen Wald"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit 2008 erheben wir bei AXA Deutschland unsere Verbrauchsdaten, um unseren ökologischen Fußabdruck zu messen und Maßnahmen zur Reduzierung unserer Emissionen sowie von Wasser, Papier und Abfall abzuleiten. So konnten wir in innerhalb von 9 Jahren unsere eigenen CO₂ -Emissionen mehr als halbieren. Bis 2025 haben wir uns weitere ambitionierte Ziele gesetzt. Alle Maßnahmen werden im Rahmen unseres konzernübergreifenden Projekts #AXAfürMorgen koordiniert und umgesetzt."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Logo des konzernübergreifenden Projekts #AXAfürMorgen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle aktuell nicht reduzierbaren Eigenemissionen aus unserem Energieverbrauch, Fuhrpark, Dienstreisen und IT-Services kompensieren wir über die globalen Kompensierungsprojekte der AXA Gruppe."
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit 2020 kompensieren wir außerdem als erster Kunde die CO₂-Emissionen aller Dienstflüge über das “Compensaid Corporate Program” von Lufthansa. Seit 2020 kompensieren wir außerdem als erster Kunde die CO₂-Emissionen aller Dienstflüge über das “Compensaid Corporate Program” von Lufthansa.Die Kompensation erfolgt zu 100 %  durch Sustainable Aviation Fuel (SAF). So wird insgesamt eine vollständige CO₂-Neutralität der Flüge realisiert.Bei dienstlichen Fahrten per Bahn sind wir sowohl im Fern- als auch im Nahverkehr CO₂-neutral unterwegs.Unser Ziel ist, den Anteil der eigenen CO₂-Emissionen zukünftig weiter zu verringern und dadurch weniger über Kompensationsprojekte auszugleichen."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kompensation der DO2-Emissionen aller Dienstflüge"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Gebäudeenergie",
+                    "minus 15 % T CO₂"
+                ],
+                [
+                    "Digitale Verbräuche (IT)",
+                    "minus 20% T CO₂"
+                ],
+                [
+                    "Dienstreisen (Flug und Bahn)",
+                    "minus 5 % T CO₂"
+                ],
+                [
+                    "Dienstwagenflotte",
+                    "minus 25 % T CO₂"
+                ],
+                [
+                    "Büropapier",
+                    "minus 20 % T"
+                ],
+                [
+                    "Marketingpapier",
+                    "minus 15 % T"
+                ],
+                [
+                    "Wasser",
+                    "minus 5% m3"
+                ],
+                [
+                    "Restmüll",
+                    "minus 10% T"
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bereits seit 2008 erfasst AXA Deutschland auf jährlicher Basis seine Umweltkennzahlen. Diese fließen in den weltweiten Umweltreport der AXA Gruppe ein. Im Zeitraum 2019 bis 2023 konnten wir die  Scope 1 CO₂- Emissionen um 36 Prozent und die Scope 2 CO2 Emissionen um 68 Prozent verringern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E1765502171/axade/medien/ueber axa/nachhaltigkeit/umweltschutz/umweltkennzahlen-axa-deutschland-2023.pdf",
+            "text": "AXA Umweltkennzahlen (PDF, 234 KB)"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ökostrom und weitere Optimierungsmaßnahmen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit dem Jahr 2023 haben wir als AXA Deutschland für das Teilgebiet Environment einen Klimaschutzfahrplan entwickelt, in welchem wir alle nachhaltigen Maßnahmen in den Bereichen Gebäude (Energie/ Reinigung/ Abfall/ Betriebsführung), Gastronomie, Biodiversität, Post/Papier und Kurierdienste beschreiben sowie Termine für die konkrete Umsetzung festhalten.So ist die gesamte Beleuchtung von Tiefgarage, Anlieferhof und Rechenzentrum am Standort Köln 2022 auf eine zeitgemäße LED-Beleuchtung umgestellt worden. In Stuttgart wurden ca. 200 Arbeitsplatzleuchten, Flurleuchten und andere Lampen entsprechend auf LED umgerüstet, mit einer Ersparnis von insgesamt ca. 45 % weniger Energieverbrauch. An den Standorten Hannover und Stuttgart wurden zudem 310 smarte Ventile an den Heizkörpern verbaut, sodass wir auch hier bis zu 40 % unserer Heizenergie einsparen.Außerdem wurde die Kühlung der EDV-Technikräume durch Einzelsplitgeräte außer Betrieb genommen. Hierfür wird nun die gekühlte Luft der vorgelagerten Räumlichkeiten genutzt.Durch regelmäßige Kommunikationsmaßnahmen sensibilisieren wir außerdem unsere Mitarbeitenden für ressourceneinsparende Verhaltensweisen."
+        },
+        {
+            "type": "paragraph",
+            "text": "In unserem Klimaschutzfahrplan nimmt die Gebäudetechnik und der nachhaltige effiziente Betrieb der Gebäudetechnik einen sehr großen Teil ein, da hier neben der Dienstwagen-Flotte der größte Anteil des CO₂-Ausstoßes erfolgt.In vielen unserer Gebäude setzen wir bereits auf nachhaltige Techniken wie intelligente Arbeitsplatzbeleuchtung oder Umstellung auf LED. Lichtsteuerung über Dämmerungsschalter, Zeitprogramme oder präsenzgesteuerten Leuchten gehören in 90 % unserer Büroflächen zu unserer Standardausstattung.Zusätzlich haben wir im Jahr 2023 eine Büroarbeitstestfläche in Betrieb genommen. Dort testen wir in Zusammenarbeit mit einer Automatisierungsfirma inwieweit wir über die Erfassung von Personen, die Notwendigkeit des Heizens und des Kühlen steuern können. Ziel ist es, hier eine Kombination von Bedarfs- und Wettersteuerung einzuführen.An den von uns betriebenen Standorten steuern wir unsere technischen Anlagen über eine Gebäudeleittechnik und beschäftigen uns intensiv mit einer Optimierung der Anlagensteuerungen, da hier eine wesentliche Reduzierung der Energieverbräuche zu erreichen ist.  Um die Anlagenoptimierung zu unterstützen, haben wir seit Januar 2024 ein bundesweites Energiemanagement im Einsatz, das es uns ermöglicht, den Energiebedarf aller unserer Flächen – auch dort wo wir nur Mieter von Teilflächen sind – genau zu überwachen. Tägliche Kontrollen ermöglichen es uns, ungewöhnliche Energieverbräuche zu identifizieren. So können wir bei Auffälligkeiten Optimierungen vornehmen.In vielen unserer Gebäude setzen wir auf nachhaltige Techniken. Nahezu alle Lüftungsanlagen an unseren Standorten sind mit Wärmerückgewinnungssystemen ausgestattet. Hierbei nutzen wir eine möglichst große Menge an Energie der Außenluft, um unser Gebäude zu kühlen und zu heizen. In unseren Neubauten verwenden wir dabei schon die neueste und effizienteste Art der Wärmerückgewinnung durch ein Kreislaufverbundsystem (adiabate Kühlung).Des Weiteren nehmen wir bei unseren Kältemaschinen (Schraubenverdichter – die aktuell effizienteste Art Kaltwasser zu erzeugen) immer wieder Anpassungen vor. Bei den Rückkühlwerken der Kältemaschinen werden eine adiabate Kühlung oder Kühltürme verwendet.Außerdem wird unser außenliegender Sonnenschutz bei bestimmten Temperatur- oder Lichtbedingungen automatisch heruntergefahren, um präventiv weitere Energie zu sparen.Unsere neu gebauten Bürogebäude in Hamburg, Wiesbaden und Offenbach wurden mit dem DGNB-System für nachhaltiges Bauen zertifiziert. Die kürzliche Sanierung unseres Standorts in München fand unter ökologischen Gesichtspunkten mit der Zertifizierung nach LEED statt."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Nachhaltige Techniken in unseren Gebäuden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Wenn nötig sind Dienstreisen unter 3 Stunden per Bahn anzutreten"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Reisen per Bahn und Flugzeug"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Rahmen unserer Reiserichtlinie sind unsere Mitarbeitenden dazu angehalten, ihre geschäftlichen Reisetätigkeiten − wann immer möglich und sinnvoll – durch technische Alternativen wie Telefon- oder Videokonferenzen zu ersetzen. Darüber hinaus gilt die grundsätzliche Regelung, dass für Geschäftsreisen, die unter drei Stunden dauern, der Schienenverkehr zu nutzen ist."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Elektrifizierung der Dienstwagenflotte"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Elektrifizierung der Dienstwagenflotte"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit E-Fahrzeugen für unsere Dienstwagenflotte sind wir 2016 gestartet, seit 2020 haben wir für alle Vorstände verpflichtend die Bestellung eines E-Fahrzeug eingeführt. Sukzessive stellen wir somit den Vorstandsfuhrpark auf E-Mobilität um. In unserem Projekt „ePilot“ arbeiten wir gerade daran, die Dienstwagen des angestellten Außendienstes, Schadenexperten und der Vielfahrer zu elektrifizieren."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Dienstreisen per Mietwagen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Mietwagen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle AXA Mitarbeitenden können einen PKW bis Compact-Klasse anmieten. Erst wenn mindestens drei Mitarbeitende ein Fahrzeug gemeinsam nutzen, kann die Typenklasse Intermediate angemietet werden. Außerdem haben wir mit unserem Mietwagendienstleister einen Verzicht auf Upgrades vereinbart, womit wir aktiv zur Vermeidung von CO₂-Ausstoß durch Fahrzeuge mit oftmals höheren Emissionswerten beitragen."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Papierberge reduzieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit 2018 konnten wir den Massendruck bei AXA Deutschland um mehr als 25 % senken. Über 200 Mio. Seiten Papier werden jährlich bei AXA bedruckt, um an Kund:innen, Vertriebspartner:innen und weitere Empfänger verschickt zu werden. Vor ein paar Jahren waren es noch rund 300 Mio. Seiten pro Jahr.Von 2018 bis 2023 ist es AXA gelungen, die Anzahl der Postsendungen um insgesamt 4 Mio. Briefe zu reduzieren.Darüber hinaus werden aktuell 90 % des Volumens der für AXA erstellen Druckstücke auf FSC zertifiziertem Papier gedruckt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Umzug in neue Gebäude an unseren Standorten in Hamburg, Wiesbaden, Offenbach und München trägt zur Einsparung von Trinkwasser bei. Die Ausstattung in Kaffeeküchen und sanitären Anlagen ließen in den vorherigen Gebäuden ein Vielfaches der Wassermenge durchlaufen. Aktuell prüfen wir weitere Maßnahmen, um den Wasserverbrauch weiter zu senken, denn es ist uns wichtig verantwortungsvoll mit unseren Ressourcen umzugehen."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Einsparung von Trinkwasser"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vermeidung von Restmüll"
+        },
+        {
+            "type": "paragraph",
+            "text": "An unseren größeren Standorten werden in den Waschräumen genutzte Papierhandtücher separat gesammelt und dem Recycling durch den Hersteller zugeführt. Dieser verwendet die Rohstoffe dann für die Herstellung neuer Produkte. Im Jahr 2023 wurden 17,5 Tonnen Handtücher recycelt und damit knapp 3 Tonnen CO₂ eingespart.Weiter setzen wir seit 2022 auf waschbare Müllsäcke in den Mülltrennstationen und können so jedes Jahr bundesweit über 80.000 Plastikmüllsäcke einsparen.Am Standort Köln nutzen wir eine eigene Kleinkompostieranlage zur Kompostierung von organischen Abfällen wie Speiseresten oder auch Kaffeemehl. Diese Anlage wandelt pro Jahr 80 Tonnen Abfälle in einen nachhaltigen Dünger um, der dann an Mitarbeitende abgegeben oder auf den eigenen Grünflächen verwendet wird.In den neu sanierten WC-Räumen wird eine eigene Wasseraufbereitung installiert, die so weit wie möglich Abwasser im Kreislauf hält, um diese wichtige Ressource zu schonen und den Wasserverbrauch nachhaltig zu reduzieren.In Planung ist am Standort Köln eine eigene Wasseraufbereitung, um das Abwasser der Osmoseanlagen und Waschmaschinen sinnvoll zu nutzen. Außerdem sind wir in einem Pilotprojekt eines großen Herstellers für Einmalhandschuhe. Diese werden in großen Mengen in der Gastronomie und in der Reinigung eingesetzt und sollen zukünftig auch dem Recycling zugeführt werden."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "E-Ladestationen in den Parkhäusern von AXA"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die AXA Ladeparks"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bereits 2014 haben wir in Kooperation mit der RheinEnergie die ersten E-Ladestationen in unserer Hauptverwaltung in Köln errichtet. Aktuell arbeiten wir am Aufbau einer eigenen Ladestruktur für unsere Standorte. Bei AXA in Wiesbaden, Offenbach, Hannover, München und Köln können unsere Mitarbeitenden schon jetzt sowohl ihre E-Dienstwagen als auch ihre E-Privatfahrzeuge bequem während der Arbeitszeit laden. In Wiesbaden, Offenbach, Hannover, München und Berlin erfolgte die Installation der E-Ladestationen in 2023 und 2024. Deutschlandweit haben wir somit knapp 65 Ladestationen für E-Fahrzeuge gebaut sowie in Köln kostenlose Ladestationen für Pedelecs und E-Bikes errichtet."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Umweltfreundliche Gebäudereinigung - Fensterputzerin im Einsatz"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Umweltfreundliche Gebäudereinigung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit 2021 gehen wir auch in der Gebäudereinigung neue und nachhaltige Wege. Durch einen „Green Clean“-Vertrag mit unserem externen Dienstleister setzen wir die Gebäudereinigung an den AXA Standorten äußerst klimaschonend um. Jedes durch die Gebäudereinigung verursachte Kilogramm CO₂ wird durch den Kauf von CO₂-Zertifikaten neutralisiert.  Außerdem setzen wir auf Reinigungsmaterialien, -geräte und -maschinen, die in der EU nach strengen Nachhaltigkeitskriterien produziert werden. An den Standorten Köln, Wiesbaden, Hamburg und Offenbach werden die Arbeitsplatzoberflächen mit Osmosewasser gereinigt.  Die Reinigung mit Osmosewasser ist nachweislich gründlicher als die Reinigung mit Reinigungschemikalien und vermeidet den Einsatz von Chemikalien und auch Plastikabfall. Der Ausbau dieser Reinigungsmethode ist für die Standorte Berlin und München in 2024 geplant."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Nachhaltige Gastronomie -  Unsere Kaffeebar Mitarbeiter arbeiten bereits plastikfrei und setzen auf Refill-Konzepte"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Nachhaltige Gastronomie"
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch die AXA Betriebsgastronomie soll nachhaltiger werden. So arbeiten unsere Gastronomie-Kaffeebars bereits plastikfrei und setzen auf Refill-Konzepte. Seit 2024 gibt es in allen Büroküchen zusätzlich bundesweit kostenlos Hafermilch. Zudem kooperieren wir mit unserem Kaffeelieferanten Moyee, der sich auf nachhaltige und faire Zusammenarbeit zwischen Produzenten und Konsumenten fokussiert.Außerdem achten wir bei unseren eingekauften Lebensmitteln auf Regionalität sowie Bio- und saisonale Produkte und bieten unseren Mitarbeitenden frisches Obst durch unseren Kooperationspartner Fruitful Office, der Obst bevorzugt aus Deutschland und Mitteleuropa einkauft, um regionale Erzeuger:innen zu unterstützen und CO₂-Emissionen im Transport zu verringern. Das Obst kommt in Körben mit unterschiedlichen Sorten.Des Weiteren versuchen wir durch die „AXA isst grün“-Wochen, die jährlich vier mal an allen AXA Standorten stattfinden, den Fleischkonsum zu reduzieren. Stattdessen bieten wir den Mitarbeitenden attraktive vegane und vegetarisch Angebote. Die Aktionswochen werden durch Themenabende, Kochkurse und vegane Dinnerangebote begleitet.Wir arbeiten in unseren Gastronomien zudem mit Eaternity und GESOCA zusammen. Eaternity berechnet die CO₂-äquivalente Emissionen von Gerichten basierend auf dem gesamten Lebenszyklus der gesamten Produktzusammensetzung. GESOCA stuft mithilfe eines Ampelsystems alle Gerichte danach ein, wie nährstoffreich sie sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "2021 haben wir bei Ruppichteroth nahe Bonn ein 15 Hektar großes Aufforstungsgebiet für die kommenden 10 Jahre gepachtet. Die Fläche wurde im Herbst 2021 unter Berücksichtigung nachhaltiger Kriterien der Wiederaufforstung und Bewirtschaftung mit unterschiedlichen Baumarten wie Douglasie, Esskastanie, Küstentanne, Lärche, Kirsche und Baumhasel bepflanzt. Diese Vielfalt bildet einen gesunderen und widerstandsfähigeren Wald, der dem Klimawandel trotzen kann und besser mit Licht, Wasser und Bodennährstoffen versorgt wird. Zudem sind Mischwälder besser gegen schädliche Insekten und Waldbrände geschützt und bieten einen vielfältigeren Lebensraum für zahlreiche Tier- und Pflanzarten. Der Pachtvertrag beinhaltet neben der Baumpflanzung auch die Hege und Pflege für die kommenden10 Jahre, so dass die neuen Bäume in Ruhe wachsen können. 2022 haben wir das gesamte Aufforstungsgebiet um weitere 4 Hektar erweitert, sodass es aktuell insgesamt 19 Hektar umfasst. Außerdem ist in unserem #greenAXA Wald ein Lehrpfad für Kinder und Erwachsene entstanden. Und er wächst jährlich um weitere ca. 1000 Bäume, denn für jedes AXA Baby, welches geboren wird, pflanzen wir weitere fünf unterschiedliche Baumarten im AXA Wald."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Der GreenAXA Wald – unsere Aufforstungsinitiative"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Wildblumenwiese in Köln und Wiesbaden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wildblumenwiese in Köln und Wiesbaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bereits seit 2004 wachsen auf dem Dach unseres Parkhauses am Standort Köln auf rund 7.500 m2 Wildblumen und -sträucher, die Lebensraum für Insekten und Vögel bieten. Zusätzlich haben wir 2021 auf dem Gelände unserer Hauptverwaltung und am Standort Wiesbaden zwei  Wildblumenwiesen von insgesamt 2.000 qm angelegt, die insbesondere den Wildbienen als Nahrung und Lebensraum dienen soll. Außerdem bewohnen aktuell sieben Honigbienenvölker unseren Campus in Köln. In Kooperation mit dem Kölner Imkerverein konnten wir 2021 unseren ersten eigenen Honig „AXA’s flüssig Gold“ abfüllen, der unter unseren Mitarbeitenden versteigert wurde."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Nistkästen für heimische Vögel"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Nistkästen für heimische Vögel"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bieten einen sicheren Lebensraum für unsere heimischen Vögel. Auf unserem Campus in Köln haben wir 2022 über 30 Nistkästen aufgehängt und eine sichere Ansiedlung für Rotkehlchen und Kohlmeisen ermöglicht. Die Aktion wurde in Kooperation mit der NABU aus Köln durchgeführt. Weitere Initiativen am Standort Wiesbaden werden durch HGON Hessische Gesellschaft für Ornithologie und Naturschutz e.V. unterstützt, unter anderem begleitet HGON die Erbauung und Anbringung eines Falkenhauses am Standort. Dadurch stellen wir eine artengerechte Konstruktion, Beschaffenheit und Anbringung sicher."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Unsere Streuobstwiese"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unsere Streuobstwiese"
+        },
+        {
+            "type": "paragraph",
+            "text": "2021 haben wir begonnen eine Streuobstwiese mit zunächst dreizehn Apfel- und Kastanienbäumen auf unserem Gelände in Köln angelegt. Die Bäume stehen hier so weit auseinander, dass alle genug Platz und Licht zum Wachsen haben. Blütennektar, Fallobst, Totholz oder Baumhöhlen bereichern den Lebensraum für seltene Tierarten. Im Herbst 2022 kamen weitere 33 Obstbaumarten und diverse Obststräucher dazu. Unsere Mitarbeitenden und Teams können Patenschaften für einzelne Obstbäume übernehmen. In 2023 wurde das ganze durch eine 5 Meter lange und 2 Meter hohe Totholzhecke für den Schutz und Lebensraum von Insekten, Nagetiere und andere Lebewesen erweitert sowie Sitzgelegenheiten für alle Spaziergänger in der Natur geschaffen."
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "wir-ueber-uns_nachhaltigkeit_umweltschutz"
+}

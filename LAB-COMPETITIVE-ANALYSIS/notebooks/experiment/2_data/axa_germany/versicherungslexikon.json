@@ -1,0 +1,281 @@
+{
+    "title": "Versicherungslexikon / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Wichtige Versicherungsfachbegriffe einfach erklärt. Das alles finden Sie im Versicherungslexikon von AXA ►Jetzt entdecken!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/versicherungslexikon",
+        "og:title": "Versicherungslexikon / AXA",
+        "og:description": "Wichtige Versicherungsfachbegriffe einfach erklärt. Das alles finden Sie im Versicherungslexikon von AXA ►Jetzt entdecken!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "text": "Versicherungslexikon"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann sucht nach Fachbegriffe der Versicherungsbranche"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "A"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Ausfalldeckung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "B"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "C"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "D"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Deckungssumme",
+                "Deliktsunfähigkeit"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "E"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Einfacher Diebstahl",
+                "Elektronische Versicherungsbestätigung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "F"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Fahrlässigkeit"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "G"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Grüne Versicherungskarte"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "H"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Hausratversicherung zum Neuwert"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "I"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Internationale Versicherungskarte"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "J"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "K"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "L"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "M"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "N"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Nachtzeitklausel"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "O"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "P"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Pflichtversicherung"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Q"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "R"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "S"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sengschäden"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "T"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Trickdiebstahl"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "U"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Unterschied Diebstahl Raub",
+                "Unterversicherungsverzicht"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "V"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Vandalismus",
+                "Versicherungsssteuer",
+                "Versicherungssumme Hausrat"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "W"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Wiederbeschaffungswert"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "X"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Y"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Z"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Zeitwert"
+            ]
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "versicherungslexikon"
+}

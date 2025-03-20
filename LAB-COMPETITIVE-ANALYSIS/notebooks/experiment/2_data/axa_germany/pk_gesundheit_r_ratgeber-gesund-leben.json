@@ -1,0 +1,765 @@
+{
+    "title": "Ratgeber Gesund leben / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Tipps, Wissenswertes & Checklisten für einen gesunden Lifestyle in allen Lebenslagen ✓Gesundheitsvorsorge ✓Ernährung ✓Sport ►Jetzt mehr erfahren",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/r/ratgeber-gesund-leben",
+        "og:title": "Ratgeber Gesund leben / AXA",
+        "og:description": "Tipps, Wissenswertes & Checklisten für einen gesunden Lifestyle in allen Lebenslagen ✓Gesundheitsvorsorge ✓Ernährung ✓Sport ►Jetzt mehr erfahren",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "Ratgeber Gesund leben"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau sorgt für ihre Gesundheit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahren Sie in unserem Ratgeber Gesund leben Tipps und Wissenswertes aus unseremGesundheitsservice– von der Gesundheitsvorsorge bis zum Erhalt der Gesundheit in allen Lebenslagen."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mutter tröstet Kind mit dickem Schal um den Hals"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was hilft bei Halsschmerzen und was sind die Ursachen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Halsschmerzen sind zwar unangenehm, lassen sich aber oft gut behandeln. Schon mit einfachen Hausmitteln können Sie in harmlosen Fällen schnell für Linderung sorgen. Erfahren Sie alles Wichtige in diesem Beitrag."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/halsschmerzen-ursachen",
+            "text": "Was tun gegen Halsschmerzen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mutter misst bei Ihrem kleinen Sohn Fieber "
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wodurch entsteht Fieber und wie behandelt man dieses Symptom?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Plötzlich steigt die Temperatur im Körper an. Ab wann spricht man von Fieber und was kann dahinterstecken? Erfahren Sie im Artikel auch, welche Behandlungsmöglichkeiten es gibt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/fieber-ursachen",
+            "text": "Wichtige Infos zu Fieber"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ärztin hört Lunge einer Patientin ab"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was tun gegen Husten: Ursachen, Symptome, Hausmittel"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie lange dauert normaler Husten? Warum sind die Symptome abends am schlimmsten? Erfahren Sie hier, was Sie gegen (Reiz-)Husten tun können, woher er kommt und wann Sie einen Arzt oder eine Ärztin aufsuchen sollten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/husten-ursachen",
+            "text": "Was tun gegen Husten"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau ist schwindlig und sie fässt sich an den Kopf"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was sind die Ursachen von Schwindel und was können Sie dagegen tun?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fast ein Drittel der Deutschen leidet einmal im Leben an Schwindelgefühlen. Welche Ursachen kann Schwindel haben? Und was hilft dagegen? Erfahren Sie es in unserem Beitrag!"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/ursachen-schwindel",
+            "text": "Ursachen für Schwindel"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau ist schwindlig und sie fässt sich an den Kopf"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Hautprobleme: Ursachen und Symptome"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hautprobleme sind ein Thema, das uns alle betrifft. Sie treten auf, wenn wir es am wenigsten erwarten, und haben oft weitreichende Auswirkungen auf unseren Alltag und unser Selbstwertgefühl."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/hautprobleme",
+            "text": "Hautprobleme Ursachen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau ist schwindlig und sie fässt sich an den Kopf"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ursachen für Schlafstörungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Leben mit unterbrochenem oder unzureichendem Schlaf kann weitreichende Folgen haben – von reduzierter Arbeitsleistung und Konzentrationsproblemen bis hin zu ernsthaften gesundheitlichen Problemen wie Herzerkrankungen und Depressionen. Daher ist es wichtig, die Ursachen von Schlafstörungen zu verstehen und zu adressieren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/schlafstoerungen-ursachen",
+            "text": "Schlafstörungen Ursachen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mann reibt sich mit geschlossenen Augen über sein Gesicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "MIT CHECKLISTE FÜR TIPPS GEGEN MÜDIGKEIT"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Müdigkeit und ihre Ursachen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie schlafen nicht gut, haben oft Mittagstiefs oder fühlen sich schlapp? Dann lesen Sie hier Hintergrundwissen und praktische Tipps & Tricks für Ihren Alltag."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/ursachen-muedigkeit",
+            "text": "Was tun gegen Müdigkeit"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann fässt sich mit gequältem Gesichtsaudruck an die Brust"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ursachen von Kurzatmigkeit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn die Luft wegbleibt, ist die Erstickungsangst groß. Kurzatmigkeit, medizinisch als Dyspnoe bekannt, kann eine beunruhigende und sogar beängstigende Erfahrung sein – besonders dann, wenn sie unerwartet oder plötzlich auftritt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/kurzatmigkeit-ursachen",
+            "text": "Kurzatmigkeit Ursachen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau trinkt Tee"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was tun gegen Magenschmerzen? Was können die Ursachen sein?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Magenschmerzen treten immer mal wieder auf und können Sie im Alltag je nach Stärke der Beschwerden massiv belasten. Erfahren Sie hier, welche Arten von Magenschmerzen es gibt, was die Ursachen sein könnten und wie Sie ihnen effektiv vorbeugen können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/magenschmerzen-ursachen",
+            "text": "Magenschmerzen Ursachen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau verspürt Übelkeit"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ursachen von Übelkeit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Woher kommt Übelkeit und warum wird uns übel? Lesen Sie hier alles zum Thema, was Sie gegen Symptome tun können und welche Hausmittel helfen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/ursachen-uebelkeit",
+            "text": "Ursachen von Übelkeit"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau trinkt Tee auf dem Balkon im Urlaub"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Durchfall im Urlaub und mögliche Gründe"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durchfall im Urlaub kommt häufiger vor als man denkt. Schätzungsweise sind etwa 50 Prozent der Reisenden während ihres Urlaubs von irgendeiner Form der Diarrhoe betroffen. Die Gründe dafür sind vielfältig. Was Sie tun können, wenn Sie auf Reisen selbst betroffen sind und wie Sie Reisedurchfall möglichst vorbeugen können, erfahren Sie in diesem Beitrag."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/durchfall-im-urlaub",
+            "text": "Durchfall im Urlaub"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau hat Kopfschmerzen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ursachen von Kopfschmerzen und was Sie dagegen tun können"
+        },
+        {
+            "type": "paragraph",
+            "text": "So ziemlich jede:r von uns hat ab und zu oder auch häufiger Kopfschmerzen. Doch was sind die Ursachen und was unterscheidet sie von Migräne? Hier erfahren Sie es."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/kopfschmerzen-ursachen",
+            "text": "Was tun gegen Kopfschmerzen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau behandelt ihre Knieschmerzen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Knieschmerzen und die Ursachen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Laufe des Lebens wird jeder Mensch mindestens einmal von Knieschmerzen geplagt. Dazu kann es durch Sportverletzungen kommen, aber auch Verschleißerscheinungen oder Überbelastung sind häufige Ursachen für Knieschmerzen.Was können Sie gegen die Beschwerden tun und welche Symptome gehen damit einher? Erfahren Sie mehr in unserem Ratgeber."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/knieschmerzen-ursachen",
+            "text": "Ursachen für Knieschmerzen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Baby krabbelt und lacht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste für Eltern"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Stress bei Babys erkennen und vorbeugen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gestresste Babies zeigen ihre Überforderung über Signale wie Unruhe, häufiges Quengeln, Schreien, übermäßiges Fremdeln oder schlechten Schlaf. Erfahren Sie hier, wie Sie Stress bei Babys vorbeugen können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/auswirkungen-stress-babies",
+            "text": "Stress bei Babys vorbeugen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Ärzte schauen sich Bildaufnahmen an"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vorsorgeuntersuchungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zweifellos haben Vorsorge und Früherkennung viel vom medizinischen Fortschritt profitiert. Aber immer noch gilt: Der Arzt und der gesunde Menschenverstand sind bessere Berater als die Angst."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/vorsorge-untersuchungen",
+            "text": "Vorsorgeuntersuchungen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Verliebtes Senioren Ehepaar im Park"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Liebe bleibt im Alter"
+        },
+        {
+            "type": "paragraph",
+            "text": "Liebe im Alter ist kein Tabu mehr. Die Medizin plädiert für erfüllte Beziehungen in späten Jahren und die Gesellschaft lernt, offen über das körperliche Glück im Alter zu sprechen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/liebe-im-alter-senioren",
+            "text": "Liebe im Alter"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau über 60 Jahre schwimmt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ü 60 - das junge Alter"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Lebensphasen haben ihre Herausforderungen. Vor allem im späteren Erwachsenenleben sehen wir ihnen oft mit gemischten Gefühlen entgegen. Was kommt auf mich zu? Was wird sich ändern?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/lebensphasen-ueber-60",
+            "text": "Lebensphase Ü60"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau liegt im Grass"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Tierbisse und Insektenstiche"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer hat nicht schon einmal einen Insektenstich abbekommen – das ist in den meisten Fällen nicht so schlimm. Doch welche Folgen zieht eine evtl. Infektion durch einen Tierbiss oder Tierstich nach sich? Außer Schmerzen durch die offene Wunde können eine Vielzahl an Krankheitserregern in den Körper gelangen und schwere Infektionen verursachen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/insektenstiche-tierbisse",
+            "text": "Tierbisse und Insektenstiche"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau guckt traurig "
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wenn Eltern psychisch krank sind – was brauchen ihre Kinder?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fast ein Drittel der Erwachsenen in Deutschland leiden jährlich an einer psychischen Störung. Die meisten davon an Depressionen oder Angstzuständen. Ungefähr zwei bis drei Millionen Kinder und Jugendliche bis 18 Jahre erleben Schätzungen zufolge pro Jahr, dass ein oder zwei Elternteile psychisch erkranken."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/eltern-psychisch-krank",
+            "text": "Psychisch kranke Eltern"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mann reibt sich die Augen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Augentraining"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Arbeit am Computer ist zu einem festen Bestandteil im Leben vieler Menschen geworden. Für unsere Augen stellt das eine Herausforderung dar. Welche Probleme durch die Arbeit am Bildschirm entstehen und was Sie dagegen tun können, erfahren Sie hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/augentraining-bildschirm",
+            "text": "Augentraining"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau macht Gymnastik im Freien"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesunderhaltung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Egal in welcher Lebensphase: Menschen sehnen sich nach Gesundheit und Fitness. Im Gegensatz zum Gesunden nach einer Erkrankung ist die Gesunderhaltung jedoch ein dauerhafter Prozess, den man mit ein paar einfachen Tricks in seinen Alltag integrieren kann."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/gesunderhaltung",
+            "text": "Mehr zur Gesunderhaltung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junge Leute mit Tattoos"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Tattoos - Gefahren durch Tinte"
+        },
+        {
+            "type": "paragraph",
+            "text": "Immer mehr Menschen tragen ein Tattoo auf ihrem Körper. Doch nicht jeder weiß um die Gefahren, die von der Tinte in der Haut ausgehen. Informieren Sie sich hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/tattoos-risiken",
+            "text": "Tattoo Risiken"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine wohlbeleibte Frau treibt Sport"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Übergewicht und Adipositas"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr als die Hälfte aller Deutschen sind übergewichtig. Wenn der Body Mass Index über 30 steigt, wird es kritisch. Adipositas gilt heute als Krankheit mit schweren Folgen für die Gesundheit."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/uebergewicht-adipositas",
+            "text": "Übergewicht und Adipositas"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Patient diskutiert mit der Ärztin zum Thema Impfung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Impfen in der Diskussion"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Impfbereitschaft in Deutschland ist hoch, allen Parolen von „Impfmüdigkeit“ zum Trotze. Über 90 Prozent der Kinder werden mit dem umfassenden Schutz vor Infektionskrankheiten ausgestattet. Die Zahl der Impfgegner ist mit etwa drei bis fünf Prozent gering, aber sie verschaffen sich Gehör mit Argumenten, die verunsichern können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/impfungen-deutschland",
+            "text": "Impfen in der Diskussion"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Person wiegt sich"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Das Neueste vom BMI"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was bedeutet noch mal der Body Mass Index? Sie erinnern sich: Das Körpergewicht in kg geteilt durch die Körpergröße im Quadrat. Zum Beispiel: Ein Körpergewicht von 60 kg dividiert durch eine Körpergröße von 1,60 m² = 2,56 ergibt einen BMI von 23,4."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/bmi-ernaehrung",
+            "text": "Body Mass Index"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau am Arbeitsplatz"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ergonomie am Arbeitsplatz"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tägliche Rücken-, Nacken- und Kopfschmerzen: Die Folge einer Fehlhaltung am Arbeitsplatz. Wirken Sie dem entgegen, durch mehr Ergonomie an Ihrem Arbeitsplatz."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/ergonomie-am-arbeitsplatz",
+            "text": "Ergonomie am Arbeitsplatz"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau trinkt Tee und schaut aus dem Fenster"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Stressbewältigung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Stress auf der Arbeit, permanente Erreichbarkeit, Probleme in Partnerschaft oder Familie: viele Menschen fühlen sich gestresst. Verschiedene Verfahren können helfen, den Stress im Alltag besser zu managen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/stressbewaeltigung",
+            "text": "Stressbewältigung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Gesundheitsuhr"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sportübungen zu Hause"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sport gibt Sicherheit im Alltag. Das bestätigt auch der aktuelle AXA Deutschland-Report, in dem 41 % der Deutschen angeben, dass Sport und Bewegung ihnen zu mehr Sicherheit im Alltag – insbesondere in Zeiten von Corona – verhelfen. Selbst mit leichten und effektiven Übungen kann man sein Zuhause zum Fitnessstudio machen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/sportuebungen-zuhause",
+            "text": "Sportübungen zu Hause"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mann entspannt sich"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Achtsamkeitsmeditation"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer sich in Achtsamkeitsmeditation übt, geht entspannter und konzentrierter durchs Leben und erlebt positive Effekte auf Körper und Geist."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/achtsamkeitsmeditation",
+            "text": "Achtsamkeitsmeditation"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mann macht Liegestützte"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Crossfit – Kraft, Ausdauer und Fitness"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jeder kennt sie – die blitzblank polierten Fitnessstudios in bester Innenstadtlage, wo es auch um „sehen und gesehen werden“ geht…. Doch ein Trend hält derzeit energisch dagegen: Crossfit! Crossfit ist pures Training ohne Schnickschnack und Chichi."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/crossfit",
+            "text": "Crossfit – Kraft, Ausdauer und Fitness"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mädchen wird von der Kinderärztin untersucht"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vorsorgeuntersuchungen für Kinder"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Ü-Untersuchungen für Kinder gehören zu den wichtigsten Vorsorgeuntersuchungen des Lebens. In den entscheidenden Jahren sollen sie nicht nur Krankheiten frühzeitig erkennen, sondern helfen, auf Verzögerungen bei der Entwicklung rechtzeitig mit gezielter Förderung zu reagieren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/u-untersuchungen-kinder",
+            "text": "Ü-Untersuchungen Kinder"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Taboulé, Petersilie, Olivenöl und Zitrone"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesunde Ernährung für ein langes Leben"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Ernährung stellt die Weichen für körperliche und geistige Gesundheit. Das gilt ein Leben lang und bekommt im Alter noch einmal eine ganz besondere Bedeutung: Was wir in den späten Jahren essen, bestimmt mit, wie wir leben und wie lange."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/gesunde-ernaehrung-langes-leben",
+            "text": "Gesunde Ernährung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Faust drückt auf einem Zigarettenschachtel"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Rauchentwöhnung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Immer mehr Raucher schaffen es, von der Zigarette loszukommen. Wer den Willen hat, macht sich unabhängig. Hier können Sie Ihren Entschluss, Nichtraucher zu werden testen. Holen Sie sich dabei aktive Unterstützung von AXA."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/rauchentwoehnung",
+            "text": "Rauchentwöhnung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Jogger am Strand"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Richtig bewegen, gesund trainieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sich fit zu halten, heißt nicht automatisch, viel Schweiß zu vergießen. Ganz im Gegenteil: Spannkraft und Elastizität lassen sich ganz locker im Alltag trainieren. Mit besten Ergebnissen für die Gesundheit, Lebensfreude und Leistungsfähigkeit. Ganz ohne große Umstände, Verrenkungen oder Zeitaufwand."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/richtig-bewegen-gesund-trainieren",
+            "text": "Richtig bewegen, gesund trainieren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Medikamente"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste Medikamentenliste"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vorsicht bei Wechselwirkungen von Medikamenten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Risiko von gefährlichen Wechselwirkungen bei Medikamenten steigt beim Älterwerden. Je mehr Medikamente wir einnehmen müssen, desto größer wird die Gefahr, dass die verschiedenen Arzneistoffe unerwünschte Reaktionen miteinander eingehen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/medikamente-wechselwirkung",
+            "text": "Wechselwirkungen von Medikamenten"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Alter Mann fährt Fahrrad"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Seniorensport"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sport hält fit und gesund. Doch es wird zunehmend schwieriger sich sportlich zu betätigen, wenn die Gelenke nicht mehr mitspielen. Immer mehr Vereine bieten daher Kurse an, die speziell auf die Bedürfnisse ihrer Teilnehmer ausgerichtet sind."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/seniorensport",
+            "text": "Seniorensport"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Korb mit Pilze"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was tun bei Lebensmittelvergiftung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Damit Sie nicht zu den rund 200.000 Deutschen zählen, die jährlich mit einer Lebensmittelvergiftung zu kämpfen haben, erfahren Sie von uns, wie Sie mit Lebensmitteln richtig umgehen, sich vorbeugend vor Unannehmlichkeiten schützen können, worauf Sie besonders achten sollten und wie Sie sich im Krankheitsfall am besten verhalten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/lebensmittelvergiftung-tipps-hilfe",
+            "text": "Lebensmittelvergiftung"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_r_ratgeber-gesund-leben"
+}

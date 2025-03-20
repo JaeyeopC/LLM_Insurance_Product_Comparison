@@ -1,0 +1,178 @@
+{
+    "title": "Gesundheitsservices",
+    "metadata": {
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Gesundheitsservices",
+        "og:description": " ",
+        "og:image": "https://www.generali.de/resource/blob/22302/07574d27a062db9488761ef89c94c870/bild-buehne-gesundheitsservices-data.jpg"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Gesundheitsservices"
+        },
+        {
+            "text": "Wir unterstützen Sie mit Gesundheitsprogrammen oder helfen Ihnen beim Einholen einer ärztlichen Zweitmeinung."
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Personen fahren auf dem Rad durch eine weite Landschaft"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#85520",
+            "text": "Fahrzeug"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#85520",
+            "text": "Zuhause"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83450",
+            "text": "Gesundheit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83450",
+            "text": "Pflege"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83824",
+            "text": "Freizeit"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83824",
+            "text": "Unfall"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83830",
+            "text": "Recht"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#83830",
+            "text": "Haftung"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#84134",
+            "text": "Vorsorge"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#84134",
+            "text": "Finanzen"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#-82530",
+            "text": "Rundum-Schutz"
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden#exklu-siv-fuer-junge-leute-85406",
+            "text": "Young Line"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "PRIVATKUNDEN",
+                "GESUNDHEIT & FREIZEIT",
+                "GESUNDHEITSSERVICES"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gesund­heits­pro­gramme"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir stehen Ihnen in jeder Situation mit Rat und Tat zur Seite. Zum Beispiel, indem wir Sie im Umgang mit Ihrer Krankheit schulen. So können Folgeerkrankungen häufig vermieden werden. Denn unser gemeinsames Ziel ist, die Lebensqualität unserer Kunden zu erhalten – oder noch zu verbessern."
+        },
+        {
+            "type": "link",
+            "href": "/privatkunden/gesundheit-freizeit/gesundheitsservices/programme",
+            "text": "Zu den Programmen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mehr Gesund­heits­ser­vices"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "ArzneimittelWir unterstützen Sie bei allem, was mit Ihren benötigten Arzneien zu tun hat.Mehr erfahren",
+                "HilfsmittelWir unterstützen Sie bei allem, was mit Ihrem Hilfsmittel zu tun hat.Mehr erfahren",
+                "OrganspendeOrganspenden können Leben retten.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mobile Apps für Ihre Gesund­heit"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Generali Mobile HealthDie smarte Kompaktlösung rund um das Thema Gesundheit vom Symptom-Check bis zum Online-Arzttermin.Mehr erfahren",
+                "Generali VitalityMehr als versichert – Generali Vitality belohnt Sie für jeden Schritt in ein gesünderes Leben.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "privatkunden_gesundheit-freizeit_gesundheitsservices"
+}

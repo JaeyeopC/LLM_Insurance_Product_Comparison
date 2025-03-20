@@ -1,0 +1,77 @@
+{
+    "title": "KFZ-Unfall mit ausländischer Generali-Gesellschaft melden | Generali.de",
+    "metadata": {
+        "keywords": "Schaden,Schaden melden,Schaden Online melden,melden,Kfz,Kfz Schaden melden",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Schadenmeldung Kfz-Ausland",
+        "og:description": "Nutzen Sie unser Online-Formular für Ihren KFZ-Auslandschaden",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Schadenmeldung: Kfz-Unfall Ausland"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "SCHADEN MELDEN",
+                "KFZ-AUSLAND"
+            ]
+        },
+        {
+            "type": "blockquote",
+            "text": "Hinweis zur SchadenmeldungÜber dieses Formular melden Sie uns ein Kfz-Schaden, wenn:Sie einen Unfall gehabt haben undder Unfallgegner bei einer Generali Gesellschaft im Ausland versichert ist.Ihren Schaden bearbeiten wir in enger Zusammenarbeit mit unseren ausländischen Generali Kollegen. Wichtig für Sie: Es gilt das Recht des Landes, in dem der Unfall passierte."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte füllen Sie das Formular vollständig aus. Wir kümmern uns gerne direkt darum."
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle mit * gekennzeichneten Felder sind Pflichtfelder."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Wetter-Warn-App für mehr Schutz"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_schaden-melden_kfz-ausland"
+}

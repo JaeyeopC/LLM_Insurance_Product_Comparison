@@ -1,0 +1,270 @@
+{
+    "title": "Der Privatpatient Leitfaden / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Informationen für privat Krankenversicherte rund um die PKV ✓Kostenerstattung  ✓ambulante und stationäre Behandlungen ►Jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/s/pkv-privatpatient-leitfaden",
+        "og:title": "Der Privatpatient Leitfaden / AXA",
+        "og:description": "Informationen für privat Krankenversicherte rund um die PKV ✓Kostenerstattung  ✓ambulante und stationäre Behandlungen ►Jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E1571589881/18987434/online-begleiter-junger-mann-am-laptop_facebook.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E1571589881/18987434/online-begleiter-junger-mann-am-laptop_facebook.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "PKV Privatpatient Leitfaden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junger Mann sitzt lächelnd am Laptop"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Wie funktioniert die Private Krankenversicherung?",
+                "Was muss ich beachten, wenn ich behandelt werden muss?",
+                "Was, wenn sich Entscheidendes in meinem Leben ändert?"
+            ]
+        },
+        {
+            "text": "Was finden Sie auf dieser Seite?"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "Wie funktioniert die PKV?",
+                "Für Sie neu als Privatpatient",
+                "Wenn Sie behandelt werden müssen",
+                "In jeder Lebensphase gut abgesichert"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Der eine Tarif mag eine fixe jährliche Höchstleistung vorsehen, der andere eine prozentualeKostenerstattung, die sich nach der jeweiligen Leistungsart richtet; der dritte gibt für die Versicherungsleistung Bedingungen vor und erstattet beispielsweise bestimmte Kosten nur alle zwei Jahre. Werden die Bedingungen nicht eingehalten, so kann das dazu führen, dass Sie für Kosten, die dem Grunde nach erstattungsfähig sind, selbst aufkommen müssen. Deshalb ist es wichtig, dass Sie IhrenVersicherungsschutz kennen.Sehen Sie sich dazu bitte die Leistungsbeschreibung für Ihren Tarif an - dort finden Sie alles zu Inhalt und Umfang Ihres Versicherungsschutzes."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Leistungsbeschreibung Tarif Vital300-U und Tarif Vital900-U (PDF, 40 KB)",
+                "Leistungsbeschreibung Tarif ActiveMe-U (PDF, 62 KB)",
+                "Leistungsbeschreibung Tarif ElBonus-U (PDF, 41 KB)"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Wie funktioniert die PKV?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Egal, ob Sie bisher gesetzlich oder bereits privat krankenversichert waren - vieles ist für Sie neu. Welche Veränderungen auf Sie als privat Krankenversicherter zukommen, erklären wir Ihnen in den Erstinformationen für Privatversicherte."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-krankenversicherungsschutz",
+            "text": "Erstinformationen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Behandlung als Privatpatient beim Arzt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Privatpatient beim Arzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sind akut erkrankt und müssen zum Arzt? Hier finden Sie hilfreiche Informationen rund um Ihren Arztbesuch sowie häufige Fragen und Antworten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-arztbesuch",
+            "text": "Arztbesuch"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Behandlung beim Zahnarzt als Privatpatient"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Privatpatient beim Zahnarzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Es steht ein Zahnarztbesuch an, aber Sie haben noch Fragen zu Ihrem Versicherungsschutz oder zu Formalitäten in der Zahnarztpraxis? Wir stehen Ihnen hier beratend zur Seite."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-zahnarztbesuch",
+            "text": "Zahnarztbesuch"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Krankenhausaufenthalt als Privatpatient"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Privatpatient im Krankenhaus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Krankenhausaufenthalt ist nie schön. Immerhin zeigt die Erfahrung: In den meisten Fällen ist noch genug Zeit, ihn zu planen. Doch leider gibt es auch dringende Situationen, in denen Sie sofort in eine Klinik müssen. Lesen Sie hier, was Sie wissen sollten, wenn ein Krankenhausaufenthalt bevorsteht."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-krankenhausaufenthalt",
+            "text": "Krankenhausaufenthalt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Private Krankenversicherung für Studenten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier findest Du Entscheidungshilfen für die Wahl der privaten Krankenversicherung in der Phase des Studiums."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-eintritt-studium",
+            "text": "Krankenversicherung im Studium"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "junge Familie im Wald unterwegs"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Private Krankenversicherung für junge Familien"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hier finden Sie Informationen über Besonderheiten der privaten Krankenversicherung, wenn ein Kind geboren wird."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-familie",
+            "text": "Krankenversicherung für Famillien"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Eintritt in den Ruhestand mit der PKV"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir geben Ihnen hier Informationen über die Entwicklung Ihrer privaten Krankenversicherung nach Abschluss des Arbeitslebens."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-eintritt-ruhestand",
+            "text": "Krankenversicherung im Ruhestand"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Sie machen sie selbstständig?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dann können Sie weiterhin privat krankenversichert bleiben, sollten aber Ihren Versicherungsschutz neu ordnen. Denn jetzt entfallen der Arbeitgeberzuschuss zu Ihrer Krankenversicherung und die Gehaltsfortzahlung bei Krankheit. Um sich für den Fall einer Arbeitsunfähigkeit finanziell abzusichern, brauchen Sie ein Krankentagegeld, das sich an Ihrem tatsächlichen Gewinn orientiert. Unter Umständen ist jetzt auch eine Verkürzung der Karenzzeit ratsam, also der leistungsfreien Tage zu Beginn einer Arbeitsunfähigkeit."
+        },
+        {
+            "type": "paragraph",
+            "text": "Grundsätzlich gilt für Arbeitnehmer die Versicherungspflicht in der Gesetzlichen Krankenversicherung (GKV). Sie können sich aber privat krankenversichern, wenn Ihr Einkommen die sogenannte Versicherungspflichtgrenze (auch Jahresarbeitsentgeltgrenze genannt, JAEG) übersteigt. Diese Grenze richtet sich nach dem allgemeinen Lohnniveau des Vorjahres und wird vom Gesetzgeber jährlich angepasst.Liegt Ihr Einkommen darüber und Sie möchten sich weiterhin privat krankenversichern, dann sollten Sie jetzt die Höhe Ihres Krankentagegeldes und die Dauer der Karenzzeit überprüfen und ggfs. an Ihre neue berufliche Situation anpassen.Die Karenzzeit ist der Zeitraum zwischen Beginn der Arbeitsunfähigkeit und dem Zeitpunkt, ab dem Sie Leistungen aus der Krankentagegeldversicherung erhalten.Auf jeden Fall sollten Sie uns über Ihr neues Arbeitnehmerverhältnis informieren, damit wir Ihnen eine Arbeitgeberbescheinigung (§257 SGB V) ausstellen können. Diese Beitragsbescheinigung braucht Ihr Arbeitgeber zur Berechnung des Arbeitgeberzuschusses zu Ihrem Krankenversicherungsbeitrag.Liegt Ihr Einkommen als Arbeitnehmer unter der Versicherungspflichtgrenze, so müssen Sie sich jetzt gesetzlich versichern. Dabei können Sie die Krankenkasse frei wählen. Das Lebensalter kann dem Wechsel in die GKV allerdings eine Grenze setzen: sind Sie über 55 Jahre alt, so ist die Aufnahme in der GKV nahezu ausgeschlossen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihr neuer Arbeitgeber braucht von Ihnen eine Bescheinigung (nach § 257 SGB V) über Ihren privaten Krankenversicherungsschutz. Sie können sie ganz einfach telefonisch bei uns unter0221 148-41002anfordern.Ihr Gehalt ändert sich? Oder die Dauer der Gehaltsfortzahlung im Krankheitsfall? Dann denken Sie bitte daran, Ihr Krankentagegeld den neuen Verhältnissen anzupassen. Innerhalb von zwei Monaten nach dem Arbeitgeberwechsel können Sie ohne erneute Gesundheitsprüfung Ihr Krankentagegeld entsprechend erhöhen oder Ihre Karenzzeit verkürzen. Als Karenzzeit bezeichnet man die leistungsfreien Tage zu Beginn einer Arbeitsunfähigkeit."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei Arbeitslosigkeit müssen sich Arbeitnehmer in aller Regel gesetzlich krankenversichern. Aber: keine Regel ohne Ausnahme:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Wer 55 Jahre oder älter ist, der wird meist nicht versicherungspflichtig in der Gesetzlichen Krankenversicherung (GKV) und bleibt privat krankenversichert.",
+                "Wer jünger ist, der kann sich von der Versicherungspflicht nach §8 SGB 5 (1) 1a in der GKV befreien lassen."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sind Sie unsicher, welche Möglichkeiten Sie haben? Oder wissen Sie bereits, dass Sie bald wieder eine Arbeitsstelle haben werden und sich wieder privat krankenversichern können? Dann sichern Sie sich die Vorteile Ihrer bisherigen privaten Krankenvollversicherung bei AXA und lassen Sie Ihren Vertrag ruhen; mit einer sogenannten Anwartschaftsversicherung ist das einmalig für sechs Monate möglich. Ihre Beiträge entfallen während dieser Zeit."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Versicherungspflichtgrenze/Jahresarbeitsentgeltgrenze wird in der Regel jedes Jahr vom Gesetzgeber leicht angehoben. Steigt Ihr Gehalt nicht in gleichem Maße, dann kann es passieren, dass es unterhalb der neuen Versicherungspflichtgrenze liegt. Damit werden Sie grundsätzlich versicherungspflichtig in der Gesetzlichen Krankenversicherung (GKV).Wenn Sie aber seit mindestens fünf Jahren wegen Überschreitens der Versicherungspflichtgrenze krankenversicherungsfrei waren, dann können Sie sich jetzt nach §8 SGB 5 (1) 1 von der Versicherungspflicht befreien lassen und privat krankenversichert bleiben."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "AXA Hotline anrufen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sollten Sie hier nicht alle Antworten finden, dann melden Sie sich bei uns:"
+        },
+        {
+            "text": "0221 148-41002"
+        },
+        {
+            "type": "link",
+            "href": "mailto:service@axa.de",
+            "text": "service@axa.de"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "gesundheitsservice360° von AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sind privat krankenvollversichert bei AXA und möchten z.B. von vielseitigen Präventionsangeboten profitieren? Nutzen Sie die Versorgungsangebote des gesundheitsservice360°. Unsere Gesundheitsexperten geben Ihnen bei vielen Krankheiten Hilfestellungen und begleiten Sie als betroffener Patient persönlich."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/gesundheitsservice",
+            "text": "Gesundheitsservice"
+        },
+        {
+            "text": "0221 148-41002"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_s_pkv-privatpatient-leitfaden"
+}

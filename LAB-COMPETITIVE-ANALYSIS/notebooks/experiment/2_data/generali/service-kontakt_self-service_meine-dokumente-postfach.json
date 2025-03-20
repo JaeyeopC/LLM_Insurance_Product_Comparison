@@ -1,0 +1,130 @@
+{
+    "title": "Web-Postfach für Ihre Dokumente für Nutzer der GesundheitsApp I Generali",
+    "metadata": {
+        "description": "Erhalten Sie Dokumente Ihrer Krankenversicherung bei der Generali über das Web-Postfach als Ergänzung zur GesundheitsApp. Nutzen Sie unser Web-Postfach zusätzlich zur GesundheitsApp der Generali.",
+        "keywords": "Postfach,Login,Web-Postfach,Dokumente empfangen,Online-Postfach",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Web-Postfach KV",
+        "og:description": "Erhalten Sie Dokumente Ihrer Krankenversicherung über das Web-Postfach",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Dokumente empfangen Web-Postfach"
+        },
+        {
+            "text": "Sie möchten Dokumente Ihrer Krankenversicherung über das Web-Postfach empfangen?"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "ONLINE-SERVICES",
+                "DOKUMENTE EMPFANGEN WEB-POSTFACH"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die perfekte Ergänzung zur GesundheitApp – Melden Sie sich im Web-Postfach einfach mit Ihren Benutzerdaten derGenerali GesundheitsAppan. Alles, was im Postfach Ihrer GesundheitsApp gespeichert ist, finden Sie auch im Web-Postfach."
+        },
+        {
+            "type": "link",
+            "href": "https://gesundheitsapp.generali.de/generali/gesundheitsapp/public/webpostfach",
+            "text": "zum Web-Postfach"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Sie nutzen die Generali GesundheitsApp noch nicht?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Laden Sie sich jetzt die Generali GesundheitsApp herunter und registrieren Sie sich, um das Web-Postfach zu nutzen."
+        },
+        {
+            "type": "blockquote",
+            "text": "So funktioniert’s:Laden Sie sich die App für iOS oder Android herunter und registrieren Sie sichMelden Sie sich mit Ihren Benutzerdaten im Webpostfach an"
+        },
+        {
+            "type": "paragraph",
+            "text": "Übrigens: Um Dokumente von der Generali Krankenversicherung digital zu empfangen, schalten Sie die Funktion einfach im Postfach frei."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/78152/eb58aba935206ccfe2303344930f2397/z149-contact-option-375x250-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wir sind gerne für Sie da"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir konnten Ihre Frage nicht in unserem FAQ beantworten? Dann nehmen Sie gerne Kontakt mit uns auf."
+        },
+        {
+            "type": "paragraph",
+            "text": "Montag bis Freitag von 08:00 – 19:00 UhriOS:0221 1636-1800Android:0221 1636-1818gesundheitsapp@generali.com"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wei­tere digi­tale Ser­vices"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die Generali GesundheitsAppAlles rund um Ihre Krankenversicherung in einer App.mehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_self-service_meine-dokumente-postfach"
+}

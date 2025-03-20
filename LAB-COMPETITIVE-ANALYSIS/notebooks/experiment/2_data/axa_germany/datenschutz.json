@@ -1,0 +1,516 @@
+{
+    "title": "Datenschutz: Hinweise und Informationen ⁄ AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Erfahren Sie mehr zum Datenschutz bei AXA ✓ inklusive der Rechte von Betroffenen und Kontaktmöglichkeiten ▶ jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/datenschutz",
+        "og:title": "Datenschutz: Hinweise und Informationen ⁄ AXA",
+        "og:description": "Erfahren Sie mehr zum Datenschutz bei AXA ✓ inklusive der Rechte von Betroffenen und Kontaktmöglichkeiten ▶ jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "text": "Datenschutz & Cookies"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Neutrales Bild von AXA"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de#CookieEinstellungen",
+            "text": "zu den Cookie-Einstellungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Geschäft basiert auf Vertrauen. Für uns als Versicherung ist der Schutz der personenbezogenen Daten unserer Versicherungsnehmer ein sehr wichtiges Anliegen. Wir beachten daher alle anwendbaren Datenschutzgesetze und darüber hinausgehende Standards. Zudem sind wir bestrebt, den Datenschutz stetig zu verbessern.Auf dieser Website haben wir für Sie eine Reihe von Informationen zum Datenschutz zusammengestellt:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auf welcher Grundlage verarbeiten wir Ihre Daten (Ziff.1)",
+                "Datenschutzrechtliche Hinweise zum Besuch unserer Website (Ziff. 2)",
+                "Ihre Rechte als Betroffener (Ziff.3)",
+                "Kontakt zum Datenschutz (Ziff.4)",
+                "Zusätzliche Informationen zum Datenschutz, insbesondere zum Schutz Ihrer personenbezogenen Daten im Rahmen des Versicherungsvertrages (Ziff. 5)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Verarbeitung Ihrer personenbezogenen Daten durch die AXA erfolgt auf gesetzlicher Grundlage und – soweit erforderlich – auf Grundlage Ihrer Einwilligung. Wichtigste gesetzliche Grundlage ist seit dem 25.05.2018 die sog.Datenschutzgrundverordnung (DSGVO). Selbstverständlich beachten wir auch alle weiteren einschlägige gesetzlichen Vorgaben, insbesondere die des Bundesdatenschutzgesetzes (BDSG) und des Versicherungsvertragsgesetzes (VVG)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Da der Schutz Ihrer Daten uns ein sehr wichtiges Anliegen ist, gehen wir über die gesetzlichen Standards hinaus. Die AXA-Gesellschaften"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "AXA Easy Versicherung AG",
+                "AXA Krankenversicherung AG",
+                "AXA Lebensversicherung AG",
+                "AXA Versicherung AG",
+                "DBV Deutsche Beamtenversicherung, Zweigniederlassung der AXA Versicherung",
+                "Deutsche Ärzteversicherung AG"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "sind mit Wirkung zum 01.01.2014 den „Verhaltensregeln für den Umgang mit personenbezogenen Daten durch die deutsche Versicherungswirtschaft“ beigetreten.Sie haben sich damit verpflichtet, zusätzliche verbindliche Verhaltensrichtlinien einzuhalten, die vom Gesamtverband der deutschen Versicherungswirtschaft e.V. mit Sitz in Berlin (GDV) mit den Datenschutzaufsichtsbehörden der Länder abgestimmt und die von der Landesdatenschutzaufsichtsbehörde in Berlin zertifiziert wurden.Hierdurch wird die Verarbeitung der personenbezogenen Daten unserer Versicherungsgesellschaften soweit wie möglich reduziert und zugleich die Transparenz der Datenverarbeitung deutlich erhöht."
+        },
+        {
+            "type": "link",
+            "href": "https://www.gdv.de/gdv/service/datenschutzkodex",
+            "text": "Verhaltensregeln für den Umgang mit personenbezogenen Daten durch die deutsche Versicherungswirtschaft"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zudem hat die AXA Gruppe weltweit eine verbindliche, von europäischen Aufsichtsbehörden genehmigte Unternehmensrichtlinie (sog. Binding Corporate Rules) eingeführt, die Grundlage der Datenverarbeitung in der Unternehmensgruppe und insbesondere auch der Datentransfers innerhalb der AXA Gruppe weltweit ist.Hierdurch wird ein durchgehend hohes Datenschutzniveau auch bei Datenverarbeitung durch AXA Gesellschaften, die außerhalb der EU ansässig sind, rechtsverbindlich gewährleistet. Hier finden Sie weitere Informationen dazu:"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-1445378726/axade/medien/footer/datenschutz/axa-bcr-deutsch.pdf",
+            "text": "Infoblatt - Binding Corporate Rules in Deutsch (PDF, 132 KB)"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-782889513/axade/medien/footer/datenschutz/axa-bcr-englisch.pdf",
+            "text": "Binding Corporate Rules in Englisch (PDF, 146 KB)"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E1979777661/axade/medien/footer/datenschutz/bcr-list-of-companies.pdf",
+            "text": "Liste - Binding Corporate Rules Gesellschaften (PDF, 212 KB)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Transparenz ist ein wichtiger Baustein einer vertrauensvollen Zusammenarbeit. Daher möchten wir Sie im Folgenden entsprechend den einschlägigen rechtlichen Anforderungen insb. der DSGVO über die Verarbeitung Ihrer personenbezogenen Daten bei einem Besuch unserer Website inkl. Unterseiten sowie über Ihre Rechte und Möglichkeiten der Kontaktaufnahme möglichst genau informieren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie befinden sich auf einer Website der AXA Konzern AG. Verantwortlicher für die Datenverarbeitung im Rahmen der Nutzung der Website durch Sie ist:AXA Konzern AG, Colonia-Allee 10-20, 51067 Köln."
+        },
+        {
+            "type": "paragraph",
+            "text": "Beschreibung & Zwecke der Verarbeitung personenbezogener DatenGrundsätzlich müssen Sie sich zur Nutzung unserer Website nicht anmelden oder identifizieren. Im Rahmen der Benutzung der Website müssen wir jedoch IhreIP-Adresseverarbeiten, um die Funktionalität der Website zu ermöglichen, insb. um Ihnen die von Ihnen angeforderten Seiten zuleiten zu können.Rechtsgrundlage für die Verarbeitung & berechtigtes Interesse, auf dem die Verarbeitung beruhtDie Verarbeitung erfolgt im Regelfall auf Grund unsererberechtigten Interessengemäß Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse besteht darin, eine Website für Werbezwecke und für allgemeine Informations- und Kommunikationszwecke sowie zur Darstellung der AXA zu betreiben.Soweit Sie unsere Website besuchen, um einen Versicherungsvertrag mit uns anzubahnen (z.B. um sich über Vertragsbedingungen zu informieren) oder um einen bestehenden Vertrag zu verwalten oder zu kündigen, ist abweichend hiervon Rechtsgrundlage für die Verarbeitung Ihrer Daten Art. 6 Abs. 1 lit. b DSGVO (Anbahnung bzw. Durchführung eines Vertrages)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Beschreibung & Zwecke der Verarbeitung personenbezogener DatenDie Webserver speichern die aufgerufenen Seiten automatisch. Da auch hierbei Ihre IP-Adresse gespeichert wird, stellt auch dieseAufrufhistoriegrundsätzlich ein personenbezogenes Datum dar. Die Aufrufhistorie verwenden wir zur technischen Fehlersuche und um Angriffe auf unsere Systeme abwehren und aufklären zu können.Darüber hinaus werten wir die Aufrufhistorie der Website, soweit diese gespeichert ist, aus, um die Webseiten zu optimieren. Die Auswertung als solche folgt dabei in anonymer Form, d.h. durch Zusammenfassung von Aufrufdaten, so dass die Ergebnisse keinen Personenbezug mehr haben.Rechtsgrundlage für die Verarbeitung & berechtigtes Interesse, auf dem die Verarbeitung beruhtDie Verarbeitung erfolgt im Regelfall auf Grund unsererberechtigten Interessengemäß Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse besteht darin, unsere Anlagen und Systeme vor Angriffen zu schützen und unsere Websites zu wirtschaftlichen Zwecken weiter zu entwickeln.SpeicherdauerDie Speicherdauer der Aufrufhistorie beträgt maximal 3 Monate."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie können Ihre vorgenommenen Einstellungen jederzeit unter unseren Cookie-Einstellungen anpassen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de#CookieEinstellungen",
+            "text": "zu den Cookie-Einstellungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nähere Informationen zu den eingesetzten Cookies unterteilt nach Cookie-Namen, Cookie-Kategorie und der Speicherdauer sowie für welche Websites der AXA die von Ihnen vorgenommenen Cookie-Einstellungen gelten, finden Sie hier(PDF Download / 69 KB)."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.4.1 Technisch erforderliche und funktionsbezogene CookiesBeschreibung & Zwecke der Verarbeitung personenbezogener DatenGenerell technisch erforderliche Cookies (Session Cookies) verwenden wir für die allgemeine Nutzung unserer Website. So werden bestimmte vom Nutzer ausgeführte Aktionen gespeichert. Diese Cookies sind notwendig für eine funktionsfähige Navigation auf der Website und zur Nutzung bestimmter Websitefunktionen, wie z.B. unsere Tarifrechner, das E-Mail-Kontaktformular oder die Betreuersuche. Ihnen als Nutzer wird damit der Besuch auf unserer Website erleichtert, da Sie bequem verschiedene Bereiche auf unserer Seite optimal nutzen können.Datenschutzrechtliche Rechtsgrundlage für die VerarbeitungDie Verarbeitung erfolgt zur Durchführung des  Nutzungsverhältnisses im Rahmen der Nutzung der Website und ihrer Funktionalitäten gemäß Art. 6 Abs. 1 lit. f DSGVO.Erforderlichkeit der Bereitstellung / Folgen Nichtbereitstellung personenbezogener InformationenDie Cookies sind für die Nutzung der Website und ihrer Funktionalitäten erforderlich.2.4.2 Statistik-CookiesBeschreibung & Zwecke der Verarbeitung personenbezogener DatenStatitistik- bzw. leistungsbezogene Cookies helfen uns, den Datenverkehr und die technische Funktionalität unserer Website zu messen. Dadurch können wir erkennen, welche Bereiche unserer Seite Nutzer am häufigsten aufsuchen und ob eventuelle Fehlermeldungen auf diesen Seiten erscheinen. So schaffen wir einen höheren Nutzungskomfort für die Nutzung unserer Website. Zweck der Verarbeitung ist also die Verbesserung der Qualität der Website und technische Optimierung.Datenschutzrechtliche Rechtsgrundlage für die VerarbeitungDie Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO, sofern Sie diese in den Cookie-Einstellungen erteilt haben.Erforderlichkeit der Bereitstellung / Folgen Nichtbereitstellung personenbezogener InformationenSie können diese Cookie-Funktionalität jederzeit ausstellen über dieCookie-Einstellungen.2.4.3 Marketing-CookiesBeschreibung & Zwecke der Verarbeitung personenbezogener DatenMarketing- bzw. Personalisierungs-Cookies verwenden wir, um ein Profil der Interessen eines Nutzers zu erstellen und auf ihn zugeschnittene Werbeanzeigen (Online- und Social-Werbung) zu präsentieren. Ebenso setzen wir diese Cookies ein, damit wir nachvollziehen können, wie häufig einem Nutzer bestimmte Anzeigen erscheinen.Datenschutzrechtliche Rechtsgrundlage für die VerarbeitungDie Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO, sofern Sie diese in den Cookie Einstellungen erteilt haben.Erforderlichkeit der Bereitstellung / Folgen Nichtbereitstellung personenbezogener InformationenSie können diese Cookie-Funktionalität jederzeit ausstellen über dieCookie-Einstellungen.Weitere Informationen zu den verwendeten Cookies finden Sie unter Punkt 2.5."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.5.1 Google Analytics: [Leistungsbezogene Cookies]Soweit Sie Ihre Einwilligung erklärt haben, wird auf dieser Website Google Analytics Universal und Google Analytics 4 eingesetzt, ein Webanalysedienst der Google LLC. Verantwortliche Stelle für Nutzer in der EU/ dem EWR und der Schweiz ist Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland („Google“).Umfang der VerarbeitungGoogle Analytics verwendet Cookies, die eine Analyse der Benutzung unserer Webseiten durch Sie ermöglichen. Die mittels der Cookies erhobenen Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.Wir nutzen Google Signals. Damit werden in Google Analytics zusätzliche Informationen zu Nutzern erfasst, die personalisierte Anzeigen aktiviert haben (Interessen und demographische Daten) und Anzeigen können in geräteübergreifenden Remarketing-Kampagnen an diese Nutzer ausgeliefert werden. Sofern Sie die Nutzung von Google Signals nicht wünschen, deaktivieren Sie bitte in Ihren Google-Konto-Einstellungen die Option „personalisierte Werbung“.Bei Google Analytics 4 und Google Analyctis Universal ist die Anonymisierung von IP-Adressen standardmäßig aktiviert. Aufgrund der IP-Anonymisierung wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird laut Google nicht mit anderen Daten von Google zusammengeführt.Während Ihres Website-Besuchs wird Ihr Nutzerverhalten in Form von „Ereignissen“ erfasst. Ereignisse können sein:Seitenaufrufe, erstmaliger Besuch der Website, Start der Sitzung , ihr „Klickpfad“, Interaktion mit der Website, Scrolls (immer wenn ein Nutzer bis zum Seitenende (90%) scrollt), Klicks auf externe Links, interne Suchanfragen, Interaktion mit Videos, Dateidownloads, gesehene / angeklickte Anzeigen und Spracheinstellungen.Außerdem wird erfasst:Ihr ungefährer Standort (Region), ihre IP-Adresse (in gekürzter Form) , technische Informationen zu Ihrem Browser und den von Ihnen genutzten Endgeräten (z.B. Spracheinstellung, Bildschirmauflösung), ihr Internetanbieter und die Referrer-URL (über welche Website/ über welches Werbemittel Sie auf unsere Website gekommen sind.Zwecke der VerarbeitungIm Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um die Nutzung der Website auszuwerten und um Reports über die Website-Aktivitäten zusammenzustellen. Die durch Google Analytics bereitgestellten Reports dienen der Analyse der Leistung unserer Website.EmpfängerEmpfänger der Daten sind/können sein:Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (als Auftragsverarbeiter nach Art. 28 DSGVO) und Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA sowie Alphabet Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.Es ist nicht auszuschließen, dass US-amerikanische Behörden auf die bei Google gespeicherten Daten zugreifen.DrittlandtransferSoweit Daten außerhalb der EU/des EWR verarbeitet werden und kein dem europäischen Standard entsprechendes Datenschutzniveau besteht, haben wir zur Herstellung eines angemessenen Datenschutzniveausmit dem Dienstleister EU-Standardvertragsklauselngeschlossen. Die Muttergesellschaft von Google Ireland, Google LLC, hat Ihren Sitz in Kalifornien, USA. Eine Übermittlung von Daten in die USA und ein Zugriff US-amerikanischer Behörden auf die bei Google gespeicherten Daten kann nicht ausgeschlossen werden. Die USA gelten derzeit aus datenschutzrechtlicher Sicht als Drittland. Sie haben dort nicht die gleichen Rechte wie innerhalb der EU/ des EWR. Ggf. stehen Ihnen keine Rechtsbehelfe gegen Zugriffe von Behörden zu.Rechtsgrundlage Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.Ob Sie an dem Tracking-Verfahren teilnehmen möchten, können Sie über dieCookie-Einstellungenbestimmen. Dort können Sie Ihre zuvor erteilte Zustimmung auch jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt. Nähere Informationen zu den eingesetzten Cookies inkl. der Speicherdauer finden Sie hier hier(PDF Download / 69 KB).Nähere Informationen zu Nutzungsbedingungen von Google Analytics und zum Datenschutz bei Google finden Sie unterhttps://marketingplatform.google.com/about/analytics/terms/de/und unterhttps://policies.google.com/?hl=de.2.5.2 Google Ads Conversion Tracking - interessenbasierte Werbung und Google Remarketing: [Personalisierungs-Cookies]Um interessenbasierte Online Werbung auf anderen Webseiten oder der Google-Suche schalten zu können, nutzen wir als AdWords-Kunde ferner das Google Conversion Tracking, einen Analysedienst der Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; „Google“). Dabei wird von Google Adwords ein Cookie auf Ihrem Rechner gesetzt („Conversion Cookie“), sofern Sie über eine Google-Anzeige auf unsere Webseite gelangt sind. Diese Cookies verlieren nach 30 Tagen ihre Gültigkeit und dienen nicht der persönlichen Identifizierung. Besuchen Sie bestimmte Seiten von uns - und das Cookie ist noch nicht abgelaufen - können wir und Google erkennen, dass jemand auf die Anzeige geklickt hat und so zu unserer Seite weitergeleitet wurde. Jeder AdWords-Kunde erhält ein anderes Cookie.Cookies können somit nicht über die Webseiten von AdWords-Kunden nachverfolgt werden. Die mithilfe des Conversion-Cookies eingeholten Informationen dienen dazu, Conversion-Statistiken für AdWords-Kunden zu erstellen, die sich für Conversion-Tracking entschieden haben. Die AdWords-Kunden erfahren die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen.Außerdem nutzen wir die Remarketing Technologie der Google Inc.Durch diese Technologie werden Nutzer, die unsere Internetseiten und Onlinedienste bereits besucht und sich für das Angebot interessiert haben, durch zielgerichtete Werbung auf den Seiten der Mitglieder des Google Partner Netzwerks erneut angesprochen. Die Einblendung der Werbung erfolgt durch den Einsatz von Cookies.. Mit Hilfe der Cookies kann das Nutzerverhalten beim Besuch der Website analysiert und anschließend für gezielte Produktempfehlungen und interessenbasierte Werbung genutzt werden.Rechtsgrundlage: Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.Durch Ihre Einwilligung erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der hier beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden. Wir weisen darauf hin, dass Google eigene Datenschutz-Richtlinien hat, die von unseren unabhängig sind. Wir übernehmen keine Verantwortung oder Haftung für diese Richtlinien und Verfahren. Bitte informieren Sie sich ggf. über die Datenschutzbestimmungen von Google unterhttp://www.google.de/intl/de/policies/privacy/.Bei Nutzern werden von unseren Werbepartnern (Google) Cookies gesetzt. Diese Cookies sind ebenfalls nicht personenbezogen. Sie dienen beispielsweise dazu, Produkte und Dienstleistungen auf Sie zuzuschneiden und entsprechende Werbeeinblendungen vorzunehmen.Ob Sie an dem Tracking-Verfahren teilnehmen möchten, können Sie über dieCookie-Einstellungenbestimmen. Dort können Sie Ihre zuvor erteilte Zustimmung auch jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt. Nähere Informationen zu den eingesetzten Cookies inkl. der Speicherdauer finden Sie hier hier(PDF Download / 69 KB).2.5.3 DoubleClick/ DoubleClick Floodlight von Google:[Personalisierungs-Cookies]DoubleClick ist eine Dienstleistung der Google Inc. („Google“). DoubleClick by Google verwendet Cookies, um Ihnen für Sie relevante Werbeanzeigen zu präsentieren. Dabei wird Ihrem Browser eine pseudonyme Identifikationsnummer (ID) zugeordnet, um zu überprüfen, welche Anzeigen in Ihrem Browser eingeblendet wurden und welche Anzeigen aufgerufen wurden. Die Verwendung der DoubleClick-Cookies (Floodlights) ermöglicht Google und seinen Partner-Webseiten lediglich die Schaltung von Anzeigen auf Basis vorheriger Besuche auf unseren oder anderen Webseiten im Internet. Die durch die Cookies erzeugten Informationen werden von Google zur Auswertung an einen Server in den USA übertragen und dort gespeichert. Eine Übertragung der Daten durch Google an Dritte findet nur aufgrund gesetzlicher Vorschriften statt.Rechtsgrundlage: Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.Durch Ihre Einwilligung erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google und der zuvor beschriebenen Art und Weise der Datenverarbeitung sowie dem benannten Zweck einverstanden.Ob Sie an dem Tracking-Verfahren teilnehmen möchten, können Sie über dieCookie-Einstellungenbestimmen. Dort können Sie Ihre zuvor erteilte Zustimmung auch jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt. Nähere Informationen zu den eingesetzten Cookies inkl. der Speicherdauer finden Sie hier hier(PDF Download / 69 KB)."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.5.4 VWO Visual Website Optimizer - A/B Testing: [Leistungsbezogene Cookies]Wir nutzen den Dienst VWO, um die Attraktivität, den Inhalt und die Funktionalität unserer Webseite zu erhöhen, indem wir neue Funktionen und Inhalte einem prozentualen Anteil unserer Nutzer ausspielen und die Nutzungsänderung statistisch auswerten.VWO verwendet Cookies, über die eine Optimierung und Analyse der Benutzung unserer Webseite durch Sie ermöglicht wird. Die durch diese Cookies erzeugten Informationen über Ihre Benutzung unserer Webseite werden in der Regel an einen Server von Google innerhalb der Europäischen Union übertragen und dort gespeichert.Auf dieser Webseite wurde die IP-Anonymisierung aktiviert, so dass die IP-Adresse der Nutzer von VWO innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt wird.Rechtsgrundlage: Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.Ob Sie an dem Tracking-Verfahren teilnehmen möchten, können Sie über dieCookie-Einstellungenbestimmen. Dort können Sie Ihre zuvor erteilte Zustimmung auch jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt. Nähere Informationen zu den eingesetzten Cookies inkl. der Speicherdauer finden Sie hier hier(PDF Download / 69 KB)."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.5.5 Bing Universal Event Tracking (UET): [Leistungsbezogene Cookies]Unsere Onlineangebote nutzen zusätzlich das Conversion Tracking von Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). Dabei wird von Microsoft Bing Ads ein Cookie auf Ihrem Rechner gesetzt, sofern Sie über eine Microsoft Bing Anzeige auf unsere Website gelangt sind. Microsoft Bing und wir können auf diese Weise erkennen, dass jemand auf eine Anzeige geklickt hat, zu unserer Website weitergeleitet wurde und eine vorher bestimmte Zielseite (Conversion Seite) erreicht hat. Wir erfahren dabei nur die Gesamtzahl der Nutzer, die auf eine Bing Anzeige geklickt haben und dann zu Conversion Seite weitergeleitet wurden. Es werden keine persönlichen Informationen zur Identität des Nutzers mitgeteilt.Rechtsgrundlage: Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.Weitere Informationen zum Datenschutz und zu den eingesetzten Cookies bei Microsoft Bing finden Sie auf der Website von Microsoft:https://privacy.microsoft.com/de-de/privacystatementOb Sie an dem Tracking-Verfahren teilnehmen möchten, können Sie über dieCookie-Einstellungenbestimmen. Dort können Sie Ihre zuvor erteilte Zustimmung auch jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt. Nähere Informationen zu den eingesetzten Cookies inkl. der Speicherdauer finden Sie hier hier(PDF Download / 69 KB)."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.5.6 Publicis Media Data Management Platform (DMP): [Personalisierungs-Cookies]Der Dienst der Publicis Media GmbH, Toulouser Allee 3, 40211 Düsseldorf, Deutschland, stellt eine Data Management Platform (DMP) dar. Die Datenerhebung erfolgt über eine Cookie-ID, die als Pseudonym gespeichert wird. Diesem Pseudonym werden Informationen über die Nutzer-Aktivitäten auf unseren Webseiten, Services sowie Anwendungen zugeordnet. Eine Speicherung oder Verarbeitung ungekürzter IP-Adressen erfolgt nicht. Die von der Publicis Media GmbH gespeicherten Cookies werden spätestens nach 90 Tagen gelöscht.Rechtsgrundlage: Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.Mit Ihrer Einwilligung erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Publicis Media und der zuvor beschriebenen Art und Weise der Datenverarbeitung sowie dem benannten Zweck einverstanden.Ob Sie an dem Tracking-Verfahren teilnehmen möchten, können Sie über dieCookie-Einstellungenbestimmen. Dort können Sie Ihre zuvor erteilte Zustimmung auch jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung wird dadurch nicht berührt. Nähere Informationen zu den eingesetzten Cookies inkl. der Speicherdauer finden Sie hier hier(PDF Download / 69 KB)."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.5.7 Datenschutzerklärung Google Maps & Youtube: [Personalisierungs-Cookies]Wir nutzen eine Google Maps Einbindung auf unseren Websites u.a. für die Ärzte- und Spezialistensuche und für die Standortsuche von Vermittlern in Ihrer Nähe. Youtube wird für die Wiedergabe von eingebetteten Videos auf unseren Websites genutzt.  In beiden Fällen haben wir einen „Vorschalt-Layer“ gesetzt, welcher eine Datenweitergabe an Google (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) und ggf. in die USA verhindert. Erst mit einem Klick auf den „Vorschalt-Layer“ werden Ihre personenbezogenen Daten (z.B. IP-Adresse, Standort, Browserdaten) an Google übermittelt. Auf diese Datenverarbeitung haben wir keinen Einfluss, hierfür ist Google eigenverantwortlich. Einzelheiten können Sie der Google Datenschutzerklärung entnehmen:http://www.google.de/intl/de/policies/privacy."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.6.1 Google-AccountFalls Sie einen Google Account besitzen oder sich für einen Google Service registriert haben, gleicht Google Ihre Klicks auf bezahlte Anzeigen von AXA in der Google Suche mit Ihren Geodaten ab, um ggf. festzustellen, ob nach einem Zugriff auf eine AXA Internetseite ein Besuch in einer AXA Agentur erfolgt ist. Die Ergebnisse dieser Abgleiche werden AXA in aggregierter Form ohne Personenbezug zur Optimierung der Internetpräsenz zur Verfügung gestellt. Der Abgleich erfolgt nur, wenn Sie die Ortungsdienste Ihres Smartphones eingeschaltet haben. Einzelheiten können Sie der Google Datenschutzerklärung entnehmen:http://www.google.de/intl/de/policies/privacy/"
+        },
+        {
+            "type": "paragraph",
+            "text": "2.6.2 Tracking auf Accelerated Mobile PagesWir liefern unsere Seiten teilweise auch als Accelerated Mobile Pages (AMP) aus. Es kann daher sein, dass Sie z.B. nach einer Google-Suche mit Ihrem Smartphone unsere Beiträge im Internet lesen und sich  diese gar nicht auf unseren Servern befinden. Statt dessen kann es sein, dass die Seiten direkt aus dem Zwischenspeicher von Drittanbietern wie z.B. Google ausgeliefert werden. Sie merken dies daran, dass in der URL, von der aus Sie diese Seite aufgerufen haben, nicht unser Domainname (also unsere Internetadressen) erscheint, sondern z.B. der Domainname von Google. Google wird den Quelltext unserer Seite nicht verändern. Wir haben uns zudem entschieden, in der AMP-Version unserer Seite Google Analytics zu aktivieren. Dieses Onlineangebot verwendet die Google AMP Client-Funktion. Diese Funktion wird benötigt, um Benutzeraktivitäten auf den von Google bereitgestellten Accelerated Mobile Pages, welche auch von Google gehostet werden und Seiten, die nicht im AMP Format abgebildet werden, in Google Analytics zu verknüpfen."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.6.3 Facebook PixelUnsere Website nutzt zur Konversionsmessung das Besucheraktions-Pixel von Facebook, Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”).So kann das Verhalten der Seitenbesucher nachverfolgt werden, nachdem diese durch Klick auf eine Facebook-Werbeanzeige auf die Website des Anbieters weitergeleitet wurden. Dadurch können die Wirksamkeit der Facebook-Werbeanzeigen für statistische und Marktforschungszwecke ausgewertet werden und zukünftige Werbemaßnahmen optimiert werden.Die erhobenen Daten sind für uns als Betreiber dieser Website anonym, wir können keine Rückschlüsse auf die Identität der Nutzer ziehen. Die Daten werden aber von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil möglich ist und Facebook die Daten für eigene Werbezwecke, entsprechend der Facebook-Datenverwendungsrichtlinie verwenden kann. Dadurch kann Facebook das Schalten von Werbeanzeigen auf Seiten von Facebook sowie außerhalb von Facebook ermöglichen. Diese Verwendung der Daten kann von uns als Seitenbetreiber nicht beeinflusst werden.In den Datenschutzhinweisen von Facebook finden Sie weitere Hinweise zum Schutz Ihrer Privatsphäre:https://www.facebook.com/about/privacy/.Sie können außerdem die Retargeting-Funktion im Bereich Einstellungen für Werbeanzeigen unterhttps://www.facebook.com/ads/preferences/?entry_product=ad_settings_screendeaktivieren. Dazu müssen Sie bei Facebook angemeldet sein.Wenn Sie kein Facebook Konto besitzen, können Sie nutzungsbasierte Werbung von Facebook auf der Website der European Interactive Digital Advertising Alliance deaktivieren:https://www.youronlinechoices.com/de/praferenzmanagement/."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.6.4 LinkedIn Insight-TagWeiterhin verwendet unsere Website zur Konversionsmessung das sog. LinkedIn Insight-Tag (bzw. LinkedIn Pixel) der LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland („LinkedIn“). Durch die Einbindung dieses JavaScript-Tags können wir Ihnen als Nutzer unserer Website im Rahmen des Besuchs des sozialen Netzwerkes LinkedIn oder anderer Websites, die ebenfalls dieses Tag nutzen, interessenbezogene und für Sie relevante Werbeanzeigen einblenden. Zudem erhalten wir anonyme Statistiken über die Website-Besucher und ihre Demographien. Außerdem können wir Ihre Nutzung unserer LinkedIn-Werbung und das Interesse an unseren Angeboten mittels einer Conversion Tracking-Funktion auswerten und Ihnen LinkedIn-Anzeigen über das Retargeting auch auf anderen Websites sowie Geräten anzeigen. Wir verfolgen damit das Interesse, die Wirksamkeit unserer LinkedIn-Werbeanzeigen zu verbessern und unsere Website für Sie interessanter zu gestalten.Durch die Einbindung des LinkedIn Insight-Tags baut Ihr Browser automatisch eine direkte Verbindung mit dem Server von LinkedIn auf, sowohl bei einem Besuch der LinkedIn-Website selbst als auch von Webseiten, die den LinkedIn Insight-Tag eingebunden haben. Für die Erhebung Ihrer Nutzungsdaten bei dem Besuch unserer Website und die Übermittlung an den Anbieter sind LinkedIn und wir gemeinsam verantwortlich. Für die maßgebliche Weiterverarbeitung der Nutzungsdaten zur Durchführung der beschriebenen Ziele ist LinkedIn nach Übermittlung der Daten hingegen allein verantwortlich. Auf Umfang und Art der Verwendung der Daten durch LinkedIn haben wir keinen Einfluss; wir informieren Sie daher entsprechend unserem Kenntnisstand: Durch die Einbindung des LinkedIn Insight-Tags erhält LinkedIn die Information, dass Sie die entsprechende Webseite unseres Internetauftritts aufgerufen haben oder eine Anzeige von uns angeklickt haben. Sofern Sie bei einem Dienst von LinkedIn registriert sind, kann LinkedIn den Besuch Ihrem Account zuordnen. Wenn Sie nicht bei LinkedIn registriert sind bzw. sich nicht eingeloggt haben, besteht die Möglichkeit, dass LinkedIn Ihre IP-Adresse, besuchte URL, Referrer-URL, das Zeitfenster des Besuchs der Website sowie Geräte- und Browsereigenschaften (User Agent) in Erfahrung bringt und mit den Ihnen zugeordneten Handlungen verknüpft. Die IP-Adressen werden gekürzt oder (wenn sie genutzt werden, um Mitglieder geräteübergreifend zu erreichen) gehasht. Die direkten Kennungen der Mitglieder werden innerhalb von sieben Tagen entfernt, um die Daten zu pseudonymisieren. Diese verbleibenden pseudonymisierten Daten werden dann innerhalb von 180 Tagen gelöscht.Rechtsgrundlage für die Verarbeitung Ihrer Daten ist Art. 6 Abs. 1 lit. a DSGVO,d.h. die Einbindung erfolgt nur auf Basis Ihrer Einwilligung. Sie können Ihre Einwilligung jederzeit widerrufen, am einfachsten über unsere Cookie-Einstellungen. LinkedIn verarbeitet Ihre personenbezogenen Daten auch in den USA. Unser Vertragspartner – LinkedIn Ireland Unlimited Company – hat mit seinen Vertragspartnern in den USA die sog. Standarddatenschutzklauseln der EU-Kommission vereinbart, deren Zweck die Einhaltung ein angemessenes Datenschutzniveau im Drittland ist.Die Deaktivierung des LinkedIn Insight-Tags und weitere Werbewidersprüche für LinkedIn sind in den Einstellungen für Werbeanzeigen unterwww.linkedin.com/help/linkedin/answer/62931?trk=microsites-frontend_legal_privacy-policy&lang=enund ergänzend unterwww.linkedin.com/psettings/guest-controls/retargeting-opt-outmöglich. Weitere Einstellungsmöglichkeiten und Informationen können Sie dem LinkedIn Privacy Center entnehmen:https://privacy.linkedin.com/de-de?lr=1/. Weitere Informationen zur Datenverarbeitung durch LinkedIn erhalten Sie bei dem Anbieter, LinkedIn Ireland Unlimited Company, Attn: Legal Dept. (Privacy Policy and User Agreement), Wilton Plaza, Wilton Place, Dublin 2, Irland; Informationen zum LinkedIn Insight-Tag:https://business.linkedin.com/de-de/marketing-solutions/insight-tag?lr=1/; Datenschutzinformationen:www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy/."
+        },
+        {
+            "type": "paragraph",
+            "text": "2.6.5 financeAdsDiese Website nutzt das Partnerprogramm der financeAds GmbH & Co. KG, Karlstr. 9, 90403 Nürnberg. financeAds verwendet sogenannte Tracking-Cookies, die es ermöglichen, das Verhalten von Seitenbesuchern nachzuverfolgen. Diese Cookies entsprechen den jeweils gültigen Datenschutzbestimmungen. In ihnen werden keine persönlichen Daten gespeichert, sondern lediglich pseudonyme Tracking-IDs. Die von financeAds eingesetzten Cookies haben eine Laufzeit von bis zu 90 Tagen. Diese dienen der Information der Websitehttps://www.financeads.net/über generierte Produktanfragen/Käufe. Weitere Informationen sowie die Möglichkeit diese Tracking-Cookies zu deaktivieren finden Sie unterhttps://www.financeads.net/ueberuns/cookies/.Weitere Informationen zu den Datenschutzbestimmungen von financeAds finden Sie hier:https://www.financeads.net/aboutus/datenschutz."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sofern unsere Unternehmen Daten zu Ihrer Person verarbeitet haben, haben Sie im jeweiligen gesetzlichen Umfang ein Recht auf:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auskunft, insbesondere über beim Verantwortlichen gespeicherte Daten und deren Verarbeitungszwecke (Art. 15 DSGVO)",
+                "Berichtigungunrichtiger bzw. Vervollständigung unvollständiger Daten (Art. 16 DSGVO)",
+                "Löschung, etwa unrechtmäßig verarbeiteter oder nicht mehr erforderlicher Daten (Art. 17 DSGVO)",
+                "Einschränkungder Verarbeitung (Art. 18 DSGVO)",
+                "Widerspruchgegen die Verarbeitung, insbesondere wenn diese zur Wahrung berechtigter Interessen des Verantwortlichen erfolgt (Art. 21 DSGVO) und",
+                "Datenübertragung,sofern die Verarbeitung auf einer Einwilligung beruht oder zur Durchführung eines Vertrages oder mit Hilfe automatisierter Verfahren erfolgt (Art. 20 DSGVO)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Soweit eine Verarbeitung auf einer von Ihnen erteiltenEinwilligungberuht (Art. 6 Abs. 1 lit. a DSGVO oder  Art. 9 Abs. 2 lit. a DSGVO), haben Sie das Recht, die Einwilligung jederzeit zuwiderrufen. Die Rechtmäßigkeit der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Verarbeitung wird hierdurch nicht berührt.Ferner haben Sie die Möglichkeit, Beschwerden"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "an unsereDatenschutzbeauftragte, Colonia-Allee 10-20 51067 Köln oder",
+                "diezuständigen Aufsichtsbehördenzu richten."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Zur Wahrnehmung Ihrer gesetzlichen Rechte können Sie uns auf dem für Sie angenehmsten Weg kontaktieren."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "E-Mail-Adresse: Datenschutz@Axa.de (unverschlüsselte E-Mail)",
+                "E-Mail-Kontaktformular(sicherere SSL-Verschlüsselung Ihrer Daten)",
+                "Telefonnummer: 0221 148-24349",
+                "Schriftlich an: AXA Konzern AG, Datenschutzbeauftragte, Colonia Allee 10 – 20, 51067 Köln"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie eine E-Mail mit vertraulichem Inhalt an uns senden wollen, sollte diese verschlüsselt sein, um eine unbefugte Kenntnisnahme bzw. Verfälschung auf dem Übertragungsweg zu verhindern. Bitte nutzen Sie hierzu unser speziellesE-Mail-Kontaktformular.Weitere Informationen zur E-Mail-Kommunikation mit AXA finden Sie auf unserer Seite zum Thema\"Sichere Kommunikation\"."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Folgenden (Ziff. 5.2.1 und 5.2.2) haben wir zu Ihrer Information und Erleichterung noch einmal die datenschutzrechtlichen Hinweise zusammengestellt, die Sie bereits im Rahmen des Abschlusses des Versicherungsvertrages erhalten haben:5.2.1 Datenschutzeinwilligungserklärung mit Schweigepflichtentbindung in VersicherungsanträgenIn den Versicherungsanträgen der Lebens-, Kranken- und Unfallversicherungsgesellschaften sind Erklärungen zur Einwilligung in die Datenverarbeitung und zur Schweigepflichtentbindung enthalten. Diese Einwilligungserklärungen sind erforderlich, um die Risikoprüfung und Leistungsbearbeitung durchführen zu können."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Einwilligungserklärung für Krankenversicherer (PDF, 88 KB)",
+                "Einwilligungserklärung für Lebensversicherer (PDF, 40 KB)",
+                "Einwilligungserklärung für Unfallversicherer (PDF, 75 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die von Ihnen erteilte Einwilligungserklärung gilt auch für die Datenverarbeitung durch unsere Dienstleister. Mit welchen Dienstleistern wir zusammenarbeiten, können Sie der Dienstleisterliste entnehmen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Übersicht der Dienstleister (PDF, 83 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Diese Dienstleisterliste wird auf Wunsch auch in Papierform zugesandt. Bitte richten Sie eine entsprechende Anfrage an den betrieblichen Datenschutz unter:Datenschutz@Axa.de.5.2.2 Aktuelle Datenschutzerklärungen zu Ihrem VersicherungsvertragWeitergehende Informationen zur konkreten Verwendung Ihrer personenbezogenen Daten finden Sie in den Versicherungsanträgen der AXA-Versicherungsgesellschaften. Nachstehend können Sie die jeweils aktuellen Fassungen der Informationen zur Verwendung Ihrer Daten (IVD) abrufen:AXA Krankenversicherung AG"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "AXA Krankenversicherung AG (PDF, 206 KB)",
+                "AXA Pflegeversicherung (PDF, 21 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA Lebensversicherung AG"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "AXA Lebensversicherung AG (PDF, 260 KB)",
+                "DBV Deutsche Beamtenversicherung Lebensversicherung Zweigniederlassung der AXA Lebensversicherung AG (PDF, 260 KB)",
+                "Deutsche Ärzteversicherung AG (PDF, 259 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA Versicherung AG"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "SUHK-Privat Kraftfahrt (PDF, 203 KB)",
+                "SUHK-Privat Kraftfahrt Easy (PDF, 207 KB)",
+                "SUHK-Privat SachHaftpflicht (PDF, 184 KB)",
+                "SUHK-Unfall (PDF, 162 KB)",
+                "Industrie- und Firmenkunden (PDF, 237 KB)",
+                "Industrie- und Firmenkunden / Garantie und Kaution (PDF, 146 KB)",
+                "Industrie- und Firmenkunden / Zweigniederlassung Deutsche Ärzteversicherung Allgemeine (PDF, 243 KB)",
+                "Schaden (PDF, 349 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Beabsichtigt ein Unternehmen des deutschen AXA Konzerns Ihre personenbezogenen Daten für einen anderen Zweck weiter zu verarbeiten als den, für den Ihre personenbezogenen Daten ursprünglich erhoben wurden, so wird das jeweilige Unternehmen Sie vor dieser Weiterverarbeitung im gesetzlich gebotenen Umfang informieren.5.2.3 Wesentliche Informationen zu gemeinsamen Verantwortlichkeiten / Essential Information on Joint ControllershipWeitergehende Informationen zu den wesentlichen Inhalten der Vereinbarungen über gemeinsame Verantwortlichkeiten nach Art. 26 DSGVO finden Sie hier:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Gemeinsame Verantwortlichkeit in der internationalen KFZ-Schadenbearbeitung (PDF, 121 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "My AXA ist ein Portal für Endkunden zur Verwaltung ihrer Verträge und Nutzung von Services, darunter insbesondere folgende Funktionen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Übersichten über Verträge, die Kunden mit Gesellschaften der AXA Konzern AG abgeschlossen haben",
+                "Änderung von Adress- und Kontodaten",
+                "Versand von Schadenmeldungen und Einreichung von Kostenbelegen",
+                "Sonstige Mitteilungen und Anzeigen",
+                "Empfang von Nachrichten von AXA",
+                "Online-Vertragsverwaltung des Versicherungsgeschäfts der AXA easy Versicherung AG"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Zur Nutzung von My AXA müssen Sie sich anmelden und identifizieren. Bitte beachten Sie bei Ihrer Registrierung insofern dieNutzungsbedingungenundDatenschutzhinweisevon My AXA  und  der My AXA App."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Versicherungsunternehmen der AXA Gruppe bieten diverse Tarife und Produkte sowie versicherungsspezifische Services auch online an.Mit  unseren Tarifrechnern und Angebotsformularen können Sie sich über unsere jeweiligen Versicherungskonditionen und Leistungen informieren, zudem könnnen Sie verschiedene Services (z.B. Meldung eines Schadens) über Serviceformulare in Anspruch nehmen.  Im Regelfall können Sie bei Tarifrechnern und Angebotsformularen dabei einen Versicherungsvertrag abschließen bzw. einen Antrag auf Abschluss eines Versicherungsvertrages stellen.Um zu klären, ob und mit welchen Leistungen und zu welchem Preis wir Ihnen unser jeweiliges Produkt anbieten können bzw. um einen bestimmten Service für Sie zu erbringen, müssen wir im jeweiligen Tarifrechner bzw. Angebots- und Serviceformular versicherungsrelevante Daten von Ihnen bzw. ggf. anderen zu versichernden Personen abfragen.Dies betrifft im Regelfall insbesondere ihre Kontaktdaten (wie z.B. Vorname, Nachname, Straße, Hausnummer, PLZ, Ort, Telefonnummer und E-Mail-Adresse).Sofern für die Art des Tarif- und Angebotsrechners bzw. des Serviceformulars und des jeweiligen Versicherungsproduktes erforderlich, können weitere personenbezogene Daten erhoben werden (z.B. Finanzdaten, Daten zur Wohnsituation etc.). Des Weiteren können in diesem Zusammenhang auch besondere Kategorien personenbezogener Daten (z.B. Gesundheitsdaten und Daten zur Gewerkschaftszugehörigkeit) sowie ggfs. Kontoverbindungsdaten abgefragt werden.In bestimmten Tarifrechnern verwenden wir Ihre Namens- und Adressdaten sowie Bankverbindungsdaten  auch im gesetzlich zulässigen Umfang zur Einholung einer Bonitätsauskunft, die wir zur Entscheidung über einen etwaigen Vertragsschluss benötigen.Ergänzend hierzu gelten die von uns zur Verfügung gestellten Informationen zur Verwendung Ihrer Daten im Rahmen der Anbahnung und Durchführung des jeweiligen Versicherungsvertrages. Diese finden Sie auchunter 5.2.2 \"Aktuelle Datenschutzerklärungen zu Ihrem Versicherungsvertrag\".Rechtsgrundlage für die VerarbeitungDie Verarbeitung Ihrer personenbezogenen Daten im Rahmen unserer Online-Tarifrechner und Angebotsformulare erfolgt auf Grundlage von  Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren erfolgt die eventuelle Verarbeitung besonderer Kategorien personenbezogener Daten auf der Grundlage Ihrer ausdrücklichen Einwilligung ( Art. 9 Abs. 2 lit. a DSGVO).Empfänger / Kategorien von EmpfängernDie von Ihnen zur Verfügung gestellten Informationen werden grundsätzlich nur im Rahmen der Online-Tarifrechner, Angebots- und Serviceformulare automatisiert verarbeitet. Nach abschließender Durchführung des Tarifrechners durch Abschluss eines Versicherungsvertrags bzw. einen Antrag auf Abschluss eines Versicherungsvertrages oder Inanspruchnahme eines Services werden die Informationen an die zuständigen Empfänger für die Durchführung der jeweiligen Dienstleistung weitergeleitet.SpeicherdauerIhre personenbezogenen Daten werden grundsätzlich nur für die Dauer der Nutzung des jeweiligen Tarifrechners, Angebots- und Serviceformulars, d.h. die Dauer der jeweiligen „Session“ gespeichert und sofort danach gelöscht. Eine längere Speicherung erfolgt nur dann, wenn Sie, sofern verfügbar, die Funktion „Speichern“ des entsprechenden Angebotsformulars nutzen. Sie erhalten dann einen Wiederherstellungslink. Mit diesem können Sie noch für 365 Tage das Angebotsformular wieder an derselben Stelle aufrufen. In dieser Zeit bleiben die Daten in unserem System gespeichert. Wir haben jedoch praktisch keinen Zugriff darauf und verwenden die Daten nicht.Im Falle des Abschlusses eines Versicherungsvertrages oder der Anforderung eines Angebotes bzw. der Inanspruchnahme eines bestimmten Services über einen Tarifrechner oder ein Angebots- bzw. Serviceformular, speichern wir Ihre Daten solange diese für den jeweiligen Zweck erforderlich sind.Hierzu gelten ergänzend die von uns zur Verfügung gestellten Informationen zur Verwendung Ihrer Daten im Rahmen der Anbahnung und Durchführung des jeweiligen Versicherungsvertrages. Diese finden Sie auchunter 5.2.2 \"Aktuelle Datenschutzerklärungen zu Ihrem Versicherungsvertrag\".Erforderlichkeit der Bereitstellung / Folgen der Nichtbereitstellung personenbezogener InformationenSoweit nicht als „optional“ angegeben, sind die im Rahmen der Tarifrechner und Angebots- bzw. Serviceformulare abgefragten Informationen erforderlich, um die jeweilige Anfrage fortzusetzen und insb. eine Auskunft zu Tarifen und zur Prämienhöhe zu erhalten, einen Service zu nutzen und um ggf. einen Versicherungsvertrag abzuschließen bzw. einen Antrag auf Abschluss eines Versicherungsvertrages stellen zu können. Eine vollständige Nutzung der Tarifrechner und Angebots- und Serviceformulare ist bei Nichtbereitstellung der personenbezogenen Daten nicht möglich.Die Entscheidungen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "ob wir Ihnen einen Vertragsabschluss online anbieten können",
+                "über die Höhe der Versicherungsprämie,",
+                "über verfügbare Leistungen bzw. Leistungsausschlüsse"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "erfolgen automatisiert durch den jeweiligen Tarifrechner bzw. das jeweilige Angebotsformular auf Grund versicherungsmathematischer Kriterien und nach versicherungsmathematischen Methoden. Diese wenden unsere Servicemitarbeiter vor Ort ebenfalls an.Wenn Sie mit dem Ergebnis des jeweiligen Tarifrechners bzw. Angebotsformulars nicht einverstanden sind, können Sie sich selbstverständlich jederzeit an unseren Kundenservice wenden. Sie haben das Recht, entsprechend Art. 22 Abs. 3 DSGVO im Hinblick auf die o.g. Entscheidungen, das Eingreifen einer Person bei uns zu erwirken. Ferner können Sie uns gegenüber Ihren eigenen Standpunkt darlegen und unsere Entscheidungen ggf. anfechten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei einer Kontaktaufnahme mit uns über eines unserer Kontaktformulare werden die von Ihnen jeweils mitgeteilten personenbezogenen Daten (üblicherweise Ihre Adress- und Kontaktdaten, ggfs. die Versicherungsnummer sowie der Nachrichteninhalt) von uns selbst zur Bearbeitung Ihrer Anfrage verarbeitet oder an die von Ihnen ausgewählte oder zuständige Agentur/Betreuer weitergeleitet, um Ihnen so eine Kommunikation mit der Agentur bzw. dem Betreuer persönlich zu ermöglichen.Der genaue Inhalt und Zweck der Kommunikation wird hierbei durch den von Ihnen bestimmten Nachrichteninhalt vorgegeben. Typische Gegenstände der Kommunikation sind z.B. die Anfragen zur Beratung zu Versicherungs- oder Finanzdienstleistungen durch die Agentur oder die Klärung von Fragen rund um bereits bestehende Verträge mit uns.Verantwortlicher für die Datenverarbeitung im Rahmen der KontaktformulareBis zu einer  Übermittlung an die jeweilige Versicherungsagentur/den Betreuer ist die AXA Konzern AG alleinig Verantwortliche.Rechtsgrundlage für die Verarbeitung & berechtigtes Interesse, auf dem die Verarbeitung beruhtAbhängig von dem durch den Nachrichteninhalt bestimmten Zwecken erfolgt die Verarbeitung Ihrer Nachrichtendaten durch uns und auch nachfolgend durch die Agentur/den Betreuer auf folgender Rechtsgrundlage:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Soweit es Ihnen inhaltlich um Information im Vorfeld eines Vertragsschlusses oder um Themen rund um einen bereits bestehenden Vertrag geht, ist Rechtsgrundlage der Verarbeitung Ihrer Daten im Regelfall  Art. 6 Abs. 1 lit. b DSGVO (Anbahnung bzw. Durchführung eines Vertrages).",
+                "Im Übrigen ist Rechtsgrundlage der Verarbeitung Ihrer Daten  Art. 6 Abs. 1 lit. f DSGVO (berechtigte Interessen). Die Verarbeitung dient insofern sowohl unserem Geschäftsinteresse wie dem der Agentur, mit aktuellen, potentiellen und ehemaligen Versicherungsnehmern in Austausch zu treten sowie Ihrem eigenen Interesse an der Beantwortung Ihrer Anfrage."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Sollten Sie uns besondere Kategorien personenbezogener Daten (insb. Gesundheitsdaten) über das Kontaktformular zuleiten, erfolgt die Verarbeitung durch uns und die Agentur insofern auf der Grundlage Ihrer Einwilligung ( Art. 9 Abs. 2 lit. a DSGVO). Die Abgabe dieser Einwilligung ist freiwillig. Bitte beachten Sie jedoch, dass wir Ihre Anfrage ohne eine entsprechende Einwilligung nicht entgegennehmen können.Empfänger / Kategorien von EmpfängernSofern eine Auswahlmöglichkeit besteht, übermitteln wir Ihre personenbezogenen Daten an die von Ihnen im Adressfeld ausgewählte selbstständige Versicherungsagentur bzw. den dort zuständigen Betreuer. Diese/r verarbeitet die Daten anschließend in eigener Verantwortung zu den o.g. Zwecken weiter. Die Agentur bzw. der Betreuer wird Ihre Daten nur dann an interne Empfänger (z.B. zuständige Mitarbeiter) oder an die Unternehmen der AXA-Gruppe weiterleiten, soweit dies zur Beantwortung Ihrer Anfrage erforderlich ist. Über etwaige weitere Empfänger wird Sie die Agentur bzw. der Betreuer gesondert informieren.SpeicherdauerGrundsätzlich speichern wir Ihre personenbezogenen Daten nur für die Dauer der Bearbeitung Ihrer Anfrage. Dies gilt auch für die Übermittlung Ihrer Daten an eine Agentur bzw. den Betreuer. Müssen Ihre Daten aufgrund der Art Ihrer Anfrage (z.B. Bitte um ein konkretes Angebot) länger gespeichert werden, erhalten Sie darüber eine gesonderte Information."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben die Möglichkeit, telefonischen Kontakt zu AXA aufzunehmen. Abhängig von der angewählten Rufnummer und Ihrem Anliegen nutzen wir klassische Kundentelefonie und neue Techniken wie ein Sprachdialogsystem. Die klassische Kundentelefonie erkennen Sie daran, dass Sie mit unseren Mitarbeitenden telefonieren. Das Sprachdialogsystem – in welchem wir Ihre Anliegen automatisiert entgegennehmen, um sie zur zuständigen Stelle weiterzuleiten – erkennen Sie an einem maschinell gesteuerten Dialog.Beschreibung der Gesprächsaufzeichnung/des Mithörens & Zwecke der Verarbeitung personenbezogener DatenMit Ihrem Einverständnis können bei einer telefonischen Kontaktaufnahme mit uns einzelne Gespräche aufgezeichnet, teilweise verschriftlicht und analysiert werden. Dies erfolgt ausschließlich zum Zwecke der Qualitätssicherung der Dienstleistungserbringung und in der Kundentelefonie auch zur Mitarbeitendenqualifizierung. Je nach Anliegen, angewählter Rufnummer oder Zeitpunkt der Aufzeichnung fokussiert sich die Aufzeichnung auf bestimmte Dialogabschnitte – z.B. auf den Dialog mit unserem Sprachdialogsystem oder mit unseren Mitarbeitenden.Die Mitarbeitenden-Qualifizierung kann ebenfalls über das Mithören von Gesprächen erfolgen (dabei erfolgt keine Speicherung von Gesprächen).Datenschutzrechtliche Rechtsgrundlage für die GesprächsaufzeichnungDie Gesprächsaufzeichnung erfolgt auf Grundlage Ihrer Einwilligung gemäß  Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO. Ihre Einwilligung erteilen Sie im Rahmen des Dialogs durch Ihre aktive Zustimmung.Empfänger/ Kategorien von EmpfängernJe nach aufgezeichnetem Dialogabschnitt erhalten unterschiedliche Empfänger die Aufzeichnungen zur Ableitung von Prozess- und Service-Verbesserungen für die künftige Gestaltung unserer telefonischen Kundenkontakte. Dies können folgende sein:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "die für die Verarbeitung Ihrer Daten zur Erfüllung unserer Aufgaben als Versicherer erforderlichen Stellen",
+                "Ihr Gesprächspartner",
+                "Sprachanalysten",
+                "Systembetreuer,",
+                "Coaches zur Mitarbeitendenqualifizierung."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "SpeicherdauerSofern Sie Ihre Einwilligung in die Gesprächsaufzeichnung erteilt haben, das Gespräch aufgezeichnet und die Aufzeichnung aufgrund eines Widerrufs nicht beendet und gelöscht wurde, speichern wir die Aufzeichnungen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "in der Kundentelefonie für die Dauer von drei Monaten,",
+                "im Sprachdialogsystem für 10 Tage."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "WiderrufsrechtSoweit Sie in die Aufzeichnung eingewilligt haben (Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO), haben Sie das Recht, Ihre Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen.Dies ist bei der Kundentelefonie durch Erklärung gegenüber Ihrem Gesprächspartner möglich. Die Aufzeichnung wird dann sofort beendet und unwiderruflich gelöscht.Im Sprachdialogsystem übermittelt der Mitarbeitende, gegenüber dem der Widerruf erklärt wurde, die für die Löschung erforderlichen Daten an die Systembetreuung zwecks Löschung der Aufzeichnung.Erfolgt der Widerruf nicht unmittelbar beim Mitarbeitenden, mit dem Sie verbunden wurden, benötigen wir von Ihnen zur Auffindung des Anrufes die angewählte Rufnummer, Datum und Uhrzeit des Anrufs sowie Ihre übermittelte Rufnummer.Bitte senden Sie den Widerruf mit aufgeführten Informationen und dem Betreff „Löschung Aufzeichnung“ an AXA Konzern AG, Abt. BO-FSZ2, 51067 Köln oder per e-Mail, mit gleichlautendem Betreff und Angaben, anGTelefonie-Governance@axa.de.Die Rechtmäßigkeit, der aufgrund der Einwilligung bis zu Ihrem Widerruf erfolgten Verarbeitung, wird hierdurch nicht berührt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie unseren KI-gestützten AXA Chatbot benutzen, verarbeiten wir Ihre Eingaben, um eine passende Antwort auf Ihre Anfrage zu generieren. Der genaue Inhalt und Zweck der Kommunikation wird durch den von Ihnen bestimmten Nachrichteninhalt vorgegeben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Verantwortlicher für die DatenverarbeitungVerantwortlicher für die Datenverarbeitung im Rahmen der Nutzung des AXA Chatbots ist die AXA Konzern AG, Colonia-Allee 10-20, 51067 Köln."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rechtsgrundlage für die VerarbeitungJe nach Art Ihrer Anfrage kann die Datenverarbeitung auf unterschiedliche Rechtsgrundlagen gestützt werden.Sollte für Ihre Anfrage eine Identifizierung Ihrer Person erforderlich sein, ist die Rechtsgrundlage Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO.Haben Sie Fragen rund um Ihren Vertrag oder möchten Sie Ihre Daten ändern, ist die Rechtsgrundlage Art. 6 Abs. 1 lit. b DSGVO.Die Speicherung von Eingaben erfolgt auf Grundlage unseres berechtigten Interesses, unseren AXA Chatbot fehlerfrei anbieten und weiterentwickeln zu können sowie Auswertungen zu dessen allgemeinen Nutzung zu erstellen. Rechtsgrundlage dieser Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO"
+        },
+        {
+            "type": "paragraph",
+            "text": "Beschreibung & Zwecke der Verarbeitung personenbezogener DatenTypische Gegenstände der Kommunikation mit dem AXA Chatbot sind z.B. die Anfragen zur Beratung zu Versicherungs- oder Finanzdienstleistungen oder die Klärung von Fragen rund um bereits bestehende Verträge mit uns. Hierbei wird Ihre Eingabe durch einen Algorithmus analysiert und eine entsprechende Antwort erstellt. Der Algorithmus analysiert die Eingabe und erkennt, um welche Art von Anfrage es sich handelt. Wenn wir bereits entsprechende Informationen für den AXA Chatbot hinterlegt haben – z.B. die Telefonnummer der AXA-Hauptniederlassung oder ein Link zu einem Online-Service – beantwortet der AXA Chatbot die Anfrage.Im Rahmen von Unterhaltungen mit dem AXA Chatbot können wir bestimmte Kundenanliegen direkt bearbeiten, z. B. die Erstellung von Bescheinigungen oder Rückfragen zur Leistungsabrechnung. Für die Bearbeitung dieser Anliegen benötigen wir möglicherweise persönliche oder vertragliche Angaben, wofür eine Identifizierung des Versicherungsnehmers erforderlich ist. Zudem erteilen wir über den AXA Chatbot auch allgemeine Auskünfte zu Tarifen und Verträgen.Wir möchten darauf hinweisen, dass personenbezogene Daten nur eingegeben werden sollten, wenn der AXA Chatbot ausdrücklich danach fragt. In anderen Fällen sind keine personenbezogenen Daten notwendig.Wir behalten Aufzeichnungen von Ihren AXA Chatbot-Eingaben, um die Funktionalität unseres AXA Chatbots zu verbessern und um neue Funktionen zu entwickeln. Wir überprüfen stichprobenartig Ihre Eingaben, um den Algorithmus unseres AXA Chatbots weiter zu verbessern. Dabei prüfen wir zuerst, ob personenbezogene Daten in Ihren Eingaben vorhanden sind. Sollte dies der Fall sein, werden diese Eingaben sofort gelöscht. Der AXA Chatbot wird nicht mit ihren personenbezogenen Daten trainiert. Ihre nicht personenbezogenen Eingaben verwenden wir, um unseren AXA Chatbot zu verbessern. Wenn wir Ihre Eingabe nicht zufällig überprüfen, verarbeiten wir nur die Metadaten und nicht die personenbezogenen Daten Ihrer Eingabe zu statistischen Zwecken."
+        },
+        {
+            "type": "paragraph",
+            "text": "Widerruf der Verarbeitung von personenbezogenen Daten:Sofern eine Identifizierung Ihrer Person notwendig ist, wird die Zustimmung zur Verarbeitung Ihrer personenbezogenen Daten eingeholt. Diese Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Der Widerruf kann formlos, mit Angabe der Versicherungsnummer, per E-Mail anWiderruf AXA Chatboterfolgen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Empfänger der DatenEmpfänger der Daten ist die AXA Konzern AG."
+        },
+        {
+            "type": "paragraph",
+            "text": "SpeicherdauerWenn wir im Rahmen unserer Prüfung feststellen, dass Ihre Eingabe personenbezogene Daten enthält, werden wir diese sofort löschen. Bei allen anderen Eingaben außerhalb unserer Prüfung, werden nur Metadaten zu statistischen Zwecken verarbeitet und grundsätzlich nach zwei Jahren gelöscht."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit unseren Online Services für Endkunden, bieten wir eine schnelle und sichere Möglichkeit zur Verwaltung Ihrer Verträge. Folgende Online Services stehen Ihnen derzeit zur Verfügung:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Änderung des Familiennamens sowie von Adress- und Kontodaten",
+                "Versand von Schadenmeldungen",
+                "Anfordern von Bescheinigungen und Versichertenkarten"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Zur Nutzung unserer Online Services müssen Sie sich identifizieren. Bitte beachten Sie insofern die folgenden Hinweise:"
+        },
+        {
+            "type": "paragraph",
+            "text": "Verantwortlicher für die Datenverarbeitung im Rahmen des Online ServicesDie Online Services werden angeboten von der AXA Konzern AG. Verantwortlicher für die Datenverarbeitung im Rahmen der Nutzung der Website durch Sie ist:AXA Konzern AG, Colonia-Allee 10-20, 51067 Köln."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rechtsgrundlagefür die VerarbeitungWir verarbeiten die von Ihnen eingegebenen Daten, um die Erfüllung des Vertrages sicherzustellen. Rechtsgrundlage für die Verarbeitung ist  Art. 6 Abs. 1 lit. b DSGVO.Die Verarbeitung Ihrer Mobilfunknummer, der IP-Adresse und der Versicherungsscheinnummer erfolgt aufgrund unseres berechtigten Interesses, Missbrauch zu verhindern, auf Angriffe reagieren und diese strafrechtlich verfolgen zu können. Die Rechtsgrundlage ist  Art. 6 Abs. 1 lit. f DSGVO."
+        },
+        {
+            "type": "paragraph",
+            "text": "Beschreibung & Zwecke der Verarbeitung personenbezogener DatenDie Eingabe der abgefragten personenbezogenen Daten ist erforderlich, damit Sie als berechtigte Person Auskünfte zu Ihrem bestehenden Versicherungsvertrag erhalten und Ihre persönlichen Daten ändern können. Machen Sie diese Angaben nicht, können wir Ihnen über unsere Online Services keine weiteren Informationen zu Ihren Bestandsverträgen erteilen.Darüber hinaus fragen wir bei bestimmten Anfragen nach Ihrer Mobilfunknummer und senden an diese einen Code, mit dem Sie Ihre Anfrage bestätigen können. Wir tun dies, um sicherzustellen, dass Sie für die entsprechende Anfrage – zum Beispiel die Änderung Ihrer Adresse – auch berechtigt sind. Ihre Mobilfunknummer erheben wir dabei ausschließlich zu dem Zweck, Ihre Anfrage zu bestätigen, dadurch einen Missbrauch Ihrer personenbezogenen Daten zu verhindern oder Missbrauchsfälle verfolgen zu können. Um die Sicherheit der Verarbeitung zu gewährleisten und zu verhindern, dass unbefugte Dritte keinen Zugriff auf Ihre Vertragsdaten erhalten, verarbeiten wir bei erfolglosen Identifizierungsversuchen Ihre Versicherungsscheinnummer sowie Ihre IP-Adresse, um Angriffsversuche zu erkennen, Ihre Vertragsdaten vor unberechtigtem Zugriff zu schützen und ggf. eine Strafverfolgung von Angriffen zu ermöglichen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Empfänger der Daten / DatenkategorienEmpfänger der Daten sind die AXA Konzern AG sowie Ihre persönlichen Vermittler, welche Ihre Verträge betreuen.Folgende von Ihnen eingegebene Datenkategorien werden verarbeitet: Name, Vorname, Adresse, Geburtsdatum, Kontodaten, Versicherungsnummer, Mobilfunknummer, IP-Adresse."
+        },
+        {
+            "type": "paragraph",
+            "text": "SpeicherdauerIhre eingegebenen Daten werden bis zur Vertragserfüllung oder darüber hinaus aufgrund der Einhaltung der gesetzlichen Aufbewahrungsfristen gespeichert.Ihre Mobilfunknummer wird für einen Zeitraum von zwei Monaten gespeichert, soweit eine längere Speicherung nicht aufgrund gesetzlicher Pflichten oder zur zivil- oder strafrechtlichen Verfolgung von Missbrauchsfällen oder zur Abwehr von Rechtsansprüchen erforderlich ist.Die IP-Adresse wird nach 10 Wochen gelöscht, soweit eine längere Speicherung nicht aufgrund gesetzlicher Pflichten oder zur Strafverfolgung erforderlich ist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Externe Dienste1) Google reCaptchaWir benutzen Google reCaptcha, einen Dienst der Google Ireland Ltd. (Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland), der in unsere Webseite eingebunden wird und der in bestimmten Fällen sog. Captchas einblendet – kleine Aufgaben, die für Menschen einfach zu lösen, für Maschinen aber schwer zu bewältigen sind. Diese Captchas helfen uns, maschinelle und menschliche Benutzer des Chatbots zu unterscheiden und damit eventuelle Angriffe auf unsere Webseite zu erkennen und zu verhindern.Wenn Sie unsere Webseite aufrufen und wenn Sie eine Captcha-Aufgabe lösen, werden Informationen über Ihre Nutzung von Google reCaptcha und über Ihr Gerät an Google übermittelt (z.B. Klick- und Mausbewegungen, IP-Adresse, Browserdaten, Informationen zu Ihrem Betriebssystem), um erkennen zu können, ob Sie ein menschlicher Benutzer sind oder ein Bot. Weitere Informationen können Sie der Datenschutzerklärung von Google entnehmen:https://www.google.com/policies/privacy/.2) SpryngBei der Durchführung von gewissen Geschäftsvorfällen senden wir eine SMS-Nachricht mit einem Verifizierungscode zur Bestätigung Ihrer Identität an Ihre Mobilfunknummer, damit wir prüfen können, ob Sie für die entsprechende Anfrage berechtigt sind. Die Datenverarbeitung erfolgt auf der Basis von Art. 6 Abs. 1 lit. b DSGVO. Der Versand dieser SMS erfolgt über den Anbieter Spryng (Hannie Dankbaarpassage 20-B, 1053 RT Amsterdam, Niederlande)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die AXA Konzern AG, Colonia-Allee 10-20, 51067 Köln („AXA“) unterhält zur Außendarstellung und reaktiven Kommunikation im Einklang mit unserer Kommunikationsstrategie in verschiedenen sozialen Netzwerken öffentlich zugängliche Profile für Kunden und Interessenten. Nachfolgend geben wir Ihnen einen Überblick darüber, welche Ihrer personenbezogenen Daten von uns verarbeitet werden, wenn Sie unsere Profile besuchen, wie Sie Ihre Rechte wahrnehmen können und wo die Datenschutzerklärungen der einzelnen Betreiber der sozialen Netzwerke zu finden sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rechtsgrundlage für die VerarbeitungRechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten ist unser berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO zur Verbesserung des Nutzungserlebnisses auf unseren Social Media Auftritten und/oder für Informationen zu Angeboten und Services. Möchten Sie mit uns in Kontakt treten oder teilen Sie Inhalte mit uns, ist die Rechtsgrundlage Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO oder Art. 6 Abs. 1 lit. b DSGVO."
+        },
+        {
+            "type": "paragraph",
+            "text": "DatenverarbeitungAXA verarbeitet diejenigen personenbezogene Daten von Ihnen, welche Sie mit uns teilen. Dies sind z.B. Ihr Nutzername und die von Ihnen veröffentlichten Inhalte wie Kommentare, Videos, Bilder und Likes, indem wir auf diese reagieren und ggf. in unseren Social Media Auftritten auf diese verweisen.Wir behalten uns vor, unangebrachte Kommentare auf unseren Social Media Auftritten zu löschen, wenn diese gegen die Richtlinien des jeweiligen sozialen Netzwerkes verstoßenBei der Durchführung von Gewinnspielen über unsere Social Media Auftritte gelten spezielle Teilnahmebedingungen und Datenschutzhinweise. Ggf. und mit Ihrer Einwilligung veröffentlichen wir die Gewinner namentlich in unseren Social Media Auftritten.Auch die jeweiligen Plattformbetreiber und ihre dazugehörigen Gesellschaften verarbeiten Ihre Daten in eigener datenschutzrechtlicher Verantwortlichkeit. Wir haben weder Einfluss auf diese Datenverarbeitungsvorgänge, noch kennen wir ihren vollen Umfang. Wir wissen nicht, zu welchen Zwecken Ihre Daten dort verarbeitet oder ob sie in ein Drittland übertragen werden. Bitte erfragen Sie dies bei den jeweiligen Plattformbetreibern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nutzung alternativer KontaktmöglichkeitenWir möchten Sie darum bitten, nicht die Kontaktmöglichkeiten über die sozialen Netzwerke zu nutzen, da diese potenziell unsicher sind, sofern Sie dabei personenbezogene Daten preisgeben. Bitte nutzen Sie die sicheren Kontaktmöglichkeiten auf unserer Website."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ausübung Ihrer Rechte als betroffene PersonIhre Rechte auf Auskunft, Löschung, Berichtigung oder Einschränkung der Datenverarbeitung können Sie bei dem jeweiligen Betreiber des sozialen Netzwerks ausüben. Die einzelnen Datenverarbeitungsvorgänge und ihr Umfang unterscheiden sich je nach Betreiber des jeweiligen sozialen Netzwerks und sind nicht zwingend für uns nachvollzieh- oder beeinflussbar. Einzelheiten über die Erhebung und Speicherung Ihrer personenbezogenen Daten sowie über Art, Umfang und Zweck ihrer Verwendung durch den Betreiber des jeweiligen sozialen Netzwerks entnehmen Sie bitte den Datenschutzerklärungen des jeweiligen Betreibers."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Social Media Auftritte im Einzelnen:FacebookDas soziale Netzwerk Facebook wird von Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://de-de.facebook.com/privacy/policy/einsehen.Bei Ihrem Besuch auf unserer Facebook Fanpage werden Ihre personenbezogenen Daten nicht nur durch uns, sondern auch durch Facebook erhoben, genutzt, gespeichert und möglicherweise auch in Drittländer übertragen. Dies geschieht auch dann, wenn Sie selbst kein Profil in dem jeweiligen sozialen Netzwerk haben oder nicht eingeloggt sind (dann wird z.B. Ihre IP-Adresse übertragen). Unterhttps://www.facebook.com/adpreferences/?entry_product=ad_preferences_delegationkönnen Sie ihre Werbeeinstellungen und unterhttps://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2FsettingsIhre allgemeinen Einstellungen ändern.Wir sind gemeinsam mit Facebook für die Datenverarbeitung auf unserer Facebook Fanpage inklusive der „Seiten-Insights“ verantwortlich. Deshalb haben wir mit Facebook eine Vereinbarung über die gemeinsame datenschutzrechtliche Verantwortlichkeit nach Art. 26 DSGVO abgeschlossen, abrufbar unterhttps://de-de.facebook.com/legal/terms/page_controller_addendum.Wir nutzen Facebook „Seiten-Insights“, um statistische Informationen über den Aufruf unserer Facebook Fanpage zu erhalten. Dies können beispielsweise Spracheinstellungen, demografische oder geografische Daten sein. Rechtsgrundlage hierfür ist unser berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO zur Verbesserung des Nutzererlebnisses. Weitere Informationen zu Facebook „Seiten-Insights“ finden Sie unterhttps://www.facebook.com/legal/terms/information_about_page_insights_data.Ihre personenbezogenen Daten können auch anderen Meta Platforms-Unternehmen zur Verfügung gestellt werden. Dabei kommt es zu einer Übermittlung von personenbezogenen Daten an die Meta Platforms Inc. in den USA. Meta Platforms Inc. ist unter dem EU-U.S. Data Privacy Framework zertifiziert (weitere Informationen finden Sie unterhttps://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnywAAC&status=Activeundhttps://www.facebook.com/privacy/policies/data_privacy_framework).Meta Platforms übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die es keinen Angemessenheitsbeschluss der EU-Kommission gibt. Weitere Informationen finden Sie ebenfalls in der Datenschutzerklärung von Facebook unterhttps://de-de.facebook.com/privacy/policy/. Meta Platforms nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "InstagramDas soziale Netzwerk Instagram wird von Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://privacycenter.instagram.com/policyeinsehen.Ihre personenbezogenen Daten können auch anderen Meta Platforms-Unternehmen zur Verfügung gestellt werden. Dabei kommt es zu einer Übermittlung von personenbezogenen Daten an die Meta Platforms Inc. in den USA. Meta Platforms Inc. ist unter dem ist unter dem EU-U.S. Data Privacy Framework zertifiziert (weitere Informationen finden Sie unterhttps://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnywAAC&status=Activeundhttps://privacycenter.instagram.com/policies/data_privacy_framework/).Meta Platforms übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die es keinen Angemessenheitsbeschluss der EU-Kommission gibt. Weitere Informationen finden Sie ebenfalls in der Datenschutzerklärung von Instagram unterhttps://privacycenter.instagram.com/policy. Meta Platforms nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "LinkedInDas berufliche soziale Netzwerk LinkedIn wird von LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://de.linkedin.com/legal/privacy-policyeinsehen.Wir sind gemeinsam mit LinkedIn Ireland für die Verarbeitung von sogenannten „Page-Insights“-Daten beim Besuch unserer LinkedIn-Unternehmensseite verantwortlich. Zu diesem Zweck haben wir mit LinkedIn eine Vereinbarung über eine gemeinsame Verantwortlichkeit nach Art. 26 DSGVO geschlossen, die hier einsehbar ist:https://legal.linkedin.com/pages-joint-controller-addendum. LinkedIn verpflichtet sich darin u.a., die primäre Verantwortung gemäß der DSGVO für die Verarbeitung von „Page-Insights“-Daten zu übernehmen und sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung von „Page-Insights“-Daten zu erfüllen.LinkedIn stellt uns nicht personenbezogene Informationen und Analysen über die Nutzung unserer LinkedIn-Unternehmensseite bzw. bei Interaktionen mit unseren Beiträgen (z. B. Klicks auf benutzerdefinierte Schaltflächen in unseren Beiträgen) bereit. Mit diesen Informationen können wir die Effektivität unserer LinkedIn-Aktivitäten analysieren und optimieren. Hierzu verarbeitet LinkedIn insbesondere solche Daten, die Sie LinkedIn über die Angaben in Ihrem Profil zur Verfügung gestellt haben, wie z. B. Daten zur Job-Funktion, Land, Branche und Beschäftigungsstatus. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. f DSGVO, unser berechtigtes Interesse an der Verbesserung des Nutzererlebnisses auf unserer LinkedIn-Unternehmensseite.LinkedIn übermittelt Ihre personenbezogenen Daten an die LinkedIn Corp. in den USA. Die LinkedIn Corp. ist unter dem EU-U.S. Data Privacy Framework zertifiziert (nähere Informationen finden Sie unterhttps://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnywAAC&status=Active).LinkedIn übermittelt personenbezogene Daten auch in weitere Drittländer außerhalb des Europäischen Wirtschaftsraums, für die kein genereller Angemessenheitsbeschluss der EU-Kommission besteht. Weitere Informationen finden Sie unter:https://www.linkedin.com/help/linkedin/answer/a1343190?lang=de-DE. LinkedIn nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "PinterestDas soziale Netzwerk Pinterest wird von Pinterest Europe Limited, Palmerston Hous, 2nd Floor, Fenian Street, Dublin 2, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://policy.pinterest.com/de/privacy-policyeinsehen.Pinterest übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die es keinen Angemessenheitsbeschluss der EU-Kommission gibt. Weitere Informationen finden Sie ebenfalls in der Datenschutzerklärung von Pinterest unterhttps://policy.pinterest.com/de/privacy-policy. Pinterest nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "TikTokDas soziale Netzwerk TikTok wird von TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://www.tiktok.com/legal/page/eea/privacy-policy/de-DEeinsehen.TikTok übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die es keinen Angemessenheitsbeschluss der EU-Kommission gibt. Weitere Informationen finden Sie ebenfalls in der Datenschutzerklärung von TikTok unterhttps://www.tiktok.com/legal/page/eea/privacy-policy/de. TikTok nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "„X“ (ehemals Twitter)Das soziale Netzwerk „X“ (ehemals Twitter) wird von Twitter International Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://twitter.com/de/privacyeinsehen.„X“ übermittelt Ihre personenbezogenen Daten an die X Corp. (rechtlicher Nachfolger von Twitter Inc.) in den USA. Die X Corp. ist unter dem EU-U.S. Data Privacy Framework zertifiziert (nähere Informationen finden Sie unterhttps://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnywAAC&status=Active).„X“ übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die es keinen Angemessenheitsbeschluss der EU-Kommission gibt. Weitere Informationen finden Sie ebenfalls in der Datenschutzerklärung von „X“ unterhttps://twitter.com/de/privacy. „X“ nutzt in einigen Fällen die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "XingDas berufliche soziale Netzwerk XING wird von New Work SE, Am Strandkai 1, 20457 Hamburg, Deutschland betrieben. Die Datenschutzerklärung können Sie unterhttps://privacy.xing.com/de/datenschutzerklaerungeinsehen.XING übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die kein Angemessenheitsbeschluss der EU-Kommission besteht. Weitere Informationen finden Sie hier:https://privacy.xing.com/de/datenschutzerklaerung/wer-erhaelt-daten-zu-ihrer-person/drittlaender. XING nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "YouTubeDas Videoportal YouTube wird von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland betrieben. Die Datenschutzerklärung können Sie unterhttps://policies.google.com/privacy?hl=deeinsehen.Google übermittelt Ihre personenbezogenen Daten an die Google LLC in den USA. Die Google LLC ist unter dem EU-U.S. Data Privacy Framework zertifiziert (nähere Informationen finden Sie unterhttps://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnywAAC&status=Active).Google übermittelt personenbezogene Daten auch in Drittländer außerhalb des Europäischen Wirtschaftsraums, für die es keinen Angemessenheitsbeschluss der EU-Kommission gibt. Weitere Informationen finden Sie ebenfalls in der Datenschutzerklärung von Google unterhttps://policies.google.com/privacy?hl=de. Google nutzt die von der EU-Kommission genehmigten Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO, um ein angemessenes Datenschutzniveau herzustellen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-1144896064/axade/medien/datenschutzinformationen/ergaenzende-hinweise-einwilligung-KVNR.pdf",
+            "text": "Ergänzende Hinweise für die Einwilligung zur KVNR (PDF, 52 KB)"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "datenschutz"
+}

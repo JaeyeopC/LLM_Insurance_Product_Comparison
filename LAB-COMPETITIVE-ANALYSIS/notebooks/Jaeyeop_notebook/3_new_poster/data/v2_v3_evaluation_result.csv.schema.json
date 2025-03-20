@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "name": "similarity_score",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "comprehensiveness_score",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "groundedness_score",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "company_list",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "category",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

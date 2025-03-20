@@ -1,0 +1,1696 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 53
+    },
+    {
+      "field": "Feature",
+      "title": "Feature",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 239
+    },
+    {
+      "field": "Company: Generali – privatkunden_fahrzeug-zuhause_moped-e-scooter",
+      "title": "Company: Generali – privatkunden_fahrzeug-zuhause_moped-e-scooter",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 528
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_KFZ-Versicherung_Mopedversicherung",
+      "title": "Company: ERGO – de_Produkte_KFZ-Versicherung_Mopedversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 646
+    },
+    {
+      "field": "source",
+      "title": "source",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 191
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Reiseversicherung_Reiseruecktrittsversicherung",
+      "title": "Company: ergo – de_Produkte_Reiseversicherung_Reiseruecktrittsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 778
+    },
+    {
+      "field": "Company: dkv – produkte-reiseversicherung-reiseruecktrittsversicherung-reiseabbruchversicherung.md",
+      "title": "Company: dkv – produkte-reiseversicherung-reiseruecktrittsversicherung-reiseabbruchversicherung.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 732
+    },
+    {
+      "field": "Company: r+v – tierversicherung_pferdeversicherung_pferdehaftpflichtversicherung",
+      "title": "Company: r+v – tierversicherung_pferdeversicherung_pferdehaftpflichtversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 603
+    },
+    {
+      "field": "Company: arag – tierversicherung_pferdehaftpflicht",
+      "title": "Company: arag – tierversicherung_pferdehaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 700
+    },
+    {
+      "field": "Company: r+v – tierversicherung_pferdeversicherung_lebensversicherung-pferd",
+      "title": "Company: r+v – tierversicherung_pferdeversicherung_lebensversicherung-pferd",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 578
+    },
+    {
+      "field": "Company: huk-coburg – haus-haftung-recht_haus-wohnung_elementarschadenversicherung.md",
+      "title": "Company: huk-coburg – haus-haftung-recht_haus-wohnung_elementarschadenversicherung.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 684
+    },
+    {
+      "field": "Company: axa – pk_haus-wohnung_p_elementarversicherung",
+      "title": "Company: axa – pk_haus-wohnung_p_elementarversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 457
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_bausparen_uebersicht.xhtml",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_bausparen_uebersicht.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 799
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Bausparen-Finanzierung_Bausparen",
+      "title": "Company: ergo – de_Produkte_Bausparen-Finanzierung_Bausparen",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 497
+    },
+    {
+      "field": "Company: R+V – service_schadenservice",
+      "title": "Company: R+V – service_schadenservice",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 324
+    },
+    {
+      "field": "Company: AXA – schadenservice-360_schadenmeldung",
+      "title": "Company: AXA – schadenservice-360_schadenmeldung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 422
+    },
+    {
+      "field": "Company: huk-coburg – service_kunden-werben-kunden.md",
+      "title": "Company: huk-coburg – service_kunden-werben-kunden.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 452
+    },
+    {
+      "field": "Company: ergo – de_Service_Kundenbereich",
+      "title": "Company: ergo – de_Service_Kundenbereich",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 349
+    },
+    {
+      "field": "Company: ergo – de_Service_Kundenbereich_intcid%3D9000917",
+      "title": "Company: ergo – de_Service_Kundenbereich_intcid%3D9000917",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 482
+    },
+    {
+      "field": "Company: ergo – de_Service_Kundenbereich_intcid%3D9000916",
+      "title": "Company: ergo – de_Service_Kundenbereich_intcid%3D9000916",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 482
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_grundfaehigkeitsversicherung_uebersicht.xhtml",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_grundfaehigkeitsversicherung_uebersicht.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 923
+    },
+    {
+      "field": "Company: generali – privatkunden_vorsorge-finanzen_grundfaehigkeitsversicherung",
+      "title": "Company: generali – privatkunden_vorsorge-finanzen_grundfaehigkeitsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 604
+    },
+    {
+      "field": "Company: r+v – altersvorsorge_private-rentenversicherung_ruerup-rente",
+      "title": "Company: r+v – altersvorsorge_private-rentenversicherung_ruerup-rente",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 530
+    },
+    {
+      "field": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_altersvorsorge_ruerup-rente.md",
+      "title": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_altersvorsorge_ruerup-rente.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 646
+    },
+    {
+      "field": "Company: arag – reiseversicherung_reise-protect",
+      "title": "Company: arag – reiseversicherung_reise-protect",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 379
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_rentenversicherung_uebersicht.xhtml",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_rentenversicherung_uebersicht.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 856
+    },
+    {
+      "field": "Company: Generali – privatkunden_vorsorge-finanzen_basis-rente",
+      "title": "Company: Generali – privatkunden_vorsorge-finanzen_basis-rente",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 488
+    },
+    {
+      "field": "Company: Group – produkte_private-altersvorsorge_ruerup-rente",
+      "title": "Company: Group – produkte_private-altersvorsorge_ruerup-rente",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 482
+    },
+    {
+      "field": "Company: Ergo – de_Produkte_Rentenversicherung_Basis-Rente",
+      "title": "Company: Ergo – de_Produkte_Rentenversicherung_Basis-Rente",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 478
+    },
+    {
+      "field": "Company: r+v – altersvorsorge",
+      "title": "Company: r+v – altersvorsorge",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 255
+    },
+    {
+      "field": "Company: axa – pk_altersvorsorge_p_private-rentenversicherung",
+      "title": "Company: axa – pk_altersvorsorge_p_private-rentenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 481
+    },
+    {
+      "field": "Company: Generali – Privatkunden Vorsorge Finanzen Berufsunfähigkeitsversicherung",
+      "title": "Company: Generali – Privatkunden Vorsorge Finanzen Berufsunfähigkeitsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 612
+    },
+    {
+      "field": "Company: Barmenia – Berufsunfähigkeitsversicherung Ärzte",
+      "title": "Company: Barmenia – Berufsunfähigkeitsversicherung Ärzte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 445
+    },
+    {
+      "field": "Company: AXA – geschaeftskunden_bauleistungsversicherung",
+      "title": "Company: AXA – geschaeftskunden_bauleistungsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 463
+    },
+    {
+      "field": "Company: Generali – privatkunden_fahrzeug-zuhause_bauversicherungen",
+      "title": "Company: Generali – privatkunden_fahrzeug-zuhause_bauversicherungen",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 537
+    },
+    {
+      "field": "Company: Generali – geschaeftskunden_geschaeft-gebaeude_bauversicherungen",
+      "title": "Company: Generali – geschaeftskunden_geschaeft-gebaeude_bauversicherungen",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 589
+    },
+    {
+      "field": "Company: group – produkte_wohngebaeudeversicherung_bauzeitversicherung",
+      "title": "Company: group – produkte_wohngebaeudeversicherung_bauzeitversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 567
+    },
+    {
+      "field": "Company: generali – privatkunden_fahrzeug-zuhause_bauversicherungen",
+      "title": "Company: generali – privatkunden_fahrzeug-zuhause_bauversicherungen",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 535
+    },
+    {
+      "field": "Company: DKV – produkte-private-pflegezusatzversicherung-jetzt-handeln.md",
+      "title": "Company: DKV – produkte-private-pflegezusatzversicherung-jetzt-handeln.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 570
+    },
+    {
+      "field": "Company: R+V – pflegeversicherung_pflege-zusatzversicherung_pflege-bahr",
+      "title": "Company: R+V – pflegeversicherung_pflege-zusatzversicherung_pflege-bahr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 560
+    },
+    {
+      "field": "Company: SDK – versicherungen_altersvorsorge_pflegezusatzversicherung",
+      "title": "Company: SDK – versicherungen_altersvorsorge_pflegezusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 545
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Pflegeversicherung_Pflegezusatzversicherung",
+      "title": "Company: ERGO – de_Produkte_Pflegeversicherung_Pflegezusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 572
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Pflegeversicherung_Private_Pflegeversicherung",
+      "title": "Company: ERGO – de_Produkte_Pflegeversicherung_Private_Pflegeversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 582
+    },
+    {
+      "field": "Company: Group – produkte_private-pflegeversicherung_pflege-bahr",
+      "title": "Company: Group – produkte_private-pflegeversicherung_pflege-bahr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 508
+    },
+    {
+      "field": "Company: ERGO – Zahnzusatzversicherung",
+      "title": "Company: ERGO – Zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 340
+    },
+    {
+      "field": "Company: R+V – Zahnzusatzversicherung",
+      "title": "Company: R+V – Zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 328
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – produkte_private-pflegeversicherung_pflegetagegeldversicherung",
+      "title": "Company: SIGNAL IDUNA – produkte_private-pflegeversicherung_pflegetagegeldversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 670
+    },
+    {
+      "field": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_pflegeversicherung_pflegetagegeldversicherung",
+      "title": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_pflegeversicherung_pflegetagegeldversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 754
+    },
+    {
+      "field": "Company: sdk – versicherungen_altersvorsorge_pflegezusatzversicherung",
+      "title": "Company: sdk – versicherungen_altersvorsorge_pflegezusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 540
+    },
+    {
+      "field": "Company: AXA – pk_gesundheit_p_pflegezusatzversicherung",
+      "title": "Company: AXA – pk_gesundheit_p_pflegezusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 457
+    },
+    {
+      "field": "Company: Generali – privatkunden_gesundheit-freizeit_pflegezusatzversicherung",
+      "title": "Company: Generali – privatkunden_gesundheit-freizeit_pflegezusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 585
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Krankenversicherung_Zahnzusatzversicherung",
+      "title": "Company: ergo – de_Produkte_Krankenversicherung_Zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 566
+    },
+    {
+      "field": "Company: r+v – krankenzusatzversicherung_zahnzusatzversicherung",
+      "title": "Company: r+v – krankenzusatzversicherung_zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 506
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Krankenversicherung_Krankentagegeld",
+      "title": "Company: ergo – de_Produkte_Krankenversicherung_Krankentagegeld",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 516
+    },
+    {
+      "field": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_krankentagegeld.md",
+      "title": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_krankentagegeld.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 901
+    },
+    {
+      "field": "Company: arag – krankenzusatzversicherung_krankentagegeldversicherung",
+      "title": "Company: arag – krankenzusatzversicherung_krankentagegeldversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 549
+    },
+    {
+      "field": "Company: dkv – produkte-krankentagegeld-versicherung-106339.md",
+      "title": "Company: dkv – produkte-krankentagegeld-versicherung-106339.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 508
+    },
+    {
+      "field": "Company: axa – pk_gesundheit_p_krankentagegeld-versicherung",
+      "title": "Company: axa – pk_gesundheit_p_krankentagegeld-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 482
+    },
+    {
+      "field": "Company: group – produkte_krankentagegeldversicherung",
+      "title": "Company: group – produkte_krankentagegeldversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 438
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Krankenversicherung_Beihilfeversicherung",
+      "title": "Company: ergo – de_Produkte_Krankenversicherung_Beihilfeversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 538
+    },
+    {
+      "field": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-beamte",
+      "title": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-beamte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 577
+    },
+    {
+      "field": "Company: Generali – Privatkunden Recht-Haftung Haus-Grundbesitzerhaftpflichtversicherung",
+      "title": "Company: Generali – Privatkunden Recht-Haftung Haus-Grundbesitzerhaftpflichtversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 665
+    },
+    {
+      "field": "Company: HUK-Coburg – Haus-Haftung-Recht Haftpflichtversicherung Haus-und-Grundbesitzerhaftpflicht",
+      "title": "Company: HUK-Coburg – Haus-Haftung-Recht Haftpflichtversicherung Haus-und-Grundbesitzerhaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 748
+    },
+    {
+      "field": "Company: r+v – private-krankenversicherung_private-krankenversicherung-beamte",
+      "title": "Company: r+v – private-krankenversicherung_private-krankenversicherung-beamte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 597
+    },
+    {
+      "field": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_private-krankenversicherung-beamte.md",
+      "title": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_private-krankenversicherung-beamte.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 847
+    },
+    {
+      "field": "Company: group – produkte_private-krankenversicherung_beamte",
+      "title": "Company: group – produkte_private-krankenversicherung_beamte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 489
+    },
+    {
+      "field": "Company: sdk – versicherungen_zusatzversicherung_krankentagegeldversicherung_gelassen-gesund-werden-mit-der-sdk-sicherheit-im-krankheitsfall",
+      "title": "Company: sdk – versicherungen_zusatzversicherung_krankentagegeldversicherung_gelassen-gesund-werden-mit-der-sdk-sicherheit-im-krankheitsfall",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 1040
+    },
+    {
+      "field": "Company: group – produkte_hausratversicherung_glasversicherung",
+      "title": "Company: group – produkte_hausratversicherung_glasversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 496
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Hausrat-und-Gebaeudeversicherung_Glasversicherung",
+      "title": "Company: ergo – de_Produkte_Hausrat-und-Gebaeudeversicherung_Glasversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 619
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Rentenversicherung_Basis-Rente",
+      "title": "Company: ERGO – de_Produkte_Rentenversicherung_Basis-Rente",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 486
+    },
+    {
+      "field": "Company: r+v – kfz-versicherung",
+      "title": "Company: r+v – kfz-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 272
+    },
+    {
+      "field": "Company: ergo – de_Produkte_KFZ-Versicherung",
+      "title": "Company: ergo – de_Produkte_KFZ-Versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 378
+    },
+    {
+      "field": "Company: r+v – haftpflichtversicherung_jagdhaftpflichtversicherung",
+      "title": "Company: r+v – haftpflichtversicherung_jagdhaftpflichtversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 500
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Haftpflichtversicherung_Jagdhaftpflicht",
+      "title": "Company: ergo – de_Produkte_Haftpflichtversicherung_Jagdhaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 520
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Haftpflichtversicherung_Bauherrenhaftpflicht",
+      "title": "Company: ergo – de_Produkte_Haftpflichtversicherung_Bauherrenhaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 555
+    },
+    {
+      "field": "Company: group – produkte_bauherrenhaftpflicht",
+      "title": "Company: group – produkte_bauherrenhaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 378
+    },
+    {
+      "field": "Company: huk-coburg – haus-haftung-recht_haftpflichtversicherung_tierhalterhaftpflichtversicherung",
+      "title": "Company: huk-coburg – haus-haftung-recht_haftpflichtversicherung_tierhalterhaftpflichtversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 719
+    },
+    {
+      "field": "Company: axa – pk_haftpflicht_p_tierhalter-haftpflicht",
+      "title": "Company: axa – pk_haftpflicht_p_tierhalter-haftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 409
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_KFZ-Versicherung_Motorradversicherung",
+      "title": "Company: ERGO – de_Produkte_KFZ-Versicherung_Motorradversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 539
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – produkte_motorradversicherung",
+      "title": "Company: SIGNAL IDUNA – produkte_motorradversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 449
+    },
+    {
+      "field": "Company: arag – rechtsschutzversicherung_familienrechtsschutz",
+      "title": "Company: arag – rechtsschutzversicherung_familienrechtsschutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 481
+    },
+    {
+      "field": "Company: huk-coburg – haus-haftung-recht_rechtsschutzversicherung_familienrechtsschutz.md",
+      "title": "Company: huk-coburg – haus-haftung-recht_rechtsschutzversicherung_familienrechtsschutz.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 687
+    },
+    {
+      "field": "Company: axa – geschaeftskunden_rechtsschutzversicherung",
+      "title": "Company: axa – geschaeftskunden_rechtsschutzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 459
+    },
+    {
+      "field": "Company: arag – gewerbeversicherung_manager-rechtsschutz",
+      "title": "Company: arag – gewerbeversicherung_manager-rechtsschutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 465
+    },
+    {
+      "field": "Company: barmenia – deu_bde_geschaeftlich_bde_produkte_geschaeftskunde_bde_betrieb_haftpflicht_bde_rechtsschutz_2_rechtsschutz_geschaeftskunden.xhtml",
+      "title": "Company: barmenia – deu_bde_geschaeftlich_bde_produkte_geschaeftskunde_bde_betrieb_haftpflicht_bde_rechtsschutz_2_rechtsschutz_geschaeftskunden.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 1130
+    },
+    {
+      "field": "Company: arag – rechtsschutzversicherung_erb-rechtsschutz",
+      "title": "Company: arag – rechtsschutzversicherung_erb-rechtsschutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 458
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Rechtsschutzversicherung",
+      "title": "Company: ergo – de_Produkte_Rechtsschutzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 433
+    },
+    {
+      "field": "Company: arag – rechtsschutzversicherung_privatrechtsschutz",
+      "title": "Company: arag – rechtsschutzversicherung_privatrechtsschutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 467
+    },
+    {
+      "field": "Company: huk-coburg – haus-haftung-recht_rechtsschutzversicherung_privatrechtsschutz.md",
+      "title": "Company: huk-coburg – haus-haftung-recht_rechtsschutzversicherung_privatrechtsschutz.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 673
+    },
+    {
+      "field": "Company: axa – pk_haftpflicht_p_rechtsschutz",
+      "title": "Company: axa – pk_haftpflicht_p_rechtsschutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 363
+    },
+    {
+      "field": "Company: r+v – reiseversicherung_reisekrankenversicherung",
+      "title": "Company: r+v – reiseversicherung_reisekrankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 452
+    },
+    {
+      "field": "Company: dkv – reiseversicherungen.md",
+      "title": "Company: dkv – reiseversicherungen.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 321
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Reiseversicherung_ReisekrankenversicherungDKV",
+      "title": "Company: ergo – de_Produkte_Reiseversicherung_ReisekrankenversicherungDKV",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 587
+    },
+    {
+      "field": "Company: arag – reiseversicherung_auslandskrankenversicherung",
+      "title": "Company: arag – reiseversicherung_auslandskrankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 486
+    },
+    {
+      "field": "Company: dkv – reiseschutz-versicherungen-auslandskrankenversicherung.md",
+      "title": "Company: dkv – reiseschutz-versicherungen-auslandskrankenversicherung.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 568
+    },
+    {
+      "field": "Company: huk-coburg – fahrzeuge_kfz-versicherung_wohnmobilversicherung.md",
+      "title": "Company: huk-coburg – fahrzeuge_kfz-versicherung_wohnmobilversicherung.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 584
+    },
+    {
+      "field": "Company: r+v – kfz-versicherung_wohnmobil-versicherung",
+      "title": "Company: r+v – kfz-versicherung_wohnmobil-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 439
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Reiseversicherung",
+      "title": "Company: ergo – de_Produkte_Reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 380
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Reiseversicherung_RundumSorglos-Schutz",
+      "title": "Company: ergo – de_Produkte_Reiseversicherung_RundumSorglos-Schutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 543
+    },
+    {
+      "field": "Company: group – produkte_reiseversicherung",
+      "title": "Company: group – produkte_reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 361
+    },
+    {
+      "field": "Company: ERGO – RundumSorglos-Schutz",
+      "title": "Company: ERGO – RundumSorglos-Schutz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 334
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – Komplettpakete",
+      "title": "Company: SIGNAL IDUNA – Komplettpakete",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 341
+    },
+    {
+      "field": "Company: ERGO – Reiserücktrittsversicherung",
+      "title": "Company: ERGO – Reiserücktrittsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 358
+    },
+    {
+      "field": "Company: Generali – Reiseversicherung",
+      "title": "Company: Generali – Reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 314
+    },
+    {
+      "field": "Company: ARAG – Reise-Protect",
+      "title": "Company: ARAG – Reise-Protect",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 268
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_kfz_reisen_reiseversicherung_1_uebersicht.xhtml",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_kfz_reisen_reiseversicherung_1_uebersicht.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 806
+    },
+    {
+      "field": "Company: generali – privatkunden_gesundheit-freizeit_reiseversicherung",
+      "title": "Company: generali – privatkunden_gesundheit-freizeit_reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 531
+    },
+    {
+      "field": "Company: ergo – Jahres-Reiseversicherung",
+      "title": "Company: ergo – Jahres-Reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 340
+    },
+    {
+      "field": "Company: arag – reise-protect",
+      "title": "Company: arag – reise-protect",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 256
+    },
+    {
+      "field": "Company: barmenia – Reiseversicherung",
+      "title": "Company: barmenia – Reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 321
+    },
+    {
+      "field": "Company: group – produkte_reiseruecktrittsversicherung_familie",
+      "title": "Company: group – produkte_reiseruecktrittsversicherung_familie",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 478
+    },
+    {
+      "field": "Company: group – produkte_reiseversicherung-komplettpakete",
+      "title": "Company: group – produkte_reiseversicherung-komplettpakete",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 468
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Reiseversicherung_Reiseruecktrittsversicherung",
+      "title": "Company: ERGO – de_Produkte_Reiseversicherung_Reiseruecktrittsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 583
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – produkte_reiseruecktrittsversicherung",
+      "title": "Company: SIGNAL IDUNA – produkte_reiseruecktrittsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 486
+    },
+    {
+      "field": "Company: huk-coburg – haus-haftung-recht_haftpflichtversicherung_bauherrenhaftpflicht.md",
+      "title": "Company: huk-coburg – haus-haftung-recht_haftpflichtversicherung_bauherrenhaftpflicht.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 668
+    },
+    {
+      "field": "Company: axa – pk_gesundheit_p_reiseversicherung",
+      "title": "Company: axa – pk_gesundheit_p_reiseversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 399
+    },
+    {
+      "field": "Company: sdk – versicherungen_unfall-und-sachversicherung_unfallversicherung",
+      "title": "Company: sdk – versicherungen_unfall-und-sachversicherung_unfallversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 586
+    },
+    {
+      "field": "Company: r+v – unfallversicherung_risiko-unfallversicherung",
+      "title": "Company: r+v – unfallversicherung_risiko-unfallversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 450
+    },
+    {
+      "field": "Company: r+v – unfallversicherung_kapital-unfallversicherung-beitragsrueckgewaehr",
+      "title": "Company: r+v – unfallversicherung_kapital-unfallversicherung-beitragsrueckgewaehr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 609
+    },
+    {
+      "field": "Company: group – produkte_unfallversicherung_beitragsrueckgewaehr",
+      "title": "Company: group – produkte_unfallversicherung_beitragsrueckgewaehr",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 517
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Unfallversicherung",
+      "title": "Company: ergo – de_Produkte_Unfallversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 382
+    },
+    {
+      "field": "Company: group – produkte_unfallversicherung_senioren",
+      "title": "Company: group – produkte_unfallversicherung_senioren",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 428
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_krankentagegeld_2_uebersicht.xhtml",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_krankentagegeld_2_uebersicht.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 958
+    },
+    {
+      "field": "Company: sdk – versicherungen_zusatzversicherung_krankentagegeldversicherung",
+      "title": "Company: sdk – versicherungen_zusatzversicherung_krankentagegeldversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 600
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_kfz_reisen_e_scooter_uebersicht.xhtml",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_kfz_reisen_e_scooter_uebersicht.xhtml",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 742
+    },
+    {
+      "field": "Company: group – produkte_e-scooter-versicherung",
+      "title": "Company: group – produkte_e-scooter-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 398
+    },
+    {
+      "field": "Company: arag – gewerbeversicherung_betriebliche-krankenversicherung",
+      "title": "Company: arag – gewerbeversicherung_betriebliche-krankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 537
+    },
+    {
+      "field": "Company: dkv – betriebliche-krankenversicherung.md",
+      "title": "Company: dkv – betriebliche-krankenversicherung.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 408
+    },
+    {
+      "field": "Company: arag – private-krankenversicherung",
+      "title": "Company: arag – private-krankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 356
+    },
+    {
+      "field": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-angestellte",
+      "title": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-angestellte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 599
+    },
+    {
+      "field": "Company: arag – krankenzusatzversicherung_krankenhaustagegeld",
+      "title": "Company: arag – krankenzusatzversicherung_krankenhaustagegeld",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 496
+    },
+    {
+      "field": "Company: r+v – krankenzusatzversicherung_krankenhaustagegeld",
+      "title": "Company: r+v – krankenzusatzversicherung_krankenhaustagegeld",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 488
+    },
+    {
+      "field": "Company: ARAG – krankenversicherung-beamte",
+      "title": "Company: ARAG – krankenversicherung-beamte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 369
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Krankenversicherung_Beihilfeversicherung",
+      "title": "Company: ERGO – de_Produkte_Krankenversicherung_Beihilfeversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 547
+    },
+    {
+      "field": "Company: axa – pk_gesundheit_s_gesundheitsservice",
+      "title": "Company: axa – pk_gesundheit_s_gesundheitsservice",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 408
+    },
+    {
+      "field": "Company: sdk – versicherungen_private-krankenversicherung_gesundheitsdienstleistungen",
+      "title": "Company: sdk – versicherungen_private-krankenversicherung_gesundheitsdienstleistungen",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 652
+    },
+    {
+      "field": "Company: DKV – Betriebliche Krankenversicherung",
+      "title": "Company: DKV – Betriebliche Krankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 388
+    },
+    {
+      "field": "Company: Group – Betriebliche Krankenversicherung",
+      "title": "Company: Group – Betriebliche Krankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 399
+    },
+    {
+      "field": "Company: DKV – Produkte-Guenstige-Private-Krankenversicherung-Vollversicherung",
+      "title": "Company: DKV – Produkte-Guenstige-Private-Krankenversicherung-Vollversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 608
+    },
+    {
+      "field": "Company: Group – Produkte_Private-Krankenversicherung_Selbststaendige",
+      "title": "Company: Group – Produkte_Private-Krankenversicherung_Selbststaendige",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 548
+    },
+    {
+      "field": "Company: SDK – Versicherungen_Private-Krankenversicherung_PKV-fuer-Angestellte",
+      "title": "Company: SDK – Versicherungen_Private-Krankenversicherung_PKV-fuer-Angestellte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 612
+    },
+    {
+      "field": "Company: SDK – Versicherungen_Private-Krankenversicherung",
+      "title": "Company: SDK – Versicherungen_Private-Krankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 467
+    },
+    {
+      "field": "Company: Group – Produkte_Private-Krankenversicherung_Deutscher-Ring",
+      "title": "Company: Group – Produkte_Private-Krankenversicherung_Deutscher-Ring",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 545
+    },
+    {
+      "field": "Company: R+V – kfz-versicherung_motorrad-versicherung",
+      "title": "Company: R+V – kfz-versicherung_motorrad-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 436
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – Produkte_Private-Krankenversicherung_Anwartschaftsversicherung",
+      "title": "Company: SIGNAL IDUNA – Produkte_Private-Krankenversicherung_Anwartschaftsversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 678
+    },
+    {
+      "field": "Company: dkv – zusatzversicherungen.md",
+      "title": "Company: dkv – zusatzversicherungen.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 332
+    },
+    {
+      "field": "Company: sdk – versicherungen_zusatzversicherung",
+      "title": "Company: sdk – versicherungen_zusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 399
+    },
+    {
+      "field": "Company: dkv – private-krankenversicherungen.md",
+      "title": "Company: dkv – private-krankenversicherungen.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 391
+    },
+    {
+      "field": "Company: ergo – Private-Krankenhauszusatzversicherung",
+      "title": "Company: ergo – Private-Krankenhauszusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 433
+    },
+    {
+      "field": "Company: group – Deutscher Ring",
+      "title": "Company: group – Deutscher Ring",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 279
+    },
+    {
+      "field": "Company: group – produkte_krankenhauszusatzversicherung",
+      "title": "Company: group – produkte_krankenhauszusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 454
+    },
+    {
+      "field": "Company: group – krankenhauszusatzversicherung_kind",
+      "title": "Company: group – krankenhauszusatzversicherung_kind",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 424
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Krankenversicherung_Ambulante-Zusatzversicherung",
+      "title": "Company: ergo – de_Produkte_Krankenversicherung_Ambulante-Zusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 610
+    },
+    {
+      "field": "Company: r+v – krankenzusatzversicherung_ambulante-zusatzversicherung",
+      "title": "Company: r+v – krankenzusatzversicherung_ambulante-zusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 549
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Zahnzusatzversicherung_Kieferorthopaedie",
+      "title": "Company: ergo – de_Produkte_Zahnzusatzversicherung_Kieferorthopaedie",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 545
+    },
+    {
+      "field": "Company: group – produkte_zahnzusatzversicherung_kind",
+      "title": "Company: group – produkte_zahnzusatzversicherung_kind",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 439
+    },
+    {
+      "field": "Company: r+v – krankenzusatzversicherung_krankentagegeldversicherung",
+      "title": "Company: r+v – krankenzusatzversicherung_krankentagegeldversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 541
+    },
+    {
+      "field": "Company: ERGO – Zahnzusatzversicherung ohne Wartezeit",
+      "title": "Company: ERGO – Zahnzusatzversicherung ohne Wartezeit",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 441
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – Zahnzusatzversicherung",
+      "title": "Company: SIGNAL IDUNA – Zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 398
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-ohne-Wartezeit",
+      "title": "Company: ERGO – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-ohne-Wartezeit",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 703
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – ratgeber_zahnzusatzversicherung-ohne-wartezeit",
+      "title": "Company: SIGNAL IDUNA – ratgeber_zahnzusatzversicherung-ohne-wartezeit",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 564
+    },
+    {
+      "field": "Company: ERGO – Zahnersatzversicherung mit Implantaten",
+      "title": "Company: ERGO – Zahnersatzversicherung mit Implantaten",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 441
+    },
+    {
+      "field": "Company: R+V – krankenzusatzversicherung_zahnzusatzversicherung",
+      "title": "Company: R+V – krankenzusatzversicherung_zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 512
+    },
+    {
+      "field": "Company: Barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_zahn_uebersicht.xhtml_p0%3D334009",
+      "title": "Company: Barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_zahn_uebersicht.xhtml_p0%3D334009",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 974
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-im-Vergleich",
+      "title": "Company: ERGO – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-im-Vergleich",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 685
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Zahnzusatzversicherung_zahnersatz",
+      "title": "Company: ergo – de_Produkte_Zahnzusatzversicherung_zahnersatz",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 500
+    },
+    {
+      "field": "Company: dkv – produkte-private-zahnzusatzversicherung-106318.md",
+      "title": "Company: dkv – produkte-private-zahnzusatzversicherung-106318.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 516
+    },
+    {
+      "field": "Company: group – ratgeber_zahnzusatzversicherung-ohne-wartezeit",
+      "title": "Company: group – ratgeber_zahnzusatzversicherung-ohne-wartezeit",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 505
+    },
+    {
+      "field": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_zahnzusatzversicherung.md",
+      "title": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_zahnzusatzversicherung.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 950
+    },
+    {
+      "field": "Company: DKV – produkte-private-zahnzusatzversicherung-106318.md",
+      "title": "Company: DKV – produkte-private-zahnzusatzversicherung-106318.md",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 521
+    },
+    {
+      "field": "Company: ERGO – de_Produkte_Krankenversicherung_Zahnzusatzversicherung",
+      "title": "Company: ERGO – de_Produkte_Krankenversicherung_Zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 574
+    },
+    {
+      "field": "Company: sdk – versicherungen_zusatzversicherung_zahnzusatzversicherung",
+      "title": "Company: sdk – versicherungen_zusatzversicherung_zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 565
+    },
+    {
+      "field": "Company: group – ratgeber_zahnzusatzversicherung-leistungen",
+      "title": "Company: group – ratgeber_zahnzusatzversicherung-leistungen",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 474
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Zahnzusatzversicherung",
+      "title": "Company: ergo – de_Produkte_Zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 421
+    },
+    {
+      "field": "Company: SDK – versicherungen_private-krankenversicherung_pkv-fuer-angestellte",
+      "title": "Company: SDK – versicherungen_private-krankenversicherung_pkv-fuer-angestellte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 604
+    },
+    {
+      "field": "Company: SIGNAL IDUNA – produkte_private-krankenversicherung_angestellte",
+      "title": "Company: SIGNAL IDUNA – produkte_private-krankenversicherung_angestellte",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 570
+    },
+    {
+      "field": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-selbststaendige",
+      "title": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-selbststaendige",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 631
+    },
+    {
+      "field": "Company: group – produkte_private-krankenversicherung_selbststaendige",
+      "title": "Company: group – produkte_private-krankenversicherung_selbststaendige",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 542
+    },
+    {
+      "field": "Company: group – produkte_zahnzusatzversicherung",
+      "title": "Company: group – produkte_zahnzusatzversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 403
+    },
+    {
+      "field": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_zahn_uebersicht.xhtml_p0%3D334009",
+      "title": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_zahn_uebersicht.xhtml_p0%3D334009",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 973
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-im-Vergleich",
+      "title": "Company: ergo – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-im-Vergleich",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 676
+    },
+    {
+      "field": "Company: ergo – de_Produkte_Hausrat-und-Gebaeudeversicherung_Hausratversicherung",
+      "title": "Company: ergo – de_Produkte_Hausrat-und-Gebaeudeversicherung_Hausratversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 643
+    },
+    {
+      "field": "Company: r+v – hausratversicherung",
+      "title": "Company: r+v – hausratversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 295
+    },
+    {
+      "field": "Company: r+v – tierversicherung_hundeversicherung_hunde-op-versicherung",
+      "title": "Company: r+v – tierversicherung_hundeversicherung_hunde-op-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 562
+    },
+    {
+      "field": "Company: arag – tierversicherung_hunde-op-versicherung",
+      "title": "Company: arag – tierversicherung_hunde-op-versicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 438
+    },
+    {
+      "field": "Company: arag – tierversicherung_hundekrankenversicherung",
+      "title": "Company: arag – tierversicherung_hundekrankenversicherung",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 460
+    },
+    {
+      "field": "Company: r+v – tierversicherung_hundeversicherung_hundehaftpflicht",
+      "title": "Company: r+v – tierversicherung_hundeversicherung_hundehaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 516
+    },
+    {
+      "field": "Company: arag – tierversicherung_hundehaftpflicht",
+      "title": "Company: arag – tierversicherung_hundehaftpflicht",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 391
+    }
+  ]
+}

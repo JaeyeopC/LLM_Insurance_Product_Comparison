@@ -1,0 +1,430 @@
+{
+    "title": "Mediencenter AXA Deutschland",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Digitaler Sammelplatz für Info-News, Pressemitteilungen, Bildmaterial, Audiobeiträge, Dossiers, Studien, Social uvm.",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/medien",
+        "og:title": "Mediencenter AXA Deutschland",
+        "og:description": "Digitaler Sammelplatz für Info-News, Pressemitteilungen, Bildmaterial, Audiobeiträge, Dossiers, Studien, Social uvm.",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "AXA Deutschland - Hauptverwaltung in Köln"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Presseanfragen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Richten Sie Medienanfragen unter Angabe der gewünschten Rückmeldefrist bitte an unser Gruppenpostfach. So stellen wir sicher, dass Ihre Anfrage schnell bearbeitet wird, auch wenn ein:e Kolleg:in nicht im Büro ist."
+        },
+        {
+            "type": "link",
+            "href": "mailto:medien@axa.de",
+            "text": "Medien@axa.de"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Social Media Plattformen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Instagram AXA Deutschland",
+                "LinkedIn AXA Deutschland",
+                "TikTok AXA Deutschland",
+                "Gewinnspiele Social Media Teilnahmebedingungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihre Ansprechpartnerin für Presseanfragen Leiterin Unternehmenskommunikation"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Dania BUCHAL (in Elternzeit)"
+        },
+        {
+            "text": "Leitung Unternehmenskommunikation"
+        },
+        {
+            "type": "link",
+            "href": "mailto:dania.buchal@axa.de",
+            "text": "dania.buchal@axa.de"
+        },
+        {
+            "text": "0221 148-21144"
+        },
+        {
+            "type": "link",
+            "href": "https://de.linkedin.com/in/dania-buchal-10055815b",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihre Ansprechpartnerin für Presseanfragen Leitung Media Relations"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Eva SUNDKVIST"
+        },
+        {
+            "text": "Leitung Media Relations"
+        },
+        {
+            "type": "link",
+            "href": "mailto:eva.sundkvist@axa.de",
+            "text": "eva.sundkvist@axa.de"
+        },
+        {
+            "text": "0221 148-32489"
+        },
+        {
+            "type": "link",
+            "href": "https://www.linkedin.com/in/evasundkvist/",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihr Ansprechpartner für Presseanfragen Sach-, Unfall-, Haftpflicht-, KFZ-Versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Malte WICKING"
+        },
+        {
+            "text": "Sach-, Unfall-, Haftpflicht-, KFZ-Versicherung"
+        },
+        {
+            "type": "link",
+            "href": "mailto:malte.wicking@axa.de",
+            "text": "malte.wicking@axa.de"
+        },
+        {
+            "text": "0221 148-32766"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihre Ansprechpartnerin für Presseanfragen Sach-, Unfall-, Haftpflicht-, KFZ-Versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sabine FRIEDRICH"
+        },
+        {
+            "text": "Sach-, Unfall-, Haftpflicht-, KFZ-Versicherung"
+        },
+        {
+            "type": "link",
+            "href": "mailto:sabine.friedrich@axa.de",
+            "text": "sabine.friedrich@axa.de"
+        },
+        {
+            "text": "0221 148-31374"
+        },
+        {
+            "type": "link",
+            "href": "https://www.xing.com/profile/Sabine_Friedrich",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihr Ansprechpartner für Presseanfragen Krankenversicherung & Gesundheitsthemen, Lebensversicherung & Altersvorsorge, Nachhaltigkeit"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Mario MAURER"
+        },
+        {
+            "text": "Krankenversicherung, Lebensversicherung & Nachhaltigkeit"
+        },
+        {
+            "type": "link",
+            "href": "mailto:mario.maurer@axa.de",
+            "text": "mario.maurer@axa.de"
+        },
+        {
+            "text": "0221 148-21269"
+        },
+        {
+            "type": "link",
+            "href": "https://www.linkedin.com/in/mario-maurer-05b635124/",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihre Ansprechpartnerin für Presseanfragen Lebensversicherung, Berufsunfähigkeit & Altersvorsorge"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ursula ROEBEN"
+        },
+        {
+            "text": "Lebensversicherung, Berufsunfähigkeit & Altersvorsorge"
+        },
+        {
+            "type": "link",
+            "href": "mailto:ursula.roeben@axa.de",
+            "text": "ursula.roeben@axa.de"
+        },
+        {
+            "text": "0221 148-21141"
+        },
+        {
+            "type": "link",
+            "href": "https://www.xing.com/profile/Ursula_Roeben",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Ihre Ansprechpartnerin für Presseanfragen Studien"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Daniela BEHRENS"
+        },
+        {
+            "text": "Personalthemen, Social Media & Studien"
+        },
+        {
+            "type": "link",
+            "href": "mailto:daniela.behrens@axa.de",
+            "text": "daniela.behrens@axa.de"
+        },
+        {
+            "text": "0221 148-22491"
+        },
+        {
+            "type": "link",
+            "href": "https://www.linkedin.com/in/daniela-behrens-6a0ab010a/",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://www.xing.com/profile/Daniela_Behrens16/cv",
+            "text": ""
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Volontärin"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Maike WEISMANTEL"
+        },
+        {
+            "text": "Volontärin"
+        },
+        {
+            "type": "link",
+            "href": "mailto:maike.weismantel@axa.de",
+            "text": "maike.weismantel@axa.de"
+        },
+        {
+            "text": "0221 148-51439"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pressemitteilung vom 21.11.2024"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "AXA Lebensversicherung erhöht laufende Verzinsung 2025"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die AXA Lebensversicherung AG und ihre Zweigniederlassung DBV Deutsche Beamtenversicherung Lebensversicherung erhöhen 2025 die laufende Verzinsung von 2,6 auf 3,0 Prozent."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/verzinsung-lebensversicherung-2025",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pressemitteilung vom 24.05.2024"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "AXA wird Partner der UEFA Women’s EURO 2025"
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA ist offizieller Partner der UEFA Women’s EURO 2025. Damit setzt AXA ihr Engagement für Sportlerinnen und mehr Gleichberechtigung im Fußball weiter fort."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/pm-axa-partner-uefa-womens-euro-2025",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Pressemitteilung vom 18.04.2024"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Für jeden Anlegertyp: Die neue AXA Geldanlagelösung InvestNow"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zahlreiche Wahl- und Anpassungsmöglichkeiten wie ein automatisches Anlaufmanagement, Gewinnsicherungsmöglichkeiten und eine Garantieoption machen das Produkt sehr flexibel."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/pm-geldanlageloesung-investnow",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse",
+            "text": "Alle Pressemitteilungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Melden Sie sich für unseren Verteiler an und erhalten Sie unsere aktuellen Pressemitteilungen per E-Mail"
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/hilfe/?src=mgs&action=KONTAKT&subject=AX010&topic=TS024",
+            "text": "Jetzt abonnieren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Future Risk Report"
+        },
+        {
+            "type": "paragraph",
+            "text": "Future Risks Report"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "AXA Future Risks Report 2023"
+        },
+        {
+            "type": "paragraph",
+            "text": "AXA Studie ermittelt zum zehnten Mal die Wahrnehmung künftiger Risiken."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/mediathek/studien-und-forschung/future-risks-report-2023#anker25592699",
+            "text": "Future Risks Report 2023"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "AXA Mental Health Report 2023"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mental Health Report"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "AXA Mental Health Report 2023"
+        },
+        {
+            "type": "paragraph",
+            "text": "41 Prozent der jungen Frauen bezeichnen sich als psychisch erkrankt"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/mediathek/studien-und-forschung/mental-health-report-2023",
+            "text": "AXA Mental Health Report 2023"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mental Health Report"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mental Health Report"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "AXA Mental Health Report 2022"
+        },
+        {
+            "type": "paragraph",
+            "text": "“Die Pandemie der Seele”: AXA Studie untersucht zum zweiten Mal die Auswirkungen der Corona Krise auf die psychische Gesundheit."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/mediathek/studien-und-forschung/mental-health-report-2022",
+            "text": "Mental Health Report"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/presse/mediathek/studien-und-forschung",
+            "text": "weitere Studienergebnisse von AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte kontaktieren Sie mit Ihrem Anliegen unsere Kundenbetreuung."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/kontakt",
+            "text": "Kundenservice"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte besuchen Sie für weitere Hilfe unseren Vertriebspartner-Service."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/vertriebspartner",
+            "text": "Vertriebsportale"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "medien"
+}

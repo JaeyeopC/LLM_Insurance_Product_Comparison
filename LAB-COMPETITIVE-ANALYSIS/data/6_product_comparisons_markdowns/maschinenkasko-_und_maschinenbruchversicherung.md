@@ -1,0 +1,20 @@
+Hier ist eine umfassende Vergleichstabelle im Markdown-Format für die Maschinenkasko- und Maschinenbruchversicherung von verschiedenen Versicherungsunternehmen basierend auf den bereitgestellten Informationen:
+
+```markdown
+| Eigenschaft            | Details für AXA Maschinenversicherung | Details für Generali Maschinenversicherung | Details für Generali Maschinen- & Kaskoversicherung |
+|------------------------|---------------------------------------|--------------------------------------------|-----------------------------------------------------|
+| **Versicherungsumfang**| Absicherung gegen Bedienungsfehler, Fahrlässigkeit, Vorsatz Dritter, Schutz bei Versagen von Mess-, Regel- oder Sicherheitseinrichtungen, Konstruktions-, Material- oder Ausführungsfehler, Sturm- oder Frostschäden | Allgefahrenversicherung, Schutz für Steuerungssoftware und Daten, Schutz für stationäre Maschinen, Anlagen und Geräte, Softwareversicherung, Aufräumungs- und Entsorgungskosten, Dekontaminationskosten, Bewegungs- und Schutzkosten, Luftfrachtkosten, Bau- und Erdarbeiten, Eich- und Kalibrierungskosten, Sachverständigenkosten, Mehrkosten und behördliche Wiederherstellungsbeschränkungen, Innere Unruhen, Werkzeuge, Sofortiger Reparaturbeginn, Vorsorgeversicherung, Entschädigung des Neuwertes, GAP-Deckung | Versicherungsschutz gegen Brand, Diebstahl, Bedienungsfehler, Unfall, Schutz gegen Böswilligkeit Dritter, Konstruktions-, Material- oder Ausführungsfehler, Versagen von Mess-, Regel- oder Sicherheitseinrichtungen, Wasser-, Öl-, Schmiermittelmangel, Kurzschluss, Überstrom, Überspannung, Brand, Blitzschlag, Explosion, Sturm, Frost, Eisgang, Erdbeben, Überschwemmung, Hochwasser, De- und Remontage, Transporte über Land, Verladevorgänge, Abhandenkommen infolge Diebstahl, Einbruchdiebstahl oder Raub, Innere Unruhen, Inklusive Daten und Datenträger, Aufräumungs- und Entsorgungskosten, Dekontaminationskosten, Bewegungs- und Schutzkosten, Luftfrachtkosten, Eich- und Kalibrierungskosten, Bergungskosten, Diebstahl von Kraftstoffen, Sachverständigenkosten, Mehrkosten und behördliche Wiederherstellungsbeschränkungen, Sofortiger Reparaturbeginn, Entschädigung des Neuwertes, Vorsorgeversicherung, GAP-Deckung |
+| **Beitragshöhe**       | Keine Angabe                           | Keine Angabe                                | Keine Angabe                                         |
+| **Selbstbeteiligung**  | Keine Angabe                           | Keine Angabe                                | Keine Angabe                                         |
+| **Leistungsausschlüsse**| Keine Angabe                           | Schäden durch Computerviren und trojanische Pferde | Keine Angabe                                         |
+| **Zusatzleistungen**   | Keine Angabe                           | Keine Angabe                                | Keine Angabe                                         |
+| **Kündigungsfristen**  | Keine Angabe                           | Keine Angabe                                | Keine Angabe                                         |
+| **Kundenbewertungen**  | Keine Angabe                           | Keine Angabe                                | Keine Angabe                                         |
+| **Besondere Bedingungen**| Keine Angabe                         | Keine Angabe                                | Keine Angabe                                         |
+
+```
+
+### Anmerkungen:
+- Die bereitgestellten Informationen sind unvollständig, insbesondere fehlen Angaben zu Beitragshöhe, Selbstbeteiligung, Kündigungsfristen und Kundenbewertungen. Diese Informationen sollten bei den jeweiligen Versicherungsunternehmen erfragt werden, um eine vollständige Vergleichstabelle zu erstellen.
+- Die Tabelle bietet eine Übersicht über die Versicherungsumfänge und Leistungsausschlüsse, die für potenzielle Kunden von Interesse sein könnten.
+- Es wird empfohlen, die spezifischen Bedingungen und Konditionen direkt bei den Versicherungsunternehmen zu erfragen, um eine fundierte Entscheidung treffen zu können.

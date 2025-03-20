@@ -1,0 +1,176 @@
+{
+    "title": "Schaden melden",
+    "metadata": {
+        "keywords": "Schaden melden,Online-Formular,Schaden online melden,Formular,Formulare",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Schaden melden",
+        "og:description": "Alle Online-Formulare für Ihre Schadenmeldung im Überblick.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Schaden melden"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "SERVICE & KONTAKT",
+                "SCHADEN MELDEN"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Schnelle Hilfe bei Schä­den"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Scha­den online mel­den"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/haftpflicht",
+            "text": "Haftpflicht"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/kfz-haftpflicht",
+            "text": "Kfz-Haftpflicht"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/kfz-kasko",
+            "text": "Kfz-Kasko"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/kfz-ausland",
+            "text": "Kfz-Ausland"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/unfall",
+            "text": "Unfall"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/hausrat",
+            "text": "Hausrat"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/meinfahrrad",
+            "text": "Fahrrad/Pedelec"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/wohngebaeude",
+            "text": "Wohngebäude"
+        },
+        {
+            "type": "link",
+            "href": "https://www.easyschaden.generali.de/?ep=glas",
+            "text": "Glas"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/gewerbe-sach",
+            "text": "Gewerbe-Sach"
+        },
+        {
+            "type": "link",
+            "href": "https://www.advocard.de/service/schadensfall/ ",
+            "text": "Rechtsschutz"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/unwetter",
+            "text": "Unwetter"
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/schaden-melden/konto-finanzschutzbrief",
+            "text": "Konto-/Finanzschutzbrief"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wei­te­rer Scha­den-Ser­vice"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten uns zu einem bereits gemeldeten Schaden etwas mitteilen oder Unterlagen schicken?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mitteilung zum Schaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie wol­len schnell über Bear­bei­tungs­schritte Ihres Scha­dens infor­miert wer­den?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadentracking"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie brauchen eine Schutzbriefleistung oder eine Hilfe- und Serviceleistung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schutzbrief-Service"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Scha­den tele­fo­nisch mel­den"
+        },
+        {
+            "text": "PLZ bestätigen"
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Wetter-Warn-App für mehr Schutz"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_schaden-melden"
+}

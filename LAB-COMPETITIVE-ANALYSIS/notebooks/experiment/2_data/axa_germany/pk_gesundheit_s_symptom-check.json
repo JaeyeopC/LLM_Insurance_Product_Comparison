@@ -1,0 +1,222 @@
+{
+    "title": "Symptom-Check bei gesundheitlichen Beschwerden / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Der Symptom-Check bietet Ihnen die Möglichkeit, Krankheitssymptome einschätzen zu können ►Finden Sie heraus, was hinter Ihren Beschwerden steckt",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/s/symptom-check",
+        "og:title": "Symptom-Check bei gesundheitlichen Beschwerden / AXA",
+        "og:description": "Der Symptom-Check bietet Ihnen die Möglichkeit, Krankheitssymptome einschätzen zu können ►Finden Sie heraus, was hinter Ihren Beschwerden steckt",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "Symptom-Check"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau scheint Kopfschmerzen zu haben"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Zuverlässig online Symptome checken",
+                "In wenigen Minuten zur ersten Einschätzung",
+                "Anschließende Handlungsempfehlungen",
+                "Von Mediziner:innen entwickelt",
+                "Kostenlos, jederzeit & überall online verfügbar"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://dhs-ip.axa.de/sc/login",
+            "text": "Zum Symptom-Check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Internet auf Spurensuche zu gehen und sich zu möglichen Ursachen für die eigenen Symptome zu informieren, ist heutzutage selbstverständlich. Zum einen geht es schnell, zum anderen kann es erste Anhaltspunkte für potenzielle Diagnosen liefern."
+        },
+        {
+            "type": "paragraph",
+            "text": "DieMenge an Inhaltenim Zeitalter der Digitalisierung macht es jedoch nicht leicht, zuverlässige und relevante Informationen zu finden.Was trifft auf mich persönlich zuund wiesinnvollist es, einenArzt aufzusuchen?Genau in diesen Situationenhilft Ihnen der Symptom-Check weiter:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Er funktioniert online und zeigt Ihneneinfach und verständlich mögliche Ursachenzu den eigenen Beschwerden auf.",
+                "Er bietet eine Einschätzung über die Dringlichkeit eines Arztbesuchs.",
+                "Sie erhalten Vorschläge zu möglichen nächsten Schritten."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was steckt hinter dem Symptom-Check?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ganz gleich, ob Kopfschmerzen, Übelkeit oder Fieber:Symptome sind Signale und Reaktionen unseres Körpers, die auf Krankheiten oder Infektionen in verschiedenen Körperregionen hinweisen können. Jede Krankheit weist eine Reihe von spezifischen Anzeichen und Merkmalen auf. Diese werden von den Personen selbst wahrgenommen und oft ist esnicht leicht zu entscheiden, wann ein Arztbesuch sinnvoll ist.Wenn Sie in der Anwendung Ihre Symptome eingeben, erhalten Sie keine ärztliche Diagnose, aber Sie erfahren,welche Krankheiten bei bestimmten Beschwerden am wahrscheinlichstensind. Sie erhaltenunkompliziert und schnell einen Überblicküber mögliche Ursachen und die Dringlichkeit eines Arztbesuchs.Der Symptom-Check „Mediktor“ unseres Partners Teckel Medical wurdein enger Zusammenarbeit mit Medizinern verschiedener Fachrichtungenentwickelt. Es handelt sich um einzertifiziertes Medizinprodukt.Hinter dem Symptom-Check steckt einAlgorithmus, derSymptome mit entsprechenden Krankheitsbildern verknüpft. So ist der Symptom-Check in der Lage, eigenständigKrankheitssymptome auszuwertenund entsprechendeEmpfehlungen auszugeben. Um die Qualität zu sichern, wird sich nicht auf eine künstliche Intelligenz verlassen – der Symptomfinder wirdregelmäßig durch ein erfahrenes Ärzteteam überprüft und um neue medizinische Fälle ergänzt."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Anmeldung im ePortal Meine Gesundheit als krankenvollversicherter oder beihilfeberechtigter Kunde von AXA oder der DBV:Wenn Sie als krankenvollversicherter oder beihilfeberechtigter Kunde von AXA im ePortal Meine Gesundheit angemeldet sind, loggen Sie sich einfach über die Webanwendung oder die App ins Portal ein. Dann können Sie auf direktem Weg den Symptom-Check nutzen.",
+                "Alternativ können Sie sich auch über Ihr Google- oder Microsoft-Konto einloggen:Dann werden Sie – unabhängig davon, bei welcher Krankenversicherung oder Krankenkasse Sie sind, ebenso einfach mit Ihren Log-in-Daten an den Symptom-Check weitergeleitet",
+                "Oder Sie nutzen den Gastzugang:Für den Log-in als Gast erhalten Sie per E-Mail einen Bestätigungslink. Die Software leitet Sie Schritt für Schritt durch den Anmeldeprozess."
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://dhs-ip.axa.de/sc/login",
+            "text": "Jetzt anmelden"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Ersteinschätzung: Symptome, deren Auslöser unbekannt sind, können im Alltag leicht verunsichern. Der Symptom-Check dient Ihnen als Hilfsmittel, um mögliche Ursachen schnell zu erkennen, indem die Wahrscheinlichkeiten für bestimmte Krankheiten analysiert werden. Sie erhalten zudem Informationen über die Dringlichkeit eines Arztbesuchs.",
+                "Mögliche Diagnose-Vorschläge: Die gezielte Abfrage von Symptomen und zusätzlichen Begleitsymptomen ermöglicht einen Überblick über potenzielle und ganz individuelle Erkrankungen.",
+                "Empfehlungen:Auch nach der Symptom-Bewertung sind Sie nicht sich selbst überlassen. Sie erhalten Empfehlungen und nächste Schritte, die zu Ihren möglichen Krankheitsbildern passen.",
+                "Fachwissen:Der Symptom-Check ist ein zertifiziertes Medizinprodukt und basiert auf dem Fachwissen von Experten aus verschiedenen medizinischen Fachbereichen.",
+                "Erreichbarkeit: Der medizinische Assistent ist flexibel nutzbar und steht Ihnen 24 Stunden am Tag zur Verfügung. So können Sie sich außerhalb von Sprechstundenzeiten schnell und unkompliziert informieren."
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://dhs-ip.axa.de/sc/login",
+            "text": "Symptom-Check Anmeldung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Je nach vorliegenden Symptomen und Diagnose-Einschätzungenschlägt Ihnen der medizinische Online-Assistent unterschiedliche nächste Schritte vor. Bei bestimmten Beschwerden undUrsachen, steht krankenvollversicherten oder beihilfeberechtigten Kunden dergesundheitsservice360°mit Informationen und Angeboten zu Krankheiten und Behandlungsmethoden zur Verfügung. Weitergehende Fragen beantwortet Ihnen auch dasGesundheitstelefon."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wird ein Arztbesuch empfohlen, haben alle Nutzer die Möglichkeit, sich mit einemOnline-Arzt zu verbinden.Eine Ausnahme bildet derakute Notfall: Besteht dringender Handlungsbedarf zur Akutversorgung, beispielsweise im Fall von Schlaganfall-Symptomen, rät das System umgehend zum Anruf eines Notarztes."
+        },
+        {
+            "type": "paragraph",
+            "text": "Grundsätzlich gilt: Der Symptom-Check hilft Ihnen dabei, dieeigenen Symptome besser einzuschätzen. Das Programm liefert somit wertvolle Hilfestellungen,ersetzt aber keine medizinische Beratung oder die Notfallambulanz.Deuten Symptome auf einen Ernstfall hin, hat derWeg zum Arzt oberste Priorität. Ein Arztbesuch kann allerdings auch in vielen weiteren Fällen sinnvoll und notwendig sein, beispielsweise umweiterführende Untersuchungen durchzuführenoderakute Beschwerden medizinisch zu behandeln."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/online-arzt",
+            "text": "Zum Online-Arzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Über unsere Website aufwww.axa.dekönnen Sie den Symptom-Check „Mediktor“ nutzen, auch wenn Sie nicht bei AXA versichert sind."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für den Zugang über die Websitewww.axa.debenötigen wir lediglich Ihre E-Mail-Adresse.Nutzen Sie bereits das ePortal „Meine Gesundheit“, ist der Zugang ganz einfach: Alle relevanten Daten werden abhängig von Ihrem Einverständnis vom Symptom-Check übernommen. Details zum verantwortungsbewussten Umgang mit Ihren Gesundheitsdaten finden Sie in der Datenschutzerklärung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Symptom-Check ersetzt keine ärztliche Diagnose. Er dient dazu, Ihre eigenen Krankheitssymptome besser einschätzen zu können und generelle Gesundheitsinformationen bereit zu stellen. Anhand der Ergebnisse gibt die Software-Anwendung Ihnen mögliche nächste Schritte vor, wie beispielsweise den Besuch bei einem Arzt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Symptom-Check wird laufend mit Symptomen und Indikationen aktualisiert. Viele der bekanntesten deckt die Anwendung bereits ab, darunter beispielsweise:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bronchitis",
+                "Migräne",
+                "COVID-19",
+                "Depression",
+                "Grippe/Influenza",
+                "Magen-Darm-Grippe",
+                "U.v.m."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Über einen Pfeil, der auf der oberen linken Seite im Symptom-Check angezeigt wird, gelangen Sie zurück zur vorherigen Seite und können Ihre Angaben korrigieren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, das ist möglich. Sind Sie am Ende des Symptom-Checks angelangt, klicken Sie auf der Ergebnisseite auf den Button „Bericht anzeigen“. Es öffnet sich ein PDF-Dokument, das Sie wie üblich abspeichern und ausdrucken können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Datenbank des Symptom-Checks umfasst bereits eine große Anzahl an Symptomen und Krankheitsbildern und wird fortlaufend erweitert. Sollte dennoch der Fall eintreten, dass Sie ein Symptom nicht finden oder die Anwendung Ihnen keine mögliche Krankheit benennt, haben Sie folgende Möglichkeiten: Verwenden Sie den Online-Arzt powered by AXA oder suchen Sie einen Arzt auf."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auf der Ergebnisseite des Symptom-Checks finden Sie eine garantiert anonyme Zufriedenheitsbefragung. Auf diesem Weg freuen wir uns über Lob sowie Optimierungsvorschläge von Ihnen. Geben Sie in den Freitextfeldern nur bitte keine persönlichen Daten von Ihnen preis."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unser Gesundheitstelefon"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sind bei AXA oder der DBV privat krankenversichert? Dann hilft Ihnen unser Gesundheitstelefon weiter."
+        },
+        {
+            "type": "link",
+            "href": "tel:022114841444",
+            "text": "Gesundheitstelefon: 0221 148-41444"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Nachricht an AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schreiben Sie uns, wir kümmern uns um Ihr Anliegen."
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/hilfe/?action=KONTAKT",
+            "text": "Nachricht senden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Direkt und persönlich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Vereinbaren Sie ein Gespräch mit Ihrem Berater."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de?AKTIONSCODE=14015D",
+            "text": "Ansprechpartner vor Ort"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_s_symptom-check"
+}

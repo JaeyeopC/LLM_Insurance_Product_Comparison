@@ -1,0 +1,297 @@
+{
+    "title": "My AXA: Im Kundenportal registrieren & anmelden",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "►Das Kundenportal My AXA: ✅geschütztes online Portal ✅umfangreiche Services ✅kostenlos",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/myaxa-kundenportal",
+        "og:title": "My AXA: Im Kundenportal registrieren & anmelden",
+        "og:description": "►Das Kundenportal My AXA: ✅geschütztes online Portal ✅umfangreiche Services ✅kostenlos",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "text": "My AXA - Kundenportal"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Freudinnen freuen sich über das My AXA Gewinnspiel"
+        },
+        {
+            "type": "link",
+            "href": "https://landingpage.axa.de/formulare/aktionen/myaxa/gewinnspiel/",
+            "text": "Jetzt teilnehmen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Jetzt am My AXA Gewinnspiel teilnehmen "
+        },
+        {
+            "type": "paragraph",
+            "text": "Jetzt Chance nutzen und 1 von 11 hochwertigen Preisen gewinnen und von vielen Vorteilen profitieren: Online Kommunikation, persönliche Daten ändern und Verträge verwalten – schnell, jederzeit und überall."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Teilnahmebedingungen akzeptieren",
+                "Bis zum 31.12.2024 in My AXA anmelden",
+                "und an der Verlosung teilnehmen"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir drücken Ihnen die Daumen!"
+        },
+        {
+            "type": "link",
+            "href": "https://landingpage.axa.de/formulare/aktionen/myaxa/gewinnspiel/",
+            "text": "Jetzt teilnehmen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "jederzeit und von überall Ihre Vertragsinhalte einsehen und verwalten",
+                "Ihre persönlichen Angaben bequem ändern – egal, ob Adresse, Telefonnummer oder Zahlungsdaten",
+                "einfach Ihren Schaden mit Berichten und Fotos melden",
+                "Ihre Arztrechnungen direkt hochladen",
+                "Ihre Post digital erhalten und sicher mit AXA kommunizieren"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Zu den Nutzungsbedingungen von My AXA",
+                "Zu den Datenschutzhinweisen von My AXA"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/member/webapp/",
+            "text": "Anmelden"
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/public/webapp/reg/identifizierung",
+            "text": "Registrieren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kundenportal My AXA"
+        },
+        {
+            "type": "link",
+            "href": "",
+            "text": "Abspielen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "AXA Kooperation mit Apple Fitness+ "
+        },
+        {
+            "type": "paragraph",
+            "text": "Entdecken Sie 12 Trainingsarten, von HIIT bis Yoga. Und sogar Meditation. Jede Woche neue Workouts, von 5 bis 45 Minuten. Direkt in der Fitness App. Verfügbar auf iPhone, iPad, Apple TV und Apple Watch. Das Angebot gilt nur für Kund:innen mit mehr als einem AXA oder DBV Vertrag."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/i/kooperation-mit-apple-fitness",
+            "text": "Jetzt informieren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sie möchten sich für My AXA registrieren? So funktioniert's:"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "Registrierung für My AXA startenGehen Sie aufaxa.de/registrierenund geben Sie Ihr Geburtsdatum und Ihre Versicherungsnummer ein.",
+                "Zugangsdaten festlegenLegen Sie Ihren Benutzernamen und Ihr Passwort für My AXA fest.",
+                "E-Mail Adresse bestätigenWir senden Ihnen eine E-Mail zur Bestätigung Ihrer E-Mail-Adresse. Bitte klicken Sie auf den Link in der E-Mail.",
+                "Identifizierung durchführenWählen Sie aus, wie Sie sich identifizieren möchten.",
+                "Freischaltcode eingebenWir senden Ihnen einen Freischaltcode per SMS oder per Post, den Sie bitte aufaxa.de/freischalteneingeben. Danach können Sie My AXA nutzen."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "My AXA App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle Vorteile von My AXA Mobile auf einen Blick"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Arztrechnungen und Unterlagen zur Krankenversicherung einreichen (wie z.B. Heil- und Kostenpläne oder eine Arbeitsunfähigkeitsbescheinigung)",
+                "Schaden melden und aktuellen Status verfolgen",
+                "Vertragsspezifische Unterlagen einreichen oder anfordern",
+                "Alle Versicherungen immer im Überblick",
+                "Kontakt zu Ihrer betreuenden AXA-Agentur inkl. Online-Terminvereinbarung – immer und überall",
+                "Post digital erhalten und sicher mit AXA kommunizieren",
+                "Persönliche Daten sowie Ihre Bankverbindung im Handumdrehen ändern"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/us/app/my-axa-mobile/id1669689172",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.axa.noa&amp;hl=de",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/my-axa-mobile-app",
+            "text": "Mehr zur neuen App erfahren"
+        },
+        {
+            "type": "paragraph",
+            "text": "My AXA Mobile wurde als erste Versicherungskonzern-App in Deutschland mit dem Red Dot Design Award ausgezeichnet und gleich in zwei Kategorien:Insurance Services App&Mobile User Interface!"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben eine Versicherung oder einen Bausparvertrag bei AXA oder DBV? Dann können Sie auch My AXA nutzen. Für die Registrierung bei My AXA benötigen Sie die Versicherungsnummer oder die Bausparnummer Ihres Vertrages. Wenn Sie mehrere Verträge bei uns haben, reicht bei der Registrierung die Angabe eines Vertrages. Diese Nummern finden Sie auf Ihrem Versicherungsschein (Police) oder Ihrer Bausparurkunde."
+        },
+        {
+            "type": "paragraph",
+            "text": "Besondere Kenntnisse sind nicht erforderlich. Bei der Registrierung sind alle Schritte ausführlich erklärt und My AXA ist übersichtlich aufgebaut. Wenn Sie beispielsweise Online Banking nutzen, werden Ihnen viele Schritte bekannt und vertraut sein."
+        },
+        {
+            "type": "paragraph",
+            "text": "Rufen Sie einfach die Internetseiteaxa.de/registrierenauf und tragen Sie im nächsten Schritt Ihre persönlichen Daten ein. Nachdem Sie Ihre E-Mail-Adresse bestätigt haben, prüfen wir zu Ihrem Schutz noch Ihre Identität mit dem Freischaltcode, den wir Ihnen per SMS oder per Brief zusenden. Denn nur so können wir sicherstellen, dass Ihre persönlichen Daten nicht in die falschen Hände gelangen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Ihrer E-Mail-Adresse erstellen wir Ihr persönliches Benutzerkonto und informieren Sie über den Eingang von Nachrichten, die wir Ihnen in My AXA einstellen. Sie dient gleichzeitig als Benutzername für My AXA und als weiteres Identifizierungsmerkmal."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Ihrer Registrierung bei My AXA erhalten Sie innerhalb von drei Werktagen einen Freischaltcode per Post oder in Echtzeit per SMS von uns. Mit Ihrem Freischaltcode können Sie Ihren Zugang für My AXA dannhierfreischalten. Für die Aktivierung der My AXA App ist er ebenfalls wichtig. Und falls Sie einmal Ihr Passwort oder Ihren Benutzernamen vergessen sollten, können Sie sich mit dem Freischaltcode neue Zugangsdaten vergeben.Bitte beachten Sie, dass der Freischaltcode per SMS nur 72 Stunden gültig ist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Vor jeder Nutzung melden Sie sich mit Ihrer E-Mail-Adresse bzw. Ihrem Benutzernamen und Ihrem Passwort bei My AXA an."
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/member/webapp/",
+            "text": "Login My AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Ihrer Registrierung bei My AXA erhalten Sie einen Freischaltcode von uns. Hiermit können Sie sich einneues Passwortoder einenneuen Benutzernamenvergeben. Falls Sie Ihren Freischaltcode nicht mehr haben, können Sie sichhiereinen neuen anfordern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit der kostenlosen App können Sie My AXA ganz bequem auch auf Ihrem Smartphone nutzen. Sie benötigen dazu lediglich Ihre Zugangsdaten sowie einmalig Ihren Freischaltcode von My AXA. Sollten Sie noch keine Zugangsdaten haben, so können Sie Ihre Registrierung auch direkt über die App durchführen.Sie können My AXA selbstverständlich auch über Ihr Tablet nutzen. Rufen Sie dafür einfach Ihren Internetbrowser auf und geben Siemyaxa.dein die URL-Zeile ein. Die Seite ist mobiloptimiert, sodass sich die Inhalte an die Größe Ihres Bildschirms anpassen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zu Ihrem Schutz verschlüsseln wir Ihre Daten mit dem Sicherheitsprotokoll SSL. Daten, die Sie uns überlassen, werden ausschließlich im Rahmen Ihrer Zweckbestimmung verwendet und vor Missbrauch geschützt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ja, Sie können Ihre Dokumente online in Ihrem Postfach in My AXA erhalten. Melden Sie sich einfach in My AXA an und rufen Sie „Mein Profil“ auf. Dort können Sie unter „Persönliche Daten“ den „Versandweg Ihrer Dokumente“ einstellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Über neue Eingänge in Ihrem My AXA Postfach informieren wir Sie per E-Mail. Sie erhalten alle Dokumente im PDF-Format, sodass Sie diese auf Ihrem Computer archivieren oder jederzeit ausdrucken können."
+        },
+        {
+            "type": "paragraph",
+            "text": "In My AXA sind alle Versicherungsverträge und alle wichtigen Vertragsinformationen abgelegt und können dort verwaltet werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für die Nutzung von My AXA gibt es keine besonderen technischen Voraussetzungen. Sie benötigen lediglich einen Computer oder ein Smartphone bzw. ein Tablet mit einem aktuellen Betriebssystem und einen aktuellen Internetbrowser."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser virtueller Assistent gibt Ihnen Antworten auf häufig gestellte Fragen zu My AXA und zu Ihren Verträgen."
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/hilfe/",
+            "text": "Zum Assistenten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Dann rufen Sie uns einfach unter0221 148-41099(Mo.-Fr. 8.00-18.00 Uhr) an oder kontaktieren Sie uns über unser Kontaktformular."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axade/redirect/Selfservice-Kontakt?AKTIONSCODE=14015D",
+            "text": "Nachricht senden"
+        },
+        {
+            "text": "Login My AXA"
+        },
+        {
+            "text": "Sie haben bereits einen Zugang zum Kundenportal My AXA?"
+        },
+        {
+            "text": "Jetzt anmelden"
+        },
+        {
+            "text": "Verwalten Sie alles rund um Ihre Versicherungen zukünftig bequem online."
+        },
+        {
+            "text": "Jetzt registrieren"
+        },
+        {
+            "text": "Sie haben bereits einen Freischaltcode vorliegen?"
+        },
+        {
+            "text": "Freischaltcode eingeben"
+        },
+        {
+            "text": "Sie haben Fragen zu My AXA?"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "RUFEN SIE UNS AN"
+        },
+        {
+            "text": "0221 148-41099"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "SCHREIBEN SIE UNS"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "myaxa-kundenportal"
+}

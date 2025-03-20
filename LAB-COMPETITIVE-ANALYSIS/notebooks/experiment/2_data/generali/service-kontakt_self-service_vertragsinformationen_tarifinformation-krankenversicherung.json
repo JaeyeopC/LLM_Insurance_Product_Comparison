@@ -1,0 +1,398 @@
+{
+    "title": "Tarifinformationen versicherte Leistungen Krankenversicherung I Generali",
+    "metadata": {
+        "description": "Sie brauchen die versicherten Leistungen Ihrer Krankenversicherung bei der Generali? Fordern Sie diese über unser Online-Formular an. Erhalten Sie alle Tarifinformationen zur Krankenversicherung bei der Generali.",
+        "keywords": "Tarifinformation,versicherte Leistungen,Informationen zum Tarif,Informationen zum Vertrag,Krankenversicherung,Vertragsinformationen,meintarif,Mein Tarif,Versicherungsschutz abfragen,Tarifnamen,Umbenennung,Tarif,Tarife,mein tarif leistungsabfrage,leistungsabfrage",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Tarifinformation Krankenversicherung",
+        "og:description": "Fragen Sie die Leistungen in Ihrem Tarif ab.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Tarifinformationen Krankenversicherung"
+        },
+        {
+            "text": "Sie haben Fragen zu Ihren versicherten Leistungen Ihrer Krankenversicherung?"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "ONLINE-SERVICES",
+                "VERSICHERUNGSSCHUTZ ABFRAGEN",
+                "TARIFINFORMATION KRANKENVERSICHERUNG"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Melden Sie sich dafür einfach mit Ihrer Versicherungsnummer und Ihrem Geburtsdatum an. So können Sie sich rund um die Uhr über Ihre versicherten Leistungen informieren. Wenn Sie danach noch Fragen haben, beantworten wir Ihnen dies gerne während unserer Servicezeiten von 08:00 Uhr bis 19:00 Uhr."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Umbe­nen­nung eini­ger Tarif­na­men"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Umbenennung einiger Tarifnamen aus „Mein Gesundheitsplan“"
+        },
+        {
+            "type": "paragraph",
+            "text": "Aus technischen Gründen wurden für Versicherungsbeginne vor dem 01.10.2019 einige Tarifnamen geändert."
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "",
+                    "Alte Bezeichnung",
+                    "Neue Bezeichnung"
+                ],
+                [
+                    "",
+                    "PlanA",
+                    "PlanAC"
+                ],
+                [
+                    "",
+                    "APlanA",
+                    "APlanAC"
+                ],
+                [
+                    "",
+                    "PlanS",
+                    "PlanSC"
+                ],
+                [
+                    "",
+                    "APlanS",
+                    "APlanSC"
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Änderung des zu zahlenden Beitrags oder der Leistung ist damit nicht verbunden."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Umbenennung von Tarifnamen aufgrund der Umfirmierung der Central Krankenversicherung AG."
+        },
+        {
+            "type": "paragraph",
+            "text": "Aufgrund der Umbenennung der Central Krankenversicherung AG in Generali Deutschland Krankenversicherung AG zum 01.07.2020 war es sinnvoll und notwendig, Tarifnamen die mit „central.“ beginnen, zu ändern. Nachfolgende Änderungen wurden vorgenommen:"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "",
+                    "Alte Bezeichnung",
+                    "Neue Bezeichnung"
+                ],
+                [
+                    "",
+                    "central.comfort",
+                    "Comfort"
+                ],
+                [
+                    "",
+                    "central.akut",
+                    "AkutSchutz"
+                ],
+                [
+                    "",
+                    "central.unfall",
+                    "UnfallSchutz"
+                ],
+                [
+                    "",
+                    "central.world",
+                    "World"
+                ],
+                [
+                    "",
+                    "central.world50",
+                    "World50"
+                ],
+                [
+                    "",
+                    "central.prodent",
+                    "Prodent"
+                ],
+                [
+                    "",
+                    "central.pflege",
+                    "PflegeBahr"
+                ],
+                [
+                    "",
+                    "central.pflegePlus",
+                    "PflegePlus"
+                ],
+                [
+                    "",
+                    "central.option",
+                    "Option"
+                ],
+                [
+                    "",
+                    "central.flex",
+                    "Flex"
+                ],
+                [
+                    "",
+                    "central.beihilfe",
+                    "Beihilfe"
+                ],
+                [
+                    "",
+                    "central.holiday",
+                    "Holiday"
+                ],
+                [
+                    "",
+                    "central.vario",
+                    "Vario"
+                ],
+                [
+                    "",
+                    "central.business",
+                    "Business"
+                ],
+                [
+                    "",
+                    "business.vorsorge",
+                    "BusinessVorsorge"
+                ],
+                [
+                    "",
+                    "business.stationär",
+                    "BusinessStationär"
+                ],
+                [
+                    "",
+                    "business.unfall",
+                    "BusinessUnfall"
+                ],
+                [
+                    "",
+                    "business.zahn1",
+                    "BusinessZahn1"
+                ],
+                [
+                    "",
+                    "business.zahn2",
+                    "BusinessZahn2"
+                ],
+                [
+                    "",
+                    "business.zahn3",
+                    "BusinessZahn3"
+                ],
+                [
+                    "",
+                    "business.vorsorgeAF",
+                    "BusinessVorsorgeAF"
+                ],
+                [
+                    "",
+                    "business.stationärAF",
+                    "BusinessStationärAF"
+                ],
+                [
+                    "",
+                    "business.unfallAF",
+                    "BusinessUnfallAF"
+                ],
+                [
+                    "",
+                    "business.zahn1AF",
+                    "BusinessZahn1AF"
+                ],
+                [
+                    "",
+                    "business.zahn2AF",
+                    "BusinessZahn2AF"
+                ],
+                [
+                    "",
+                    "business.zahn3AF",
+                    "BusinessZahn3AF"
+                ],
+                [
+                    "",
+                    "central.privat1",
+                    "Privat1"
+                ],
+                [
+                    "",
+                    "central.privat2",
+                    "Privat2"
+                ],
+                [
+                    "",
+                    "central.privat3",
+                    "Privat3"
+                ],
+                [
+                    "",
+                    "central.privatA1",
+                    "PrivatA1"
+                ],
+                [
+                    "",
+                    "central.privatA2",
+                    "PrivatA2"
+                ],
+                [
+                    "",
+                    "central.privatA3",
+                    "PrivatA3"
+                ],
+                [
+                    "",
+                    "central.privatpromed1",
+                    "PrivatproMed1"
+                ],
+                [
+                    "",
+                    "central.privatpromed2",
+                    "PrivatproMed2"
+                ],
+                [
+                    "",
+                    "central.privatpro1",
+                    "Privatpro1"
+                ],
+                [
+                    "",
+                    "central.privatpro2",
+                    "Privatpro2"
+                ],
+                [
+                    "",
+                    "central.privatproA1",
+                    "PrivatproA1"
+                ],
+                [
+                    "",
+                    "central.privatproA2",
+                    "PrivatproA2"
+                ],
+                [
+                    "",
+                    "central.privatproSmart",
+                    "GesundSmart"
+                ],
+                [
+                    "",
+                    "central.privatproSmartA",
+                    "GesundSmartA"
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Änderung des zu zahlenden Beitrags oder der Leistung ist damit nicht verbunden."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Preis- und Leis­tungs­ver­zeich­nisse"
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Preis-/Leistungsverzeichnis für Heilmittel"
+        },
+        {
+            "type": "paragraph",
+            "text": "In den Tarifen Vita, Vario, Privat, Privatpro, PrivatproMed und GesundSmart gilt bei Inanspruchnahme von Heilmitteln (z.B. Physiotherapie) einPreis-/ Leis­tungs­ver­zeich­nis."
+        },
+        {
+            "type": "paragraph",
+            "text": "In den Tarifen GesundPro, GesundProB und GesundProMed gilt bei Inanspruchnahme von Heilmitteln (z.B. Physiotherapie) einPreis-/ Leis­tungs­ver­zeich­nis."
+        },
+        {
+            "type": "paragraph",
+            "text": "Als Beispiel finden Sie hier unsere Regelungen für die Erstattung von Brillenfassungen und orthopädischen Schuhen."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Leistungen für Hilfsmittel (Bekanntgabe aus der Jahresmitteilung)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Regelungen für die Erstattung von Brillenfassungen und orthopädischen Schuhen"
+        },
+        {
+            "type": "paragraph",
+            "text": "BrillenfassungenIn Tarifen, nach denen die erstattungsfähigen Aufwendungen für Brillenfassungen auf die Kosten der „mittleren Preislage“ begrenzt sind, beträgt die „mittlere Preislage“ 130,00 EUR."
+        },
+        {
+            "type": "paragraph",
+            "text": "Orthopädische SchuheDer Wert für „normales Schuhwerk“ im Sinne des § 5 Abs. 4 c) TB/KK 2009, des § 5 Abs. 4 a) TB/KK 2009 sowie des § 5 Abs. 4 b) TB/ECO 2009 beträgt 75,00 EUR."
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Preis-/Leistungsverzeichnis für zahntechnische Leistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "In den Tarifen Vita, Vario, Privat, PrivatPro und PrivatproMed gilt bei zahntechnischen Leistungen (z. B. Material- und Laborkosten bei Zahnersatz) einPreis- und Leis­tungs­ver­zeich­nis."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicher zu Hause oder unterwegs: Erhalten Sie ortsgenaue Wetterwarnungen auf Ihr Handy."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_self-service_vertragsinformationen_tarifinformation-krankenversicherung"
+}

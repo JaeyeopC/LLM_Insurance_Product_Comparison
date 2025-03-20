@@ -1,0 +1,272 @@
+{
+    "title": "Gesundheitsservice von AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Exklusive Services rund um Ihre Gesundheit ✚Präventionsangebote ✚Unterstützung im Krankheitsfall ✚qualifizierte Beratung ✚digitale Gesundheitsservices",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/s/gesundheitsservice",
+        "og:title": "Gesundheitsservice von AXA",
+        "og:description": "Exklusive Services rund um Ihre Gesundheit ✚Präventionsangebote ✚Unterstützung im Krankheitsfall ✚qualifizierte Beratung ✚digitale Gesundheitsservices",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "Gesundheitsservice"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Prävention & Gesundheitsförderung",
+                "Unterstützung im Krankheitsfall",
+                "Symptom-Check",
+                "Online-Arzt"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQAAAAA3bvkkAAAAAnRSTlMAAHaTzTgAAAAKSURBVHgBY2AAAAACAAFzdQEYAAAAAElFTkSuQmCC",
+            "alt": "p360_Gesundheitsservice.png"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gesundheit gehört zu den wichtigsten Lebensthemen. Besonders gefragt sind Möglichkeiten, die eigene Gesundheit aktiv zu verbessern. Mit unserem gesundheitsservice360° bieten wir unseren Kunden mit einer privaten Krankenvollversicherung und Krankenversicherten aus dem öffentlichen Dienst Unterstützung an.Von Präventionsangeboten zum Erhalt der Gesundheit über die qualifizierte medizinische Beratung rund um die Uhr bis zur umfassenden Versorgung im Krankheitsfall – der gesundheitsservice360° versteht sich als Rundum-Begleitung in allen Lebenslagen. Der gesundheitsservice360° ist eine freiwillige Inklusiv-Leistung, die kostenfrei angeboten wird."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Prävention: Aktiv und gesund durchs Leben gehen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Prävention & Gesundheitsförderung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahren Sie, wie gezielte Vorsorgeuntersuchungen und die erforderlichen Impfungen gegen unterschiedliche Krankheiten Ihnen helfen, gesund zu leben und zu bleiben."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/praevention-gesundheitsfoerderung",
+            "text": "Mehr zur Prävention"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ehepaar bekommt Untertützung im Krankheitsfall"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unterstützung im Krankheitsfall"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erhalten Sie umfassende Hilfestellungen, wie Sie Ihren Krankheitsverlauf positiv beeinflussen oder Ihre Situation besser meistern können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/medizinische-versorgung",
+            "text": "Mehr zur Unterstützung im Krankheitsfall"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Familie auf dem Weg zum Picknick"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Herzgesundheit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Entdecken Sie unsere vielfältigen Angebote und Services, um Ihre Herzgesundheit zu fördern und Risikofaktoren zu minimieren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/herzgesundheit",
+            "text": "Mehr zur Herzgesundheit"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau checkt ihre Symptome online"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Symptom-Check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Krankheitssymptome schnell einschätzen – der Symptom-Check macht‘s möglich. Erhalten Sie bei gesundheitlichen Beschwerden eineschnelle Ersteinschätzungsowie eine Empfehlung, was die nächsten Schritte sein können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/symptom-check",
+            "text": "Mehr zum Symptom-Check"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vater spricht mit dem Online-Arzt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Online Arzt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten einen Arzt kontaktieren, aber es ist Wochenende, außerhalb der Sprechzeiten oder Sie bekommen keinen schnellen Termin? Dann ist dieVideo-Sprechstunde, in der Sie mit einem Online-Arzt sprechen können, vielleicht genau richtig für Sie."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/online-arzt",
+            "text": "Mehr zum Online-Arzt"
+        },
+        {
+            "type": "image",
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQAAAAA3bvkkAAAAAnRSTlMAAHaTzTgAAAAKSURBVHgBY2AAAAACAAFzdQEYAAAAAElFTkSuQmCC",
+            "alt": "20-jahre-gesundheitsservice360-1920x540.jpg"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser gesundheitsservice360° feiert 20-jähriges Jubiläum. Zu diesem Anlass stellen wir Ihnen die interessantesten und schönsten Geschichten von begeisterten Kunden, Mitarbeitern und Partnern vor. 20 Jahre, 20 Perspektiven, 1 Mission."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/k/20-jahre-gesundheitsservice360",
+            "text": "20 Jahre gesundheitservice360°"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihre Gesundheit hat die beste Behandlung verdient. Darum haben wir ein Netzwerk an renommierten Partnern aus dem gesamten Gesundheitsbereich aufgebaut. Es umfasst ausgewählte Spezialisten, wie Ärzte, Kliniken, Gesundheitszentren und Arzneimittelhersteller auf dem neuesten Stand der Medizin."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Arzneimittelhersteller",
+                "Suche nach Spezialisten"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kundenportal My AXA auf einem Laptop und als App auf dem Smartphone"
+        },
+        {
+            "type": "paragraph",
+            "text": "My AXA ist Ihrgeschütztes Kundenportal, das Ihnen umfangreiche Services, Leistungen und Informationen rund um Ihre Versicherungen und Bausparverträge bietet. Verwalten Sie Ihre Rechnungen und Ihre Leistungsabrechnungen einfach digital. Sie sehen jederzeit den aktuellen Bearbeitungsstand Ihrer Belege."
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/member/webapp/",
+            "text": "Anmelden"
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/public/webapp/reg/identifizierung",
+            "text": "Registrieren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unser Gesundheitstelefon"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nutzen Sie unseren Service zu allen Fragen rund um Ihre Gesundheit."
+        },
+        {
+            "type": "link",
+            "href": "tel:022114841444",
+            "text": "Gesundheitstelefon: 0221 148-41444"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Nachricht an AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schreiben Sie uns, wir kümmern uns um Ihr Anliegen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axade/redirect/Selfservice-Kontakt?AKTIONSCODE=14015D",
+            "text": "Nachricht senden"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Direkt und persönlich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Vereinbaren Sie ein Gespräch mit Ihrem Berater."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Ansprechpartner vor Ort"
+        },
+        {
+            "text": "Mit wenigen Klicks zum Angebot"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 2922263"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Sie haben Fragen?"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Gesundheitstelefon"
+        },
+        {
+            "text": "0221 148-41444"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_s_gesundheitsservice"
+}

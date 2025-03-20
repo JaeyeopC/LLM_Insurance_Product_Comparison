@@ -1,0 +1,942 @@
+{
+  "fields": [
+    {
+      "name": "Feature",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – privatkunden_fahrzeug-zuhause_moped-e-scooter",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_KFZ-Versicherung_Mopedversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "source",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Reiseversicherung_Reiseruecktrittsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – produkte-reiseversicherung-reiseruecktrittsversicherung-reiseabbruchversicherung.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – tierversicherung_pferdeversicherung_pferdehaftpflichtversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – tierversicherung_pferdehaftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – tierversicherung_pferdeversicherung_lebensversicherung-pferd",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – haus-haftung-recht_haus-wohnung_elementarschadenversicherung.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_haus-wohnung_p_elementarversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_bausparen_uebersicht.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Bausparen-Finanzierung_Bausparen",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: R+V – service_schadenservice",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: AXA – schadenservice-360_schadenmeldung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – service_kunden-werben-kunden.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Service_Kundenbereich",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Service_Kundenbereich_intcid%3D9000917",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Service_Kundenbereich_intcid%3D9000916",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_grundfaehigkeitsversicherung_uebersicht.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: generali – privatkunden_vorsorge-finanzen_grundfaehigkeitsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – altersvorsorge_private-rentenversicherung_ruerup-rente",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_altersvorsorge_ruerup-rente.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – reiseversicherung_reise-protect",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_vorsorge_finanzen_rentenversicherung_uebersicht.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – privatkunden_vorsorge-finanzen_basis-rente",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Group – produkte_private-altersvorsorge_ruerup-rente",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Ergo – de_Produkte_Rentenversicherung_Basis-Rente",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – altersvorsorge",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_altersvorsorge_p_private-rentenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – Privatkunden Vorsorge Finanzen Berufsunfähigkeitsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Barmenia – Berufsunfähigkeitsversicherung Ärzte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: AXA – geschaeftskunden_bauleistungsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – privatkunden_fahrzeug-zuhause_bauversicherungen",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – geschaeftskunden_geschaeft-gebaeude_bauversicherungen",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_wohngebaeudeversicherung_bauzeitversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: generali – privatkunden_fahrzeug-zuhause_bauversicherungen",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: DKV – produkte-private-pflegezusatzversicherung-jetzt-handeln.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: R+V – pflegeversicherung_pflege-zusatzversicherung_pflege-bahr",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SDK – versicherungen_altersvorsorge_pflegezusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Pflegeversicherung_Pflegezusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Pflegeversicherung_Private_Pflegeversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Group – produkte_private-pflegeversicherung_pflege-bahr",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – Zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: R+V – Zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – produkte_private-pflegeversicherung_pflegetagegeldversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_pflegeversicherung_pflegetagegeldversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_altersvorsorge_pflegezusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: AXA – pk_gesundheit_p_pflegezusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – privatkunden_gesundheit-freizeit_pflegezusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Krankenversicherung_Zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – krankenzusatzversicherung_zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Krankenversicherung_Krankentagegeld",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_krankentagegeld.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – krankenzusatzversicherung_krankentagegeldversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – produkte-krankentagegeld-versicherung-106339.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_gesundheit_p_krankentagegeld-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_krankentagegeldversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Krankenversicherung_Beihilfeversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-beamte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – Privatkunden Recht-Haftung Haus-Grundbesitzerhaftpflichtversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: HUK-Coburg – Haus-Haftung-Recht Haftpflichtversicherung Haus-und-Grundbesitzerhaftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – private-krankenversicherung_private-krankenversicherung-beamte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_private-krankenversicherung-beamte.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_private-krankenversicherung_beamte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_zusatzversicherung_krankentagegeldversicherung_gelassen-gesund-werden-mit-der-sdk-sicherheit-im-krankheitsfall",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_hausratversicherung_glasversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Hausrat-und-Gebaeudeversicherung_Glasversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Rentenversicherung_Basis-Rente",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – kfz-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_KFZ-Versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – haftpflichtversicherung_jagdhaftpflichtversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Haftpflichtversicherung_Jagdhaftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Haftpflichtversicherung_Bauherrenhaftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_bauherrenhaftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – haus-haftung-recht_haftpflichtversicherung_tierhalterhaftpflichtversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_haftpflicht_p_tierhalter-haftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_KFZ-Versicherung_Motorradversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – produkte_motorradversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – rechtsschutzversicherung_familienrechtsschutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – haus-haftung-recht_rechtsschutzversicherung_familienrechtsschutz.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – geschaeftskunden_rechtsschutzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – gewerbeversicherung_manager-rechtsschutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_geschaeftlich_bde_produkte_geschaeftskunde_bde_betrieb_haftpflicht_bde_rechtsschutz_2_rechtsschutz_geschaeftskunden.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – rechtsschutzversicherung_erb-rechtsschutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Rechtsschutzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – rechtsschutzversicherung_privatrechtsschutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – haus-haftung-recht_rechtsschutzversicherung_privatrechtsschutz.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_haftpflicht_p_rechtsschutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – reiseversicherung_reisekrankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – reiseversicherungen.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Reiseversicherung_ReisekrankenversicherungDKV",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – reiseversicherung_auslandskrankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – reiseschutz-versicherungen-auslandskrankenversicherung.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – fahrzeuge_kfz-versicherung_wohnmobilversicherung.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – kfz-versicherung_wohnmobil-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Reiseversicherung_RundumSorglos-Schutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – RundumSorglos-Schutz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – Komplettpakete",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – Reiserücktrittsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Generali – Reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ARAG – Reise-Protect",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_kfz_reisen_reiseversicherung_1_uebersicht.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: generali – privatkunden_gesundheit-freizeit_reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – Jahres-Reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – reise-protect",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – Reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_reiseruecktrittsversicherung_familie",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_reiseversicherung-komplettpakete",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Reiseversicherung_Reiseruecktrittsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – produkte_reiseruecktrittsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – haus-haftung-recht_haftpflichtversicherung_bauherrenhaftpflicht.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_gesundheit_p_reiseversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_unfall-und-sachversicherung_unfallversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – unfallversicherung_risiko-unfallversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – unfallversicherung_kapital-unfallversicherung-beitragsrueckgewaehr",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_unfallversicherung_beitragsrueckgewaehr",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Unfallversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_unfallversicherung_senioren",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_krankentagegeld_2_uebersicht.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_zusatzversicherung_krankentagegeldversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_kfz_reisen_e_scooter_uebersicht.xhtml",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_e-scooter-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – gewerbeversicherung_betriebliche-krankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – betriebliche-krankenversicherung.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – private-krankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-angestellte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – krankenzusatzversicherung_krankenhaustagegeld",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – krankenzusatzversicherung_krankenhaustagegeld",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ARAG – krankenversicherung-beamte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Krankenversicherung_Beihilfeversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: axa – pk_gesundheit_s_gesundheitsservice",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_private-krankenversicherung_gesundheitsdienstleistungen",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: DKV – Betriebliche Krankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Group – Betriebliche Krankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: DKV – Produkte-Guenstige-Private-Krankenversicherung-Vollversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Group – Produkte_Private-Krankenversicherung_Selbststaendige",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SDK – Versicherungen_Private-Krankenversicherung_PKV-fuer-Angestellte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SDK – Versicherungen_Private-Krankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Group – Produkte_Private-Krankenversicherung_Deutscher-Ring",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: R+V – kfz-versicherung_motorrad-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – Produkte_Private-Krankenversicherung_Anwartschaftsversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – zusatzversicherungen.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_zusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – private-krankenversicherungen.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – Private-Krankenhauszusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – Deutscher Ring",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_krankenhauszusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – krankenhauszusatzversicherung_kind",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Krankenversicherung_Ambulante-Zusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – krankenzusatzversicherung_ambulante-zusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Zahnzusatzversicherung_Kieferorthopaedie",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_zahnzusatzversicherung_kind",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – krankenzusatzversicherung_krankentagegeldversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – Zahnzusatzversicherung ohne Wartezeit",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – Zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-ohne-Wartezeit",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – ratgeber_zahnzusatzversicherung-ohne-wartezeit",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – Zahnersatzversicherung mit Implantaten",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: R+V – krankenzusatzversicherung_zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: Barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_zahn_uebersicht.xhtml_p0%3D334009",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-im-Vergleich",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Zahnzusatzversicherung_zahnersatz",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: dkv – produkte-private-zahnzusatzversicherung-106318.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – ratgeber_zahnzusatzversicherung-ohne-wartezeit",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: huk-coburg – gesundheit-vorsorge-vermoegen_krankenversicherung_krankenzusatzversicherung_zahnzusatzversicherung.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: DKV – produkte-private-zahnzusatzversicherung-106318.md",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ERGO – de_Produkte_Krankenversicherung_Zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_zusatzversicherung_zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – ratgeber_zahnzusatzversicherung-leistungen",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SDK – versicherungen_private-krankenversicherung_pkv-fuer-angestellte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: SIGNAL IDUNA – produkte_private-krankenversicherung_angestellte",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: sdk – versicherungen_private-krankenversicherung_pkv-fuer-selbststaendige",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_private-krankenversicherung_selbststaendige",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: group – produkte_zahnzusatzversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_zusatzversicherungen_zahn_uebersicht.xhtml_p0%3D334009",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-im-Vergleich",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: ergo – de_Produkte_Hausrat-und-Gebaeudeversicherung_Hausratversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – hausratversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – tierversicherung_hundeversicherung_hunde-op-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – tierversicherung_hunde-op-versicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – tierversicherung_hundekrankenversicherung",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: r+v – tierversicherung_hundeversicherung_hundehaftpflicht",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Company: arag – tierversicherung_hundehaftpflicht",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
