@@ -1,0 +1,205 @@
+Here are the definitions of categories and sub-categories of insurance in the following comma separated format: 
+
+[Example format start]
+Main Category name, Sub Category name, Sub Category Description
+[Example format end] 
+
+[start of insurance categories]
+main_category,sub_category,description
+Health Insurance,Individual Health Insurance,Covers medical expenses for an individual policyholder.
+Health Insurance,Family Health Insurance,Provides health coverage for the entire family under a single policy.
+Health Insurance,Critical Illness Insurance,Offers a lump sum benefit upon diagnosis of a critical illness.
+Health Insurance,Dental Insurance,"Covers dental care expenses including check-ups, cleanings, and procedures."
+Health Insurance,Vision Insurance,"Covers eye care expenses such as exams, glasses, and contact lenses."
+Life Insurance,Term Life Insurance,"Provides coverage for a specified term, paying a benefit if the insured dies during the term."
+Life Insurance,Whole Life Insurance,"Offers lifetime coverage with a savings component, accumulating cash value."
+Life Insurance,Universal Life Insurance,"Flexible policy with adjustable premiums and death benefits, including a savings element."
+Life Insurance,Variable Life Insurance,"Combines life insurance with investment options, allowing cash value to grow based on market performance."
+Life Insurance,Final Expense Insurance,"Covers funeral and burial expenses, providing peace of mind for end-of-life costs."
+Auto Insurance,Liability Coverage,Covers damages to others for which the policyholder is responsible.
+Auto Insurance,Collision Coverage,Pays for damage to the policyholder's car resulting from a collision.
+Auto Insurance,Comprehensive Coverage,"Covers non-collision-related damage to the policyholder's car, such as theft or natural disasters."
+Auto Insurance,Personal Injury Protection,Covers medical expenses and lost wages for the policyholder and passengers after an accident.
+Auto Insurance,Uninsured/Underinsured Motorist Coverage,Protects against damages caused by a driver with insufficient or no insurance.
+Home Insurance,Homeowners Insurance,Covers the home structure and personal belongings against damage or theft.
+Home Insurance,Renters Insurance,Protects personal property within a rented residence and provides liability coverage.
+Home Insurance,Condo Insurance,Covers personal property and interior elements of a condominium unit.
+Home Insurance,Flood Insurance,"Provides coverage for damage caused by flooding, typically not included in standard policies."
+Home Insurance,Earthquake Insurance,Covers damage to a home and belongings caused by an earthquake.
+Travel Insurance,Trip Cancellation Insurance,Reimburses non-refundable travel expenses if a trip is canceled for covered reasons.
+Travel Insurance,Travel Medical Insurance,Covers medical emergencies and evacuation while traveling abroad.
+Travel Insurance,Baggage Insurance,"Provides compensation for lost, stolen, or damaged luggage during travel."
+Travel Insurance,Flight Insurance,Offers coverage for accidents occurring during a flight.
+Travel Insurance,Adventure Sports Insurance,Covers injuries and accidents related to high-risk sports activities during travel.
+Pet Insurance,Accident-Only Pet Insurance,Covers veterinary costs resulting from accidents.
+Pet Insurance,Comprehensive Pet Insurance,"Includes coverage for accidents, illnesses, and preventive care."
+Pet Insurance,Lifetime Pet Insurance,Provides coverage for chronic conditions throughout the pet's life.
+Pet Insurance,Time-Limited Pet Insurance,Covers conditions for a set period or up to a maximum payout.
+Pet Insurance,Wellness Pet Insurance,Covers routine care such as vaccinations and check-ups.
+Business Insurance,General Liability Insurance,Protects businesses from claims of bodily injury or property damage.
+Business Insurance,Professional Liability Insurance,Covers legal costs from claims of negligence or malpractice.
+Business Insurance,Commercial Property Insurance,Covers damage to business property from events like fire or theft.
+Business Insurance,Workers' Compensation Insurance,Provides benefits to employees injured on the job.
+Business Insurance,Business Interruption Insurance,Covers lost income and expenses due to a temporary business closure.
+Disability Insurance,Short-Term Disability Insurance,Provides income replacement for a short period due to disability.
+Disability Insurance,Long-Term Disability Insurance,Offers income replacement for extended periods of disability.
+Disability Insurance,Individual Disability Insurance,Covers individuals against loss of income due to disability.
+Disability Insurance,Group Disability Insurance,"Offered by employers, covering employees for disability-related income loss."
+Disability Insurance,Supplemental Disability Insurance,Provides additional coverage beyond standard disability policies.
+Marine Insurance,Hull Insurance,Covers physical damage to a ship or vessel.
+Marine Insurance,Cargo Insurance,Protects goods being transported by sea against loss or damage.
+Marine Insurance,Freight Insurance,Covers the loss of freight revenue due to cargo damage or loss.
+Marine Insurance,Liability Insurance,Protects shipowners against liabilities to third parties.
+Marine Insurance,Protection and Indemnity Insurance,"Covers a wide range of liabilities for shipowners, including crew injuries and environmental damage."
+Aviation Insurance,Aircraft Hull Insurance,Covers physical damage to the aircraft.
+Aviation Insurance,Aviation Liability Insurance,Protects against liabilities arising from aircraft operations.
+Aviation Insurance,Passenger Liability Insurance,Covers legal liabilities for passenger injuries or deaths.
+Aviation Insurance,Ground Risk Hull Insurance,Covers aircraft damage while on the ground.
+Aviation Insurance,In-Flight Insurance,Covers aircraft damage occurring during flight.
+Cyber Insurance,Data Breach Insurance,"Covers costs associated with data breaches, including notification and legal expenses."
+Cyber Insurance,Network Security Insurance,"Protects against losses from network security failures, such as hacking."
+Cyber Insurance,Business Interruption Insurance,Covers lost income due to cyber incidents disrupting business operations.
+Cyber Insurance,Cyber Extortion Insurance,Covers ransom payments and related expenses in the event of cyber extortion.
+Cyber Insurance,Media Liability Insurance,"Protects against claims of defamation, copyright infringement, and other media-related liabilities."
+Credit Insurance,Trade Credit Insurance,Protects businesses against non-payment of commercial debts.
+Credit Insurance,Mortgage Insurance,Covers lenders against borrower default on mortgage loans.
+Credit Insurance,Credit Life Insurance,Pays off a borrower's debt if they die before the loan is repaid.
+Credit Insurance,Credit Disability Insurance,Covers loan payments if the borrower becomes disabled.
+Credit Insurance,Political Risk Insurance,Protects businesses against losses due to political events affecting credit.
+Title Insurance,Owner's Title Insurance,Protects property buyers against title defects and ownership disputes.
+Title Insurance,Lender's Title Insurance,Covers lenders against title defects that could affect loan security.
+Title Insurance,Leasehold Title Insurance,Protects leaseholders against title issues affecting their lease rights.
+Title Insurance,Construction Loan Title Insurance,Covers title risks during the construction phase of a property.
+Title Insurance,Easement Title Insurance,Protects against issues related to easements on a property.
+Agricultural Insurance,Crop Insurance,Covers loss of crops due to natural disasters or loss of revenue due to declines in agricultural commodity prices.
+Agricultural Insurance,Livestock Insurance,"Protects against loss of livestock due to disease, accidents, or natural disasters."
+Agricultural Insurance,Farm Property Insurance,Covers farm buildings and equipment against damage or loss.
+Agricultural Insurance,Farm Liability Insurance,Protects farmers against liabilities arising from farm operations.
+Agricultural Insurance,Aquaculture Insurance,Covers risks associated with fish farming and other aquaculture activities.
+Event Insurance,Wedding Insurance,"Covers losses related to wedding cancellations, damages, or liabilities."
+Event Insurance,Concert Insurance,Protects against financial losses from concert cancellations or liabilities.
+Event Insurance,Festival Insurance,Covers risks associated with organizing and hosting festivals.
+Event Insurance,Conference Insurance,Protects against losses from conference cancellations or liabilities.
+Event Insurance,Sports Event Insurance,Covers risks related to organizing and hosting sports events.
+Kidnap and Ransom Insurance,Corporate K&R Insurance,Protects businesses against financial losses from employee kidnappings.
+Kidnap and Ransom Insurance,Personal K&R Insurance,Covers individuals and families against kidnapping and ransom demands.
+Kidnap and Ransom Insurance,Maritime K&R Insurance,Protects against kidnappings and ransom demands in maritime settings.
+Kidnap and Ransom Insurance,Political K&R Insurance,Covers risks of kidnapping in politically unstable regions.
+Kidnap and Ransom Insurance,Travel K&R Insurance,Provides coverage for travelers against kidnapping and ransom situations.
+Legal Expense Insurance,Personal Legal Expense Insurance,"Covers legal costs for personal legal matters, such as family disputes or consumer issues."
+Legal Expense Insurance,Commercial Legal Expense Insurance,Protects businesses against legal costs from commercial disputes.
+Legal Expense Insurance,Employment Disputes Insurance,Covers legal expenses related to employment disputes.
+Legal Expense Insurance,Property Disputes Insurance,Covers legal costs arising from property-related disputes.
+Legal Expense Insurance,Tax Audit Insurance,Covers legal expenses incurred during a tax audit.
+Mortgage Insurance,Private Mortgage Insurance (PMI),Required by lenders when a borrower makes a down payment of less than 20%.
+Mortgage Insurance,FHA Mortgage Insurance,"Insurance required for FHA loans, protecting lenders against borrower default."
+Mortgage Insurance,VA Loan Funding Fee,"A one-time fee paid to the VA to support the loan program, similar to mortgage insurance."
+Mortgage Insurance,USDA Loan Guarantee Fee,"A fee for USDA loans, functioning like mortgage insurance to protect lenders."
+Mortgage Insurance,Lender-Paid Mortgage Insurance,"Mortgage insurance paid by the lender, often resulting in a higher interest rate."
+Reinsurance,Proportional Reinsurance,The reinsurer receives a fixed percentage of premiums and pays a proportional share of claims.
+Reinsurance,Non-Proportional Reinsurance,The reinsurer only pays out if the insurer's losses exceed a certain amount.
+Reinsurance,Facultative Reinsurance,Reinsurance for a single risk or a defined package of risks.
+Reinsurance,Treaty Reinsurance,"Covers a portfolio of risks, with terms agreed upon in advance."
+Reinsurance,Excess of Loss Reinsurance,Protects insurers against large losses by covering amounts above a specified limit.
+Environmental Insurance,Pollution Liability Insurance,Covers liabilities arising from pollution incidents.
+Environmental Insurance,Environmental Cleanup Insurance,Covers costs associated with cleaning up environmental contamination.
+Environmental Insurance,Brownfield Insurance,Protects against risks associated with redeveloping contaminated sites.
+Environmental Insurance,Contractors Pollution Liability Insurance,Covers pollution risks associated with construction and contracting activities.
+Environmental Insurance,Environmental Professional Liability Insurance,Protects environmental consultants against claims of negligence or errors.
+Political Risk Insurance,Expropriation Insurance,Covers losses from government seizure of assets.
+Political Risk Insurance,Political Violence Insurance,"Protects against losses from political violence, such as war or terrorism."
+Political Risk Insurance,Currency Inconvertibility Insurance,Covers losses from inability to convert local currency into foreign currency.
+Political Risk Insurance,Sovereign Default Insurance,Protects against losses from a government's failure to meet debt obligations.
+Political Risk Insurance,Trade Disruption Insurance,Covers losses from disruptions in trade due to political events.
+Surety Bonds,Contract Surety Bonds,Guarantees the performance of contractual obligations.
+Surety Bonds,Commercial Surety Bonds,Ensures compliance with laws and regulations.
+Surety Bonds,Court Surety Bonds,Required in legal proceedings to ensure compliance with court orders.
+Surety Bonds,Fidelity Bonds,Protects businesses against employee dishonesty or fraud.
+Surety Bonds,License and Permit Bonds,"Required for obtaining licenses or permits, ensuring compliance with regulations."
+Burial Insurance,Pre-Need Funeral Insurance,"Covers predetermined funeral expenses, often arranged with a funeral home."
+Burial Insurance,Final Expense Insurance,Provides a death benefit to cover funeral and burial costs.
+Burial Insurance,Guaranteed Issue Life Insurance,"Offers coverage without medical exams, often used for burial expenses."
+Burial Insurance,Simplified Issue Life Insurance,"Requires minimal health questions, providing quick coverage for burial costs."
+Burial Insurance,Joint Burial Insurance,"Covers two individuals, typically spouses, under one policy for burial expenses."
+Income Protection Insurance,Short-Term Income Protection,Provides income replacement for a short period due to illness or injury.
+Income Protection Insurance,Long-Term Income Protection,Offers income replacement for extended periods of inability to work.
+Income Protection Insurance,Accident-Only Income Protection,Covers income loss due to accidents only.
+Income Protection Insurance,Illness-Only Income Protection,Covers income loss due to illness only.
+Income Protection Insurance,Comprehensive Income Protection,Covers income loss due to both accidents and illnesses.
+Gap Insurance,Auto Gap Insurance,Covers the difference between a car's actual cash value and the balance owed on a loan or lease.
+Gap Insurance,Lease Gap Insurance,"Specifically for leased vehicles, covering the gap between insurance payout and lease balance."
+Gap Insurance,Finance Gap Insurance,"Covers the gap for financed vehicles, ensuring loan balance is paid off after a total loss."
+Gap Insurance,New Car Replacement Insurance,Provides a new car replacement if the insured vehicle is totaled within a certain period.
+Gap Insurance,Negative Equity Insurance,Covers the negative equity in a vehicle loan or lease in case of a total loss.
+Umbrella Insurance,Personal Umbrella Insurance,Provides additional liability coverage beyond standard home and auto policies.
+Umbrella Insurance,Commercial Umbrella Insurance,"Offers extra liability protection for businesses, supplementing existing policies."
+Umbrella Insurance,Excess Liability Insurance,"Similar to umbrella insurance, providing additional liability coverage."
+Umbrella Insurance,Global Umbrella Insurance,"Extends liability coverage worldwide, protecting against international claims."
+Umbrella Insurance,Specialty Umbrella Insurance,Covers unique or high-risk situations not typically included in standard policies.
+Mobile Phone Insurance,Accidental Damage Insurance,Covers repair or replacement costs for accidental damage to mobile phones.
+Mobile Phone Insurance,Theft Insurance,Provides coverage for mobile phones in case of theft.
+Mobile Phone Insurance,Loss Insurance,Covers the cost of replacing a lost mobile phone.
+Mobile Phone Insurance,Extended Warranty Insurance,"Extends the manufacturer's warranty, covering repairs and replacements."
+Mobile Phone Insurance,Malware Protection Insurance,Covers damages caused by malware or viruses on mobile devices.
+Identity Theft Insurance,Credit Monitoring Insurance,Provides credit monitoring services and alerts for suspicious activities.
+Identity Theft Insurance,Identity Restoration Insurance,Covers costs associated with restoring identity after theft.
+Identity Theft Insurance,Fraudulent Charges Insurance,Covers unauthorized charges made using stolen identity.
+Identity Theft Insurance,Legal Expense Insurance,Covers legal fees incurred while resolving identity theft issues.
+Identity Theft Insurance,Lost Wages Insurance,Compensates for lost wages due to time spent resolving identity theft.
+Boat Insurance,Liability Coverage,Covers legal liabilities for injuries or damages caused by the boat.
+Boat Insurance,Hull Coverage,Covers physical damage to the boat itself.
+Boat Insurance,Medical Payments Coverage,Covers medical expenses for injuries sustained on the boat.
+Boat Insurance,Uninsured Boater Coverage,Protects against damages caused by an uninsured boater.
+Boat Insurance,Personal Effects Coverage,Covers personal belongings on the boat against loss or damage.
+Flood Insurance,Building Property Coverage,Covers the physical structure of a home or building against flood damage.
+Flood Insurance,Personal Property Coverage,Covers personal belongings inside a home or building against flood damage.
+Flood Insurance,Replacement Cost Coverage,Covers the cost to replace damaged property with new items.
+Flood Insurance,Actual Cash Value Coverage,Covers the depreciated value of damaged property.
+Flood Insurance,Excess Flood Insurance,Provides additional coverage beyond standard flood insurance limits.
+Earthquake Insurance,Dwelling Coverage,Covers the cost to repair or rebuild a home after an earthquake.
+Earthquake Insurance,Personal Property Coverage,Covers personal belongings damaged in an earthquake.
+Earthquake Insurance,Loss of Use Coverage,Covers additional living expenses if a home is uninhabitable after an earthquake.
+Earthquake Insurance,Building Code Upgrade Coverage,Covers the cost of upgrading a home to current building codes after an earthquake.
+Earthquake Insurance,Landscaping Coverage,Covers damage to landscaping features caused by an earthquake.
+Volcano Insurance,Lava Flow Coverage,Covers damage to property caused by lava flows.
+Volcano Insurance,Ash Fall Coverage,Covers damage to property from volcanic ash fall.
+Volcano Insurance,Earthquake Coverage,Covers damage from earthquakes associated with volcanic activity.
+Volcano Insurance,Mudflow Coverage,Covers damage from mudflows resulting from volcanic eruptions.
+Volcano Insurance,Volcanic Blast Coverage,Covers damage from explosive volcanic blasts.
+Windstorm Insurance,Hurricane Coverage,Covers damage to property caused by hurricanes.
+Windstorm Insurance,Tornado Coverage,Covers damage to property caused by tornadoes.
+Windstorm Insurance,Cyclone Coverage,Covers damage to property caused by cyclones.
+Windstorm Insurance,Wind Damage Coverage,Covers damage to property from high winds.
+Windstorm Insurance,Debris Removal Coverage,Covers the cost of removing debris after a windstorm.
+Hail Insurance,Crop Hail Insurance,Covers damage to crops caused by hail.
+Hail Insurance,Property Hail Insurance,"Covers damage to property, such as roofs and vehicles, caused by hail."
+Hail Insurance,Auto Hail Insurance,Covers hail damage to vehicles.
+Hail Insurance,Roof Hail Insurance,Specifically covers hail damage to roofs.
+Hail Insurance,Hail Deductible Buyback Insurance,Reduces the deductible for hail damage claims.
+Terrorism Insurance,Property Terrorism Insurance,Covers damage to property caused by acts of terrorism.
+Terrorism Insurance,Business Interruption Terrorism Insurance,Covers lost income due to business interruption from terrorism.
+Terrorism Insurance,Liability Terrorism Insurance,Covers liabilities arising from acts of terrorism.
+Terrorism Insurance,Cyber Terrorism Insurance,Covers losses from cyber attacks classified as terrorism.
+Terrorism Insurance,Political Violence Insurance,"Covers losses from politically motivated violence, including terrorism."
+Nuclear Insurance,Nuclear Liability Insurance,Covers liabilities arising from nuclear incidents.
+Nuclear Insurance,Nuclear Property Insurance,Covers damage to nuclear facilities and equipment.
+Nuclear Insurance,Nuclear Workers' Compensation Insurance,Provides benefits to workers injured in nuclear incidents.
+Nuclear Insurance,Nuclear Decommissioning Insurance,Covers costs associated with decommissioning nuclear facilities.
+Nuclear Insurance,Nuclear Contamination Insurance,Covers costs of cleaning up nuclear contamination.
+Pandemic Insurance,Business Interruption Pandemic Insurance,Covers lost income due to business closures from pandemics.
+Pandemic Insurance,Event Cancellation Pandemic Insurance,Covers losses from event cancellations due to pandemics.
+Pandemic Insurance,Travel Pandemic Insurance,Covers travel-related losses due to pandemics.
+Pandemic Insurance,Health Pandemic Insurance,Covers health-related expenses arising from pandemics.
+Pandemic Insurance,Supply Chain Pandemic Insurance,Covers losses from supply chain disruptions due to pandemics.
+[end of insurance categories]
+
+Now, please read the following content and determine which ONE main insurance category the content is related to.  
+[start of content]
+company name : {company} 
+title : {title}
+content : {content}  
+[end of content]  
+
+Answer :  
+if the content is related to description, then answer with the main category name. 
+

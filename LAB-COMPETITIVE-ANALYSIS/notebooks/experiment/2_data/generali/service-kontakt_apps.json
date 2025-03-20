@@ -1,0 +1,54 @@
+{
+    "title": "Apps | Generali",
+    "metadata": {
+        "description": "Die Apps der Generali machen das Leben leichter. Durch diese digitalen Helfer erhalten Sie zusätzlich Tipps zu Fitness und gesunder Ernährung, zum Verhalten im Schadenfall, zu risikofreiem Fahren oder zum Vermögensaufbau.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Apps",
+        "og:description": " ",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Apps"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "SERVICE & KONTAKT",
+                "APPS"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Apps der Generali machen das Leben leichter. Denn einmal installiert, ermöglichen sie einfach und schnell den Kontakt zu uns. Durch diese digitalen Helfer erhalten Sie zusätzlich Tipps zu Fitness und gesunder Ernährung, zum Verhalten im Schadenfall, zu risikofreiem Fahren oder zum Vermögensaufbau."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Generali GesundheitsAppNutzen Sie viele Services der Generali einfach über Ihr Smartphone, zum Beispiel, um uns Arztrechnungen und Rezepte zu schicken.Mehr erfahren",
+                "Generali Mobile HealthDie smarte Lösung rund um das Thema Gesundheit – vom Symptom-Check bis zum Online-Arzttermin.Mehr erfahren",
+                "Generali Protect MeDie kostenlose App Generali Protect Me warnt zuverlässig vor gefährlichen WetterereignissenMehr erfahren",
+                "Generali VitalityAppDas Gesundheitsprogramm belohnt ein gesundes Leben. Punkte sammeln durch Sport, gesunde Ernährung und regelmäßige Vorsorge. Attraktive Prämien warten auf Sie.Mehr erfahren"
+            ]
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_apps"
+}

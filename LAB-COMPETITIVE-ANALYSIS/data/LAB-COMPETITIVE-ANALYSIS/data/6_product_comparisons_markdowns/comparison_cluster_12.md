@@ -1,0 +1,9 @@
+```markdown
+| Feature                               | Company: Barmenia – deu_bde_privat_bde_service_bde_infocenter_bde_krankenversicherung_bde_erstattungsfaehige_naturheilverfahren_uebersicht.xhtml | Company: DKV – gesundheit-organisation-hilfsmittel-service-schlafapnoe-geraete.md |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Coverage Type                         | Private health insurance and supplementary insurance for statutory insured individuals                                                           | Insurance for sleep apnea devices                                               |
+| Specific Coverage Details             | Reimbursable naturopathic procedures based on Hufeland directory and fee schedule for alternative practitioners                                  | Loan of sleep apnea devices, accessories, consumables, repairs, maintenance     |
+| Unique Features                       | Choice of a variety of reimbursable naturopathic procedures                                                                                      | Direct cost settlement with partners, no need for new prescription for continued use |
+| Customer Support                      | Phone consultation available Monday to Friday 08:00-20:00, Saturday 09:00-15:00                                                                  | Nationwide network of qualified service providers, emergency service available  |
+| Additional Benefits                   | Not specified                                                                                                                                     | Free replacement in case of device damage                                       |
+```

@@ -1,0 +1,260 @@
+{
+    "title": "Waldversicherung & Waldbrandversicherung / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Attraktive Konditionen mit der ✓ Waldversicherung von AXA sichern ✓ Waldbrand und Waldsturm versichern und Haftpflicht abschließen ▶ jetzt beraten lassen!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/geschaeftskunden/waldversicherung",
+        "og:title": "Waldversicherung & Waldbrandversicherung / AXA",
+        "og:description": "Attraktive Konditionen mit der ✓ Waldversicherung von AXA sichern ✓ Waldbrand und Waldsturm versichern und Haftpflicht abschließen ▶ jetzt beraten lassen!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E281826277/8705668/waldversicherung-foerster-begutachtet-baeume-facebook.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E281826277/8705668/waldversicherung-foerster-begutachtet-baeume-facebook.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/geschaeftskunden",
+            "text": "Geschäftskunden"
+        },
+        {
+            "text": "Waldversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Waldversicherung - Top-Schutz"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/Waldversicherung-AXA?AKTIONSCODE=14015D",
+            "text": "Angebot berechnen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Vater sitzt mit Sohn zusammen am Lagerfeuer im Wald"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Wald hat viele Funktionen: Er dient dem Klima-, Wasser- und Bodenschutz, ist Erholungsraum sowie Rohstoff- und Energielieferant der Zukunft. AXA hilft Ihnen, dieses wertvolle Stück Natur durch eine Waldversicherung zu schützen: mit überzeugenden Leistungen in folgenden Bereichen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Waldbrand­versicherung",
+                "Wald-Sturmversicherung",
+                "Waldbesitzer-Haftpflichtversicherung"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Empfehlung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wald"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gesamtfläche bis 25 ha"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wald"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gesamtfläche ab 25 ha"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gemeinschaft"
+        },
+        {
+            "type": "paragraph",
+            "text": "alle Gesamtflächen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Einzelwaldbesitzer mit einem Wald bis 25 ha"
+        },
+        {
+            "type": "link",
+            "href": "http://www.axa.de/redirect/Waldversicherung-AXA?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Online-Abschluss mit nur wenigen Eingaben"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Einzelwaldbesitzer mit einem Wald ab 25 ha"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-380218374/axade/medien/geschaeftskunden/waldversicherung/fragebogen-zur-waldversicherung-einzelwald.pdf",
+            "text": "Angebot anfordern"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Online-Fragebogen zur Waldversicherung (PDF, 267 KB)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Für forstwirtschaftliche Zusammenschlüsse"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-1812894595/axade/medien/geschaeftskunden/waldversicherung/fragebogen-zur-waldversicherung-zusammenschluesse.pdf",
+            "text": "Angebot anfordern"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Online-Fragebogen zur Waldversicherung (PDF, 507 KB)"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Waldbrandversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Versicherungsschutz bei Brand, Blitzschlag oder Explosion für Waldbestände",
+                "Die Versicherungssumme wird nach den anerkannten Grundsätzen der Waldwertrechnung hergeleitet",
+                "Soweit vereinbart, sind Nebenrisiken wie z.B. Abräumungskosten und Feuerlöschkosten mitversichert"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Waldsturmversicherung"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Versicherungsschutz bei Zerstörung oder Beschädigung von Waldbeständen durch die unmittelbare Einwirkung von Sturmereignissen",
+                "Entschädigt wird die pro Hektar Sturmschadenfläche vereinbarte pauschale Versicherungssumme"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Waldbesitzer-Haftpflichtversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Versicherungsschutz bis zu 3 Mio. Euro für Personen- und sonstige Schäden (Sach- und Vermögensschäden) bei Ersatzansprüchen, die sich u. a. ergeben können"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "aus einer Verletzung der Verkehrssicherungspflicht",
+                "bei Einsatz von nicht zulassungs-/versicherungspflichtigen Arbeitsmaschinen, Anhängern oder sonstigen Geräten",
+                "optional ist der Versicherungsschutz um eine Umweltschadens­versicherung erweiterbar (der Versicherungsschutz beinhaltet im Falle eines verursachten Umweltschadens neben der Freistellung von berechtigten Sanierungsforderungen auch die Abwehr unberechtigter behördlicher Inanspruchnahme)"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Waldbrandversicherung:Im Rahmen der Kulturvorbereitung wird gewöhnlich Reisig verbrannt, um Schadinsekten zu bekämpfen. Trotz Vorsichtsmaßnahmen lösen Glutnester noch Stunden später einen Brand aus.Waldsturmversicherung:Regionale Wirbelstürme brechen holzvorratsreiche Fichtenbestände auf. Wegen des gesättigten Holzmarktes gestaltet sich der Absatz des Schadholzes zugewinnbringenden Preisen schwierig.Waldbesitzer-Haftpflichtversicherung:Durch Astbruchfall kommt ein Verkehrsteilnehmer zu Schaden. Der Waldbesitzer verletzt die Verkehrssicherungspflichtschuldhaft, wenn äußerlich erkennbare Anzeichen für eine Gefahr durch den Baumwie z. B. Krankheitsbefall oder ungewöhnlich trockene Äste übersehen bzw. ignoriert worden sind.Mit unseren Waldversicherungen sind Sie in den genannten Fällen bestens abgesichert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann und Frau schauen nach Fallbeispiele"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "Wegweiser für weitere Versicherungsprodukte"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Mit unserer Rechtsschutz sind Sie bestens geschützt:Rechtsschutzversicherung",
+                "Unsere Angebote für Sie als Land-und Forstwirt:Land- und Forstwirtschaft",
+                "Weitere Angebote fürdie Baubranche"
+            ]
+        },
+        {
+            "text": "Nachricht senden"
+        },
+        {
+            "text": "Schreiben Sie uns"
+        },
+        {
+            "text": "Kontakt"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 3203205"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Schadenmeldung rund um die Uhr"
+        },
+        {
+            "text": "Melden Sie Ihren Schaden schnell und einfach online."
+        },
+        {
+            "text": "Online-Schadenmeldung"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "RUFEN SIE UNS AN"
+        },
+        {
+            "text": "0800 2920333"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "geschaeftskunden_waldversicherung"
+}

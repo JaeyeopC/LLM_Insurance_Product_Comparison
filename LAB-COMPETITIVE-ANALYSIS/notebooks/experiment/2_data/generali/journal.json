@@ -1,0 +1,145 @@
+{
+    "title": "Journal",
+    "metadata": {
+        "keywords": "Tips,Tipps,Wissenswertes,Ratgeber,Journal",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Alle Themen im Überblick",
+        "og:description": " ",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Das Jour­nal: Ihr Beglei­ter in allen Lebens­la­gen"
+        },
+        {
+            "text": "Ob Gesundheit, Familie oder Hausbau: in unserem Journal finden Sie viele Tipps und Wissenswertes"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "ALLE THEMEN IM ÜBERBLICK"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Neueste Arti­kel"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Abenteuer AlltagKrisen bewältigen und Hoffnung schaffenMehr erfahren",
+                "Gesund bleibenLebensmittel als Brainfood: Ernährung und RezepteMehr erfahren",
+                "Abenteuer AlltagVer­si­che­rungs­check: Welche Versicherung sollte man haben?Mehr erfahren",
+                "Gesund bleibenPositive Thinking – die Kraft der positiven GedankenMehr erfahren"
+            ]
+        },
+        {
+            "text": "#Gene­ra­li­be­wegt­Deutsch­land"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sich bewegen und gesund bleiben"
+        },
+        {
+            "type": "paragraph",
+            "text": "Werde Teil unserer Initiative und mach dich fit. Ob Tennis, Laufsport oder andere inspirierende Momente. Mit Generali bewegt Deutschland bist du immer am Puls des Sports."
+        },
+        {
+            "type": "link",
+            "href": "/generali-bewegt-deutschland",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Läufer bei einem Marathon"
+        },
+        {
+            "type": "paragraph",
+            "text": "© Bernd Brundert"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die High­light-Arti­kel"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "mit VideoVoller Fokus für den MarathonlaufMehr erfahren",
+                "mit VideoStress reduzieren: Komm zur Ruhe mit LamasMehr erfahren",
+                "mit VideoÜberwinde dich: Profis im TurmspringenMehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kar­riere Insights"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Ausbildungsintegriertes StudiumFynn berichtet über seinen Arbeitsalltag.Mehr erfahren",
+                "Bachelor- oder MasterarbeitSchreibe die Abschlussarbeit bei Generali.Mehr erfahren",
+                "Unterwegs als WerkstudentinArbeiten, Reisen und Studieren.Mehr erfahren",
+                "MasterandenprogrammVorteile und Ablauf neben dem Studium.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kate­go­rien des Jour­nals"
+        },
+        {
+            "text": "Zur Sucheingabe"
+        },
+        {
+            "text": "\"\""
+        },
+        {
+            "text": "wurden keine Ergebnisse gefunden."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Vita­li­tyApp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Gesundheitsprogramm motiviert Sie mit kleinen Extras, bewusster zu leben."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/generali-vitality/id1089388341",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.vitality.gli.de&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "journal"
+}

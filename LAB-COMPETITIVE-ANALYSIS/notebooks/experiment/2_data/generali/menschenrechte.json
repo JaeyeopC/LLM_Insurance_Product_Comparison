@@ -1,0 +1,542 @@
+{
+    "title": "Menschenrechte",
+    "metadata": {
+        "description": "Die Generali in Deutschland ist sich ihrer unternehmerischen Verantwortung zur Achtung der Menschen- und Umweltrechte bewusst.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Menschenrechte",
+        "og:description": " ",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Menschenrechte"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "MENSCHENRECHTE"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Seit dem Jahr 2023 verpflichtet das deutsche Lieferkettensorgfaltspflichtengesetz (LkSG) auch Versicherungen, in ihren Lieferketten menschenrechtliche und umweltbezogene Sorgfaltspflichten in angemessener Weise zu beachten. Ziel ist es, menschenrechtlichen und umweltbezogenen Risiken vorzubeugen bzw. sie zu minimieren und die Verletzung menschenrechtsbezogener oder umweltbezogener Pflichten zu beenden. Das LkSG verpflichtet Unternehmen zudem zur Abgabe einer Grundsatzerklärung.Die Generali in Deutschland* hat zum 1. Januar 2023 die Umsetzung für die Generali Deutschland AG und zum 1. Januar 2024 für Generali Deutschland Services GmbH entsprechend den gesetzlichen Vorgaben vorgenommen. Über die gesetzliche Verpflichtung hinaus wurden grundsätzlich alle deutschen Tochtergesellschaften im Rahmen der LkSG-Umsetzung einbezogen."
+        },
+        {
+            "type": "paragraph",
+            "text": "* Generali in Deutschland umfasst in der Regel Generali-Gesellschaften, die in Deutschland ihren Hauptsitz haben. Dazu gehören z.B. auch die Marken Cosmos Direkt oder Dialog mit ihren jeweiligen Versicherungsunternehmen und die Generali Deutschland Services GmbH."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Grund­satz­er­klä­rung der Gene­rali Deutsch­land AG und Gene­rali Deutsch­land Ser­vices GmbH"
+        },
+        {
+            "type": "paragraph",
+            "text": "Version 2024 1.3"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Prä­am­bel"
+        },
+        {
+            "type": "paragraph",
+            "text": "1. ACHTUNG DER MENSCHENRECHTE"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali in Deutschland (im Folgenden: Generali) ist sich ihrer unternehmerischen Verantwortung zur Achtung der Menschen- und Umweltrechte bewusst. Wir verpflichten uns, menschenrechtliche und umweltbezogene Sorgfaltspflichten in unseren Lieferketten in angemessener Weise zu berücksichtigen und Betroffenen von entsprechenden Verstößen Zugang zu Abhilfe zu ermöglichen. Dabei richten wir unser unternehmerisches Handeln an international anerkannten Leitprinzipien für Wirtschaft und Menschenrechte der Vereinten Nationen aus und setzen somit die Anforderungen des Nationalen Aktionsplans für Wirtschaft und Menschenrechte und des deutschen Lieferkettensorgfaltspflichtengesetzes um."
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Verständnis und unsere menschenrechtlichen Standards beruhen auf folgenden international anerkannten Grundsätzen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die Internationale Menschenrechtscharta, d.h. die Allgemeine Erklärung der Menschenrechte der Vereinten Nationen sowie der Zivilpakt und der Sozialpakt, in denen bürgerliche, politische und soziale Rechte definiert sind, die allen Menschen um ihrer Würde willen zustehen.",
+                "Die Kernarbeitsnormen der Internationalen Arbeitsorganisation (ILO) mit ihren fünf Grundprinzipien zu Vereinigungsfreiheit und Recht auf Kollektivverhandlungen, der Beseitigung von Zwangsarbeit, der Abschaffung von Kinderarbeit sowie dem Verbot der Diskriminierung in Beschäftigung und Beruf sowie Arbeitsschutz und Arbeitssicherheit."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Darüber hinaus unterstützen wir die in der Initiative UN Global Compact festgelegten Prinzipien zu Menschen- und Arbeitsrechten; in Bezug auf spezifische internationale Standards im Versicherungssektor hat die internationale Generali Group die Prinzipien für verantwortungsvolles Investieren (PRI) und die Prinzipien für nachhaltige Versicherungen (PSI) unterzeichnet. Beide Initiativen wurden von den Vereinten Nationen ins Leben gerufen und unterstützt."
+        },
+        {
+            "type": "paragraph",
+            "text": "2. UNSER VORGEHEN"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Bekenntnis zu den genannten Abkommen und Grundsätzen sowie internen Dokumente der internationalen Generali Group tragen dazu bei, die Achtung der Menschen- und Umweltrechte angemessen in unseren Lieferketten zu gewährleisten. Gleichzeitig stellen sie unsere umwelt- und menschenrechtsbezogenen Erwartungen an uns, unsere Mitarbeiterinnen und Mitarbeiter und unsere Lieferanten und Vertragspartner im Sinne des LkSG (im Folgenden: „Lieferanten/Vertragspartner“) dar. Die Verpflichtung zur angemessenen Berücksichtigung entsprechender Rechte ergibt sich insbesondere auch aus den nachfolgend aufgelisteten internen Dokumenten:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Code of Conduct (Verhaltenskodex)",
+                "Integration of Sustainability into Investments and Active Ownership Guideline",
+                "Responsible Underwriting Group Guideline",
+                "Ethical Code for Suppliers (Ethik-Kodex für Lieferanten der Generali Gruppe)",
+                "Sustainability Group Guideline (Konzern-Nachhaltigkeitsrichtlinie)",
+                "Deutsche Nachhaltigkeitsrichtlinie",
+                "Generali Group´s Charter of Sustainability Commitments (Nachhaltigkeitscharta der internationalen Generali Group)",
+                "Europäischen Sozialcharta"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die internationale Generali Group hat in ihrer„Human Rights Strategy“detailliert ihre Haltung zu Menschenrechten dargelegt."
+        },
+        {
+            "type": "paragraph",
+            "text": "UnterNachhaltigkeitsstrategieundNachhaltigkeit & Verantwortungfinden Sie umfangreiche Informationen über Ambitionen, Haltung und Maßnahmen der Generali in Deutschland."
+        },
+        {
+            "type": "paragraph",
+            "text": "3. UNSERE MITARBEITERINNEN UND MITARBEITER"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bieten ein Arbeitsumfeld, das frei von jeglicher Form von Diskriminierung, Belästigung, Einschüchterung oder Mobbing ist, und wir fördern Vielfalt und Inklusion, weil wir glauben, dass die Zusammenarbeit zwischen Menschen mit unterschiedlichen Fähigkeiten, Perspektiven, Hintergründen und Kulturen ein Schlüsselelement für die Geschäftstätigkeit ist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir erkennen auch das Recht unserer Mitarbeiterinnen und Mitarbeiter auf Vereinigungsfreiheit und Kollektivverhandlungen an und dulden keine Form von illegaler Arbeit oder Ausbeutung, Zwangs- und Kinderarbeit."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Grundrechte der Arbeitnehmer werden auch in der Europäischen Sozialcharta, die in Zusammenarbeit mit dem Europäischen Betriebsrat des Konzerns ausgearbeitet wurde, im Verhaltenskodex und in der Nachhaltigkeitscharta der internationalen Generali Group bekräftigt."
+        },
+        {
+            "type": "paragraph",
+            "text": "4. UNSERE LIEFERANTEN/VERTRAGSPARTNER"
+        },
+        {
+            "type": "paragraph",
+            "text": "Um ein verantwortungsbewusstes Handeln entlang unserer Lieferkette unter angemessener Einhaltung der Grundsätze der Menschen- und Umweltrechte zu gewährleisten, verlangt die Generali von ihren Vertragspartnern (Lieferanten, Dienstleister und Kooperationspartner), dass sie auf allen Ebenen ihrer Lieferkette die in den Konzernleitlinien festgelegten Grundsätze respektieren, wie zum Beispiel den Ethikkodex für Lieferanten der internationalen Generali Group und den Code of Conduct sowie die wichtigsten nationalen und internationalen Standards, beispielsweise die Grundkonvention der Internationalen Arbeitsorganisation (ILO) und die Allgemeine Erklärung der Menschenrechte der Vereinten Nationen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir gestalten die Beziehungen zu unseren Vertragspartnern verantwortungsbewusst – wir lehnen moderne Sklaverei und Menschenhandel in all ihren Formen ab und tolerieren sie nicht in unserer Lieferkette. Die Generali gewährleistet ein effektives und effizientes Beschaffungsmanagement, indem die Beschaffung von Dienstleistungen und Gütern klar im Rahmen einer Einkaufsrichtlinie strukturiert wird. Demnach sind alle Beschaffungsvorgänge bis auf definierte Ausnahmen, über den international sowie national aufgestellten Einkauf abzubilden. Durch die Integration externer Kooperationspartner wird im Unternehmensbereich Schaden der Generali ein effektives und effizientes sowie kundenorientiertes Schadenmanagement sichergestellt. Der Anbindungsprozess von externen Kooperationspartnern und die diesbezüglichen Verantwortlichkeiten sind in einer entsprechenden Leitlinie geregelt. Kooperationspartner im Kontext des Schadenmanagements der Generali sind Lieferanten/Vertragspartner im Sinne des LkSG und fallen in dessen Anwendungsbereich. Die zur Wahrung von Menschenrechten und Minimierung von Umweltrisiken notwendigen Sorgfaltsprozesse im Kontext von Beschaffungsvorgängen und Kooperationspartnern des Unternehmensbereichs Schaden werden kontinuierlich weiterentwickelt und an veränderte Bedingungen angepasst."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "I. Ver­fah­ren zur Wah­rung der Pflich­ten"
+        },
+        {
+            "type": "paragraph",
+            "text": "1. ANGEMESSENES UND WIRKSAMES RISIKOMANAGEMENT"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali hat ein etabliertes Governance-System (Geschäftsorganisation) zum Management aller relevanten Risiken (unter anderem Umwelt- und Menschenrechtsrisiken) eingerichtet, welches eine solide und umsichtige Leitung jedes Konzernunternehmens gewährleistet. Kernbestandteile der Geschäftsorganisation sind das Risikomanagementsystem (RMS), das interne Kontrollsystem (IKS) sowie die vier unabhängigen Kontrollfunktionen – Risikomanagement-Funktion (RMF), Compliance-Funktion (CF), Funktion der Internen Revision (IRF) und Versicherungsmathematische Funktion (VMF). Das RMS ist so gestaltet, dass die Identifikation, Bewertung, Überwachung, Minderung und Berichterstattung der eingegangenen und potenziellen Risiken sowie deren Aggregation unter Berücksichtigung der Abhängigkeiten jederzeit möglich sind. Das IKS ist der zweite Kernbestandteil des Governance-Systems und umfasst Aspekte, wie zum Beispiel Internes Kontrollumfeld, Interne Kontrollmaßnahmen, Kontrollbewusstsein sowie Überwachung und Berichterstattung. Das IKS folgt der Systematik der „Three Lines of Defense”. Hier bilden die klassischen Managementkontrollen (einschließlich derer durch den Menschenrechtsbeauftragten – siehe Kapitel II, §2) die erste Verteidigungslinie; die RMF, die CF und die VMF befinden sich auf der zweiten Ebene, und die unabhängige Überwachung durch die Konzernrevision stellt die dritte Verteidigungslinie dar."
+        },
+        {
+            "type": "paragraph",
+            "text": "2. PRIORISIERUNG VON MENSCHENRECHTS- UND UMWELTRISIKEN"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bekennen uns zur Achtung aller international anerkannten Menschenrechte sowie internationalen Umweltkonventionen und legen den Fokus unserer menschenrechtlichen und umweltbezogenen Sorgfaltsprozesse gemäß § 2 Absatz 2 und 3 Lieferkettensorgfaltspflichtengesetz auf folgende Menschenrechts- und umweltbezogene Themen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Menschenrechtsrisiken:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Verstoß gegen das Verbot von Kinderarbeit",
+                "Verstoß gegen das Verbot von Zwangsarbeit und aller Formen der Sklaverei",
+                "Missachtung von Arbeitsschutz und arbeitsbedingten Gesundheitsgefahren",
+                "Missachtung der Koalitionsfreiheit, Vereinigungsfreiheit und Recht auf Kollektivverhandlungen",
+                "Verstoß gegen das Verbot der Ungleichbehandlung in Beschäftigung",
+                "Verstoß gegen das Verbot des Vorenthaltens eines angemessenen Lohns",
+                "Zerstörung der natürlichen Lebensgrundlage durch Umweltverunreinigungen",
+                "Widerrechtliche Verletzung von Landrechten",
+                "Verstoß gegen das Verbot der Beauftragung oder Nutzung privater/öffentlicher Sicherheitskräfte, die aufgrund mangelnder Unterweisung oder Kontrolle zu Beeinträchtigungen führen können",
+                "Verstoß gegen das Verbot eines Tuns oder pflichtwidrigen Unterlassens, das unmittelbar geeignet ist, in besonders schwerwiegender Weise eine geschützte Rechtsposition (das heißt weitere Menschenrechte) zu beeinträchtigen und dessen Rechtswidrigkeit bei verständiger Würdigung aller in Betracht kommenden Umstände offensichtlich ist"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Umweltbezogene Risiken:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Verstoß gegen ein aus dem Minamata-Übereinkommen resultierendes Verbot (das Minamata-Übereinkommen ist ein völkerrechtlicher Vertrag aus dem Jahr 2013, mit dem die Emissionen und Freisetzungen des Schwermetalls Quecksilber eingedämmt werden sollen)",
+                "Verstoß gegen das Verbot der Produktion und/oder Verwendung von Stoffen im Anwendungsbereich der Stockholm-Konvention (POP) sowie nicht umweltgerechter Umgang mit POP-haltigen Abfällen",
+                "Verstoß gegen das Verbot der Ein- und Ausfuhr gefährlicher Abfälle im Sinne des Basler Übereinkommens"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die bisher durchgeführten Risikobewertungen im eigenen Geschäftsbereich und bei Lieferanten ergaben kein konkretes hohes Risiko, das einer Priorisierung und anschließenden Abhilfemaßnahmen erforderlich machen würde (siehe Abschnitt 5)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Übrigen wurde im eigenen Geschäftsbereich ein potenziell relevantes Risiko hinsichtlich „Ungleichbehandlung im Beschäftigungsbereich“ festgestellt. Es werden derzeit Maßnahmen zur Bewältigung und Minimierung dieses Risikos ergriffen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Darüber hinaus wurden die Risiken analysiert, die von den Ländern und Branchen ausgehen, in denen die Lieferanten des Unternehmens tätig sind. Infolgedessen fielen bestimmte Lieferanten in die Kategorie „mittleres Risiko“ und für sie werden vorbeugende Maßnahmen ergriffen."
+        },
+        {
+            "type": "paragraph",
+            "text": "3. RISIKOMINIMIERUNG DURCH PRÄVENTIONSMASSNAHMEN IM EIGENEN GESCHÄFTSBEREICH"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir überprüfen mindestens einmal jährlich sowie anlassbezogen, wie wirkungsvoll unsere bereits in der Präambel und nachfolgend beschriebenen Maßnahmen sind, um nachteilige menschenrechtliche Auswirkungen zu verhüten und abzumildern. Zudem prüfen wir, ob unsere Vorgaben eingehalten werden. Innerhalb unseres Unternehmens schulen wir gezielt die Mitarbeiterinnen und Mitarbeiter, die regelmäßig mit Lieferanten/Vertragspartnern im Kontakt sind. Information und Sensibilisierung aller relevanten Mitarbeiterinnen und Mitarbeiter sind erfolgt. Wir prüfen die Effektivität von Maßnahmen, indem wir die Ergebnisse unserer kontinuierlichen Analyse menschenrechtlicher und umweltbezogener Risiken und Auswirkungen beobachten, analysieren, gegebenenfalls Präventionsmaßnahmen zu ergreifen (zum Beispiel Audits) und Missstände beheben. Um für unsere Geschäftspartner und für die Öffentlichkeit insgesamt größtmögliche Transparenz hinsichtlich unserer eigenen Maßnahmen zu Risikominimierung zu bieten, haben wir ausführliche Antworten auf eine Risikoanalyse der spezialisierten Agentur Integrity Next hinterlegt. Die Antworten sind imOnline-Unternehmensprofilverfügbar und werden regelmäßig ergänzt bzw. aktualisiert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im eigenen Geschäftsbereich wurde im Jahr 2023 ein potenziell relevantes Risiko identifiziert. Das Risiko besteht in der möglichen Verletzung der Gleichbehandlung und Chancengleichheit der Mitarbeiter des Unternehmens. Das Unternehmen beschloss, diesem potenziellen Risiko durch verschiedene vorbeugende Maßnahmen zu begegnen, darunter:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Eine geschlechtsunabhängige, faire und leistungsorientierte Bezahlung. Die Branchentarifverträge für die private Versicherungswirtschaft, die auch bei der Generali in Deutschland Anwendung finden, sind die Grundlage für eine geschlechtsunabhängige Vergütung im Tarifbereich",
+                "Seit 2019 wird mindestens einmal jährlich eine Gender-/ Equal Pay Gap Analyse durchgeführt, um geschlechterspezifische Gehaltsunterschiede zu ermitteln, mit dem Ziel, etwaige historisch bedingte Gehaltsdifferenzen auf gleicher fachlicher Ebene zu schließen",
+                "Im Hinblick auf Gender Diversity ist die kontinuierliche Steigerung des Anteils der weiblichen Führungskräfte auf allen hierarchischen Ebenen ein zentrales Ziel",
+                "Women Mentoring Programme",
+                "Awareness-Veranstaltungen"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "4. PRÄVENTIONSMASSNAHMEN GEGENÜBER UNMITTELBAREN LIEFERANTEN/VERTRAGSPARTNER"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Vorfeld einer neuen Vertragsbeziehung werden potenzielle Vertragspartner im Rahmen eines geordneten Auswahlprozesses, welcher in der Einkaufsrichtlinie strukturiert, dokumentiert ist, ganzheitlich betrachtet und hinsichtlich der Erfüllung fachlicher und technischer Anforderungen, der Wirtschaftlichkeit sowie der Nachhaltigkeit bewertet. Bei der Auswahl der Vertragspartner sind ESG-Kriterien (ESG bedeutet Environmental, Social, Governance) hinterlegt, die sukzessive weiter ausgebaut und systematisiert werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zusätzlich zu den Regeln, die im Abschnitt \"Präambel - Unsere Lieferanten/Vertragspartner\" aufgeführt sind, verlangt Generali von ihren Lieferanten/Vertragspartnern, dass sie sicherstellen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Die Einhaltung der im Lieferkettensorgfaltspflichtengesetz formulierten menschenrechts- und umweltbezogenen Anforderungen, auch durch Mitarbeiterinnen und Mitarbeiter und Zulieferer des unmittelbaren Lieferanten/Vertragspartners",
+                "Die Durchführung von Schulungen und Weiterbildungen zur Einhaltung der Anforderungen",
+                "Die Einräumung von Prüfungsrechten an die Generali, welche diese bei Kenntnis eines Risikos oder potenziellen Risikos ausüben darf"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Ausnahmen sind möglich und werden auf der Grundlage der Ergebnisse der Risikobewertung nach den Vorgaben des LkSG gewährt."
+        },
+        {
+            "type": "paragraph",
+            "text": "5. JÄHRLICHE ÜBERPRÜFUNG DER RISIKOLAGE"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir erachten es als Bestandteil unserer Sorgfaltspflicht, potenziell und tatsächlich nachteilige menschenrechtliche und umweltbezogene Risiken und Auswirkungen unseres unternehmerischen Handelns auf Menschen und Umwelt zu kennen. Daher ermitteln und bewerten wir mithilfe einer jährlichen Risikobewertung (bzw. anlassbezogen) die relevanten Menschenrechts- und Umweltthemen unserer relevanten Geschäftstätigkeit sowie unserer direkten und indirekten Geschäftsbeziehungen. In diesem Prozess berücksichtigen wir auch menschenrechtliche und umweltbezogene Informationen/ Hinweise von Dritten und gemeldete Vorfälle. Dazu beziehen wir in- und externes menschenrechtliches und umweltbezogenes Expertenwissen, Geschäftspartner sowie ausgewählte Stakeholder ein."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Ergebnisse der Analyse menschenrechtlicher und umweltbezogener Risiken und Auswirkungen fließen in unsere unternehmerischen Entscheidungsprozesse in Bezug auf die Lieferantenauswahl, das Geschäftspartnermanagement sowie die Produktverantwortung und -entwicklung ein. Die Risikoanalyse bildet dabei die Grundlage für die Identifikation angemessener Maßnahmen. Darüber hinaus nutzen wir die Ergebnisse als Grundlage zur Erstellung und, wo nötig, Anpassung interner Vorschriften, Prozesse und Schulungen, um den sich verändernden Anforderungen an unsere Sorgfaltsprozesse Rechnung zu tragen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Jahr 2023 wurden für die Generali und ihre Dienstleister keine diesbezüglichen hohen Risiken oder Verstöße identifiziert, die entsprechender Abhilfemaßnahmen erforderten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali ist in der Finanzdienstleistungsbranche tätig. Schon nach der Art der Dienstleistung ist das Risiko eines Verstoßes gegen menschen- oder umweltrechtliche Sorgfaltspflichten daher als sehr gering einzustufen. Auch das Länderrisiko ist als sehr gering einzustufen. Die Generali ist im Wesentlichen in der Bundesrepublik Deutschland tätig. Auch ihre unmittelbaren Lieferanten/Vertragspartner erbringen ihre Dienstleistung überwiegend in der Bundesrepublik Deutschland, zumindest jedoch im Europäischen Wirtschaftsraum. Dies gilt sowohl für die Erbringung der Dienstleistung als solche, als auch für die Datenverarbeitung sowie alle weiteren Schritte, die für die Erbringung der Dienstleistung erforderlich sind. Die EU und der EWR sind durch eine hohe Rechtsstaatlichkeit geprägt. Zudem agieren dort starke Institutionen, die sich insbesondere für die Wahrung von Menschenrechten einsetzen. Dies trägt in erheblichem Maße zur Minimierung etwaiger Menschenrechtsverletzungen und Umweltrisiken bei."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ergänzend wurden die einzelnen Dienstleister jeweils geprüft und hinsichtlich ihrer Risikosituation bewertet. Im Einzelfall wurden weitergehende Prüfungen veranlasst."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im eigenen Geschäftsbereich der Generali wurde ein potenziell relevantes Risiko identifiziert (siehe Kapitel I §3). Im Berichtszeitraum wurden keine Risiken bei mittelbaren Zulieferern identifiziert, da uns keine Hinweise auf eine Risikolage vorlagen und diesbezüglich keine Beschwerden eingingen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere Einzelheiten sind dem jährlichen Bericht zu entnehmen."
+        },
+        {
+            "type": "paragraph",
+            "text": "6. ABHILFEMASSNAHMEN BEI VERSTÖSSEN UND ANGEMESSENE BESEITIGUNG SOWIE ZEITNAHE WIEDERGUTMACHUNG"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für den Fall, dass wir als Unternehmen direkt die Verletzung von Menschen- oder Umweltrechten verursachen würden, wirken wir schnell darauf hin, die verursachenden Geschäftsaktivitäten zu unterbinden oder gesetzeskonform zu gestalten und wirken auf die Wiedergutmachung hin. Bei Verhalten unserer Mitarbeiterinnen und Mitarbeiter, das mit den Menschenrechten nicht vereinbar ist, werden entsprechende Konsequenzen eingeleitet."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für den Fall, dass wir durch unsere Geschäftsaktivitäten zu potenziellen oder tatsächlichen Menschen- und/oder Umweltrechtsverletzungen beitragen oder mit diesen indirekt in Verbindung stehen, bemühen wir uns, zu einer angemessenen Beseitigung und zeitnahen Wiedergutmachung durch die verantwortlichen Stellen beizutragen. Liegt uns ein begründeter Verdacht oder konkreter Hinweis über mögliche Menschenrechtsverletzungen in unserem Unternehmen oder entlang unserer Lieferkette vor, gehen wir diesem sorgfältig und konsequent nach. In Abhängigkeit von der Schwere der Verletzung behalten wir uns im Zusammenhang mit unseren Geschäftspartnern angemessene Reaktionsmöglichkeiten von der Aufforderung zur unverzüglichen Beseitigung der Verletzung über rechtliche Schritte bis hin zur Kündigung der Geschäftsbeziehung vor. Unabhängig davon wirken wir auf die Wiedergutmachung der Verletzung hin."
+        },
+        {
+            "type": "paragraph",
+            "text": "Lieferanten/Vertragspartner betreffende Verdachtsmeldungen und Auffälligkeiten können sowohl von Mitarbeiterinnen und Mitarbeitern als auch von Dritten direkt beim Menschenrechtsbeauftragten der Generali adressiert werden. Die diesbezüglichen Zuständigkeiten sind klar geregelt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Liegt ein begründeter Verdacht oder konkreter Hinweis über mögliche Menschen- und/oder Umweltrechtsverletzungen durch einen Lieferanten oder dessen Subdienstleister vor, ist der Menschenrechtsbeauftragte in Kooperation mit dem entsprechenden Fachbereich verpflichtet, diesem sorgfältig und konsequent nachzugehen. Die unmittelbaren Lieferanten/Vertragspartner werden aufgefordert, bei der Aufklärung des Sachverhaltes zu unterstützen und in einem angemessenen Zeitrahmen vollumfänglich zu kooperieren. In Abhängigkeit von der Schwere der Verletzung wird die Generali anlassbezogen aktiv."
+        },
+        {
+            "type": "paragraph",
+            "text": "7. BESCHWERDEMECHANISMUS"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein angemessenes und wirksames Beschwerdemanagement ist ein wichtiger Bestandteil unserer Sorgfaltsprozesse, um möglichen nachteiligen menschenrechtlichen und umweltbezogenen Auswirkungen durch unser Unternehmen und unsere Geschäftsaktivitäten effektiv vorzubeugen und wirksam Abhilfe zu schaffen. Wir haben ein Beschwerdemanagementverfahren eingerichtet, das innerhalb und außerhalb des Unternehmens zugänglich ist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir betreiben ein Hinweisgebersystem, das internen und externen Interessengruppen sowie allen potenziell Betroffenen weltweit einen vertraulichen Kommunikationskanal bietet, um mögliche Verstöße gegen Menschenrechte und internationale Abkommen zu melden. Zugangsmöglichkeiten zum Hinweisgebersystem werden proaktiv und in angemessener Sprache an diese Gruppen kommuniziert. Meldungen können auch anonym erfolgen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle gemeldeten Hinweise und begründeten Verdachtsmomente über mögliche Menschenrechtsverletzungen werden im Rahmen eines Prozesses bearbeitet (sieheVerfahrensordnung). Die Vertraulichkeit und Anonymität von Hinweisgeberinnen und Hinweisgebern wird gewahrt. Die Generali hat sich zum Schutz von Hinweisgebern dazu verpflichtet, ein Arbeitsumfeld zu schaffen, welches frei von Vergeltungsmaßnahmen bzw. Repressalien ist. Dazu gehört auch die Meldung eines Missstandes. Vergeltungsmaßnahmen stellen ein Fehlverhalten dar und werden durch die Generali Group nicht toleriert. Unser systematischer Umgang mit Beschwerden und den daraus gewonnenen Erkenntnissen ermöglicht es uns dabei, unsere menschenrechtlichen Sorgfaltsprozesse kontinuierlich zu verbessern."
+        },
+        {
+            "type": "paragraph",
+            "text": "8. JÄHRLICHER LkSG-REPORT ERFÜLLT DOKUMENTATIONS- UND BERICHTSPFLICHT"
+        },
+        {
+            "type": "paragraph",
+            "text": "In unserem ab 2024 jährlich erscheinenden LkSG-Report der Generali Deutschland AG und ab 2025 der Generali Deutschland Services GmbH informieren wir die Öffentlichkeit über unsere menschenrechtlichen Selbstverpflichtungen sowie Sorgfaltsprozesse und deren Wirksamkeit. Dazu berichten wir über wesentliche von uns identifizierte menschen- und umweltrechtliche Risiken und Auswirkungen durch Geschäftsaktivitäten entlang unserer Lieferketten und beschreiben unsere umgesetzten Initiativen zur Prävention und Abhilfe."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "II. Fest­le­gung der men­schen­rechts­be­zo­ge­nen und umwelt­be­zo­ge­nen Erwar­tun­gen an unsere Mit­ar­bei­ter und Lie­fe­ran­ten/Ver­trags­part­ner in der Lie­fer­kette"
+        },
+        {
+            "type": "paragraph",
+            "text": "1. UNSER ANSATZ ZUR UMSETZUNG MENSCHENRECHTLICHER UND UMWELTBEZOGENER SORGFALTSPFLICHTEN"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Achtung der Menschen- und Umweltrechte gehört seit jeher zu den Grundpfeilern unserer Geschäftsprinzipien und unserer Unternehmenskultur. Die Einhaltung geltender Gesetze, internationaler Standards, ethischer Grundprinzipien wie auch von Selbstverpflichtungen genießt bei uns absolute Priorität. Die Umsetzung menschen- und umweltrechtlicher Sorgfaltspflichten ist für uns ein kontinuierlicher Prozess, der stetig überprüft und fortwährend weiterentwickelt wird. Wir haben daher menschen- und umweltrechtliche Sorgfaltsprozesse als integrale Bestandteile in unserer Organisation und in den Beziehungen zu unseren Geschäftspartnern verankert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Vielzahl interner Regelwerke unterstützt uns dabei, diesem hohen Anspruch und Selbstverständnis tagtäglich gerecht zu werden. Allem voran ist der Code of Conduct zu nennen. Als Manifest unserer Identität und unserer Werte definiert er die Grundregeln für ein integres Verhalten all unserer Mitarbeiterinnen und Mitarbeiter."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Achtung der Menschen- und Umweltrechte geht für uns Hand in Hand mit einer offenen Kommunikationskultur. Daher verfügen wir über verschiedenste Meldewege, die es ermöglichen, Praktiken und Handlungen, die möglicherweise gegen interne oder externe Regelungen verstoßen, vertraulich zu melden. Dies gilt ganz besonders auch für Diskriminierungen und Belästigungen im Arbeitsumfeld. Wir nehmen dieses Thema sehr ernst und setzen uns dafür ein, Diversität und Inklusion als integralen Bestandteil der Unternehmenskultur zu verankern. Wir ermutigen alle Mitarbeiterinnen und Mitarbeiter, jegliches Verhalten, das dagegen verstößt, zu melden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir sind der festen Überzeugung, dass die Achtung der Menschen- und Umweltrechte eines ganzheitlichen Ansatzes bedarf. Daher legen wir diese hohen Maßstäbe nicht nur bei uns selbst an, sondern erwarten dies gleichermaßen auch von unseren Partnern. Insbesondere im Rahmen des Einkaufs achten wir strikt darauf, dass unsere Partner unsere Werte teilen und ebenfalls entsprechende Schutzmechanismen eingerichtet haben."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali erwartet, dass ihre Lieferanten sicherstellen, dass die von der Generali formulierten Menschenrechts- und Umweltanforderungen nach dem Gesetz über die Sorgfaltspflicht in der Lieferkette (LkSG) sowohl von den Lieferanten und deren Mitarbeitern als auch von deren Zulieferern eingehalten werden. Generali soll berechtigt sein, Art und Umfang der einzuhaltenden Präventiv- und Abhilfemaßnahmen zur Umsetzung der Menschenrechts- und Umweltanforderungen zu bestimmen und jedem Lieferanten diesbezügliche Anweisungen zu erteilen. Insbesondere werden die Lieferanten aufgefordert, Schulungen und Weiterbildungen durchzuführen, um die Anforderungen zu erfüllen. Die Generali und ihre externen Auditoren sollen berechtigt sein, die Einhaltung der Menschenrechts- und Umweltanforderungen im Rahmen ihrer Befugnisse zu überprüfen."
+        },
+        {
+            "type": "paragraph",
+            "text": "2. VERANTWORTLICHKEITEN FÜR DIE MENSCHEN- UND UMWELTRECHTLICHEN SORGFALTSPFLICHTEN BEI GENERALI"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für die Wahrnehmung und Einhaltung unserer menschen- und umweltrechtlichen Sorgfaltspflichten haben wir klare Verantwortlichkeiten definiert. In der Generali nimmt der Head of Sustainability die Position des Menschenrechtsbeauftragten ein und ist für die Achtung der Menschen- und Umweltrechte im Rahmen aller relevanten Geschäftsaktivitäten sowie in unserer Lieferkette verantwortlich. In dieser Funktion berichtet der Menschenrechtsbeauftragte direkt an die Geschäftsleitung und stellt insbesondere die Überwachung des Risikomanagements sicher."
+        },
+        {
+            "type": "paragraph",
+            "text": "3. BEKENNTNIS ZUR KONTINUIERLICHEN WEITERENTWICKLUNG UNSERER MENSCHENRECHTLICHEN SORGFALTSPROZESSE"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Achtung der Menschenrechte und die Umsetzung menschenrechtlicher und umweltbezogener Sorgfaltspflichten in unseren betrieblichen Prozessen ist für uns ein wichtiger Beitrag zur Verbesserung der menschenrechtlichen Lage entlang der globalen Lieferketten. Wir nehmen diese Herausforderung an und treten dafür ein, unsere menschenrechtlichen und umweltbezogenen Sorgfaltsprozesse kontinuierlich weiterzuentwickeln."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Dow­n­loads"
+        },
+        {
+            "type": "link",
+            "href": "/resource/blob/60622/a245caaf94079c3ed2e13e9a84e1e347/202405XX_LkSG_Grundsatzerkl%C3%A4rung%20Generali%20Deutschland_v1.3.pdf",
+            "text": "LkSG Grund­satz­er­klä­rung Gene­rali Deutsch­land (Ver­sion 2024 1.3)"
+        },
+        {
+            "type": "link",
+            "href": "/resource/blob/76510/b87a238db2bbf2aad6fd7191c5f14e2c/LkSG_Verfahrensordnung%20Generali%20Deutschland_v1.2.pdf",
+            "text": "LkSG Ver­fah­rens­ord­nung Gene­rali Deutsch­land (Ver­sion 2023 1.2)"
+        },
+        {
+            "type": "link",
+            "href": "/resource/blob/76512/b59b9c10425bcb62a6ec918a31379fb1/202405XX_LkSG_Statement%20of%20Principles%20Generali%20Deutschland_v1.3%20(ENG).pdf",
+            "text": "LkSG Cor­po­rate Due Dili­gence Obli­ga­ti­ons in Sup­ply Chains Gene­rali Deutsch­land (Ver­sion 2024 1.3)"
+        },
+        {
+            "type": "link",
+            "href": "/resource/blob/76514/6226f63fe9248f16b26837161bfce18b/LkSG_Verfahrensordnung%20Generali%20Deutschland_english_v1.2.pdf",
+            "text": "LkSG com­plaints pro­ce­dure under the Act on Cor­po­rate Due Dili­gence Obli­ga­ti­ons in Sup­ply Chains Gene­rali Deutsch­land (Ver­sion 2023 1.2)"
+        },
+        {
+            "type": "link",
+            "href": "/resource/blob/86652/34e05927588024b7ae99d2baacd93758/Generali%20Deutschland_AG%20Bericht%20zum%20LkSG_2023.pdf",
+            "text": "Bericht zum LkSG (Lie­fer­ket­ten­sorg­falts­pflich­ten­ge­setz) – Berichts­zeit­raum von 01.01.2023 bis 31.12.2023"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Beschwer­demög­lich­keit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Generali hat mit großer Sorgfalt ihre Prozesse so organisiert, dass das Risiko von Verstößen gegen Menschen- und Umweltrechte weitestgehend ausgeschlossen werden kann. Dazu gehören auch die umfangreiche Schulung unserer Mitarbeiterinnen und Mitarbeiter sowie klare Vereinbarungen mit unseren Zulieferern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Für den Fall eines dennoch aufgetreten Verstoßes bitten wir Sie, sich über folgende E-Mail-Adresse an unseren Menschenrechtsbeauftragten zu wenden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Natürlich wird Ihre Beschwerde streng vertraulich behandelt."
+        },
+        {
+            "type": "paragraph",
+            "text": "menschenrechte.de@generali.com"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir werden Ihnen innerhalb von 7 Tagen eine erste Rückmeldung geben, dass Ihre Beschwerde eingegangen ist. Weitere Einzelheiten finden Sie in der nachfolgenden Verfahrensordnung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bitten um Ihr Verständnis, dass unter der E-Mail-Adressemenschenrechte.de@generali.comausschließlich Hinweise auf menschrechtliche oder umweltbezogene Risiken behandelt werden können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Um uns Handlungen oder Verhaltensweisen mitzuteilen, die für unangemessen oder unvereinbar mit dem Gesetz oder unserem Code of Conduct (Verhaltenskodex) angesehen werden, nutzen Sie bitte den vertraulichen Meldekanal auf unsererCompliance-Seite."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ver­fah­rens­ord­nung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Version 2023 1.2"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ver­fah­rens­ord­nung der Gene­rali Deutsch­land AG und der Gene­rali Deutsch­land Ser­vices GmbH zum Beschwer­de­ver­fah­ren nach dem Lie­fer­ket­ten­sorg­falts­pflich­ten­ge­setz (LkSG)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das nachfolgend beschriebene Beschwerdeverfahren ist darauf ausgelegt, dass Missstände zu menschenrechtlichen und umweltbezogenen Risiken bzw. Pflichtverletzungen in einem unserer Unternehmen oder entlang unserer Lieferkette gemeldet werden können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Hinweis bzw. eine Beschwerde kann über die genannte E-Mail-Adresse selbstverständlich auch anonym abgegeben werden. Auch wenn anonyme Meldungen möglich sind, sind wir der Ansicht, dass Meldungen, bei denen die Identität der hinweisgebenden Person offengelegt wird, am effektivsten behandelt werden können. Wir haben somit die Möglichkeit, mit der hinweisgebenden Person in den Austausch zu treten, Rückfragen zu stellen und auch über den Fortgang des Verfahrens zu informieren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nutzen Sie die E-Mail-Adresse bitte nicht, um Ereignisse zu melden, die eine unmittelbare Bedrohung für Leben oder Eigentum darstellen. Meldungen, die über diesen Kanal eingehen, werden eventuell nicht umgehend bearbeitet. Falls Sie Hilfe in einem Notfall benötigen, wenden Sie sich bitte an die örtlichen Behörden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ebenfalls sollten keine Meldungen abgegeben werden, die sich auf zur Verfügung gestellte Produkte oder Dienstleistungen beziehen, da solche nach besonderen Verfahren behandelt werden müssen (bitte prüfen Sie die Website des Unternehmens oder die Ihrem Vertrag beiliegende Informationen)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Verfahrensordnung"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "Hinweise oder Beschwerden zu etwaigen Missständen, die den Anwendungsbereich des Lieferkettensorgfaltspflichtengesetzes (LkSG) betreffen, können Sie uns unter der E-Mail-Adressemenschenrechte.de@generali.committeilen.",
+                "In unserem Beschwerdeverfahren haben wir Vorkehrungen getroffen, die die Vertraulichkeit der Identität von hinweisgebenden Personen sowie den Schutz der personenbezogenen Daten gewährleisten.",
+                "Zum Schutz von Hinweisgebern hat sich die Generali Gruppe dazu verpflichtet, ein Umfeld zu schaffen, welches frei von Vergeltungsmaßnahmen bzw. Repressalien ist. Dazu gehört auch das Melden eines eventuellen Missstandes in gutem Glauben.",
+                "Vergeltungsmaßnahmen werden durch die Generali Gruppe nicht toleriert. Jede Form von Vergeltungsmaßnahmen wird sanktioniert.",
+                "Nachdem uns ein Hinweis oder eine Beschwerde gemeldet wurde, werden wir den Eingang der Mitteilung der hinweisgebenden Person innerhalb der nächsten 7 Tage bestätigen.",
+                "Wir werden den Hinweis bzw. die Beschwerde prüfen, ob dieser unter den Anwendungsbereich des LkSG fällt und sodann das weitere Verfahren sowie die Zuständigkeiten festlegen. Sollte der Hinweis bzw. die Beschwerde nicht in den Anwendungsbereich des LkSG fallen, informieren wir die hinweisgebende Person entsprechend.",
+                "Sollte die Identität des Hinweisgebers offengelegt worden sein, werden wir bei Bedarf mit der hinweisgebenden Person in Kontakt treten, um den Sachverhalt zu erörtern und zu prüfen. Zudem ist durch unsere internen Prozesse sichergestellt, dass auch anonyme Hinweise weiterverfolgt und entsprechend der Verfahrensordnung behandelt werden.",
+                "Gegebenenfalls wird im Austausch mit der hinweisgebenden Person ein Vorschlag zur Abhilfe erarbeitet.",
+                "Nach Abschluss des Verfahrens werden wir mit der hinweisgebenden Person weiter in Kontakt bleiben, um die Effektivität von etwaigen Präventions- und Abhilfemaßnahmen beurteilen zu können.",
+                "Im Rahmen der unternehmensinternen Dokumentationspflichten werden eingegangene Beschwerden fortlaufend dokumentiert. Die Umsetzung sowie die Wirksamkeit von Präventions- bzw. Abhilfemaßnahmen werden ebenfalls dokumentiert."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Men­schen­rechts-Report"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das LkSG sieht vor, dass jährlich ein Report über die Erfüllung der Sorgfaltspflichten im vergangenen Geschäftsjahr veröffentlicht wird. Wir werden diesen Report für die Generali Deutschland AG ab 2024 und für die Generali Deutschland Services GmbH ab 2025 jeweils an dieser Stelle veröffentlichen (jeweils nach Zulieferung an die zuständige Behörde)."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kon­takt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte wenden Sie sich bei Beschwerden an die E-Mail-Adressemenschenrechte.de@generali.com."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei Fragen stehen Ihnen unsere Ansprechpartner vomNachhaltigkeitsteamgerne zur Verfügung."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicher zu Hause oder unterwegs: Erhalten Sie ortsgenaue Wetterwarnungen auf Ihr Handy."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "menschenrechte"
+}

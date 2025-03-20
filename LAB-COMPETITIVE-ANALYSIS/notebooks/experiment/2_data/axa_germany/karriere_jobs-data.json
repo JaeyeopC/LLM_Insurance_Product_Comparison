@@ -1,0 +1,283 @@
+{
+    "title": "Finde deinen Job in Data / Karriere bei AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Bringe dein Data Know-How mit! Vom Data Scientist bis hin zum Data Analyst, wir haben den richtigen Job für dich! ►Jetzt bewerben!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/karriere/jobs-data",
+        "og:title": "Finde deinen Job in Data / Karriere bei AXA",
+        "og:description": "Bringe dein Data Know-How mit! Vom Data Scientist bis hin zum Data Analyst, wir haben den richtigen Job für dich! ►Jetzt bewerben!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/karriere",
+            "text": "Karriere"
+        },
+        {
+            "text": "Data"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Data Jobs bei AXA"
+        },
+        {
+            "type": "link",
+            "href": "https://careers-de-axa.icims.com/jobs/search?hashed=-625885999",
+            "text": "Jetzt bewerben"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/karriere/jobs-data#anker12222860_arbeitenbeiaxa",
+            "text": "Arbeiten bei AXA"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/karriere/jobs-data#anker12222869_Projekte_Data",
+            "text": "Unsere Projekte"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/karriere/jobs-data#anker12222897_Jobs_im_Bereich_Data",
+            "text": "Job Profile"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Data Innovation Lab hilft der AXA dabei, den in den Daten schlummernden Wert besser zu heben. Hier bündeln wir unsere Kompetenzen rund um Data und tragen sie in den Konzern hinein. Das Data Innovation Lab ist eine virtuelle Organisationseinheit, d. h. ein Ressort-übergreifender Zusammenschluss von Abteilungen, die besonders Daten-getrieben sind. Es besteht im Kern aus den Abteilungen Data Science, Data Engineering und Data Management.Wir schätzen Interdisziplinarität. Das erkennt ihr daran, dass ihr bei uns nicht nur Betriebs- und Volkswirte, Mathematiker und (Wirtschafts-)Informatiker findet, sondern auch Physiker und Geografen. Sogar ein Bild- und Toningenieur ist mit an Bord."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Data Scientists bei AXA"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "axa-icon-stellenmarkt-1.png"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hauptsache, ihr habt Spaß an Daten und scheut euch nicht Themen From-the-scratch anzugehen!"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Data Analysten",
+                "Projektmanager",
+                "Inhouse Consultants",
+                "Programmierer",
+                "Data Scientisten",
+                "Big-Data- und Business-Intelligence-Spezialisten"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://careers-de-axa.icims.com/jobs/search?hashed=-625885999",
+            "text": "Jetzt bewerben"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Mit wem habe ich bei der Arbeit zu tun?Data ist für jeden Fachbereich wichtig, d. h. als Datenspezialist hast du die Möglichkeit ganz schön im Unternehmen rumzukommen.",
+                "Was habe ich für einen Chef?Bei uns arbeitet ihr in agilen Teams, die ihre Ziele eigenständig und selbstverantwortlich planen. Starre Hierarchien sind out, Ergebnisorientierung ist in.",
+                "Muss ich jeden Tag einen Anzug tragen?Krawatte trägt hier eigentlich kaum jemand. Jeder kann so kommen wie er/sie sich gut fühlt. Unsere Vorstände sieht man auch mal in Jeans und Sneaker.",
+                "Wie sieht mein Arbeitsplatz aus?Feste Arbeitsplätze haben wir abgeschafft, bei uns findet ihr Desksharing in modernen offenen Büroflächen und vielen Kreativflächen. Auch mal von zu Hause aus arbeiten? Gehört bei uns zum Konzept. Wir nennen dasNew Way of Working.",
+                "Mit welchen Technologien arbeitet ihr?In den vergangenen Jahren haben wir sehr stark in einen topmodernen Technologie-Stack investiert. Dazu gehören u. a. eine Analytic Plattform für R und Python, die über Docker-Container schnell eingerichtet und über Amazon Web Services beliebig skaliert werden kann, Data Management Tools mit Informatica und Reporting und Dashboarding mit Microsoft Power BI."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "AXA New Data World"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Data Analysts arbeiten mit Methoden der KI"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Machine-Learning-basierte Regresserkennung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir verfolgen das Ziel, die Erkennungsrate von Regressansprüchen zu erhöhen. Wir verwenden unterschiedliche Methoden aus dem Bereich der künstlichen Intelligenz, verarbeiten natürliche Sprache (NLP), wenden Methoden zur automatisierten Texterkennung (OCR) an und nutzen Algorithmen des maschinellen Lernens, um potenzielle Regressansprüche zu prognostizieren."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Bau eines KI basierten Chatbots"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Bau eines KI-basierenden Chatbots"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zusammen mit Microsoft entwickeln wir einen Chatbot, der im direkten Kundenkontakt rund um die Uhr Fragen zum Versicherungsverhältnis beantworten kann. Zusätzlich zur Verarbeitung und Generierung natürlicher Sprache (NLP und NLG) ist die Integration in die Bestandssysteme erforderlich. Ziel ist der Aufbau eines reaktiven und digitalen Kommunikationskanals zum Kunden, der die Lücke zwischen der klassischen digitalen Einwegkommunikation und reaktiver Telefonie schließt."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Machine Learning basierte Rechnungsprüfung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Machine-Learning-basierte Rechnungsprüfung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Rahmen der Rechnungsprüfung erreichen AXA jedes Jahr Millionen von Rechnungen. Von diesen sind einige fehlerhaft, andere sogar betrügerisch. Mit Hilfe von selbst erlernten Systemen und statistischer Modellierung werden die Sachbearbeiter dabei unterstützt, die für die Prüfung relevanten Fälle auszuwählen und sie erhalten Hinweise, welche die optimale Bearbeitung der Fälle erleichtern."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Einführung Performance Management"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir etablieren Performance Dialoge, bei denen wir über alle Führungsebenen bis hin zu den Mitarbeitergesprächen einheitliche Performance Maße als Diskussionsgrundlage verwenden. Dadurch schaffen wir auf allen „Flughöhen“ Transparenz für die Analyse und Optimierung von Geschäftsprozessen. Zur Berechnung der KPIs verfolgen wir in enger Kooperation mit den Ressorts die Datenflüsse technisch bis auf die Quellsysteme zurück. Nach dieser Analyse der Datenlandschaft entwerfen wir ein Design für eine neue Datenbewirtschaftung und entwickeln ein modernes Dashboard für die Visualisierung der KPIs."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Smart Data Platform"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Data Engineering stellst du in einem cross-funktionalen Teamaus IT- und Businessexpertendie Smart Data Plattform alsProduktfür unsere Datennutzer zur Verfügung.Cutting-edgeTechnologien stehen dabei ebenso im Fokus wie unserelegacyVersicherungs-Systeme, so dass du einenumfassendenBlick auf die Datenlandschaft und deren Nutzung bei AXA gewinnst. Bei unserer Zielplattform nutzen wir Leading-Edge Technologien wie z. B. die technische Infrastruktur von Amazon Web Services und Datenvirtualisierung mit Denodo."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Data Scientist (m/w/d)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du konzipierst und setzt Big-Data-Projekte für das Ressort Schaden/Leistung um. Hierbei arbeitest du mit anderen Fachbereichen zusammen – auch mit dem Data Innovation Lab und internationalen Teams von AXA. Du punktest als Informatiker, Mathematiker, Physiker oder mit einer ähnlichen Qualifikation. Mit deinem Know-how im Programmieren (R, Python) entwickelst du neue Anwendungsfelder, statistische/aktuarielle Analysen und Prognosemodelle."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Data Engineer (m/w/d)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei dir dreht sich alles um Data Mappings sowie um das Design von Datenflüssen. Im Umfeld eines Data Lakes bewegst du strukturierte und unstrukturierte Daten aus internen und externen Quellen. Außerdem kümmerst du dich um astreine ETL/ELT-Prozesse. Die Aufgabe passt für dich perfekt, wenn du Spaß an technischen Entwicklungen, Konzepten und Umsetzungen hast, gerne Verantwortung für ein System von der Entwicklung bis zum Betrieb übernimmst und die eigenverantwortliche Arbeit in einem agilen Team schätzt."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Data Consultant (m/w/d)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Du begleitest konzernweit Projekte als Schnittstelle zwischen IT und Business. Dein Fokus liegt auf den Themen Datenstrategie, Datenarchitektur, Data Governance, Datenschutz und Datenqualität. Bei Data-Analytics- und Big-Data-Projekten analysierst du die Anforderungen, entwickelst technische Prototypen und erstellst Dashboards und Reports. Unsere internationale Data Management Community ermöglicht dir stets einen spannende Insight in Best Practices über unseren deutschen Standort hinaus."
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "innovation-bei-axa.jpg"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finde auf unserem Karriere-Portal alle offenen Positionen aus dem Data Bereich unter dem Filter \"Data Science\"."
+        },
+        {
+            "type": "link",
+            "href": "https://careers-de-axa.icims.com/jobs/search?hashed=-625885999",
+            "text": "Jetzt bewerben"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Anna Louise Schröder, für Fragen zu Data Consulting"
+        },
+        {
+            "text": "Data Management Office"
+        },
+        {
+            "type": "link",
+            "href": "https://www.linkedin.com/in/almschroeder/",
+            "text": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kirsten Wieseler, für Fragen zu Data Engineering"
+        },
+        {
+            "text": "Data Engineering"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Alexander Schmidt, für Fragen zu Data Science (mit Fokus auf Pricing)"
+        },
+        {
+            "text": "Analytik Sachversicherung"
+        },
+        {
+            "type": "link",
+            "href": "https://www.linkedin.com/in/alexander-schmidt-link/",
+            "text": ""
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kristoph Ullrich, für Fragen zu Data Science"
+        },
+        {
+            "text": "Data Science"
+        },
+        {
+            "type": "image",
+            "src": "/site/axa-de/resourceCached/4.26-01/standard/assets/img/px.png.pagespeed.ce.F_uVKiU_Mg.png",
+            "alt": "axa-icon-testimonials-1.png"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir helfen dabei, AXA strategisch immer mehr zu einer Data-Driven Company zu machen, indem wir Bewusstsein für Daten, Datenqualität, Datenschutz und Möglichkeiten in der Arbeit mit Daten schaffen."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Funktion:Data Consultant",
+                "Motto:Have a good Da(y)ta!",
+                "Skills:#thinkoutsidethebox #bethechange #einfachmalmachen"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/karriere/erfahrungsbericht-data-management",
+            "text": "Sarahs Story"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "karriere_jobs-data"
+}

@@ -1,0 +1,14 @@
+```markdown
+| Feature                                   | Company: sdk – versicherungen_zusatzversicherung_zahnzusatzversicherung_was-genau-passiert-bei-einer-professionellen-zahnreinigung | Company: group – produkte_ambulante-zusatzversicherung |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Coverage for Professional Dental Cleaning | Partial or full coverage, or subsidy                                                                                          | Not specified                                          |
+| Coverage for Preventive Examinations      | Not specified                                                                                                                 | Yes                                                    |
+| Coverage for Alternative Treatments       | Not specified                                                                                                                 | Yes (e.g., acupuncture, homeopathy)                    |
+| Coverage for Vision Care                  | Not specified                                                                                                                 | Yes (e.g., glasses, contact lenses, laser eye surgery) |
+| Coverage for Medications                  | Not specified                                                                                                                 | Yes                                                    |
+| Coverage for Travel Vaccinations          | Not specified                                                                                                                 | Yes                                                    |
+| Age Limit for Enrollment                  | Not specified                                                                                                                 | No age limit                                           |
+| Validity Abroad                           | Not specified                                                                                                                 | Yes, up to 8 weeks                                     |
+| Waiting Period                            | No waiting period                                                                                                             | No waiting period                                      |
+| Contact Information                       | Hotline: 0800 221 0221                                                                                                        | Not specified                                          |
+```

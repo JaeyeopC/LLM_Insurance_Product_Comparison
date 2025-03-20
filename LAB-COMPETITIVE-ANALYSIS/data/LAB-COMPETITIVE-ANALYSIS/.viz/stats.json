@@ -1,0 +1,1 @@
+{"categorization_ground_truth_table": {"rows": 269, "columns": 4, "file_size": 480513}, "eval_result_table_categorization": {"rows": 269, "columns": 3, "file_size": 384}, "comparison_table_for_evaluation": {"rows": 24, "columns": 5, "file_size": 576}, "eval_result_table_comparision": {"rows": 24, "columns": 5, "file_size": 320}}

@@ -1,0 +1,526 @@
+{
+    "title": "Kontakt: Telefon, Post, Online, Fax",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "Ihr Kontakt zur HUK-COBURG: Postanschrift, Telefon, Fax, E-Mail oder vor Ort. Schnell & unkompliziert! 09561 96 101",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "service.kontakt",
+        "date": "20241129T12:01:19",
+        "og:title": "Kontakt: Telefon, Post, Online, Fax",
+        "og:type": "article",
+        "og:description": "Ihr Kontakt zur HUK-COBURG: Postanschrift, Telefon, Fax, E-Mail oder vor Ort. Schnell & unkompliziert! 09561 96 101",
+        "og:url": "https://www.huk.de/service/kontakt.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/produktseite/grafiken/stoerer-mo-sa.scale.textBildS.png",
+        "searchKeywords": "Bankverbindung,Kontoverbindung,Hotline,Servicehotline,eMail,Ummeldung,Freistellungsauftrag,Nummer,Telefonnummer,HUK,Mailadresse,Faxnummer,Emailadresse,Kontodaten,Kontonummer,Bankdaten,post anschrift,Email schreiben,postadresse,Rückrufservice",
+        "searchHeadline": "Kontakt-Center",
+        "searchExcerpt": "Ihr Kontakt zur HUK-COBURG: Adresse, Telefonnummern, E-Mail oder persönlich vor Ort in Ihrer Nähe. Schnell & unkompliziert! 0800 2153153",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-image.scale.shield_buehne430.jpg",
+            "alt": "Pärchen mit Laptop in der Küche"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kontakt-Center"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir beraten Sie gern"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-image.scale.shield_buehne430.jpg",
+            "alt": "Pärchen mit Laptop in der Küche"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Kontakt-Center"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wir beraten Sie gern"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/stoerer-mo-sa.png",
+            "alt": "Störer mit der Aufschrift: &quot;Mo-Fr 8 bis 21 Uhr, Sa 8 bis 14 Uhr*&quot;"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wir sind auf jedem Kanal für Sie da"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben eine Frage, möchten einen bestehenden Vertrag ändern oder einen Schaden melden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rufen Sie einfach an, nutzen Sie unser Kontaktformular, schreiben Sie einen Brief oder eine E-Mail – oder senden Sie uns ein Fax. Ganz, wie Sie wünschen!"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wir sind auf jedem Kanal für Sie da"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/stoerer-mo-sa.png",
+            "alt": "Störer mit der Aufschrift: &quot;Mo-Fr 8 bis 21 Uhr, Sa 8 bis 14 Uhr*&quot;"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben eine Frage, möchten einen bestehenden Vertrag ändern oder einen Schaden melden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rufen Sie einfach an, nutzen Sie unser Kontaktformular, schreiben Sie einen Brief oder eine E-Mail – oder senden Sie uns ein Fax. Ganz, wie Sie wünschen!"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Telefon"
+                ],
+                [
+                    "Versicherungsangebot/ Vertragsservice",
+                    "09561 96 101*"
+                ],
+                [
+                    "Schadenservice",
+                    "09561 96 108**"
+                ],
+                [
+                    "Rechtsschutz-Schaden",
+                    "09561 96 109**"
+                ],
+                [
+                    "HUK24",
+                    "nur online"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Online"
+                ],
+                [
+                    "Formular abschicken",
+                    "Zum Kontaktformular"
+                ],
+                [
+                    "E-Mail schreiben",
+                    "info@huk-coburg.de"
+                ],
+                [
+                    "Rückruf vereinbaren",
+                    "Rückrufservice"
+                ],
+                [
+                    "HUK24",
+                    "Kontakt"
+                ]
+            ]
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Per Brief"
+                ],
+                [
+                    "Postanschrift",
+                    "HUK-COBURG96448 Coburg"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Online-Beratung und -Terminvereinbarung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bieten Ihnen die Möglichkeit, einen Sofort-Online-Call zu tätigen oder einen Termin zu einer Video-Beratung zu vereinbaren.Online-Beratung zu Kfz, Haus, Haftung & Recht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Online-Beratung zu Gesundheit, Vorsorge & Vermögen"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Fax"
+                ],
+                [
+                    "Vertragsservice",
+                    "0800 2 153 486**"
+                ],
+                [
+                    "Schadenservice",
+                    "0800 2 485 329**"
+                ],
+                [
+                    "Schadenservice – Rechtsschutz",
+                    "09561 96 51080"
+                ]
+            ]
+        },
+        {
+            "text": "*"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mo bis Fr von 08:00 – 21:00 Uhr und Sa von 8:00 – 14:00 Uhr"
+        },
+        {
+            "text": "**"
+        },
+        {
+            "type": "paragraph",
+            "text": "Rund um die Uhr"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Persönliche Beratung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten sich preiswert versichern und gut beraten lassen oder haben eine Frage?Mit 38 Geschäftsstellen, 650 Kundendienstbüros und rund 2.100 Vertrauensleuten sind wir immer in Ihrer Nähe."
+        },
+        {
+            "text": "Hier finden Sie Ihren Ansprechpartner vor Ort:"
+        },
+        {
+            "text": "Jetzt suchen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bin ich gut und ausreichend abgesichert?"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/icon_vlotse.svg",
+            "alt": "Icon Navigationspfeil"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine gute Frage, die Sie sich von Zeit zu Zeit stellen sollten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit demVersicherungs-Lotsenverschaffen Sie sich einfach und schnell einen Überblick zu IhremVersicherungsbedarf."
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere Informationen"
+        },
+        {
+            "text": "*"
+        },
+        {
+            "type": "paragraph",
+            "text": "Daten, die Sie im Rahmen des Versicherungs-Lotsen angeben, werden verarbeitet, um Ihnen eine Empfehlung hinsichtlich Ihres Versicherungsbedarfs anzuzeigen und danach umgehend gelöscht. Lediglich das Ergebnis Ihrer Analyse wird für eine anschließende Beratung gespeichert. Weitere Informationen zur Datenverarbeitung im Rahmen des Versicherungslotsen finden Sie auf unsererDatenschutzerklärung."
+        },
+        {
+            "text": "Jetzt loslegen *"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Versicherungen online managen, ohne auf persönliche Beratung zu verzichten"
+        },
+        {
+            "type": "link",
+            "href": "/service/meine-huk.html?INID=O3856",
+            "text": ""
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Zeit sparen– Nehmen Sie Änderungen schnell und einfach selbst vor.",
+                "Einfach & sicher – Nutzen Sie Ihr elektronisches Postfach.",
+                "Volle Übersicht– Rufen Sie Ihr Beitragskonto und Ihre Vertragsdaten immer und überall ab."
+            ]
+        },
+        {
+            "text": "Jetzt registrieren"
+        },
+        {
+            "type": "link",
+            "href": "/service/meine-huk.html?INID=O3856",
+            "text": "Mehr erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bankverbindung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bayern-LB München (BIC: BYLADEMMXXX)"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "IBAN fürBeitragszahlungen: DE14 7005 0000 0002 0343 43",
+                "IBAN fürSchadenzahlungen: DE61 7005 0000 0003 0343 43"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ihre Meinung zählt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Lassen Sie uns wissen, wenn etwas nicht stimmt. Wir nehmen jede Beschwerde ernst und kümmern uns um Ihr Anliegen."
+        },
+        {
+            "type": "link",
+            "href": "/service/kontakt/beschwerdemanagement.html",
+            "text": "Beschwerdemanagement"
+        },
+        {
+            "type": "link",
+            "href": "/hukinfo/af/form.html?formname=/kontakt/beschwerdemanagement",
+            "text": "Zum Beschwerde-Kontaktformular"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Verbraucherschlichtungsstelle"
+        },
+        {
+            "type": "paragraph",
+            "text": "Neben uns haben Sie auch die Möglichkeit sich an die Versicherungsombudsfrau zu wenden. Diese außergerichtliche Schlichtungsstelle vermittelt bei Meinungsverschiedenheiten zwischen Kunden und Versicherern. Die Ombudsfrau für Versicherungen ist eine unabhängige und für Verbraucher kostenfrei arbeitende Schlichtungsstelle."
+        },
+        {
+            "text": "Versicherungsombudsmann e.V."
+        },
+        {
+            "type": "paragraph",
+            "text": "Postfach 080632,10006 Berlin"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tel.0800 3696000*Fax 0800 3699000*"
+        },
+        {
+            "type": "paragraph",
+            "text": "beschwerde@versicherungsombudsmann.dewww.versicherungsombudsmann.de"
+        },
+        {
+            "text": "*"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kostenlos aus deutschen Telefonnetzen"
+        },
+        {
+            "text": "Ombudsmann Private Kranken- und Pflege­versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Postfach 060222,10052 Berlin"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tel.0800 2550444*Fax 030 20458931"
+        },
+        {
+            "type": "paragraph",
+            "text": "www.pkv-ombudsmann.de"
+        },
+        {
+            "text": "*"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kostenlos aus deutschen Telefonnetzen"
+        },
+        {
+            "text": "Online-Streitbeilegungsplattform"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sofern Sie als Verbraucher den Versicherungsvertrag online (bspw. über unsere Website) geschlossen haben, können Sie für Ihre Beschwerde auch die von der Europäischen Kommission eingerichteteOnline-Streitbeilegungsplattformnutzen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihre Beschwerde wird von dort aus an die zuständige außergerichtliche Schlichtungsstelle weitergeleitet."
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Kontakt"
+            ]
+        },
+        {
+            "type": "link",
+            "href": "/karriere.html",
+            "text": "KarriereArbeiten an der Zukunft"
+        },
+        {
+            "type": "link",
+            "href": "/ueber-uns.html",
+            "text": "Über unsGestatten, HUK-COBURG"
+        },
+        {
+            "type": "link",
+            "href": "/presse.html",
+            "text": "PresseNachrichten aus unserem Haus"
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "service_kontakt.html"
+}

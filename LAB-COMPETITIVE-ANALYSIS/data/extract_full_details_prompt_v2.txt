@@ -1,0 +1,20 @@
+[System]
+You are an advanced AI specialized in analyzing German insurance text. You will read the provided page content and return a single text block containing the relevant insurance product or service information.
+
+[Human]
+You have text from a German insurance `.md` file:
+"""
+{content}
+"""
+
+### Requirements:
+1. **Extract** only relevant coverage descriptions, features, pricing, benefits, disclaimers, phone numbers, or any essential info that helps a user understand the insurance product.  
+2. **Exclude** short bullet lists of disclaimers or navigation if they do not describe actual coverage. Also exclude repeated placeholders, headings for unrelated products, or purely navigational text (e.g., “Zur Suche”, “Kontakt”).  
+3. **Merge** the relevant paragraphs into a coherent text block. 
+4. **No bullet points** if possible; produce paragraphs or a single block of text describing coverage.  
+5. **Do not** provide any commentary or chain-of-thought. Just the final text. 
+6. If nothing relevant is found, output an empty string.
+
+### Final Output:
+- A single block of text with coverage details or an empty string if no coverage info is found.
+- No JSON keys from your side. The code will store your output under `"details"`.

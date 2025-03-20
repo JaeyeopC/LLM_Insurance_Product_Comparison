@@ -1,0 +1,11 @@
+```markdown
+| Feature                           | Company: dkv – gesundheit-organisation-hilfsmittel-service-hilfsmittel-zur-insulintherapie.md | Company: ergo – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-ohne-Wartezeit |
+|-----------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Coverage Type                     | Insulin therapy supplies and insulin pump                                                   | Dental prosthetics and treatments                                                        |
+| Coverage Details                  | Insulin pumps covered with a usage duration of 5 years; consumables covered with prescription | Doubles statutory health insurance subsidy for dental prosthetics; no waiting period     |
+| Premiums                          | Not specified                                                                               | Starting at €37.80 monthly                                                               |
+| Unique Features                   | No special agreements in insulin therapy; no new prescription needed for replacement pump   | Can be purchased during ongoing dental treatment; no waiting period                      |
+| Additional Support                | Diabetologist assistance in provider selection                                              | Coverage worldwide, including treatments abroad                                          |
+| Contract Duration                 | Not specified                                                                               | Minimum 24 months, then monthly cancellation possible                                    |
+| Eligibility                       | Not specified                                                                               | Not suitable for privately insured; only for statutory insured                           |
+```

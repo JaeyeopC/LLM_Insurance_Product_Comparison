@@ -1,0 +1,87 @@
+{
+    "title": "Vertriebsportale von AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Informieren Sie sich mit wenigen Klicks über wichtige Neuerungen und nutzen Sie die Vorteile der Vertriebsportale von AXA für unsere Vertriebspartner",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/vertriebspartner",
+        "og:title": "Vertriebsportale von AXA",
+        "og:description": "Informieren Sie sich mit wenigen Klicks über wichtige Neuerungen und nutzen Sie die Vorteile der Vertriebsportale von AXA für unsere Vertriebspartner",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E188745703/8720310/neutrales-buehnenbild-axa_facebook.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E188745703/8720310/neutrales-buehnenbild-axa_facebook.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "text": "Vertriebspartner"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vermittler-Extranet"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie erhalten Zugang zum Vermittler-Extranet mit Ihrem eingeloggten Phoenix-PC ."
+        },
+        {
+            "type": "link",
+            "href": "http://intranet/pb/4602302",
+            "text": "Zum Vermittler-Extranet"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Makler-Extranet"
+        },
+        {
+            "type": "paragraph",
+            "text": "Interessante Informationen zu unseren Produkten und Services."
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/axa-makler/pb/home",
+            "text": "Zum Makler-Extranet"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sind Makler und suchen nach Informationen zu Prozessen? Bitte loggen Sie sich hier ein:"
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/sls/auth?RequestedPage=%2Fmakler%2F",
+            "text": "Zum Makler-Prozessportal"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Berufstätige interessieren sich für eine Vertriebskarriere im angestellten Außendienst im AXA Konzern"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie interessieren sich für eine Vertriebskarriere um angestellten Außendienst? Starten Sie mit AXA in Ihre berufliche Zukunft:"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/karriere/vertriebskarriere",
+            "text": "Vertriebskarriere bei AXA"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "vertriebspartner"
+}

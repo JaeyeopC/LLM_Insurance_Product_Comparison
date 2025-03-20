@@ -1,0 +1,1596 @@
+{
+    "haftpflichtversicherung.md": {
+        "Produktname": "Kfz-Haftpflicht",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Rechtsschutzversicherung",
+            "Hausratversicherung",
+            "Haftpflichtversicherung",
+            "Absicherung auch bei bereits bestehendem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Preisvorteil inklusive",
+            "Gesundheitsleistungen für das ganze Unternehmen",
+            "Schutz vor finanziellen Auswirkungen bei Missgeschicken",
+            "Individuell gestaltbar",
+            "Schutz vor finanziellen Folgen bei Missgeschicken von Haustieren",
+            "Übernahme berechtigter Forderungen",
+            "Schutz bei Jagd- oder Bootsunfällen",
+            "Schutz bei Sach-, Personen- und Vermögensschäden",
+            "Schutz vor Vermögenseinbußen durch Versäumnisse von Funktionären",
+            "Versicherung für alle Vereinsmitglieder",
+            "Angebot über Kooperationspartner Helvetia"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "gewerbeversicherung_betriebshaftpflichtversicherung.md": {
+        "Produktname": "ARAG Betriebshaftpflichtversicherung",
+        "Versicherungsart": "Betriebshaftpflichtversicherung",
+        "Deckungssumme": "Bis 5 Millionen Euro",
+        "Selbstbeteiligung": "Keine, 150, 250, 500 oder 1.000 Euro",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz für Selbstständige, mittelständische Unternehmen, Freiberufler und große Firmen",
+            "Abdeckung von Personen-, Sach- und Vermögensschäden",
+            "Umwelthaftpflicht-Basisdeckung",
+            "Haftung wegen Diskriminierung bis zu 100.000 Euro",
+            "Private Haftpflicht für den Unternehmer bis zu 5 Mio. Euro",
+            "Erweiterte Produkthaftpflichtversicherung bis 200.000 Euro je Serie",
+            "Branchenspezifische Leistungen für verschiedene Branchen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "rechtsschutzversicherung_mietrechtsschutz.md": {
+        "Produktname": "ARAG Mietrechtsschutz",
+        "Versicherungsart": "Mietrechtsschutzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenlose Prüfung der Nebenkostenabrechnung",
+            "Rechtsschutz bei Streit mit dem Vermieter",
+            "Telefonische Anwaltsberatung",
+            "Konfliktlösung durch Mediation",
+            "Kostenschutz vor Gericht",
+            "Außergerichtliche Tätigkeiten des Anwalts",
+            "Persönliche Rechtsberatung",
+            "Straf- und Ordnungswidrigkeiten-Rechtsschutz",
+            "Bonitätsauskunft und Übergabeprotokoll",
+            "Bauherren-Rechtsschutz für Umbau und Neubau",
+            "Rechtsschutz bei Streitigkeiten im Zusammenhang mit Handwerkern und Dienstleistungsverträgen",
+            "Alle Kosten eines Rechtsstreites sind abgedeckt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Drei Monate Wartezeit für Wohnungs- und Grundstücks-Rechtsschutz",
+            "Drei Monate Wartezeit für Verwaltungs-Rechtsschutz",
+            "Drei Monate Wartezeit für Rechtsschutz im Zusammenhang mit einmaligen Erschließungs- und Anliegerabgaben",
+            "Drei Monate Wartezeit für Rechtsschutz in Enteignungs-, Planfeststellungs- und Flurbereinigungsverfahren",
+            "Sechs Monate Wartezeit für Bauherren-Rechtsschutz"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "reiseversicherung_top-schutzbrief.md": {
+        "Produktname": "ARAG Top-Schutzbrief",
+        "Versicherungsart": "Notfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Beitrag wird im Beitragsrechner angezeigt",
+        "Gültigkeitsbereich": "Europa oder weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Pannen- und Unfallhilfe",
+            "Abschleppen zur Fachwerkstatt",
+            "Mietwagen für 7 Tage bis 600 €",
+            "Übernachtungskosten bei Fahrzeugausfällen",
+            "Krankenrücktransport",
+            "Rechtsberatung von Experten",
+            "Hilfe bei Verlust von Reisedokumenten",
+            "Rückholung von Haustieren",
+            "Übernahme von Rechtsanwaltskosten im Ausland",
+            "Strafkaution als zinsloses Darlehen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "unfallversicherung.md": {
+        "Produktname": "ARAG Unfall-Schutz",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Invaliditätssumme wahlweise 40.000, 50.000 oder 60.000 € (Basis)",
+        "Selbstbeteiligung": "Integralfranchise ab 20% Invaliditätsgrad",
+        "Preis": "monatlich ab 8,44 € (Basis light)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Progression Plus bis zu 500% der Versicherungssumme",
+            "Lebenslange Unfallrente ab 50% Invaliditätsgrad",
+            "Krankenhaustagegeld wahlweise 10 oder 30 €",
+            "Hinterbliebenenrente nach Bedarf hinzuwählbar",
+            "Todesfall-Leistung wahlweise 8.000, 10.000 oder 12.000 €",
+            "Schutzbrief-Leistung wahlweise Unfall-Schutzbrief, Alltagshelfer oder Alltagshelfer Plus",
+            "Kapitalsofortleistung nach schweren Unfallverletzungen",
+            "Such-, Rettungs- und Bergungskosten bis 1.000.000 € (Premium)",
+            "Betreuung durch einen persönlichen Reha-Manager (Komfort & Premium)",
+            "Kosmetische Operationen nach Unfall bis 90.000 € (Premium)",
+            "Psychologische Soforthilfe nach dem Unfall (Premium)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "zahnzusatzversicherung.md": {
+        "Produktname": "ARAG Zahnzusatzversicherung",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Monatlich ab 11,19 €",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Kündigung erstmals nach 24 Monaten möglich",
+        "Weitere Leistungen": [
+            "Professionelle Zahnreinigung (bis zu 120 € / 2x im Jahr, max. 200 € im Jahr)",
+            "Zahnbehandlung (100 %)",
+            "Zahnersatz (bis zu 100 % mit Bonusheft)",
+            "Kieferorthopädie bei Kindern (bis zu 90 %)",
+            "Kieferorthopädie bei Erwachsenen (90 % bei Unfall)",
+            "Leistungen für Angstpatienten (bis zu 350 € im Jahr)",
+            "Bleaching (bis zu 300 € in 2 Jahren)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Zahnbehandlungen, die bei Antragstellung bereits begonnen haben oder notwendig waren",
+            "Kieferorthopädische und kieferchirurgische Maßnahmen, die bereits empfohlen wurden"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "krankenzusatzversicherung_krankentagegeldversicherung.md": {
+        "Produktname": "Krankentagegeld",
+        "Versicherungsart": "Krankentagegeldversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "4,54 € monatlich (Tarif 37, Preisbeispiel für 10 € Krankentagegeld, für 35-Jährige, Stand 01.2019)",
+        "Gültigkeitsbereich": "Deutschland, bei vorübergehenden Aufenthalten im europäischen Ausland",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Vermeidung von Verdienstausfällen",
+            "Zeitlich unbegrenzte finanzielle Hilfe für die gesamte Dauer der Arbeitsunfähigkeit",
+            "Frei verfügbares Krankentagegeld",
+            "Kostenerstattung digital per App",
+            "Zugang zu juristischer Online-Datenbank mit Musterdokumenten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Beamte können keine Krankentagegeldversicherung abschließen",
+            "Personen ohne Einkommen aus Erwerbstätigkeit (Hausfrauen, Pensionäre, Rentner, Schüler, Studenten) können keine Krankentagegeldversicherung abschließen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "hausratversicherung_fahrradversicherung.md": {
+        "Produktname": "ARAG Fahrradversicherung",
+        "Versicherungsart": "Fahrradversicherung",
+        "Deckungssumme": "Individuell festlegbar in 100-Euro-Schritten",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung des Kaufpreises bei Diebstahl",
+            "Versicherungsschutz für fest verbundenes Zubehör",
+            "Versicherungsschutz für E-Bikes",
+            "Optionaler Schutz bei Unfall, Sturz oder Vandalismus",
+            "Unterstützung bei Pannen weltweit",
+            "Fahrrad-Kaskoversicherung inklusive Schutzbrief"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Bewegliche Zubehörteile wie Fahrradpumpe oder abnehmbarer Tacho sind nicht versichert",
+            "Segways sind nicht versicherbar über den Fahrraddiebstahl-Schutz"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "rechtsschutzversicherung_familienrechtsschutz.md": {
+        "Produktname": "ARAG Familienrechtsschutzversicherung",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzt in Europa, weltweit bis zu 1 Jahr Aufenthalt (in Premium bis zu 2 Jahre)",
+        "Selbstbeteiligung": "Optional, abhängig von der gewählten Variante",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europaweit unbegrenzt, weltweit bis zu 1 Jahr Aufenthalt (in Premium bis zu 2 Jahre)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hohe Deckungssummen",
+            "Flexibler Schutz mit drei Leistungsvarianten",
+            "Freie Anwaltswahl",
+            "24/7 Beratung und unbegrenzter Kostenschutz",
+            "ARAG JuraTel® – 24/7 telefonische Erstberatung",
+            "Mediation (3.000 € je Mediation, 6.000 € je Kalenderjahr)",
+            "Kostenschutz vor Gericht",
+            "ARAG Online Rechts-Service"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Streitigkeiten mit eigenen Kindern werden nicht gedeckt",
+            "Versicherungsschutz für beide Ehepartner endet mit der Scheidung",
+            "Einige Leistungen haben Wartezeiten (z.B. Erb-Rechtsschutz, Rechtsschutz in Unterhaltssachen)"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "unfallversicherung_existenz-schutz.md": {
+        "Produktname": "ARAG Existenz-Schutz",
+        "Versicherungsart": "Existenzschutzversicherung",
+        "Deckungssumme": "Bis zu 30.000 Euro für finanzielle Folgen eines schweren Unfalls oder einer Erkrankung",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Lebenslang oder bis zum 67. Lebensjahr (wählbar)",
+        "Weitere Leistungen": [
+            "Monatliche Rente lebenslang oder bis zum 67. Lebensjahr",
+            "Unterstützung nach Unfällen und bei schweren Erkrankungen",
+            "Praktische Hilfs- und Pflegeleistungen",
+            "Unterstützung bei Folgekosten (z.B. Umbau der Wohnung)",
+            "Rentengarantie für Angehörige im Todesfall",
+            "Zusätzliche Kapitalsofortleistung bei bestimmten Rentenbezügen",
+            "Finanzielle Unterstützung zur Kur und Erholung bis 5.000 Euro",
+            "Betreuung von Kindern und Haustieren bis 3.000 Euro",
+            "Rechtsschutz für Opfer von Gewaltstraftaten",
+            "Patienten-Rechtsschutz",
+            "Beratung zur Erstellung eines Testaments"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Dread-Disease-Versicherung"
+    },
+    "gewerbeversicherung_ertragsausfallversicherung.md": {
+        "Produktname": "Ertragsausfallversicherung",
+        "Versicherungsart": "Ertragsausfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung bei Betriebsschließung",
+            "Maßgeschneiderte Lösungen bei Betriebsunterbrechung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Betriebsunterbrechungsversicherung"
+    },
+    "tierversicherung_hunde-op-versicherung.md": {
+        "Produktname": "ARAG Hunde-OP-Versicherung Tarif Premium",
+        "Versicherungsart": "Hunde-OP-Versicherung",
+        "Deckungssumme": "Unbegrenzt",
+        "Selbstbeteiligung": "Frei wählbare Selbstbeteiligung (0, 150 oder 250 € pro Versicherungsjahr)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit bis zu 12 Monate",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Operation wegen Krankheit oder Unfall",
+            "Nachsorgebehandlungen und Medikamente bis zu 30 Tage nach der Operation",
+            "Gesundheitspauschale (VorsorgePlus) bis 100 € pro Versicherungsjahr",
+            "Physiotherapie nach einer Operation bis 800 € pro Versicherungsjahr",
+            "Bezuschussung von Behandlungskosten aufgrund besonderer Erkrankungen",
+            "Online-Sprechstunde mit einem Tierarzt – 24/7",
+            "Freie Tierarzt- bzw. Klinikwahl",
+            "Vorbehandlung und Nachsorge",
+            "Zahnbehandlungen auf Wunsch mitversichert",
+            "Erstattung bis zum 4-fachen GOT-Satz",
+            "Treuebonus",
+            "Rechtsschutz-Leistungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "rechtsschutzversicherung_rechtsschutz-scheidung.md": {
+        "Produktname": "ARAG Ehe-Rechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Bis zu 30.000 Euro je Rechtsschutzfall",
+        "Selbstbeteiligung": "Keine Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gilt für beide Ehepartner",
+            "Inkl. Scheidungsfolgesachen",
+            "Gilt auch für eingetragene Lebenspartnerschaften"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Greift nicht bei Sorgerechtsfragen"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "gewerbeversicherung.md": {
+        "Produktname": "Gewerbe-Rechtsschutz mit Soforthilfe",
+        "Versicherungsart": "Gewerbe-Rechtsschutz",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz, Hausrat- und Haftpflichtversicherung",
+            "Absicherung auch bei bereits vorhandenem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Firmenrechtsschutz",
+            "Betriebshaftpflicht und/oder Sachschutz nach Wahl",
+            "Zusatzschutz nach Bedarf",
+            "Preisvorteil und Schadenfreiheitsrabatt",
+            "Rückwirkend für einen zurückliegenden Fall",
+            "Soforthilfe ohne Wartezeit",
+            "Umfassende Soforthilfe für einen Rechtsschutzfall"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "hausratversicherung.md": {
+        "Produktname": "ARAG Hausratversicherung",
+        "Versicherungsart": "Hausratversicherung",
+        "Deckungssumme": "Bis zu 300.000 € (Basis), unbegrenzt (Komfort und Premium)",
+        "Selbstbeteiligung": "Beispiel: 1.000 € (optional)",
+        "Preis": "Beispiel: 119,20 € jährlich (Komfort-Paket)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenschutz bei Schäden durch Feuer, Einbruchdiebstahl, Beraubung, Vandalismus nach Einbruch, Leitungswasser, Sturm und Hagel",
+            "Erstattung zum Neuwert",
+            "Schutz bei grober Fahrlässigkeit",
+            "Optionaler Schutz bei Überschwemmungen",
+            "Smarter Schutz für Smart-Home-Geräte",
+            "Starke Home-Office-Leistungen",
+            "Erstattung bei einfachem Diebstahl",
+            "Schutz für Fahrräder",
+            "Anwaltstelefon ARAG JuraTel",
+            "Handwerker-Service",
+            "Nachhaltigkeit: Mehrkosten durch Reparatur statt Neukauf"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Glasbruchschäden (können durch Glasversicherung abgedeckt werden)",
+            "Keine Angabe zu weiteren spezifischen Ausschlüssen"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "rechtsschutzversicherung_versicherungspaket.md": {
+        "Produktname": "ARAG Recht und Heim",
+        "Versicherungsart": "Kombiversicherung (Rechtsschutz-, Hausrat- und Haftpflichtversicherung)",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "150 €",
+        "Preis": "Komfort-Paket: 46,58 € monatlich, Premium-Paket: 61,36 € monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "24/7 Telefonische Anwaltsberatung und Anwalts-Chat",
+            "Konfliktlösung durch Mediation",
+            "Vertragsprüfung (ARAG JuraCheck®)",
+            "Verlust fremder Schlüssel/Codekarten",
+            "Schäden aufgrund von Gefälligkeitshandlungen",
+            "Wertsachenversicherung",
+            "Elektronik-Schutz für Smartphone, Tablet oder Smartwatch",
+            "Schutz bei weiteren Naturgefahren"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gewerbeversicherung_forderungsausfallversicherung.md": {
+        "Produktname": "Forderungsmanagement",
+        "Versicherungsart": "Dienstleistung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sofort 20% Rabatt sichern",
+            "Absicherung auch bei bereits vorhandenem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Preisvorteil inklusive",
+            "Professionelle Titelüberwachung",
+            "Bonitätsprüfung neuer Kunden",
+            "Online-Datenzugriff",
+            "Forderungsmanagement Plus für strittige Forderungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Mindestforderung je Auftrag 25 Euro, Höchstbetrag 250.000 Euro",
+            "Forderung muss unstreitig sein",
+            "Forderung darf nicht älter als zwölf Monate vor Vertragsbeginn sein",
+            "Gerichtliche Geltendmachung nur vor deutschen Gerichten möglich"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "vereinsversicherung_karneval-versicherung.md": {
+        "Produktname": "Zusatzversicherungen für Karnevalsvereine",
+        "Versicherungsart": "Verschiedene Zusatzversicherungen",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz-, Hausrat- und Haftpflichtversicherung",
+            "Absicherung auch bei bereits bestehendem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Gesundheitsleistungen für das ganze Unternehmen",
+            "Pauschaler Versicherungsschutz für Veranstaltungen",
+            "Unfallschutz für Mitglieder und Helfer",
+            "Schutz bei Umzügen",
+            "Inventarversicherung",
+            "Kfz-Haftpflichtversicherung für Zugmaschinen und Anhänger",
+            "Vermögensschaden-Zusatzversicherung",
+            "Kfz-Zusatzversicherung mit Rechtsschutz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "krankenzusatzversicherung_kinder.md": {
+        "Produktname": "ARAG Junior-Tarif",
+        "Versicherungsart": "Krankenzusatzversicherung für Kinder",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Basis: 13,34 € monatlich für alle Kinder; Komfort: 38,98 € monatlich für alle Kinder",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Bis zum 31. Dezember des Jahres, in dem das Kind seinen 20. Geburtstag feiert",
+        "Weitere Leistungen": [
+            "Absicherung für Sehhilfen (80 %, max. 200 Euro, alle 12 Monate im Komforttarif)",
+            "Rooming-in im Krankenhaus für Kinder im Alter von 6–12 Jahren",
+            "Kinderkrankentagegeld (15 Euro pro Tag und pro Familie)",
+            "Geburtsnahe Leistungen (Pekip, Geburtsvorbereitung Männer: 80 %)",
+            "Vorsorge und Früherkennung (U6a, U9a, U9b, J1a, Schielvorsorge und Sprachentwicklungstest – 80 %, max. 100 Euro, alle 2 Jahre)",
+            "Heilpraktikerleistungen (80 %, max. 500 Euro, alle 2 Jahre im Komforttarif)",
+            "Fissurenversiegelung (80 %, max. 100 Euro, alle 2 Jahre)",
+            "Kunststofffüllungen (80 %, max. 500 Euro, alle 2 Jahre im Komforttarif)",
+            "Kieferorthopädie (80 %, max. 1.000 Euro, nach GKV-Vorleistung)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gewerbeversicherung_manager-rechtsschutz.md": {
+        "Produktname": "ARAG Manager-Rechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Übernahme der Kosten für Prozess, Anwalt, Entschädigung der Zeugen sowie für vom Gericht bestellte Sachverständige",
+            "Spezial-Straf-Rechtsschutz, um angebliche Verbrechen oder Vergehen abzuwehren",
+            "Vermögensschaden-Rechtsschutz, um Privatvermögen und das der Mitarbeitenden abzusichern",
+            "Anstellungsvertrags-Rechtsschutz bei Vertragsstreitigkeiten",
+            "Unterstützung durch umfassende Services, z.B. U-Haft-Support",
+            "Kostenschutz bei Preis- und Ausschreibungsabsprachen",
+            "Versicherungsschutz auch nach Beendigung des Versicherungsvertrags (Nachhaftung)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Deckung bei rechtskräftig festgestellter vorsätzlicher Straftat (Rückerstattungspflicht)"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "tierversicherung_katzen-op-versicherung.md": {
+        "Produktname": "ARAG Katzen-OP-Versicherung Tarif Premium",
+        "Versicherungsart": "OP-Versicherung für Katzen",
+        "Deckungssumme": "Unbegrenzt",
+        "Selbstbeteiligung": "Frei wählbare Selbstbeteiligung (0, 150 oder 250 € pro Versicherungsjahr)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit bis zu 12 Monate",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Operation wegen Krankheit oder Unfall",
+            "Nachsorgebehandlungen und Medikamente bis zu 30 Tage nach der Operation",
+            "Gesundheitspauschale (VorsorgePlus) bis 100 € pro Versicherungsjahr",
+            "Physiotherapie nach einer Operation bis 800 € pro Versicherungsjahr",
+            "Online-Sprechstunde mit einem Tierarzt – 24/7",
+            "Treuebonus bis 100 € pro Versicherungsjahr",
+            "Rechtsschutz-Leistungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "hausratversicherung_elementarversicherung.md": {
+        "Produktname": "Elementarversicherung",
+        "Versicherungsart": "Elementarschadenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Abhängig von Wohnfläche und Lage der Immobilie",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schäden nach Überschwemmung durch Gewässer oder starke Niederschläge",
+            "Rückstauschäden infolge von Überschwemmungen oder Niederschlägen",
+            "Erdbebenschäden an Gebäuden oder Wohnungen",
+            "Gebäude- oder Wohnungsschäden durch Erdsenkung und Erdrutsch",
+            "Schäden durch Schneedruck oder Lawinen",
+            "Schäden durch Vulkanausbruch"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Deckung für Sturmschäden und Tornados",
+            "Keine Deckung für Erdsenkung durch Trockenheit oder Austrocknung"
+        ],
+        "category": "Elementarversicherung"
+    },
+    "rechtsschutzversicherung_erb-rechtsschutz.md": {
+        "Produktname": "Premium-Rechtsschutz mit Erb-Rechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "10.000 Euro je Vertragsdauer für Erb-Rechtsschutz",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Anwalts- und Gerichtskosten bei erbrechtlichen Streitigkeiten",
+            "Persönliche Beratung bei rechtlichen Fragen zum Erbrecht",
+            "Mediation mit Kostenübernahme bis 3.000 Euro je Fall und bis zu 6.000 Euro im Kalenderjahr",
+            "ARAG Online Rechts-Service mit rechtlich geprüften Dokumenten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit beim Erb-Rechtsschutz beträgt ein Jahr"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "gewerbeversicherung_betriebliche-krankenversicherung.md": {
+        "Produktname": "ARAG BudgetFlex",
+        "Versicherungsart": "Betriebliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 10,91 € pro Monat und Mitarbeiter",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sehhilfen (max. 180 € pro Jahr)",
+            "Brechkraftverändernde Augen-OPs (z.B. Lasik)",
+            "Heilpraktikerleistungen",
+            "Heil-/Hilfsmittel (z.B. Physiotherapie, Krankengymnastik)",
+            "Arznei-/Verbandsmittel",
+            "Professionelle Zahnreinigung und zahnprophylaktische Leistungen (max. 80 € pro Jahr)",
+            "Zahnbehandlung",
+            "Zahnersatz",
+            "Kieferorthopädie bei Unfall",
+            "Digitaler Arztbesuch",
+            "Kinder-Krankentagegeld (15 €)",
+            "Zuzahlungen bei Schwangerschaft und Entbindung (Ja, bis zu 300 € zusätzlich pro Jahr im Premium-Tarif)",
+            "Budgethöhen: 300 €, 600 €, 900 €, 1.200 € oder 1.500 € pro Mitarbeiter im Jahr"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Zuzahlungen bei Schwangerschaft und Entbindung (Nein im Komfort-Tarif)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "vereinsversicherung.md": {
+        "Produktname": "Betriebliche Krankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz, Hausrat und Haftpflicht in einem Paket",
+            "Absicherung auch bei bereits bestehendem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Gesundheitsleistungen für das ganze Unternehmen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "gewerbeversicherung_inhaltsversicherung.md": {
+        "Produktname": "ARAG Inhaltsversicherung",
+        "Versicherungsart": "Inhaltsversicherung",
+        "Deckungssumme": "Bis zu 2 Millionen Euro",
+        "Selbstbeteiligung": "Für Sturmschäden gilt eine Selbstbeteiligung von 20 % je Schadenfall, mindestens 50 €",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versichert sind Betriebseinrichtung und Betriebsausstattung sowie alle Waren und Vorräte zum Neuwert",
+            "Individuelle Versicherungslösung abgestimmt auf Bedarf und Branche",
+            "Module frei wählbar und kombinierbar: Feuer, Einbruchdiebstahl, Leitungswasser, Sturm und Hagel, Unbenannte Gefahren, Glasbruch",
+            "Keine Leistungskürzung bei grob fahrlässiger Schadenverursachung bis 100.000 €",
+            "Keine Anrechnung einer Unterversicherung bei Schäden bis 10 % der Versicherungssumme und maximal 100.000 €",
+            "Zusätzliche Leistungen im Rahmen der Schadenbehebung, z.B. Beseitigung von Gebäudeschäden, Mehrkosten für umweltschonende Hauswirtschaftsgeräte"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Geschäftsinhaltsversicherung"
+    },
+    "krankenzusatzversicherung_krankenhauszusatzversicherung.md": {
+        "Produktname": "ARAG Krankenhauszusatzversicherung",
+        "Versicherungsart": "Krankenhauszusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "-,- € monatlich",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Behandlung durch Chefarzt oder Spezialisten",
+            "Einzel- oder Zweibettzimmer",
+            "Freie Arzt- und Krankenhauswahl",
+            "Verlegung ins Wunschkrankenhaus",
+            "Rooming-in für Kinder bis 12 Jahre",
+            "Familienzimmer bei Entbindung bis zur Höhe der 2-Bettzimmerkosten",
+            "Ersatz-Krankenhaustagegeld bis 80 € (Zweibettzimmer) / bis 100 € (Einbettzimmer)",
+            "Tarife mit und ohne Alterungsrückstellungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine allgemeine Wartezeit, aber Wartezeiten bei bestimmten Leistungen (z.B. 8 Monate bei Entbindung, Zahnersatz, Kieferorthopädie, stationärer Psychotherapie)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "rechtsschutzversicherung_juracheck.md": {
+        "Produktname": "ARAG JuraCheck",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 8,91 € im Monat (ARAG JuraCheck), ab 26,92 € im Monat (ARAG JuraCheck Plus)",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Vertragsprüfung",
+            "Telefonische Rechtsberatung ARAG JuraTel",
+            "Online-Rechtsberatung",
+            "Web-Check",
+            "Steuertelefon"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "rechtsschutzversicherung_vermieterrechtsschutz.md": {
+        "Produktname": "Vermieterrechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzte Versicherungssumme",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Volle Kostendeckung bei Rechtsstreit",
+            "Absicherung gegen Mietausfall",
+            "Bonitäts-Check für Mieter",
+            "24-Stunden telefonische Anwaltsberatung (ARAG JuraTel)",
+            "Forderungsmanagement für Mietrückstände",
+            "Rechtsschutz bei Vertragsstreitigkeiten",
+            "Bauherren-Rechtsschutz bei Premium-Variante",
+            "Mietausfallschutz bei Komfort- und Premium-Variante",
+            "Vorvertraglicher Versicherungsschutz bei Premium-Variante"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeiten für bestimmte Bausteine (z.B. Wohnungs- und Grundstücks-Rechtsschutz, Bauherren-Rechtsschutz)"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "tierversicherung_hundekrankenversicherung.md": {
+        "Produktname": "ARAG TierProtect OP",
+        "Versicherungsart": "Hunde-OP-Versicherung",
+        "Deckungssumme": "Unbegrenzt",
+        "Selbstbeteiligung": "Frei wählbare Selbstbeteiligung (0, 150 oder 250€ pro Versicherungsjahr)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit bis zu 12 Monate",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenerstattung für ambulante und stationäre Behandlungen",
+            "Kostenübernahme für Medikamente und Verbandmittel",
+            "Online-Sprechstunde mit einem Tierarzt – 24/7",
+            "Treuebonus",
+            "Rückwärtsdeckung bis zu 500 € (Komfort und Premium)",
+            "Rechtsschutz-Leistungen",
+            "Übernahme von OP-Kosten wegen einer Krankheit oder nach einem Unfall",
+            "Nachsorgebehandlungen inklusive",
+            "Kostenübernahme für Medikamente und Verbandmittel",
+            "Physiotherapie nach einer Operation bis 800 €",
+            "Online-Sprechstunde mit einem Tierarzt – 24/7",
+            "Treuebonus",
+            "Rechtsschutz-Leistungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    },
+    "gewerbeversicherung_werkverkehrsversicherung.md": {
+        "Produktname": "Werkverkehrsversicherung",
+        "Versicherungsart": "Transportversicherung",
+        "Deckungssumme": "Bis zur vereinbarten Versicherungssumme (Höchsthaftungssumme), maximaler Ladungswert 15.000 € je Fahrzeug",
+        "Selbstbeteiligung": "10 %, mindestens 100 €; bei Diebstahl des ganzen Fahrzeugs oder Einbruchdiebstahl zwischen 22.00 Uhr und 6.00 Uhr 20 %, mindestens 250 €, maximal 2.500 €",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Innerhalb Deutschlands, sowie Transporte von und nach Belgien, Niederlande, Luxemburg, Frankreich, Schweiz, Österreich, Dänemark",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz bei Unfall und Diebstahl",
+            "Schäden durch Notbremsung und Ausweichmanöver",
+            "Versicherung von Waren im abgestellten Fahrzeug auf dem Firmengelände",
+            "Kostenübernahme für Schadenabwendung, -minderung und Feststellung",
+            "Aufräumkosten sowie Bergung, Beseitigung und Vernichtung von beschädigten Gütern",
+            "Bonitätsprüfungen und professionelles Forderungsmanagement"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nicht versichert ist der gewerbliche Güterkraftverkehr",
+            "Lebende Tiere",
+            "Kunstgegenstände",
+            "Umzugsgut",
+            "Tabakwaren",
+            "Alkohol/Spirituosen",
+            "Valoren jeder Art (z.B. Bargeld, Schmuck)",
+            "Privateffekten",
+            "Elektrische/elektronische Güter der Bereiche Telekommunikation, Datenverarbeitung, Foto-, Video- und Unterhaltungselektronik, sofern es sich nicht um Arbeitsgeräte handelt"
+        ],
+        "category": "Transportversicherung"
+    },
+    "reiseversicherung_campingversicherung.md": {
+        "Produktname": "ARAG Camper-Schutz",
+        "Versicherungsart": "Campingversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa, Marokko, Tunesien, asiatischer Teil der Türkei",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz für Gepäck und Inventar",
+            "Pannenhilfe und mehr",
+            "Verkehrsrechtsschutz",
+            "Optional mit Auslandskrankenversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Versicherung für Vorzelte und Pavillons",
+            "Kein Diebstahlschutz für Inhalte von Vorzelten"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "rechtsschutzversicherung_rechtsschutz-unterhalt.md": {
+        "Produktname": "Unterhaltsrechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Bis zu 30.000 Euro je Rechtsschutzfall",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hilfe bei gerichtlichen und außergerichtlichen Auseinandersetzungen",
+            "Deckung von Rechtsanwalts- und Gerichtskosten bei Unterhaltsstreitigkeiten",
+            "Mediations-Service für außergerichtliche Lösungsmöglichkeiten",
+            "Versicherungsschutz bei Sorgerechtsstreitigkeiten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "rechtsschutzversicherung.md": {
+        "Produktname": "ARAG Rechtsschutzversicherung",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzt in Europa, unbegrenzt weltweit (Komfort und Premium)",
+        "Selbstbeteiligung": "Flex-Optionen (z.B. 0 Euro bei Flex 0/150, 150 Euro bei Flex 150/300)",
+        "Preis": "Ab 13,46 € monatlich (Beispiel für Single-Haushalt im Tarif Komfort)",
+        "Gültigkeitsbereich": "Europaweit, weltweit (Komfort und Premium)",
+        "Vertragslaufzeit": "1 Jahr, 3 Jahre, 5 Jahre",
+        "Weitere Leistungen": [
+            "Anwalts- und Gerichtskostenübernahme",
+            "Zeugenentschädigungen",
+            "Kosten für Mediation",
+            "Außergerichtliche Klärungskosten",
+            "Wahl des Anwalts",
+            "Soforthilfe bei bestimmten Rechtsschutzfällen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Rechtsverstöße, die vorsätzlich begangen wurden",
+            "Bestimmte Verfahrensarten (z.B. vor dem Verfassungsgericht)",
+            "Rechtsstreitigkeiten im Zusammenhang mit spekulativen Kapitalanlagen",
+            "Abwehr von Schadensersatzansprüchen",
+            "Geldbußen und Geldstrafen",
+            "Meinungsverschiedenheiten beim Hausbau (ohne Bauherren-Rechtsschutz)"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "gewerbeversicherung_firmenrechtsschutz-sofort.md": {
+        "Produktname": "Firmenrechtsschutz mit Soforthilfe",
+        "Versicherungsart": "Gewerbe-Rechtsschutz",
+        "Deckungssumme": "2.000 Euro (Komfort), 3.000 Euro (Premium) für einen zurückliegenden Rechtsfall",
+        "Selbstbeteiligung": "250 Euro (entfällt bei vorgeschlagener Konfliktlösungsoption)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa (unbegrenzt), weltweit bis zu 1 Jahr Aufenthalt im Ausland (in Premium bis zu 2 Jahre)",
+        "Vertragslaufzeit": "Mindestlaufzeit 3 Jahre",
+        "Weitere Leistungen": [
+            "Keine Wartezeit",
+            "Rückwirkender Schutz für einen zurückliegenden Fall",
+            "Außergerichtliche Unterstützung",
+            "Zukünftiger Schutz mit sehr guter Abdeckung",
+            "Rechtsschutz-Innovationen in der Premium-Variante",
+            "Kostenschutz vor Gericht",
+            "ARAG JuraTel® – 24/7 telefonische Erstberatung",
+            "Mediation (3.000 Euro je Mediation, 6.000 Euro je Kalenderjahr)",
+            "ARAG Online Rechts-Service"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kein rückwirkender Schutz, wenn bereits ein Anwalt kontaktiert oder beauftragt wurde",
+            "Kein rückwirkender Schutz bei anhängigen gerichtlichen Verfahren",
+            "Keine Unterstützung bei privaten Streitigkeiten",
+            "Streitigkeiten rund um das Firmenvertragsrecht nur in der Premium-Variante versichert"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "rechtsschutzversicherung_verkehrsrechtsschutz-rueckwirkend.md": {
+        "Produktname": "ARAG Verkehrsrechtsschutz Sofort",
+        "Versicherungsart": "Verkehrsrechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzte Anwalts- und Gerichtskosten",
+        "Selbstbeteiligung": "150 Euro pro Schadenfall (entfällt bei empfohlenem Anwalt)",
+        "Preis": "31,42 Euro im Monat",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "3 Jahre",
+        "Weitere Leistungen": [
+            "Übernahme von Anwalts- und Gerichtskosten",
+            "Rückwirkender Schutz für einen zurückliegenden Schadenfall",
+            "Schadenersatz-Rechtsschutz",
+            "Vertrags- und Sachen-Rechtsschutz",
+            "Straf-Rechtsschutz",
+            "Verwaltungs-Rechtsschutz",
+            "Steuer-Rechtsschutz",
+            "Zugang zu ARAG Online Rechts-Service",
+            "ARAG JuraTel – internationale Rechtsberatung",
+            "Konfliktlösung durch Mediation"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kein rückwirkender Schutz bei Schadenersatzforderungen nach Verkehrsunfall",
+            "Kein rückwirkender Schutz bei Streitigkeiten rund um Autokauf oder -reparatur",
+            "Kein rückwirkender Schutz bei Fahrerflucht oder fahrlässiger Körperverletzung",
+            "Kein rückwirkender Schutz bei Streit mit Verwaltungsbehörden und -gerichten"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "service_kundenservice_gesundheitsapp.md": {
+        "Produktname": "Betriebliche Krankenversicherung",
+        "Versicherungsart": "Betriebliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz, Hausrat und Haftpflicht in einem Paket",
+            "Absicherung auch bei bereits vorhandenem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Gesundheitsleistungen für das ganze Unternehmen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pflegezusatzversicherung.md": {
+        "Produktname": "ARAG Pflegezusatzversicherung",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Pflegekostenversicherung: 32,20 Euro/Monat (bei 100 % Erstattungsstufe, Abschluss mit 35 Jahren); Pflegetagegeld: 14,80 Euro/Monat (bei 100 % Erstattungsstufe, Abschluss mit 35 Jahren); Pflege-Bahr: 10,00 Euro/Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenschutz für alle Pflegearten",
+            "Pflegetagegeldversicherung mit frei verfügbarem Tagegeld",
+            "Pflege-Bahr mit staatlicher Förderung",
+            "Keine Wartezeit bei Pflegetagegeld und Pflegekostenversicherung",
+            "Pflegekostenrechner zur Berechnung der Pflegekosten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Pflege-Bahr hat eine gesetzlich vorgeschriebene Wartezeit von fünf Jahren"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "private-krankenversicherung.md": {
+        "Produktname": "Private Krankenversicherung für Angestellte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "0 Euro, 300 Euro, 600 Euro (je nach Tarif)",
+        "Preis": "Bis zu 50 % des Beitrags (bis max. 363,28 Euro monatlich) übernimmt der Arbeitgeber",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "100% Kostenerstattung beim Arzt",
+            "Chefarztbehandlung, 1- oder 2-Bett-Zimmer im Krankenhaus",
+            "100% für Zahnbehandlung, 80% für Zahnersatz und Kieferorthopädie",
+            "Heilpraktiker: 100%, max. 1.000 Euro pro Kalenderjahr",
+            "Brille: 100%, max. 300 Euro alle 2 Jahre",
+            "Inklusive Pflege-Pflichtversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "vereinsversicherung_sportversicherung.md": {
+        "Produktname": "Veranstaltungs-ausfallversicherung",
+        "Versicherungsart": "Veranstaltungsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz, Hausrat und Haftpflicht in einem Paket",
+            "Absicherung auch bei bereits vorhandenem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Gesundheitsleistungen für das ganze Unternehmen",
+            "Absicherung des Vereinsinventars",
+            "Sportspezifische Leistungen",
+            "Schutz bei Online-Angriffen",
+            "Unterstützung durch IT-Spezialisten",
+            "Schutz für Vorstandsmitglieder bei fahrlässigen Fehlern",
+            "Unterstützung bei strafrechtlichen Vorwürfen",
+            "Schutz bei Vermögensschäden durch Fehlentscheidungen",
+            "Schutz bei Absage oder Verlegung von Veranstaltungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "rechtsschutzversicherung_privatrechtsschutz.md": {
+        "Produktname": "ARAG Privatrechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzt in Europa, weltweit bis zu 1 Jahr Aufenthalt (in Premium bis zu 2 Jahre)",
+        "Selbstbeteiligung": "Flex 0/150 bzw. Flex 150/300",
+        "Preis": "Monatlich ab 13,01 € (für Single, Arbeitnehmer, Komfort-Variante, Selbstbeteiligung 250 €)",
+        "Gültigkeitsbereich": "Europaweit, weltweit bis zu 1 Jahr Aufenthalt (in Premium bis zu 2 Jahre)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zuverlässiger Kostenschutz auch vor Gericht",
+            "Freie Anwaltswahl",
+            "Außergerichtliche Mediationen",
+            "Exklusiver Zugriff auf umfangreiche Online-Datenbank",
+            "24/7 telefonische Beratung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kein Versicherungsschutz bei rechtskräftig festgestellter vorsätzlicher Straftat",
+            "Vorbeugende Rechtsberatung grundsätzlich nicht gedeckt (außer in Premiumvariante)",
+            "Wartezeiten für bestimmte Bausteine (z.B. Arbeits-Rechtsschutz, Wohnungs- und Grundstücks-Rechtsschutz)"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "krankenzusatzversicherung_krankenhaustagegeld.md": {
+        "Produktname": "ARAG Krankenhaustagegeld",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "4,05 € monatlich (Preisbeispiel für 36-Jährige im Tarif 11, Stand 01.2019)",
+        "Gültigkeitsbereich": "Weltweit (bei medizinischer Notwendigkeit)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zahlung eines Tagegeldes vom ersten Tag bis zum letzten Tag im Krankenhaus",
+            "Zahlung auch für Sonn- und Feiertage",
+            "Flexibler versicherter Tagessatz",
+            "Leistung bei Geburt nach 8 Monaten Versicherung",
+            "Leistung bei stationärer Psychotherapie für bis zu 91 Tage"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von drei Monaten, bei Entbindung acht Monate (entfällt bei Unfall)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "krankenversicherung-beamte.md": {
+        "Produktname": "Private Krankenversicherung für Beamte",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung über Höchstsätze der Gebührenordnungen (GOÄ/GOZ)",
+            "Digitale Kostenerstattung",
+            "Patienten-Rechtsschutzversicherung",
+            "Auslandskrankenschutz",
+            "Zahlreiche Gesundheits-Services",
+            "ARAG BeihilfeBest mit ambulanten, zahnmedizinischen und stationären Leistungen",
+            "BeihilfeKlinik mit Chefarztbehandlung und 2-Bettzimmer",
+            "BeihilfeEinbett mit 1-Bettzimmer",
+            "BeihilfeErgänzungBest für Leistungslücken der Beihilfe",
+            "Geburtsvorbereitungskurs und Rückbildungskurs",
+            "Weltweit versichert inkl. Rücktransport"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistungsbegrenzung in den ersten Versicherungsjahren",
+            "Verzicht auf Heil- und Kostenplan"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "vereinsversicherung_sportversicherung_sportverein-reiseversicherung.md": {
+        "Produktname": "Reiseversicherung für Sportvereine",
+        "Versicherungsart": "Reiseversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "51 Euro bei Auslandsreise-Krankenversicherung",
+        "Preis": "0,61 Euro je Reiseteilnehmer für Veranstalter-Haftpflichtversicherung",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Veranstalter-Haftpflichtversicherung",
+            "Kautionsversicherung",
+            "Optional: Haftpflichtversicherung bis zu 1.100.000 Euro je Reiseteilnehmer",
+            "Optional: Unfallversicherung mit 5.000 Euro für Todesfall, 30.000 Euro für Invaliditätsfall (Grundsumme), 90.000 Euro für Invaliditätsfall (Höchstsumme), 10 Euro Krankenhaustagegeld ab 1. Tag, bis zu 3.000 Euro Bergungskosten",
+            "Optional: Reisegepäckversicherung bis 1.500 Euro je Reiseteilnehmer",
+            "Optional: Auslandsreise-Krankenversicherung mit 100 % Kostenerstattung für Arzt-, Krankenhaus- und Operationskosten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine automatische Krankenversicherung für Reiseteilnehmer",
+            "Mitreisende Familienmitglieder sind nicht automatisch versichert",
+            "Ausgenommen von der gesetzlichen Regelung sind eintägige Reisen (bis 500 Euro) sowie bei gemeinnützigen Vereinen gelegentliche mehrtägige Reisen für Vereinsmitglieder (begrenzter Personenkreis, maximal zwei Reisen im Jahr)"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "hausratversicherung_glasversicherung.md": {
+        "Produktname": "Glasversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Unbegrenzte Höhe für Glasbruch-Schäden, bis zu 50.000 Euro für Folgekosten",
+        "Selbstbeteiligung": "Keine Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Umfassende Glasversicherung für Fenster, Glas-Keramik-Kochflächen, Türen, Aquarien und Wintergärten",
+            "Erstattung der Kosten für Notverglasung, Notverschalung, Kran- und Gerüstkosten, Entsorgungskosten",
+            "Erneuerung von Anstrich, Malereien, Schriften, Verzierungen",
+            "Ausgezeichneter Schaden-Service mit TÜV-Bewertung \"sehr gut\""
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Glasbruch nicht durch Hausratversicherung abgedeckt"
+        ],
+        "category": "Gebäudeversicherung"
+    },
+    "vereinsversicherung_sportversicherung_d-o-versicherung.md": {
+        "Produktname": "D&O-Versicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Wahlweise EUR 125.000, EUR 250.000 oder EUR 500.000 im Versicherungsjahr",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz des Privatvermögens der Organe",
+            "Erweiterter Vermögensschadenbegriff",
+            "Zusatzleistung Reputationsschäden bis 10 % der Versicherungssumme",
+            "Zusatzleistung Organisationsrechtsschutz bis EUR 50.000"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "tierversicherung_pferdehaftpflicht.md": {
+        "Produktname": "ARAG Pferdehaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Basis: 10 Mio €, Komfort: 20 Mio €, Premium: 30 Mio €",
+        "Selbstbeteiligung": "Keine, 150 €, 250 €, 500 €, 1.000 €",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Fremdreiterrisiko durch Reitbeteiligung versichern",
+            "Mietsachschäden und Sachschäden an Pferdeanhängern",
+            "Weiderisiko und Flurschäden",
+            "Pferd und Fohlen versichern",
+            "Schutz auch fürs eigene Pferd (Forderungsausfalldeckung)",
+            "ARAG Online Rechts-Service"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "gewerbeversicherung_gewerbe-internet-rechtsschutz.md": {
+        "Produktname": "ARAG web@ktiv",
+        "Versicherungsart": "Internet-Rechtsschutz",
+        "Deckungssumme": "100.000 € (Basis), 200.000 € (Komfort), 300.000 € (Premium)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unterstützung bei der Löschung von reputationsschädigenden Inhalten",
+            "Schadenersatz- und Unterlassungs-Rechtsschutz bei negativen Bewertungen",
+            "Schadenersatz-Rechtsschutz bei Identitätsmissbrauch",
+            "Erstattung einer Strafanzeige",
+            "Straf-Rechtsschutz zur Verteidigung",
+            "Rechtsschutz bei privaten Urheberrechtsverstößen",
+            "Beratungsrechtsschutz",
+            "Rechtliche Unterstützung bei DSGVO-Verstößen",
+            "Arbeits-Rechtsschutz bei Internetbeiträgen",
+            "Telefonische psychologische Soforthilfe nach Cybermobbing",
+            "Rechtliche Prüfung der Firmen-Website",
+            "Beratungs-Rechtsschutz für digitalen Nachlass",
+            "Rechtsschutz im Wettbewerbsrecht",
+            "Rechtsschutz zur Durchsetzung von Ansprüchen aus einer Cyber-Police"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "vereinsversicherung_sportversicherung_vereins-kfz-zusatzversicherung.md": {
+        "Produktname": "Kfz-Zusatzversicherung für Vereine und Verbände",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "150 €, 330 €, 400 €",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa und Anliegerstaaten des Mittelmeers",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung von Unfallschäden am eigenen Fahrzeug",
+            "Erstattung eines Rabattverlusts in der Kfz-Vollkaskoversicherung bis 300 €",
+            "Verkehrsrechtsschutz bis zu 150.000 €",
+            "Bergung, Abschleppen und Weiterbeförderung der Insassen",
+            "Erstattung eines Rabattverlusts in der Kfz-Haftpflichtversicherung bis 300 €",
+            "Mitversicherung von Fahrzeugschäden durch Brand, Explosion, Diebstahl, etc.",
+            "Erstattung von Mietwagenkosten bei Werkstattaufenthalt bis zu 25 € pro Tag",
+            "Fahrzeug-Rücktransport",
+            "Verschrottung des Kfz bei Totalschaden im Ausland",
+            "Insassen-Unfallversicherung",
+            "Mitversicherung aller Fahrten der Vereinsvorstände, Ausschüsse, etc."
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Fahrzeuge, die auf den Verband/Verein zugelassen oder geleast sind",
+            "Gewerbliche Fahrzeuge"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "rechtsschutzversicherung_arbeitsrechtsschutz.md": {
+        "Produktname": "ARAG Arbeitsrechtsschutzversicherung",
+        "Versicherungsart": "Arbeitsrechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzte Versicherungssummen (weltweit oder in Europa)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit oder in Europa",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Übernahme von Anwalts- und Gerichtskosten",
+            "Freie Anwaltswahl",
+            "Inklusive privater Rechtsschutzversicherung",
+            "Mediation",
+            "ARAG JuraTel® – 24/7 telefonische Erstberatung",
+            "Anwaltsempfehlung",
+            "Kostenschutz vor Gericht",
+            "ARAG Online Rechts-Service",
+            "Optionaler Arbeitslosen-Schutz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von 3 Monaten für volle Leistungen in Komfort- und Premiumvariante, 6 Monate in Basisvariante",
+            "Keine Angabe zu weiteren spezifischen Ausnahmen oder Ausschlüssen"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "vereinsversicherung_chorversicherung.md": {
+        "Produktname": "Reiseversicherung für Vereine",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz, Hausrat und Haftpflicht in einem Paket",
+            "Absicherung auch bei bereits bestehendem Ärger",
+            "Beste medizinische Versorgung",
+            "Individuell kombinierbar",
+            "Gesundheitsleistungen für das ganze Unternehmen",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Haftpflichtschutz für Verbände und Vereine",
+            "Rechtsschutz für Vereine oder Verbände",
+            "Absicherung bei satzungsgemäßem Vereinsbetrieb",
+            "Unfallversicherung für Mitglieder und Helfer",
+            "Vermögensschadenversicherung",
+            "D&O-Deckung",
+            "Versicherungsschutz für Vereinsmitglieder bei Nutzung privater Pkw",
+            "Schutz bei Beschädigung und Diebstahl von Musikinstrumenten",
+            "Absicherung gegen Feuer, Einbruchdiebstahl und Leitungswasser",
+            "Schutz für Computer, Telefonanlagen und Sicherheitssysteme",
+            "Absicherung von Reiseteilnehmern, Organisatoren und Reiseleitern",
+            "Insolvenzabsicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "rechtsschutzversicherung_verkehrsrechtsschutz.md": {
+        "Produktname": "ARAG Verkehrsrechtsschutz",
+        "Versicherungsart": "Verkehrsrechtsschutzversicherung",
+        "Deckungssumme": "Europa: unbegrenzt, Weltweit: bis zu 1 Jahr Aufenthalt im Ausland 200.000 € (Basis), unbegrenzt (Komfort, Premium)",
+        "Selbstbeteiligung": "150 € oder 250 €, im Basis-Tarif keine Selbstbeteiligung vorgesehen",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa, weltweit bis zu 1 Jahr Aufenthalt",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "ARAG JuraTel international",
+            "Konfliktlösung durch Mediation",
+            "Kostenschutz vor Gericht",
+            "Außergerichtliche Tätigkeiten Ihres Anwalts (Komfort, Premium)",
+            "Vermittlung eines Anwalts, der Sie auf Wunsch zu Hause besucht (Komfort, Premium)",
+            "Kennzeichen-Wiederbeschaffung (Premium)",
+            "Sofortschutz bei Autokauf (Premium)",
+            "Reise-Vertragsrechtsschutz (Premium)",
+            "Psychologische Soforthilfe (Premium)",
+            "Sachverständigengutachten (Premium)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "krankenzusatzversicherung_ambulante-zusatzversicherung.md": {
+        "Produktname": "Ambulante Zusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "25 € bis Alter 20, danach 50 € pro Kalenderjahr/Person (außer bei Auslandsreisen)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit (für Auslandsreisen bis zu acht Wochen im Premium-Tarif, bis zu sechs Wochen in Komfort- und Basis-Tarif)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenübernahme für Brillen und Kontaktlinsen bis zu 100 % (bis zu 330 € im Premium-Tarif)",
+            "Zuschuss zur Laser-Operation am Auge bis zu 1.000 € im Premium-Tarif",
+            "Erstattung von Heilpraktiker- und Naturheilverfahren-Kosten bis zu 90 % im Premium-Tarif",
+            "100 % der Zuzahlungen für Heilmittel und Hilfsmittel (außer Sehhilfen)",
+            "Option auf Umstellung zur ARAG Kranken-Vollversicherung ohne Gesundheitsprüfung",
+            "Gesundheitstelefon für medizinische Fragen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "krankenzusatzversicherung_vorsorgeversicherung.md": {
+        "Produktname": "Vorsorge-Zusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Vorsorgeuntersuchungen bis zu 1.000 Euro, Impfungen bis zu 200 Euro (alle zwei Jahre)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Übernahme der Kosten für Vorsorgeuntersuchungen zur Früherkennung von Krankheiten",
+            "Übernahme der Kosten für Impfungen gemäß STIKO-Empfehlung",
+            "Erweiterte Krebsvorsorge",
+            "Zusätzliche Ultraschalluntersuchung oder Triple-Test während der Schwangerschaft",
+            "Schielvorsorge oder Hör-Check bei Kindern und Jugendlichen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistungen für ambulante Heilbehandlung beim Arzt",
+            "Kinder- und Jugendlichenvorsorgeuntersuchungen nur im angegebenen Intervall",
+            "Schwangerschaftsvorsorgeuntersuchungen jeweils nur einmal pro Schwangerschaft"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "vereinsversicherung_sportversicherung_nicht-mitglieder-versicherung.md": {
+        "Produktname": "Nichtmitgliederversicherung",
+        "Versicherungsart": "Zusatzversicherung für Nichtmitglieder",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Beitrag nach Vereinsgröße gestaffelt",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Haftpflichtschutz bei Personen- und Sachschäden",
+            "Unfallversicherung mit Invaliditäts- und Todesfallleistung",
+            "Rechtsschutzversicherung inklusive Schadenersatz- und Straf-Rechtsschutz",
+            "Krankenversicherungsschutz bei Auslandsveranstaltungen (wenn im Umfang enthalten)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Kein Versicherungsschutz bei Maßnahmen im Rehabilitations-Sport und Funktionstraining gemäß § 44 Abs. 1 Nr. 3 und 4 SGB IX"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "gewerbeversicherung_firmenrechtsschutz.md": {
+        "Produktname": "ARAG Firmenrechtsschutz",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Europa: unbegrenzt, Weltweit: bis zu 1 Jahr Aufenthalt im Ausland (Komfort: unbegrenzt, Premium: unbegrenzt)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa, weltweit (bis zu 1 Jahr Aufenthalt im Ausland)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "ARAG JuraTel® und Steuertelefon",
+            "Mediation (3.000 € je Mediation, 6.000 € je Kalenderjahr)",
+            "ARAG Online Rechts-Service",
+            "Anwaltsempfehlung",
+            "Online-Forderungsmanagement (Komfort und Premium)",
+            "Bonitätsprüfung von Kunden (Komfort und Premium)",
+            "Vertrags-Rechtsschutz für Hilfsgeschäfte (Komfort und Premium)",
+            "Drohnen-Rechtsschutz (Komfort: 10.000 €, Premium: 30.000 €)",
+            "ARAG JuraCheck® (Komfort und Premium)",
+            "Unternehmerverfügung (Komfort und Premium)",
+            "Wettbewerbsrecht (Premium)",
+            "Bauherren-Rechtsschutz (Premium)",
+            "Forderungsmanagement Plus (Premium)",
+            "Nachfolge-Beratungs-Rechtsschutz (Premium)",
+            "Beratungs-Rechtsschutz in arbeitsrechtlichen Angelegenheiten (Premium)",
+            "Patent- und Urheber-Rechtsschutz (Premium)",
+            "Forderungsausfalldeckung (Premium)",
+            "Vertrags-Rechtsschutz bei Insolvenzanfechtung (Premium)",
+            "Einmaliger Universal-Rechtsschutz (Premium)",
+            "Vorversicherungsgarantie",
+            "Rechtsschutz für eine Generalunternehmerhaftung nach dem Mindestlohngesetz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "gewerbeversicherung_versicherungspaket.md": {
+        "Produktname": "ARAG Recht und Gewerbe",
+        "Versicherungsart": "Kombiversicherung (Rechtsschutz, Haftpflicht, Sachschutz)",
+        "Deckungssumme": "Wählbar: 3 Mio. €, 5 Mio. € oder 10 Mio. € (Haftpflicht)",
+        "Selbstbeteiligung": "1.000 € je Versicherungsfall (Elementarschäden, unbenannte Gefahren)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "24/7 Telefonische Anwaltsberatung und Anwalts-Chat",
+            "Konfliktlösung durch Mediation",
+            "Online-Forderungsmanagement",
+            "Versicherungsschutz bei Schäden durch Feuer, Einbruchdiebstahl, Vandalismus, Leitungswasser und Sturm/Hagel",
+            "Versicherungsschutz bei Schäden durch Flugdrohnen und Asbest",
+            "Vermögensschadenhaftpflicht für Marketing-, Consulting- und IT-Dienstleistungsbranche",
+            "Mehrkosten durch Technologiefortschritt oder Preissteigerungen",
+            "Rabattretter für Schadenfreiheitsrabatt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "tierversicherung_hundehaftpflicht.md": {
+        "Produktname": "ARAG Hundehaftpflicht",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Basis: 10 Mio €, Komfort: 20 Mio €, Premium: 30 Mio €",
+        "Selbstbeteiligung": "Keine, 150 €, 250 €, 500 €, 1.000 €",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "VerlÃ¤sslicher Kostenschutz fÃ¼r SchÃ¤den, die Ihr Hund verursacht",
+            "Einheitliche Tarife fÃ¼r alle versicherbaren Hunderassen",
+            "Unkomplizierter Ausgleich von berechtigten Forderungen und Abwehr unberechtigter Forderungen",
+            "Schadenersatz-Rechtsschutz in Komfort und Premium",
+            "Welpen bis 18 Monate mitversichert",
+            "ARAG Online Rechts-Service mit Zugang zu Musterschreiben und -verträgen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Bestimmte Hunderassen wie Abkas, American Staffordshire Terrier, Bandog, etc. sind ausgeschlossen",
+            "Individuelle Ausnahmeentscheidungen möglich"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "krankenzusatzversicherung_heilpraktiker-zusatzversicherung.md": {
+        "Produktname": "Heilpraktiker-Zusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "25 € bis Alter 20, danach 50 € (Komfort-Tarif)",
+        "Preis": "40,20 Euro (Tarif Premium), 9,05 Euro (Tarif Komfort), 5,11 Euro (Tarif Basis)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Bis zu 90 % Kostenübernahme für Behandlungen beim Heilpraktiker und Naturheilverfahren",
+            "Übernahme des Eigenanteils bei zuzahlungspflichtigen Medikamenten, Heilmitteln und medizinischen Anwendungen",
+            "Kostenübernahme für Sehhilfen bis zu 100 % und Zuschuss zur Laser-Operation am Auge",
+            "Auslandskrankenkosten bis hin zum Rücktransport",
+            "Zuschüsse für Sehhilfen und Arzneimitteln"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistungen für psychotherapeutische Behandlungen",
+            "Keine zusätzliche Absicherung für zahnärztliche Leistungen (Zahnersatz)",
+            "Wartezeit von drei Monaten für Heilpraktiker-Leistungen"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "hausratversicherung_elektronikversicherung.md": {
+        "Produktname": "Elektronikversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Bis zu 5.000 € pro Gerät, maximal 10.000 € (Basis), 15.000 € (Komfort), 20.000 € (Premium) pro Jahr",
+        "Selbstbeteiligung": "50 € pro Schadenfall",
+        "Preis": "Basis: 7,25 € monatlich, Komfort: 12,76 € monatlich, Premium: 18,28 € monatlich",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherung von Kurzschluss, Bedienungsfehler und Ungeschicklichkeit",
+            "Neuwertentschädigung bei Totalschäden für Geräte bis zu zwei Jahre alt",
+            "Zeitwerterstattung für ältere Geräte"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Multikopter bzw. Drohnen sind nicht versichert"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "reiseversicherung_auslandskrankenversicherung.md": {
+        "Produktname": "ARAG Auslandsreisekrankenversicherung",
+        "Versicherungsart": "Auslandskrankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Selbstbeteiligung, wenn privat krankenversichert",
+        "Preis": "Ab 8,00 €/jährlich für Singles, ab 24,00 €/jährlich für Familien",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "100 % Übernahme der Behandlungskosten in den ersten 42 Tagen der Reise",
+            "Medizinisch sinnvoller und vertretbarer Rücktransport",
+            "24/7 ARAG-Notruf",
+            "Ambulante und stationäre Behandlungen",
+            "Zahnbehandlung",
+            "Krankentransport",
+            "Überführung ins Heimatland oder Bestattung im Ausland bis maximal 10.250 €"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Übernahme von durch Corona entstandenen Zusatzkosten einer Reise (z.B. Quarantäne-Maßnahmen, Corona-Test für Hotelbuchung, Rückholung bei Grenzschließung)"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "service_kundenservice_schadensmeldung.md": {
+        "Produktname": "Betriebliche Krankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kombination von Rechtsschutz, Hausrat und Haftpflicht in einem Paket",
+            "Absicherung auch bei bereits vorhandenem Ärger",
+            "Beste medizinische Versorgung",
+            "Schutz bei Schäden an Elektro-Geräten",
+            "Individuell kombinierbar",
+            "Gesundheitsleistungen für das ganze Unternehmen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "reiseversicherung_reise-protect.md": {
+        "Produktname": "ARAG Reiseversicherung",
+        "Versicherungsart": "Reiseversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "150 EUR je Leistungsfall beim Reise-Rechtsschutz; 20% der Reisekosten beim Reiserücktrittsschutz",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Tagesgenau bis zu 90 Tage je Reise; Möglichkeit zur Jahresabsicherung mit ARAG ReiseProtect 365",
+        "Weitere Leistungen": [
+            "Auslandskrankenversicherung",
+            "Reiserücktrittsschutz",
+            "Reisegepäck-Versicherung",
+            "Reise-Rechtsschutz",
+            "Sofort-Leistungen in Notfallsituationen",
+            "24-Stunden-Hotline",
+            "Internationales Anwaltstelefon",
+            "Flugverspätungsrechner"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Selbstbeteiligung beim Reise-Rechtsschutz und Reiserücktrittsschutz",
+            "Nur für Personen mit ständigem Wohnsitz in Deutschland abschließbar"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "tierversicherung_katzenkrankenversicherung.md": {
+        "Produktname": "ARAG TierProtect OP",
+        "Versicherungsart": "Katzen-OP-Versicherung",
+        "Deckungssumme": "Unbegrenzt",
+        "Selbstbeteiligung": "Frei wählbare Selbstbeteiligung (0, 150 oder 250€ pro Versicherungsjahr)",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit bis zu 12 Monate",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenerstattung für ambulante und stationäre Behandlungen",
+            "Kostenübernahme für Medikamente und Verbandmittel",
+            "Online-Sprechstunde mit einem Tierarzt – 24/7",
+            "Treuebonus für nicht in Anspruch genommene Leistungen",
+            "Rückwärtsdeckung bis zu 500€ (Komfort und Premium)",
+            "Zahnbehandlungen optional mitversichert",
+            "Physiotherapie nach einer Operation",
+            "Rechtsschutz-Leistungen inklusive",
+            "Übernahme von OP-Kosten wegen Krankheit oder Unfall",
+            "Nachsorgebehandlungen inklusive",
+            "Kostenübernahme für Medikamente und Verbandmittel nach OP",
+            "Physiotherapie nach einer Operation bis 800€",
+            "Online-Sprechstunde mit einem Tierarzt – 24/7",
+            "Treuebonus für nicht in Anspruch genommene Leistungen",
+            "Rechtsschutz-Leistungen inklusive"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Tierversicherung"
+    }
+}

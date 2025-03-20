@@ -1,0 +1,371 @@
+{
+    "title": "Gesundheit & Wohlbefinden / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Gesundheitsangebote von AXA im Überblick: ✚Krankenversicherungen ✚Zusatzversicherungen ✚Gesundheitsservice uvm.  ▶Jetzt mehr erfahren",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit",
+        "og:title": "Gesundheit & Wohlbefinden / AXA",
+        "og:description": "Gesundheitsangebote von AXA im Überblick: ✚Krankenversicherungen ✚Zusatzversicherungen ✚Gesundheitsservice uvm.  ▶Jetzt mehr erfahren",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E-768503171/24477930/gesundheit-doorpage-aerztin-mit-kind_facebook.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E-768503171/24477930/gesundheit-doorpage-aerztin-mit-kind_facebook.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "text": "Gesundheit"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Krankenversicherungen - Ärztin hört Kind ab"
+        },
+        {
+            "type": "paragraph",
+            "text": "Weil Ihre Gesund­heit so wert­voll ist, sichern wir Ihnen eine erstklassige medizinische Versorgung."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Fahrradfahrerin gut versichert"
+        },
+        {
+            "type": "paragraph",
+            "text": "Einfach gut versichert. In der privaten Krankenvollversicherung von AXA profitieren Selbstständige und Angestellte, deren Einkommen über der Versicherungspflichtgrenze liegt, von Spitzenleistungen. Und das zu attraktiven Beiträgen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/KVV-Online?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/private-krankenversicherung",
+            "text": "Private Krankenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau liegt am Strand"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Auslandskrankenversicherung von AXA bietet Ihnen privaten Versicherungsschutz und innovative Services. Damit Sie auch im Ausland bestmöglich medizinisch versorgt sind."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/ARJ-AXA?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/auslandskrankenversicherung",
+            "text": "Auslandskrankenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine junge Frau trinkt Kaffee draußen"
+        },
+        {
+            "type": "paragraph",
+            "text": "VIAlife von AXA ist der neuer Optionstarif, welcher eine sehr hohe Flexibilität bei Ihrer Gesundheitsabsicherung bietet, egal, wo Ihr berufliche Weg auch hinführt."
+        },
+        {
+            "type": "link",
+            "href": "https://optionstarif.axa.de/#Start",
+            "text": "Tarif berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/optionstarif-vialife",
+            "text": "Optionstarif VIAlife von AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie legen Wert auf gesunde und schöne Zähne? Mit denAXA Zusatzversicherungenfür Ihre Zähne sichern Sie sich einen optimalen Schutz vor hohen Selbstkosten beim Zahnarzt. Sorgen Sie jetzt rechtzeitig vor."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/ZV-DENT?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/zahnzusatzversicherung",
+            "text": "Zahnzusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau lacht am Telefon"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie einmal insKrankenhausmüssen, sollte sichergestellt sein, dass Ihnen der Aufenthalt so angenehm wie möglich gemacht wird. Mit einer privaten Zusatzversicherung von AXA sorgen Sie dafür."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/STATIONAER-AXA?AKTIONSCODE=14015D",
+            "text": "Tarif berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/krankenhauszusatzversicherung",
+            "text": "Stationäre Zusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mutter und Tochter unterhalten sich im Krankenhaus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahren Sie hier mehr über die Zusatzversicherung fürBrille und Heilpraktiker."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/lead-ambulant?AKTIONSCODE=14015D",
+            "text": "Angebot anfordern"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/ambulante-zusatzversicherung",
+            "text": "Ambulante Zusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau zieht sich die Brille an"
+        },
+        {
+            "type": "paragraph",
+            "text": "Absicherung Ihres Gehalts, wenn Sie als gesetzlich versicherte Person mehr als sechs Wochen krank sind."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/EASY-Online?AKTIONSCODE=14015D",
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/krankentagegeld-versicherung",
+            "text": "Krankentagegeld-Versicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau zieht sich die Brille an"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sorgen Sie mit der staatlich geförderten Pflegezusatzversicherung für den Pflegefall vor. Sie bietet Ihnen eine Absicherung in allen Pflegegraden – ohne Gesundheitsprüfung bei einer Wartezeit von 5 Jahren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/p/pflegezusatzversicherung",
+            "text": "Pflegezusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau lächelt"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein junger Mann telefoniert"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was ist für Sie neu als Privatpatient in der Privaten Krankenvollversicherung?Egal, ob Sie bisher gesetzlich oder bereits privat krankenversichert waren - vieles ist für Sie neu. Welche Veränderungen auf Sie als privat Krankenversicherter zukommen, erklären wir Ihnen in unserem Leitfaden für Privatpatienten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pkv-privatpatient-leitfaden",
+            "text": "Privatpatient Leitfaden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der gesundheitsservice360° ist unser kostenloses Unterstützungsprogramm für Kunden der privaten Krankenvollversicherung und Krankenversicherte aus dem öffentlichen Dienst: Unsere Gesundheitsexperten sind rund um die Uhr für Sie erreichbar und stehen Ihnen mit ihrer langjährigen Erfahrung mit Rat und Tat zur Seite. So können Sie stets die Gewissheit haben, in guten Händen zu sein. Egal ob es um Prävention, Begleitung im Krankheitsfall oder Nachsorge geht."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/gesundheitsservice",
+            "text": "Gesundheitsservice"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "gesundheitsservice360° Logo."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kundenportal My AXA auf einem Laptop und als App auf dem Smartphone"
+        },
+        {
+            "type": "paragraph",
+            "text": "My AXA ist Ihrgeschütztes Kundenportal, das Ihnen umfangreiche Services, Leistungen und Informationen rund um Ihre Versicherungen und Bausparverträge bietet. Verwalten Sie Ihre Rechnungen und Ihre Leistungsabrechnungen einfach digital. Sie sehen jederzeit den aktuellen Bearbeitungsstand Ihrer Belege."
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/member/webapp/",
+            "text": "Anmelden"
+        },
+        {
+            "type": "link",
+            "href": "https://entry.axa.de/kunde/myaxa/public/webapp/reg/identifizierung",
+            "text": "Registrieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Pflege eines Menschen beinhaltet viele verschiedene Aufgaben und Tätigkeiten. Eine gute Organisation ist dabei nicht alles. Wir begleiten Sie bei den ersten Schritten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pflegewelt",
+            "text": "Pflegewelt"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Senioren Ehepaar am Strand"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Sie oder Ihre Familie finden Sie in unseren Ratgebern rund um das Thema Gesundheit, Informationen, Tipps und Checklisten zu einem gesunden Lifestyle, Prävention, Pflege und vieles mehr. Darüber hinaus geben wir wertvolle Einblicke zur Krankenversicherung."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Patientenbehandlung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ratgeber Krankenversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "In unserem Ratgeber rund um die Krankenversicherung finden Sie viele Antworten zum Thema private Krankenvollversicherung, Zusatzversicherungen und Auslandreisekrankenversicherung. Lesen Sie hier nützliche Informationen rund um Ihren Gesundheitsschutz nach."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/r/ratgeber-krankenversicherung",
+            "text": "Ratgeber Krankenversicherung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ratgeber Gesund leben"
+        },
+        {
+            "type": "paragraph",
+            "text": "Um unseres Leben möglichst lang und unbeschwert zu führen, spielt ein gesunder Lebensstil eine entscheidende Rolle. Eine gute Gesundheitsvorsorge, sich gesund bewegen und ernähren, Entspannung und Schlaf, sind wichtige Grundlagen, die unsere Gesundheit positiv beeinflussen können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/r/ratgeber-gesund-leben",
+            "text": "Ratgeber Gesund leben"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Pflegeratgeber - Wegbegleiter"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ratgeber Pflege"
+        },
+        {
+            "type": "paragraph",
+            "text": "In unseren Ratgeber erhalten Sie praxisorientierte Informationen für Pflegebedürftige und pflegende Angehörige sowie Tipps für den Pflegealltag. Pflegewissen bietet Ihnen zudem einen umfassenden Überblick zum Thema Pflege."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/r/pflegeratgeber",
+            "text": "Ratgeber Pflege"
+        },
+        {
+            "text": "Mit wenigen Klicks zum Angebot"
+        },
+        {
+            "text": "Wir erstellen Ihnen gerne Ihr persönliches Angebot"
+        },
+        {
+            "text": "Schreiben Sie uns"
+        },
+        {
+            "text": "Notfälle im In- und Ausland"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Krankenvoll- und -zusatzversicherte"
+        },
+        {
+            "text": "+49 221 148-36505"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Auslandsreisekrankenversicherte"
+        },
+        {
+            "text": "+49 221 148-36515"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Spezialistensuche"
+        },
+        {
+            "text": "Spezialistensuche"
+        },
+        {
+            "text": "Fragen rund um Ihre Gesundheit"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Gesundheitstelefon"
+        },
+        {
+            "text": "0221 148-41444"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit"
+}

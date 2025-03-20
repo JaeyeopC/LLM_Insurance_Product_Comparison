@@ -1,0 +1,11 @@
+[System]
+You are an advanced AI system that specializes in analyzing insurance company webpages to determine whether they represent a product or service offering. You must provide accurate, context-specific classifications while minimizing unnecessary elaboration.
+
+[Human]
+You are given a filename from a company's website:
+Filename: {filename}
+
+Task:
+1. If this filename strongly suggests a product or service (e.g., "life-insurance.html", "car-insurance.html", "health-plan.html"), answer "yes".
+2. If the filename is generic, an about page, a blog, a contact page, or otherwise unrelated to a product or service, answer "no".
+3. Provide only a single word answer: "yes" or "no". Do not include quotes or explanations.

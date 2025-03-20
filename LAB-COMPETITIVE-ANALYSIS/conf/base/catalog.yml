@@ -1,0 +1,151 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+#
+# We support interacting with a variety of data stores including local file systems, cloud, network and HDFS
+#
+# An example data set definition can look as follows:
+#
+#bikes:
+#  type: pandas.CSVDataset
+#  filepath: "data/01_raw/bikes.csv"
+#
+#weather:
+#  type: spark.SparkDataset
+#  filepath: s3a://your_bucket/data/01_raw/weather*
+#  file_format: csv
+#  credentials: dev_s3
+#  load_args:
+#    header: True
+#    inferSchema: True
+#  save_args:
+#    sep: '|'
+#    header: True
+#
+#scooters:
+#  type: pandas.SQLTableDataset
+#  credentials: scooters_credentials
+#  table_name: scooters
+#  load_args:
+#    index_col: ['name']
+#    columns: ['name', 'gear']
+#  save_args:
+#    if_exists: 'replace'
+#    # if_exists: 'fail'
+#    # if_exists: 'append'
+#
+# The Data Catalog supports being able to reference the same file using two different Dataset implementations
+# (transcoding), templating and a way to reuse arguments that are frequently repeated. See more here:
+# https://docs.kedro.org/en/stable/data/data_catalog.html
+
+# Catalog for Insurance Data Pipeline
+
+insrances_crawled_data:
+  type: partitions.PartitionedDataset
+  path: data/1_insrances_crawled_data
+  dataset:
+    type: text.TextDataset
+
+filtered_product_pages:
+  type: partitions.PartitionedDataset
+  path: data/2_filtered_product_pages
+  dataset:
+    type: text.TextDataset
+
+filtered_product_markdowns:
+  type: partitions.PartitionedDataset
+  path: data/3_filtered_product_markdowns
+  dataset:
+    type: text.TextDataset
+
+extracted_product_details:
+  type: partitions.PartitionedDataset
+  path: data/4_extracted_product_details
+  dataset:
+    type: text.TextDataset
+
+classified_product_details:
+  type: partitions.PartitionedDataset
+  path: data/5_classified_product_details
+  dataset:
+    type: text.TextDataset
+
+classification_table_for_evaluation:
+  type: pandas.CSVDataset
+  filepath: data/8_evaluation/classification_evaluation_table.csv
+  versioned: True
+
+csv_output:
+  type: text.TextDataset
+  filepath: data/product_pages_summary.csv
+
+categories_file:
+  type: text.TextDataset
+  filepath: data/insurance_categories.txt
+
+filter_prompt:
+  type: text.TextDataset
+  filepath: data/filter_prompt_v2.txt
+
+extract_full_details_prompt:
+  type: text.TextDataset
+  filepath: data/extract_full_details_prompt_v2.txt
+
+classification_prompt:
+  type: text.TextDataset
+  filepath: data/classification_prompt_v2.txt
+
+comparison_prompt:
+  type: text.TextDataset
+  filepath: data/comparison_prompt_v2.txt
+
+# Catalog for Insurance Product Comparison Pipeline
+
+clusters_by_clique_json:
+  type: text.TextDataset
+  filepath: data/8_evaluation/clusters_by_clique.json
+
+converted_clusters_json:
+  type: text.TextDataset
+  filepath: data/8_evaluation/converted_clusters.json
+
+product_comparisons_markdowns:
+  type: partitions.PartitionedDataset
+  path: data/6_product_comparisons_markdowns
+  dataset:
+    type: text.TextDataset
+
+comparison_table_for_evaluation:
+  type: pandas.CSVDataset
+  filepath: data/8_evaluation/comparison_table_for_evaluation.csv
+  versioned: True
+
+final_result_table_comparision:
+  type: pandas.CSVDataset
+  filepath: data/8_evaluation/final_result_table_comparision.csv
+  versioned: True
+
+track_comparison_eval_mean_metric:
+  type: tracking.MetricsDataset
+  filepath: data/8_evaluation/track_comparison_eval_mean_metric.json
+  versioned: True
+
+track_category_prompt:
+  type: text.TextDataset
+  filepath: data/8_evaluation/track_category_prompt.txt
+  versioned: True 
+
+track_comparison_prompt:
+  type: text.TextDataset
+  filepath: data/8_evaluation/track_comparison_prompt.txt
+  versioned: True
+
+categorization_ground_truth_table:
+  type: pandas.CSVDataset
+  filepath: data/classification_ground_truth_table____originally_from_classificaion_pipeline.csv
+
+eval_result_table_categorization:
+  type: pandas.CSVDataset
+  filepath: data/8_evaluation/eval_result_table_categorization.csv
+  versioned: True

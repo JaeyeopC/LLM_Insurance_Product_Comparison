@@ -1,0 +1,835 @@
+{
+    "title": "Kfz-Schutzbrief für Pannen & Unfälle",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "Ihr Kfz-Schutzbrief: Ab nur 9,60 € im Jahr ✔ Schnelle Pannenhilfe & Abschleppdienst ✔ auch im Ausland ➨ Jetzt berechnen!",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "fahrzeuge.kfz-versicherung.kfz-schutzbrief",
+        "date": "20240916T07:59:39",
+        "og:title": "Kfz-Schutzbrief für Pannen & Unfälle",
+        "og:type": "article",
+        "og:description": "Ihr Kfz-Schutzbrief: Ab nur 9,60 € im Jahr ✔ Schnelle Pannenhilfe & Abschleppdienst ✔ auch im Ausland ➨ Jetzt berechnen!",
+        "og:url": "https://www.huk.de/fahrzeuge/kfz-versicherung/kfz-schutzbrief.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-kundenzufriedenheit-schutzbrief.scale.textBildXS.png",
+        "searchKeywords": "Kfz-Schutzbrief,Bergungskosten,Leihwagen,Mobilitätsgarantie,Abschleppdienst,Rückhol",
+        "searchHeadline": "Kfz-Schutzbrief",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-kfz-schutzbrief.scale.shield_buehne430.jpg",
+            "alt": "Ein glückliches Pärchen steht vor einem Auto"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kfz-Schutzbrief"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicherheit im Fall einer Panne"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Günstige Beiträge",
+                "Pannenhilfe vor Ort",
+                "Digitale Pannenmeldung"
+            ]
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-kfz-schutzbrief.scale.shield_buehne430.jpg",
+            "alt": "Ein glückliches Pärchen steht vor einem Auto"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Kfz-Schutzbrief"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sicherheit im Fall einer Panne"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Günstige Beiträge",
+                "Pannenhilfe vor Ort",
+                "Digitale Pannenmeldung"
+            ]
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Abgesichert ab der Haustür – mit dem Kfz-Schutzbrief derHUK-COBURG"
+        },
+        {
+            "type": "paragraph",
+            "text": "Stellen Sie sich vor, Sie haben unterwegs eine Panne oder einen Unfall  – der Kfz-Schutzbrief sorgt dafür, dass Sieschnell und unkompliziertHilfe erhalten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Von derPannenhilfeüber dasAbschleppenbis hin zurHotelübernachtung: Mit einem Kfz-Schutzbrief sind Sie in einer solchen Notsituation stets gut abgesichert. Erfahren Sie, wie Sie sich mit der HUK-COBURG zuverlässig und günstig Schutz für Ihr Fahrzeug im Falle einer Panne sichern können."
+        },
+        {
+            "text": "Inhaltsverzeichnis"
+        },
+        {
+            "type": "link",
+            "href": "#wichtig",
+            "text": "So wichtig ist ein Kfz-Schutzbrief"
+        },
+        {
+            "type": "link",
+            "href": "#panne",
+            "text": "Pannen können immer passieren"
+        },
+        {
+            "type": "link",
+            "href": "#sicherheit",
+            "text": "Sicherheit bei Unfällen und Pannen"
+        },
+        {
+            "type": "link",
+            "href": "#was",
+            "text": "Was ist ein Kfz-Schutzbrief?"
+        },
+        {
+            "type": "link",
+            "href": "#sinnvoll",
+            "text": "Wie sinnvoll ist ein Kfz-Schutzbrief?"
+        },
+        {
+            "type": "link",
+            "href": "#leistungen",
+            "text": "Welche Leistungen bietet ein Schutzbrief?"
+        },
+        {
+            "type": "link",
+            "href": "#huk",
+            "text": "Die Leistungen unseres Kfz-Schutzbriefs im Überblick"
+        },
+        {
+            "type": "link",
+            "href": "#wer",
+            "text": "Für wen lohnt sich der Kfz-Schutzbrief?"
+        },
+        {
+            "type": "link",
+            "href": "#eauto",
+            "text": "Ist der Kfz-Schutzbrief auch für ein E-Auto sinnvoll?"
+        },
+        {
+            "type": "link",
+            "href": "#beitrag",
+            "text": "Jetzt den Beitrag für den Schutzbrief berechnen"
+        },
+        {
+            "type": "link",
+            "href": "#download",
+            "text": "Download: Alle Leistungen auf einen Blick"
+        },
+        {
+            "type": "link",
+            "href": "#faq",
+            "text": "Häufige Fragen zum Kfz-Schutzbrief"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "So wichtig ist ein Kfz-Schutzbrief"
+        },
+        {
+            "type": "paragraph",
+            "text": "Stellen Sie sich vor, Sie sind auf einer langen Urlaubsreise und plötzlich haben Sie eine Panne mitten auf der Autobahn, weit weg von zu Hause. Der Motor streikt, und es ist bereits dunkel."
+        },
+        {
+            "type": "paragraph",
+            "text": "In solchen Momenten ist ein Kfz-Schutzbrief Ihre Rettung. Mit einemAnrufoderwenigen Klicks auf dem Smartphoneerhalten Sie schnell und unkompliziert Hilfe – ob Pannenhilfe vor Ort, Abschleppen zur nächsten Werkstatt oder eine alternative Möglichkeit zur Weiterfahrt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Kfz-Schutzbrief sorgt dafür, dass Sie IhreReisebaldfortsetzen können, ohne sich um die organisatorischen und finanziellen Hürden sorgen zu müssen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahren Sie hier, welche Leistungen der Kfz-Schutzbrief der HUK-COBURG bietet und wie Sie damitgünstig und zuverlässig abgesichertsind."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pannen können immer passieren"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein platter Reifen auf einer abgelegenen Landstraße oder ein Unfall weit weg von zu Hause – solche Situationen können jederzeit und völlig unerwartet eintreten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch mitregelmäßiger Wartungundvorsichtiger Fahrweiselässt sich das Risiko nicht vollständig vermeiden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Neben den finanziellen Folgen, die oft beträchtlich sein können, kommt der emotionale Stress hinzu, wenn man sich in einer fremden Umgebung plötzlich nicht mehr weiterhelfen kann. Das Gefühl derHilflosigkeitund dieUnsicherheit, wie man die Fahrt fortsetzen soll, können sehr belastend sein."
+        },
+        {
+            "type": "paragraph",
+            "text": "UnserKfz-Schutzbriefgreift genau in solchen Fällen ein."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sicherheit bei Unfällen oder Pannen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Kfz-Schutzbrief der HUK-COBURG bietet Ihnenschnelleundzuverlässige Hilfebei Pannen und Unfällen, übernimmt die Kosten für Abschleppdienst und Pannenhilfe vor Ort und organisiert Ihre Weiter- oder Rückfahrt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit einem Kfz-Schutzbrief gewinnen Sie nicht nurfinanzielle Absicherung, sondern auch ein Mehr anGelassenheitundSicherheitauf jeder Fahrt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie müssen sich keine Sorgen um organisatorische Herausforderungen machen und können sich stattdessen darauf verlassen, dass Sie jederzeitunterwegs Hilfe erhalten."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was ist ein Kfz-Schutzbrief?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Kfz-Schutzbrief bietet umfassende Unterstützung und Absicherung in Notsituationen – also dann, wenn Ihr Auto liegenbleibt. Hier sind unsere wichtigsten Leistungen im Überblick:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Der Kfz-Schutzbrief garantiert im Notfall einen Anspruch aufPannenhilfeinklusiveAbschleppdienst– und das bereits ab der Haustür.",
+                "Ist das Auto nicht mehr fahrtüchtig, werden außerdem auf Reisen in vielen Fällen dieKosten für einen Mietwagen(Pkw) übernommen.",
+                "Der Kfz-Schutzbrief umfasst noch viele weitere Leistungen, wie beispielsweiseKrankenrücktransportaus dem Urlaub.",
+                "Der Krankenrücktransport kann über den Kfz-Schutzbrief selbst dann in Anspruch genommen werden, wenn Sie nicht mit dem Auto, sondern zum Beispiel mit demBus, der Bahn oder dem Flugzeugverreisen.",
+                "EineNotrufzentralesteht dem Autofahrer dabei unterstützend zur Verfügung."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie sinnvoll ist ein Kfz-Schutzbrief?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer zusätzlich zur Kfz-Haftpflichtversicherung eine Kaskoversicherung (Teilkasko- oder Vollkaskoversicherung ) abschließt, ist grundsätzlich gut gerüstet."
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Alltag eines Autofahrers gibt es dennoch immer wieder Situationen, in denen das nicht ausreicht und ein Kfz-Schutzbrief von Vorteil ist. Dazu gehören folgende Situationen:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Bei einem Unfall geht es nicht nur darum, eventuelle Sach- und Personenschäden zu regulieren, sondern auch umUnterstützung im Notfall.",
+                "Ob Abschleppdienst, der eigene Rücktransport, eine Hotelübernachtung oder die Pannenhilfe: Der Kfz-Schutzbrief hat sich in solchen Situationen bewährt und kann Autofahrer alsZusatzleistungvor organisatorischen und finanziellen Problemen bewahren. Das gilt auch bei einer Panne.",
+                "Sowohl Unfälle als auch Pannen stellen für alle Beteiligten eine extreme Stresssituation dar. Dazu kommt, dass dieentstehenden Kostenschnell ungeahnte Höhen annehmen können – insbesondere im Ausland."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer sich in dieser Situation noch mit logistischen Problemen herumschlagen muss, stößt eventuell an seine Grenzen."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Welche Leistungen bietet der Schutzbrief derHUK-COBURG?"
+        },
+        {
+            "type": "paragraph",
+            "text": "In unserem Kfz-Schutzbrief sind enthalten:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Pannenhilfe ab der Haustür",
+                "Abschleppen",
+                "Bergen des Fahrzeugs",
+                "Abstellkosten   (im Inland bis zu 2, im Ausland bis zu 4 Wochen)",
+                "Fahrzeugrücktransport",
+                "Hotelübernachtung auf Reisen, die Weiter- bzw. Rückfahrt mit Hilfe eines Mietwagens oder mit öffentlichen Verkehrsmitteln"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei uns  umfasst der Leistungsumfang auch denKrankenrücktransport. Wenn Bahn, Bus, Schiff oder Flugzeug das eigene Auto im Urlaub ersetzen, werden einige Leistungen (darunter z. B. Krankenrücktransport) oder Hilfe in besonderen Notfällen im Ausland angeboten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch Hilfe beiNaturkatastrophen(beispielsweise im Falle eines Erdbebens oder einer Lawine) sind bei uns im Leistungsumfang enthalten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Weitere Vorteile des Kfz-Schutzbriefes bei der HUK-COBURG: Die Versicherung umfasst ohne Aufpreis neben demVersicherungsnehmerauchalle weiteren Insassen. Zudem sindmitgeführte Gepäckanhänger,FahrradträgerundWohnwagenversichert. Die Leistungen gelten zum größten Teil nicht nur in Deutschland, sondern auchim europäischen Ausland."
+        },
+        {
+            "type": "paragraph",
+            "text": "Je nach Versicherungsanbieter können die Leistungen eines Kfz-Schutzbriefes variieren."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die Leistungen unseres Kfz-Schutzbriefs im Überblick:"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "Wir helfen Ihnen bei Panne, Unfall und Notfällen soweit erforderlich z. B. durch",
+                    "Ab der Haustür",
+                    "Ab 50 km vom Wohnort",
+                    "Im europäischen Ausland ab 50 km vom Wohnort"
+                ],
+                [
+                    "Pannen-/Unfallhilfe",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Abschleppen",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Bergen",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Kurzfahrten mit öffentlichen Verkehrsmitteln oder Taxi",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Abstellkosten",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Fahrzeugtransport-Service",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Übernachtungs-Service",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Organisation der Weiter- oder Rückfahrt mit Mietwagen (Pkw) oder öffentlichen Verkehrsmitteln",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Hilfe bei Naturkatastrophen (z. B. Lawinen oder Erdbeben)",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Krankenrücktransport**",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Rückholen von Kindern**",
+                    "",
+                    "",
+                    ""
+                ],
+                [
+                    "Hilfe in besonderen Notfällen im Ausland**",
+                    "",
+                    "",
+                    ""
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Leistungsbeschreibungen sind hier verkürzt wiedergegeben. Einige Schutzbrief-Leistungen sind der Höhe nach begrenzt. Den genauen Leistungsumfang, die Voraussetzungen im Einzelnen, Einschränkungen sowie die Länder, in denen Versicherungsschutz besteht, entnehmen Sie bitte denVersicherungsbedingungen."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-bester-kfz.png",
+            "alt": "Focus Money Testat - Bester Kfz-Versicherer - Ausgabe 36/2024"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Der Kfz-Schutzbrief der HUK-COBURG – die ideale Ergänzung Ihrer Kfz-Versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ergänzen Sie die Kfz-Haftpflichtversicherung für Ihren Pkw, Ihr Kraftrad, Ihren Lieferwagen bzw. Ihr Campingfahrzeug (<7,5 Tonnen Gesamtgewicht) mitunserem günstigen Kfz-Schutzbrief."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihr Kfz-Schutzbrief gilt bei Reisen mit dem versicherten Fahrzeug in vielen LändernEuropasund in nichteuropäischen Gebieten, die zurEuropäischen Uniongehören."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ihr Kfz-Schutzbrief: Schon ab 9,60 € * im Jahr"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schnelle Hilfe– Dankeigener Notrufzentralerund um die Uhr erreichbar.",
+                "Digitaler Pannenservice– In nur 3-5 Minuten Hilfe organisieren, ohne Warteschleife.",
+                "Hilfe im Ausland– Wenn Sie in eine besondere Notlage geraten.",
+                "Günstig– Je nach Fahrzeugart schon ab9,60 €* im Jahr."
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Für wen lohnt sich ein Kfz-Schutzbrief?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Kfz-Schutzbrief der HUK-COBURG ist  günstig und lohnt sich deshalb in den meisten Fällen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ganz besonders Autofahrer, dieviel unterwegssind und auch öfterweite Streckenfahren, profitieren von den Zusatzleistungen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Denn alleine die Kosten für ein einziges MalAbschleppenübersteigen in den meisten Fällen die Kosten für den Kfz-Schutzbrief."
+        },
+        {
+            "type": "paragraph",
+            "text": "Aber auch Autofahrer, die nur kurze Strecken in Wohnortnähe zurücklegen müssen – etwa den Weg zur Arbeit oder zum Einkaufen – profitieren von einem Kfz-Schutzbrief. Zum Beispiel dann,wenn dasAuto nicht mehr anspringtoder bei einerReifenpanne."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Ist der Kfz-Schutzbrief auch für ein E-Auto sinnvoll?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch beiE-Autosist der Schutzbrief sinnvoll und wichtig, wenn Ihr E-Auto z. B. aufgrund fehlender Energie stehen bleibt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Denn dieLadeinfrastrukturist noch immernicht flächendeckend ausgebaut. Wir leisten dann praktische Hilfe und transportieren das liegengebliebene Fahrzeugzur nächstenLadestation. Damit Sie den Antriebs-Akku dort aufladen können."
+        },
+        {
+            "type": "paragraph",
+            "text": "Auch wichtig zu wissen: Wenn IhrE-Autooder derAntriebs-Akkunach einem Unfall abgestellt und gesichert werden muss– etwa in einem Hochvolt-Container, um eine drohende Entzündung zu verhindern – übernehmen wir die Kosten für bis zu 2 Wochen im Inland und für bis zu 4 Wochen im Ausland."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Jetzt den Beitrag für den Schutzbrief berechnen"
+        },
+        {
+            "text": "Sie sind bereits mit Ihrem Pkw bei uns versichert?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ab 9,60 €* pro Jahr erhalten Sie den Schutzbrief als Ergänzung zu Ihrer Kfz-Haftpflichtversicherung. Schließen Sie ihn einfach über „Meine HUK“ mit ein."
+        },
+        {
+            "text": "Jetzt ergänzen"
+        },
+        {
+            "text": "Sie sind noch nicht mit Ihrem Pkw bei uns versichert?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sichern Sie sich den Schutzbrief zusammen mit unserer günstigen Autoversicherung. Überzeugen Sie sich selbst."
+        },
+        {
+            "text": "Jetzt berechnen"
+        },
+        {
+            "type": "link",
+            "href": "/fahrzeuge/kfz-versicherung/autoversicherung.html",
+            "text": "Zur Auto­versicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Übrigens: Den Schutzbrief können Sie bei uns auch für andere Kfz abschließen, zum Beispiel für IhrWohnmobil,Quad, TrikeoderLeichtkrafträderwieKradssowie fürLieferwagen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Down­load: Alle Leis­tungen auf einen Blick"
+        },
+        {
+            "type": "paragraph",
+            "text": "In unseren Versicherungsbedingungen erfahren Sie alle Details zu unserer Kfz-Versicherung."
+        },
+        {
+            "type": "link",
+            "href": "https://static.c.huk.de/content/dam/hukde/dokumente/produkte/allgemeine_versicherungsbedingungen_kfz.pdf",
+            "text": "Allgemeine Versicherungs­bedingungen zur Kfz-Versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Track & Trace – alle Infos zum Pannendienst live mitverfolgen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit dem modernen Track & Trace System können Sie denStatus des Pannendienstes live mitverfolgen– Sie melden die Panne, wir übernehmen den Rest und halten Sie auf dem Laufenden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Und so funktioniert es:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Nachdem Sie Ihre Panne gemeldet haben, erhalten Sieper SMS einen Linkmit Ihrer Auftragseingangsbestätigung. Dort können Sie all Ihre angegebenen Daten inkl. Standort überprüfen und bearbeiten.",
+                "Sobald der Pannendienst losgefahren ist, erhalten Sie eine zweite SMS und können dieFahrtstreckesowie dessenAnkunftszeit nachverfolgen."
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/trackandtrace.png",
+            "alt": "Track & Trace – Vorteile"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sie möchten eine Panne melden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der schnellste Weg zur Pannenhilfe ist unser neuerdigitaler Pannenservice."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "In nur3-5 Minutenorganisieren Sie sich Hilfe, ohne Warteschleife.",
+                "Der digitale Pannenservice führt SieSchritt für Schrittzur Beauftragung eines Pannenhelfers.",
+                "Mit Hilfe derautomatisierten Standorterkennungkönnen Sie sofort gefunden werden."
+            ]
+        },
+        {
+            "text": "Pannenhilfe anfordern"
+        },
+        {
+            "type": "link",
+            "href": "/service/schaden/pannenhilfe.html",
+            "text": "Mehr zum digitalen Pannenservice"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Häufige Fragen zum Kfz-Schutzbrief"
+        },
+        {
+            "text": "Was sind die häufigsten Ursachen für Pannen und Unfälle?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Pannenstatistik 2024 des ADAC zeigt, dass viele Probleme mit dem Autodirekt vor Ort gelöstwerden können:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Mit 44,1 % war dieBatterie die häufigste Pannenursacheim Jahr 2023.",
+                "DasMotormanagement(Einspritzung, Zündung und Sensorik) war in 22,8 % der Fälle die Ursache für den Hilferuf der Autofahrer.",
+                "Auf Platz 3 der Pannenursachen liegen mit 10,5 %Schäden an Anlasser,Lichtmaschine, BordnetzoderBeleuchtung.",
+                "8,8 % hatten Probleme mit denReifenund",
+                "7,1 % mit dem Schließsystem."
+            ]
+        },
+        {
+            "text": "Wie hilft der Kfz-Schutzbrief bei Notfällen auf Reisen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ob alleine, als Paar oder mit der ganzen Familie: Urlaub ist die schönste Zeit des Jahres. Der Traumurlaub kann allerdings schnell zum Albtraum werden, wennKrankheit oder Kriminalitäteinen Strich durch die Rechnung machen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Glücklicherweise erweist sich derKfz-Schutzbriefauch in diesen Situationen alsäußerst hilfreich."
+        },
+        {
+            "type": "paragraph",
+            "text": "Einige Leistungen wie z. B.KrankenrücktransportoderHilfe in besonderen Notfällenim Ausland werden auch dann gewährt, wenn Bahn, Bus, Schiff oder Flugzeug das eigene Auto im Urlaub ersetzen."
+        },
+        {
+            "text": "Leistet der Kfz-Schutzbrief auch bei Autodiebstahl?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie sind unterwegs und Ihnen wird dasFahrzeug gestohlen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Falle eines Diebstahls zahlen und organisieren wirab 50 km Entfernungvom Wohnort dieWeiter- bzw. Rückfahrtmit Hilfe eines Mietwagens oder mit öffentlichen Verkehrsmitteln,auch im Auslandsurlaub."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wird dasgestohlene Fahrzeug wieder aufgefunden, übernehmen wir denRücktransportzu Ihrem Wohnort. Den Verlust des gestohlenen Fahrzeugs ersetzt dieKaskoversicherung."
+        },
+        {
+            "text": "*"
+        },
+        {
+            "type": "paragraph",
+            "text": "Beitragsbeispiel: Pkw, 7 Jahre alt, HUK-COBURG-Allgemeine Versicherung AG"
+        },
+        {
+            "text": "**"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Leistungen sind enthalten, auch wenn Sie z. B. nicht mit dem versicherten Fahrzeug unterwegs sind, etwa auf einer Flug-, Schiffs- oder Bahnreise oder mit einem fremden Pkw."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unser Service für Sie"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/meine_huk-800px.png",
+            "alt": "Icon: &quot;Mein HUK&quot; Login"
+        },
+        {
+            "type": "paragraph",
+            "text": "„Meine HUK“"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erledigen Sie alles online in Ihrem persönlichen Bereich."
+        },
+        {
+            "type": "paragraph",
+            "text": "Einloggen"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/schaden-800px.png",
+            "alt": "Icon: Kontaktformular"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fragen zum Schutzbrief"
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie noch Fragen? Dann schreiben Sie uns!"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kontaktformular"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/standort-800px.png",
+            "alt": "Icon: Standortnadel – Persönliche Beratung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Persönliche Beratung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finden Sie Ihren Ansprechpartner in Ihrer Nähe."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ansprechpartner suchen"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Auto & Mobilität",
+                "Kfz-Versicherung",
+                "Kfz-Schutzbrief"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "fahrzeuge_kfz-versicherung_kfz-schutzbrief.html"
+}

@@ -1,0 +1,33 @@
+companies:
+  - name: "AXA"
+    url: "https://www.axa.de"
+  - name: "HUK-COBURG"
+    url: "https://www.huk.de"
+  - name: "Generali"
+    url: "https://www.generali.de"
+  - name: "ARAG"
+    url: "https://www.arag.de"
+  - name: "R+V"
+    url: "https://www.ruv.de/home/"
+  - name: "Signal Iduna Group"
+    url: "https://signal-iduna.de"
+  - name: "Barmenia"
+    url: "https://www.barmenia.de"
+  - name: "DKV"
+    url: "https://www.dkv.com"
+  - name: "ERGO"
+    url: "https://www.ergo.de"
+  - name: "SDK"
+    url: "https://www.sdk.de"
+
+OPENAI_API_KEY:
+  key: "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"
+
+translation_mapping:
+  "building insurance": "Gebäudeversicherung"
+  "health insurance": "Krankenversicherung"
+
+clustering_threshold: 0.75
+openai_api_key: "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"
+
+

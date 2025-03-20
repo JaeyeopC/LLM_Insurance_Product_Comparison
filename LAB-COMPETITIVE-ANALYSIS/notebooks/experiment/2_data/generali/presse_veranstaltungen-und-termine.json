@@ -1,0 +1,71 @@
+{
+    "title": "Veranstaltungen von und mit Generali: Alle Events im Überblick",
+    "metadata": {
+        "description": "Veranstaltungen von und mit Generali: Von Tagungen bis Marathon - bei diesen Events sind und waren wir dabei.",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Veranstaltungen und Termin",
+        "og:description": "Bleiben Sie auf dem Laufenden: Bei diesen Events sind und waren wir dabei.",
+        "og:image": "https://www.generali.de/resource/blob/34934/9ee1aaa2deb80ddd32689f9f53d87f6f/bild-veranstaltungen-data.jpg"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Termine und Veranstaltungen"
+        },
+        {
+            "text": "Bleiben Sie auf dem Laufenden. Bei diesen Events sind wir mit dabei."
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "PRESSE",
+                "VERANSTALTUNGEN & TERMINE"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 4,
+            "text": "Veranstaltungen mit Beteiligung von Generali Deutschland"
+        },
+        {
+            "type": "blockquote",
+            "text": "06.04.2025Generali Berliner Halbmarathon21.09.2025BMW Berlin Marathon05.10.2025Generali Köln Marathon"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Vita­li­tyApp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Gesundheitsprogramm motiviert Sie mit kleinen Extras, bewusster zu leben."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/generali-vitality/id1089388341",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.vitality.gli.de&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "presse_veranstaltungen-und-termine"
+}

@@ -1,0 +1,134 @@
+{
+    "title": "Bearbeitungsstand Ihres Schadens über das Schaden-Tracking verfolgen I Generali",
+    "metadata": {
+        "description": "Bleiben Sie über SMS oder E-Mail über den Bearbeitungsstand Ihres Schadens bei der Generali informiert. Nutzen Sie das Schaden-Tracking der Generali, um sich über den aktuellen Bearbeitungsstand Ihres Schadens zu informieren.",
+        "keywords": "Schaden-Tracking,Bearbeitungsstand,Schaden,gemeldeter Schaden",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Schaden-Tracking Bearbeitungsstand erfahren",
+        "og:description": "Verfolgen Sie die Bearbeitung Ihres Schadens.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Schaden-Tracking Bearbeitungsstand erfahren"
+        },
+        {
+            "text": "Sie wollen schnell über Bearbeitungsschritte Ihres Schadens informiert werden?"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "ONLINE-SERVICES",
+                "MEIN BEARBEITUNGSSTAND",
+                "SCHADEN-TRACKING BEARBEITUNGSSTAND ERFAHREN"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Kein Problem – Mit unserem Schaden-Tracking können Sie die Bearbeitung Ihres bei uns gemeldeten Schadens in Echtzeit verfolgen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sobald ein neuer Status verfügbar ist oder wenn sich der Status zur Regulierung Ihres Schadens geändert hat, werden Sie von uns benachrichtigt."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "SMS oder E-Mail - Sie haben die Wahl"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie können sich Statusmeldungen zu Ihrem Schaden als SMS oder per E-Mail von uns zusenden lassen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Somit werden Sie schnellst möglich über den von Ihnen präferierten Kommunikationsweg über Bearbeitungsschritte informiert."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hinweis:Für die Schadenbearbeitung erforderliche Anschreiben oder Unterlagen, erhalten Sie natürlich weiterhin auch per Post. So geht nichts verloren."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Bei wel­chen Schä­den kann das Tracking genutzt wer­den?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Grundsätzlich ist das Schaden-Tracking für Schäden aus folgenden Versicherungsbereichen möglich:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Hausrat",
+                "Wohngebäude",
+                "Glas",
+                "Haftpflicht (nur bei Sachschäden)",
+                "Kfz-Haftpflicht (nur bei Sachschäden)",
+                "Kfz-Kasko"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wie kön­nen Sie das Tracking nut­zen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie Ihren Schaden telefonisch bei uns melden werden Sie vom Sachbearbeiter auf die Möglichkeit des Schaden-Trackings hingewiesen und gefragt ob Sie dieses nutzen möchten, sollte dies für Ihren Schaden grundsätzlich möglich sein."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie werden dann nach dem gewünschten Kommunikationsweg für die Statusmeldungen gefragt und Ihre entsprechende Kontaktinformation wird aufgenommen (Telefonnummer oder E-Mail-Adresse)."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_self-service_mein-bearbeitungsstand_schaden-tracking"
+}

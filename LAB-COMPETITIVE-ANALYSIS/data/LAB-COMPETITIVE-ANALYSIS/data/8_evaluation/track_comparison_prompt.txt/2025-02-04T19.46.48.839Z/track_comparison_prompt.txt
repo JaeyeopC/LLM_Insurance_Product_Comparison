@@ -1,0 +1,5 @@
+Erstellen Sie eine Vergleichstabelle im Markdown-Format für das Produkt '{category}' von verschiedenen Versicherungsunternehmen. 
+Die Vergleichstabelle sollte dieProduktdetails in Spalten enthalten: Eigenschaft und Details für jedes Unternehmen.
+
+{company_info}
+Vergleichstabelle:

@@ -1,0 +1,69 @@
+You are an expert in insurance data analysis and comparison.
+Your task is to create a comparison table in Markdown format for the product '{category}' from various insurance company, which I will provide you.
+
+Below is the list of insurance categories and description: 
+Risikolebensversicherung – Schutz für Hinterbliebene im Todesfall der versicherten Person.
+
+Gemischte Lebensversicherung – Kombination aus Risikolebensversicherung und Sparanlage mit Kapitalauszahlung.
+
+Rentenversicherung – Auszahlung einer monatlichen Rente nach Renteneintritt.
+
+Berufsunfähigkeitsversicherung – Schutz bei Berufsunfähigkeit durch Krankheit oder Unfall.
+
+Pflegerentenversicherung – Monatliche Rentenzahlung im Pflegefall.
+
+Krankenversicherung – Erstattung medizinischer Kosten bei Krankheit oder Unfall.
+
+Dread-Disease-Versicherung – Einmalzahlung bei Diagnose schwerer Krankheiten wie Krebs oder Herzinfarkt.
+
+Grundfähigkeitsversicherung – Zahlung, wenn grundlegende Fähigkeiten (z. B. Gehen, Sehen) verloren gehen.
+
+Pflegekostenversicherung – Übernahme von Pflegekosten in stationären oder häuslichen Pflegefällen.
+
+Pflegetagegeldversicherung – Tägliche finanzielle Unterstützung im Pflegefall.
+
+Haftpflichtversicherung – Absicherung gegen Schäden, die man anderen zufügt.
+
+Betriebsunterbrechungsversicherung – Schutz vor finanziellen Einbußen bei Betriebsausfällen.
+
+Hausratversicherung – Versicherung für Schäden an Einrichtungsgegenständen durch Feuer, Einbruch, Wasser usw.
+
+Gebäudeversicherung – Schutz für Schäden an Gebäuden durch Feuer, Sturm, Wasser usw.
+
+Geschäftsinhaltsversicherung – Absicherung des Inventars von Unternehmen gegen Schäden.
+
+Gewerbeversicherung – Versicherungspaket für Unternehmen gegen verschiedene Risiken.
+
+Rücklaufversicherung – Schutz für Investitionen und Finanzierungen gegen unerwartete Verluste.
+
+Bauleistungsversicherung – Schutz vor Schäden an Bauprojekten während der Bauzeit.
+
+Maschinenkasko- und Maschinenbruchversicherung – Absicherung für Maschinen gegen Schäden und Defekte.
+
+Kreditversicherung – Absicherung gegen Zahlungsausfälle bei Krediten.
+
+Vertrauensschadenversicherung – Schutz gegen Schäden durch Betrug oder Unterschlagung von Mitarbeitern.
+
+Montageversicherung – Schutz für Schäden an Maschinen oder Anlagen während der Montage.
+
+Elementarversicherung – Schutz vor Naturkatastrophen wie Hochwasser, Erdbeben oder Sturm.
+
+Unfallversicherung – Finanzielle Absicherung bei Unfällen, unabhängig von der Schuldfrage.
+
+Reiseversicherung – Schutz gegen Risiken auf Reisen (Krankenversicherung, Gepäckverlust, Stornierung).
+
+Transportversicherung – Schutz für Waren oder Güter während des Transports.
+
+Private Arbeitslosenversicherung – Zusätzliche Absicherung gegen Einkommensverluste durch Arbeitslosigkeit.
+
+Tierversicherung – Kranken- oder Haftpflichtversicherung für Tiere (z. B. Hunde, Pferde).
+
+Fahrerschutzversicherung – Schutz für den Fahrer bei Unfällen, unabhängig von der Schuldfrage.
+
+Rechtsschutzversicherung – Übernahme von Anwalts- und Gerichtskosten bei Rechtsstreitigkeiten.
+
+
+Create a comparison table in Markdown format for the product '{category}' from various insurance companies. 
+The comparison table should include product details in columns: attributes and details for each company.
+
+{company_info}

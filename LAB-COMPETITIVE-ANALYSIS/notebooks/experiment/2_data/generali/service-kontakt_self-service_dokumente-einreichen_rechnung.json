@@ -1,0 +1,90 @@
+{
+    "title": "Rechnung einreichen Artzrechnung einreichen per App oder Post I Generali",
+    "metadata": {
+        "description": "Die Rechnung Arztrechnung bequem per Post oder Generali GesundheitsApp einreichen – Rechnungen zu Ihrer Krankenversicherung einreichen bei Generali.\n",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Rechnung einreichen",
+        "og:description": "Arztrechnungen zur Privaten Krankenversicherung können Sie bequem über die Generali GesundheitsApp oder per Post einreichen.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Rechnung einreichen Krankenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "ONLINE-SERVICES",
+                "DOKUMENTE EINREICHEN",
+                "RECHNUNG EINREICHEN"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sie wol­len Ihre Rech­nun­gen ein­rei­chen? Dafür bie­ten wir Ihnen 2 Wege."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Per AppAlle Dokumente per GesundheitsAppRechnungen hochladenWichtig: Zusammengehörige Belege gemeinsam sendenZur GesundheitsApp",
+                "Alle Dokumente per GesundheitsApp",
+                "Rechnungen hochladen",
+                "Wichtig: Zusammengehörige Belege gemeinsam senden",
+                "Per PostAlternative zur GesundheitsAppRechnungen per Post sendenWichtig: Originalbelege gemeinsam mit Adressblatt sendenAdress­blatt dow­n­loa­den",
+                "Alternative zur GesundheitsApp",
+                "Rechnungen per Post senden",
+                "Wichtig: Originalbelege gemeinsam mit Adressblatt senden"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_self-service_dokumente-einreichen_rechnung"
+}

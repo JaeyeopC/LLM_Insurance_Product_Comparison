@@ -1,0 +1,18 @@
+{
+    "title": "HUK-COBURG Kundenbereich",
+    "metadata": {
+        "expires": "0",
+        "viewport": "width=device-width, initial-scale=1",
+        "format-detection": "telephone=no",
+        "X-UA-Compatible": "ie=edge",
+        "robots": "noindex,follow",
+        "apple-mobile-web-app-title": "HUK-COBURG",
+        "application-name": "HUK-COBURG",
+        "msapplication-TileColor": "#ffffff",
+        "msapplication-TileImage": "/stylelib/3/server-root/mstile-144x144.png?v=kbavivt4",
+        "theme-color": "#ffffff"
+    },
+    "content": [],
+    "company_name": "huk-coburg",
+    "page_name": "meine-huk_startseite"
+}

@@ -1,0 +1,277 @@
+{
+    "title": "Ratgeber Pflege / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Plötzlich Pflegefall ►Im Pflegeratgeber: Informationen für Pflegebedürftige & pflegende Angehörige ✚Tipps für den Pflegealltag",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/r/pflegeratgeber",
+        "og:title": "Ratgeber Pflege / AXA",
+        "og:description": "Plötzlich Pflegefall ►Im Pflegeratgeber: Informationen für Pflegebedürftige & pflegende Angehörige ✚Tipps für den Pflegealltag",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "Ratgeber Pflege"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Bretterweg im Feld"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Ernstfall ist man oft auf schnelle Hilfe angewiesen. Damit Sie alles bewältigen können, bietet Ihnen einePflegezusatzversicherungmit Soforthilfe genau die professionelle Unterstützung, die Sie brauchen. Doch wenn der Pflegefall plötzlich eintritt, tauchen viele Fragen auf. Wir zeigen in diesem Ratgeber, was wichtig ist: Praxisorientierte Informationen für Pflegebedürftige und pflegende Angehörige. Tipps für den Pflegealltag und Pflegewissen bieten zudem einen umfassenden Überblick zum Thema Pflege."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei alte Frauen lachen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was bedeutet Pflege?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Pflege eines Menschen hat viele Gesichter und umfasst sehr unterschiedliche Aufgaben. Pflege bedeutet nicht nur unterstützende Handgriffe, sondern auch seelische Betreuung und Begleitung."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/pflege-definition",
+            "text": "Definition Pflege"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Lexikonbuch"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die wichtigsten Fachbegriffe in der Pflege"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie ist Pflegebedürftigkeit definiert? Was ist ein Altenpflegeheim und was macht der medizinische Dienst der Krankenversicherung? Was bedeutet Demenz? Wir erklären Ihnen die wichtigsten Pflegebegriffe kurz und prägnant."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/pflegelexikon",
+            "text": "Pflegelexikon"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Pflegesituation ist von Beginn an komplex und mühsam. Fragen wie „Wo erhalte ich Unterstützung?“ und „Welche Möglichkeiten habe ich?“ kommen auf. Wir helfen Ihnen, Orientierung zu finden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/site/axa-de/get/documents_E-1508835301/axade/medien/pflegewelt/pflegefall-checkliste.pdf",
+            "text": "Checkliste Pflege (PDF, 327 KB)"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Wegweiser"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Pflegeberatungsstellen bieten Hilfe"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wird ein Angehöriger pflegebedürftig, gibt es viele Fragen zu klären. Pflegeberatungsstellen geben Auskunft zu Hilfsangeboten und Ansprüchen. Erhalten Sie einen Überblick über wichtige Anlaufstellen wie den nächsten Pflegestützpunkt oder die compass private pflegeberatung."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/pflegeberatungsstellen",
+            "text": "Adressen & Anlaufstellen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Pflegefachfrau hilft einen Mann"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Welche Pflegeformen gibt es?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Entscheidung der richtigen Pflege - obstationäroderambulant- ist für Angehörige schwer zu treffen. Ambulante Pflege erfolgt zu Hause durch einen Pflegedienst oder durch mobile soziale Hilfsdienste. Die stationäre pflegerische Versorgung ist mit einem Umzug in eine entsprechende Einrichtung verbunden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/pflegeformen",
+            "text": "Mehr zu den Pflegeformen erfahren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Sonnenblume"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unterstützung für pflegende Angehörige"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Pflege durch Angehörige ist häufig keine einfache Frage. Zusätzlich zur körperlichen und emotionalen Belastung durch die Pflegetätigkeit stellt die Vereinbarkeit von Beruf, Familie und Pflege eine große Herausforderung dar. Pflegende Angehörige können nicht nur Familienmitglieder, sondern auch Freunde und Bekannte, engagierte Nachbarn oder ehrenamtliche Helfer sein."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/pflegende-angehoerige-unterstuetzung",
+            "text": "Pflege durch Angehörige"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Paragraf Zeichen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vorsorgevollmacht, Betreuungsverfügung, Patientenverfügung & digitaler Nachlass"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit zunehmendem Alter steigt das Risiko, im Falle von Krankheit und Pflegebedürftigkeit, nur noch eingeschränkt oder gar nicht mehr entscheidungs- und handlungsfähig zu sein. Damit dennoch alle Angelegenheiten nach den eigenen Vorstellungen geregelt und entschieden werden, sollte rechtzeitig eine Vollmacht oder Verfügung formuliert werden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/vorsorgevollmacht-betreuungsverfuegung-patientenverfuegung",
+            "text": "Vollmacht oder Verfügung im Überblick"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Sonne im Wald"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Begleitung in der letzten Lebensphase"
+        },
+        {
+            "type": "paragraph",
+            "text": "Viele Menschen wissen nicht, dass es für Zeiten der Trauer – sei es aufgrund einer schweren Diagnose oder eines Todesfalls – professionelle Hilfe durch Trauerbegleiter gibt. Und auch für Sterbende und deren Angehörige gibt es zahlreiche Hilfeangebote; so arbeiten insbesondere Hospize mit Sterbebegleitern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/sterbebegleiter",
+            "text": "Sterbe- und Trauerbegleitung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Pflegekraft mit Seniorin"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Palliative Pflege und Hospize"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was können Palliativdienste leisten? Und was umfasst demgegenüber die Hospizarbeit? Was die Unterschiede sind und wie Sie Unterstützung erhalten erfahren Sie hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/palliativversorgung",
+            "text": "Palliativversorgung & Hospizdienste"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Laptop Computer mit Post-it"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Digitaler Nachlass"
+        },
+        {
+            "type": "paragraph",
+            "text": "Was passiert mit den digitalen Daten, nachdem ein Mensch verstirbt? Bekommen die Erben Zugriff auf soziale Netzwerke wie Facebook und Co.? Was Sie bei diesem Thema alles beachten sollten, erfahren Sie hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/digitaler-nachlass",
+            "text": "Digitaler Nachlass"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine junge Frau kümmert sich um eine Seniorin"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Tipps für die Pflege im Alter"
+        },
+        {
+            "type": "paragraph",
+            "text": "In vielen Fällen tritt eine Pflegesituation auch plötzlich und unerwartet ein, oder der Pflegeaufwand steigert sich kontinuierlich. Wir wollen Ihnen nützliche Tipps und Checklisten für die Pflege im Alter mit an die Hand geben, um so Ihren Pflegealltag zu erleichtern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/pflege-im-alter-tipps",
+            "text": "Pflege im Alter"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Hände halten zusammen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Multimorbidität"
+        },
+        {
+            "type": "paragraph",
+            "text": "Leidet eine Person unter mehreren Krankheiten gleichzeitig, spricht man von Multimorbidität. Vor allem mit zunehmendem Alter treten solche Mehrfacherkrankungen häufiger auf."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/multimorbiditaet",
+            "text": "Multimorbidität"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir zeigen Ihnen, was zu tun ist und worauf Sie achten sollten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/s/pflegewelt",
+            "text": "Die Pflegewelt von AXA"
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_r_pflegeratgeber"
+}

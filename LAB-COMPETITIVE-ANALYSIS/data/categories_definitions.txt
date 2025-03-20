@@ -1,0 +1,119 @@
+1. **Risikolebensversicherung**  
+   - Definition: Zahlt nur im Todesfall der versicherten Person während der Laufzeit.  
+   - Synonyme/Keywords: Todesfallschutz, Hinterbliebenenschutz, reine Lebensversicherung ohne Sparanteil.
+
+2. **Gemischte Lebensversicherung**  
+   - Definition: Kombination aus Lebensversicherung (Todesfallschutz) und Sparanteil (Erlebensfallleistung).  
+   - Synonyme/Keywords: Kapitalaufbau, klassisches Lebensvorsorgemodell.
+
+3. **Rentenversicherung**  
+   - Definition: Aufbau einer Altersvorsorge mit laufender oder später Rente.  
+   - Synonyme/Keywords: Altersvorsorge, Sofortrente, aufgeschobene Rente, private Rente.
+
+4. **Berufsunfähigkeitsversicherung**  
+   - Definition: Einkommensschutz bei dauerhafter Arbeitsunfähigkeit durch Unfall oder Krankheit.  
+   - Synonyme/Keywords: BU, Arbeitsunfähigkeit, Invalidität.
+
+5. **Pflegerentenversicherung**  
+   - Definition: Monatliche Rente bei Pflegefall (Pflegegrad).  
+   - Synonyme/Keywords: Pflegerente, Pflegebedürftigkeit.
+
+6. **Krankenversicherung**  
+   - Definition: Erstattung medizinischer Kosten (privat, gesetzlich, Zusatz).  
+   - Synonyme/Keywords: Zahnzusatz, Auslandskranken, stationär, ambulant.
+
+7. **Dread-Disease-Versicherung**  
+   - Definition: Einmalzahlung bei Diagnose schwerer Krankheiten (z.B. Krebs, Herzinfarkt).  
+   - Synonyme/Keywords: Schwere Krankheiten, Krankheitsfall-Leistung.
+
+8. **Grundfähigkeitsversicherung**  
+   - Definition: Deckt den Verlust grundlegender Fähigkeiten (z.B. Sehen, Gehen).  
+   - Synonyme/Keywords: Invalidität, Fähigkeitenkatalog, Alltagsfähigkeiten.
+
+9. **Pflegekostenversicherung**  
+   - Definition: Ersetzt tatsächliche Pflegekosten (stationär/ambulant) bei Pflegebedürftigkeit.  
+   - Synonyme/Keywords: Pflegekosten, Pflegestufe, Pflegegrad.
+
+10. **Pflegetagegeldversicherung**  
+   - Definition: Tagegeld bei Pflege, zusätzliches Geld für Pflegebedürftige.  
+   - Synonyme/Keywords: Pflegetagegeld, Pflegezusatz.
+
+11. **Haftpflichtversicherung**  
+   - Definition: Deckt Schäden an Dritten (Personen-, Sach-, Vermögensschäden).  
+   - Synonyme/Keywords: Privathaftpflicht, Firmenhaftpflicht, Verschulden, Schadenersatz.
+
+12. **Betriebsunterbrechungsversicherung**  
+   - Definition: Schutz vor Ertragsausfällen und laufenden Kosten bei Betriebsstörungen.  
+   - Synonyme/Keywords: Betriebsausfall, Ertragsausfall, Produktionsstopp.
+
+13. **Hausratversicherung**  
+   - Definition: Schützt Einrichtungs- und Gebrauchsgegenstände in der Wohnung.  
+   - Synonyme/Keywords: Feuer, Einbruch, Leitungswasser, privater Haushalt.
+
+14. **Gebäudeversicherung**  
+   - Definition: Deckt Schäden am Wohn- oder Geschäftsgebäude (z.B. Sturm, Hagel, Leitungswasser).  
+   - Synonyme/Keywords: Wohngebäude, Immobilie, Gebäudeschutz.
+
+15. **Geschäftsinhaltsversicherung**  
+   - Definition: Versichert Firmeninventar, Warenvorräte, Betriebseinrichtung gegen Feuer, Einbruch, Vandalismus.  
+   - Synonyme/Keywords: Geschäftsinhalt, betriebliches Inventar.
+
+16. **Gewerbeversicherung**  
+   - Definition: Oberbegriff für Versicherungen von Gewerbetreibenden (z.B. Haftpflicht, Rechtsschutz, Inhaltsvers.).  
+   - Synonyme/Keywords: Firmenversicherung, Geschäftskunden.
+
+17. **Rücklaufversicherung**  
+   - Definition: Bei Tod der versicherten Person fließt Restkapital an Hinterbliebene zurück.  
+   - Synonyme/Keywords: Kapitalrückgewähr, Er-/Ablebensversicherung.
+
+18. **Bauleistungsversicherung**  
+   - Definition: Schützt laufende Bauprojekte vor unvorhersehbaren Schäden an Bauleistungen/-stoffen.  
+   - Synonyme/Keywords: Baustelle, Neubau, Umbau, Witterungsschäden.
+
+19. **Maschinenkasko- und Maschinenbruchversicherung**  
+   - Definition: Deckt Schäden an stationären oder mobilen Maschinen (z.B. Produktions-, Baumaschinen).  
+   - Synonyme/Keywords: Reparaturkosten, Bedienfehler, Unfall, Maschinenbruch.
+
+20. **Kreditversicherung**  
+   - Definition: Absicherung vor Forderungsausfällen, wenn Kunden/Abnehmer nicht zahlen.  
+   - Synonyme/Keywords: Debitorenausfall, Zahlungsausfall, Lieferantenkredit.
+
+21. **Vertrauensschadenversicherung**  
+   - Definition: Schutz vor Vermögensschäden durch betrügerisches Handeln eigener Mitarbeiter.  
+   - Synonyme/Keywords: Unterschlagung, Diebstahl, Betrug im Betrieb.
+
+22. **Montageversicherung**  
+   - Definition: Versicherung für Schäden an Anlagen/Maschinen während Montage/Installation.  
+   - Synonyme/Keywords: Installationsphase, Bau, Anlagenaufbau.
+
+23. **Elementarversicherung**  
+   - Definition: Deckt Naturgefahren wie Überschwemmung, Erdbeben, Erdrutsch, Schneedruck.  
+   - Synonyme/Keywords: Naturkatastrophen, Hochwasser, Erdrutsch.
+
+24. **Unfallversicherung**  
+   - Definition: Zahlt Kapital oder Rente bei Unfallfolgen (Invalidität, Unfalltod).  
+   - Synonyme/Keywords: Freizeitunfall, 24-Stunden-Schutz, Einmalleistung.
+
+25. **Reiseversicherung**  
+   - Definition: Schützt bei Reiserücktritt, Gepäckverlust, Auslandskranken usw.  
+   - Synonyme/Keywords: Urlaub, Reiseabbruch, Auslandsreise.
+
+26. **Transportversicherung**  
+   - Definition: Deckt Waren und Güter im Transportweg.  
+   - Synonyme/Keywords: Logistik, Fracht, Spedition.
+
+27. **Private Arbeitslosenversicherung**  
+   - Definition: Ergänzt staatliches Arbeitslosengeld.  
+   - Synonyme/Keywords: Einkommensschutz bei Jobverlust, ALG-Plus.
+
+28. **Tierversicherung**  
+   - Definition: Absicherung für Tierarztkosten oder Tierhaftpflicht.  
+   - Synonyme/Keywords: Hund, Katze, Pferd, OP-, Kranken-, Haftpflicht.
+
+29. **Fahrerschutzversicherung**  
+   - Definition: Deckt Eigenschäden des Fahrers bei selbstverschuldetem Unfall.  
+   - Synonyme/Keywords: Fahrerunfall, Schmerzensgeld, Schutzbrief Fahrer.
+
+30. **Rechtsschutzversicherung**  
+   - Definition: Übernimmt Kosten bei Rechtsstreit (Anwalt, Gericht, Gutachter).  
+   - Synonyme/Keywords: Verkehrsrechtsschutz, Arbeitsrechtsschutz, Mietrechtsschutz.

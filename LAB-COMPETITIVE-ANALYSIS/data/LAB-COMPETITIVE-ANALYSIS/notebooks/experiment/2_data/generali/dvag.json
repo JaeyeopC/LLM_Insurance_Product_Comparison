@@ -1,0 +1,331 @@
+{
+    "title": "Die Deutsche Vermögensberatung - Generali",
+    "metadata": {
+        "description": "Sie suchen einen Berater in Ihrer Nähe? Die Vermögensberater der DVAG bieten Ihnen kompetente Beratung zu all unseren Versicherungen.",
+        "keywords": "DVAG, Deutsche Vermögensberatung,Beratersuche, Berater finden,Vermögensberater,Vermögensberatung,berater,Vertrieb,kaufen,Beratung,tarife,tarif,kosten",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Berater finden",
+        "og:description": "Sie suchen einen Berater in Ihrer Nähe? Die Vermögensberater der Deutschen Vermögensberatung bieten Ihnen kompetente Beratung zu all unseren Versicherungen.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "image",
+            "src": "/resource/blob/31304/3cb7f2a16085cc3440cf0d2d942692c4/dvag-logo-gold-mit-label-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Bera­tung, die zu Ihnen passt"
+        },
+        {
+            "text": "Postleitzahl"
+        },
+        {
+            "text": "Berater finden"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#31210",
+            "text": "Übersicht"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#5-schritte-vom-ersten-beratungsgespraech-zur-langjaehrigen-partnerschaft-31222",
+            "text": "Beratungsangebot"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#so-bewerten-kunden-die-dvag-31234",
+            "text": "Bewertungen"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#persoenliche-beratung-fuer-ihre-passende-loesung-31312",
+            "text": "Berater finden"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#die-deutsche-vermoegensberatung-in-zahlen-31208",
+            "text": "Zahlen und Fakten"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#31236",
+            "text": "DVAG Werte"
+        },
+        {
+            "type": "link",
+            "href": "/dvag#das-sagen-unabhaengige-testinstitute-31214",
+            "text": "Auszeichnungen"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "BERATER FINDEN"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie Fragen zu unseren Leistungen? Oder möchten Sie sich bei uns versichern? Die Deutsche Vermögensberatung unterstützt Sie mit langjähriger Erfahrung. Wählen Sie gemeinsam mit ihrem persönlichem Berater die richtigen Produkte für Ihre Lebenssituation aus."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Deutsche Vermögensberatung ist Deutschlands größte eigenständige Finanzberatung – und seit mehr als 45 Jahren erfolgreich unser Partner."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "5 Schritte: vom ers­ten Bera­tungs­ge­spräch zur lang­jäh­ri­gen Part­ner­schaft"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihr persönlicher Berater ist Ihr Finanzcoach. Er hilft Ihnen, Ihre Ziele zu erreichen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zuerst besprechen Sie mit Ihrem Berater Ihre Situation. Mit diesem Wissen plant er Ihre ganz eigene Lösung. Dabei denkt er an Versicherung und Vorsorge. Aber auch Ihren Vermögensaufbau und andere finanzielle Themen hat er im Blick. Erst wenn es keine offenen Fragen mehr gibt, schlägt er Ihnen die passenden Produkte vor. Auch nach dem Abschluss können Sie ihn bei allen Anliegen ansprechen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "1 - Analyse"
+        },
+        {
+            "text": "Ana­lyse"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wo stehen Sie? Wo möchten Sie hin?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im ersten Gespräch hört Ihr Berater Ihnen vor allem zu. Außerdem stellt er die wichtigsten Fragen zu Ihrer aktuellen Situation und Ihren Zielen für die Zukunft. So versteht Ihr Berater genau, worauf es Ihnen ankommt."
+        },
+        {
+            "type": "link",
+            "href": "/dvag#welche-wege-gibt-es-zum-ziel-31278",
+            "text": "zur Planung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "2 - Planung"
+        },
+        {
+            "text": "Pla­nung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Welche Wege gibt es zum Ziel?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zusammen mit Ihrem Berater haben Sie Ihre Ziele gesteckt. Welche Wege gibt es, diese Ziele zu erreichen? Mit den Ergebnissen aus der Analyse und mit Hilfe bewährter Instrument macht Ihr Berater Vorschläge für Ihre persönliche Planung."
+        },
+        {
+            "type": "link",
+            "href": "/dvag#welche-produkte-brauchen-sie-und-welche-nicht-31266",
+            "text": "zur Beratung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "3 - Beratung"
+        },
+        {
+            "text": "Bera­tung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Welche Produkte brauchen Sie? Und welche nicht?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jetzt wird es konkret: Ihr Berater stellt Ihnen im persönlichen Gespräch Ihren Plan vor und empfiehlt Ihnen die passenden Produkte. Im Gespräch klären Sie offene Fragen, konkretisieren gemeinsam die Maßnahmen und legen fest, wie es weiter geht."
+        },
+        {
+            "type": "link",
+            "href": "/dvag#guter-plan-und-jetzt-31292",
+            "text": "zur Umsetzung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "4 - Umsetzung"
+        },
+        {
+            "text": "Umset­zung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Guter Plan! Und jetzt?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Zeit für die Umsetzung! Ihr Berater stellt alle wichtigen Unterlagen für Sie zusammen. Er geht die Verträge mit Ihnen durch und erklärt, was einzelne Punkte bedeuten. Sie unterschreiben erst, wenn Sie ein rundum gutes Gefühl haben."
+        },
+        {
+            "type": "link",
+            "href": "/dvag#ihr-berater-ist-auch-in-zukunft-fuer-sie-da-31274",
+            "text": "zur Partnerschaft"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "5 - Partnerschaft"
+        },
+        {
+            "text": "Ana­lyse"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ihr Berater ist auch in Zukunft für Sie da!"
+        },
+        {
+            "type": "paragraph",
+            "text": "An Ihrer Situation ändert sich etwas? Sie haben Fragen oder Ideen?  Melden Sie sich einfach bei Ihrem Berater. Umgekehrt informiert er Sie, wenn Sie Ihr Konzept in Zukunft anpassen sollten. So entsteht eine dauerhafte Partnerschaft."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "So bewer­ten Kun­den die DVAG"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Martin Gafner\"Bin seit 2016 Kunde und mega zufrieden, haben sehr viele gemeinsame Erfolge gehabt und habe meine Finanzen deutlich verbessert.\"",
+                "Constanze Fritsche\"Sehr freundlich und kompetent. Vielen Dank für die nette Atmosphäre.\"",
+                "Reinhold Schuster\"Ich fühle mich rundum gut aufgehoben! Auch nach vielen Jahren kann ich nur bestätigen das der Service, die Beratung usw. einfach klasse ist!\""
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/31310/85f121ba2efe7d016ad62499fe8bdf9f/dvag-logo-gold-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wäh­len Sie Ihren Bera­ter aus"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finden Sie einen Berater der Deutschen Vermögensberatung (DVAG) in Ihrer Nähe"
+        },
+        {
+            "text": "Postleitzahl"
+        },
+        {
+            "text": "Berater auswählen"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Die Deut­sche Ver­mö­gens­be­ra­tung in Zah­len"
+        },
+        {
+            "type": "paragraph",
+            "text": "4,9 von 5 Sternen: So bewerten über 80.000 Kunden ihre Berater im Durchschnitt."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Rund8 Mio.Kunden",
+                "Fast50Jahre Erfahrung",
+                "Mehr als5.000Geschäftsstellen"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Diese Werte brin­gen Sie ans Ziel"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Leis­tungs­ori­en­tiert"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Berater der Deutschen Vermögensberatung sind Ihre Finanzcoaches. Sie unterstützen Sie bei den Themen Absicherung, Altersvorsorge, Vermögensaufbau, Bausparen und Finanzierung. Sie entwickeln ganzheitliche Konzepte, die Ihre persönliche Lebenssituation berücksichtigen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mensch­lich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Deutsche Vermögensberatung ist für alle Menschen da. Egal, wie groß oder klein das Vermögen ist. Sie hilft jedem und jeder, die ganz eigenen finanziellen Ziele zu erreichen. Verantwortungsvoll und zuverlässig."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Stark"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfinder der ganzheitlichen Vermögensberatung. Menschlich und wertschätzend im Umgang, leistungsorientiert und stark im Ergebnis. Rund acht Millionen Kunden. Von unabhängigen Instituten zertifizierte Produkte und Versicherungen. Regelmäßige Auszeichnungen für die Qualität von Beratung und Service. Nur einige der vielen starken Vorteile, die unser Partner Ihnen bietet."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Leis­tungs­ori­en­tiert"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Berater der Deutschen Vermögensberatung sind Ihre Finanzcoaches. Sie unterstützen Sie bei den Themen Absicherung, Altersvorsorge, Vermögensaufbau, Bausparen und Finanzierung. Sie entwickeln ganzheitliche Konzepte, die Ihre persönliche Lebenssituation berücksichtigen."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mensch­lich"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Deutsche Vermögensberatung ist für alle Menschen da. Egal, wie groß oder klein das Vermögen ist. Sie hilft jedem und jeder, die ganz eigenen finanziellen Ziele zu erreichen. Verantwortungsvoll und zuverlässig."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Stark"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfinder der ganzheitlichen Vermögensberatung. Menschlich und wertschätzend im Umgang, leistungsorientiert und stark im Ergebnis. Rund acht Millionen Kunden. Von unabhängigen Instituten zertifizierte Produkte und Versicherungen. Regelmäßige Auszeichnungen für die Qualität von Beratung und Service. Nur einige der vielen starken Vorteile, die unser Partner Ihnen bietet."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Das sagen unab­hän­gige Tes­t­in­sti­tute"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Exzellenter KundenserviceTestnote: exzellentBewertet von:ServiceRatingTestdatum: Oktober 2023",
+                "Exzellente KundenbindungTestnote: Top ErgebnisBewertet von:Deutschlands KundenchampionsTestdatum: April 2023"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/24182/3ff151fd7f73ce75b5700ad930ffc233/dvag-logo-weiss-data.svg",
+            "alt": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "dvag"
+}

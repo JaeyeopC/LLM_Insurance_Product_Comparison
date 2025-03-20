@@ -1,0 +1,9 @@
+```markdown
+| Feature                           | Company: dkv – gesundheit-organisation-hilfsmittel-service-kompressionstherapiegeraete.md | Company: generali – service-kontakt_self-service_vertragsinformationen_tarifinformation-krankenversicherung |
+|-----------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Product Type                      | Kompressionstherapiegerät Versicherung                                                    | Krankenvollversicherung und Krankenzusatzversicherung                                                       |
+| Coverage Details                  | Kostenübernahme für medizinisch notwendige Kompressionstherapiegeräte                     | Umfassender Schutz für Privat- und Geschäftskunden                                                           |
+| Additional Support                | Beratung, qualitativ hochwertige Versorgung, Anpassung und Erprobung des Hilfsmittels     | Generali GesundheitsApp für Arztrechnungen und Rezepte                                                      |
+| Unique Features                   | Zusammenarbeit mit qualifizierten Leistungserbringern in ganz Deutschland                 | Generali Protect Me App mit ortsgenauen Wetterwarnungen                                                     |
+| Contact Information               | Telefon: 0221 578 2600, E-Mail: hilfsmittelservice@dkv.com                                | Not specified                                                                                                |
+```

@@ -1,0 +1,12 @@
+```markdown
+| Feature                                   | Company: DKV – produkte-krankenversicherung-grosskunden-firmen-1556.md | Company: Generali – geschaeftskunden_gesundheit-betriebliche-vorsorge_betriebliche-krankenversicherung-inland |
+|-------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Type of Insurance                         | Arbeitnehmerfinanzierte betriebliche Krankenversicherung (bKV)         | Betriebliche Krankenversicherung (bKV)                                                                       |
+| Coverage Options                          | Krankheitskostenvollversicherung, Zusatzversicherungen, Krankentagegeldversicherung, Pflegeversicherung | bKV-Zahn, bKV-Budget, bKV-Vorsorge, bKV-Stationär/StationärUnfall                                           |
+| Employee Benefits                         | Annahmegarantie, sofortiger Versicherungsschutz, günstige Beiträge     | Keine Gesundheitsprüfung, keine Wartezeiten, beitragsfreie Versicherung, verbesserte medizinische Versorgung |
+| Employer Benefits                         | Erhöhung der Attraktivität, einfache Prozesse, Reduzierung der Lohnnebenkosten | Attraktivität für neue Mitarbeiter, steuerlich absetzbare Beiträge, langfristige Mitarbeiterbindung          |
+| Continuation of Coverage                  | Fortführung bei Jobwechsel zu Bedingungen der Einzelversicherung       | Nahtlose Fortführung im Business+AF bei Vertragsende                                                         |
+| Family Coverage                           | Mitversicherung der Angehörigen teilweise ohne Gesundheitsprüfung      | Versicherungsschutz für Angehörige ohne Gesundheitsprüfung und Wartezeiten                                   |
+| Additional Support                        | Fester Ansprechpartner vor Ort, gebührenfreies Service-Telefon         | Gesundheitstelefon rund um die Uhr                                                                           |
+| Unique Features                           | Kostenneutrale Sozialleistung, weniger Fluktuation und Fehlzeiten      | Sinnvolle Alternative zu Gehaltserhöhungen, steigende Mitarbeiteridentifikation                              |
+```

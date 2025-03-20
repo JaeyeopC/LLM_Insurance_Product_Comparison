@@ -1,0 +1,493 @@
+{
+    "title": "Ratgeber Krankenversicherung / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Allgemeine Informationen rund um den Krankenversicherungsschutz & viele Antworten zur privaten Krankenversicherung und Zusatzversicherungen",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/gesundheit/r/ratgeber-krankenversicherung",
+        "og:title": "Ratgeber Krankenversicherung / AXA",
+        "og:description": "Allgemeine Informationen rund um den Krankenversicherungsschutz & viele Antworten zur privaten Krankenversicherung und Zusatzversicherungen",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit",
+            "text": "Gesundheit"
+        },
+        {
+            "text": "Ratgeber Krankenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Arzt hält die Händen vom Patient, Stethoskop liegt auf dem Tisch"
+        },
+        {
+            "type": "paragraph",
+            "text": "In unserem Ratgeber rund um die Krankenversicherung finden Sie viele Antworten zum Themaprivate Krankenvollversicherungund Zusatzversicherungen. Lesen Sie hier nützliche Informationen rund um Ihren Gesundheitsschutz nach."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau rechnet und überlegt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wechsel von GKV zu PKV"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erhöhung der Krankenkassenbeiträge ab 2023 auf Rekordhoch: Für bestimmte Berufsgruppen lohnt es sich über einen Wechsel von der gesetzlichen Krankenkasse in die private Krankenversicherung nachzudenken."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/gkv-pkv-wechsel",
+            "text": "Wechsel von GKV zu PKV"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau sitzt am Computer und lächelt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Telematikinfrastruktur"
+        },
+        {
+            "type": "paragraph",
+            "text": "Elektronisches Rezept, elektronische Patientenakte oder elektronische Arbeitsunfähigkeitsbescheinigung – diese und viele andere digitale Anwendungen werden die Versorgung der privat und gesetzlich versicherten Patient:innen in Deutschland verbessern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/telematikinfrastruktur",
+            "text": "Telematikinfrastruktur"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau mit Hörgerät"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum die Hörgeräteversicherung sinnvoll ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Verordnet Ihr HNO-Facharzt Ihnen ein Hörgerät, dann muss Ihre gesetzliche Krankenkasse Ihnen ein solches ermöglichen – ohne dass Sie etwas dazuzahlen. Trotzdem gibt es gute Gründe, warum eine private Zusatzversicherung für Ihr Hörgerät sinnvoll sein kann."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/hoergeraeteversicherung",
+            "text": "Hörgerätversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau probiert eine neue Brille aus"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Brillenversicherung mit Extras"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie kurz- oder weitsichtig sind, dann sind Sie im Alltag zwangsläufig auf eine Brille oder auf Kontaktlinsen angewiesen. Doch die gesetzliche Krankenkasse übernimmt bei Erwachsenen nur unter bestimmten Voraussetzungen die Kosten für eine geeignete Sehhilfe."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/brillenversicherung",
+            "text": "Brillenversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Physiotherapeutin stützt Patienten bei Gehversuchen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Krankentagegeld"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Belastung von Erkrankungen ist drückend genug. Psychologen wissen, dass Krankheiten ein Gefühl existenzieller Not auslösen können. Krankentagegeld wurde als sinnvolle Zusatzsicherungen geschaffen, um zusätzliches Leid zu vermeiden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/krankentagegeld",
+            "text": "Krankentagegeld"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mädchen im Krankenhaus"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Krankenhaustagegeld"
+        },
+        {
+            "type": "paragraph",
+            "text": "Manchmal lässt sich ein Krankenhausaufenthalt nicht vermeiden. Und wenn es einmal so weit ist, sollen Sie nicht auch noch an die Finanzen denken müssen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/krankenhaustagegeld",
+            "text": "Krankenhaustagegeld"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zahnbehandlung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ganzheitlicher Schutz bei Zahnbehandlungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie mit Zahnschmerzen zum Zahnarzt gehen, wissen Sie oft noch gar nicht, wo die Ursache liegt und welche Behandlung Sie benötigen. Mit der Zahnzusatzversicherung von AXA können Sie verschiedene Zahnbehandlungen mit modernen Methoden in Anspruch nehmen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/zahnbehandlungen",
+            "text": "Zahnbehandlungen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Schwangere Frauen machen Gymnastik"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checklisten zum Thema Schwangerschaft und Klinikwahl"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schwangerschaftsvorsorge"
+        },
+        {
+            "type": "paragraph",
+            "text": "Vor, während und nach der Geburt sollte alles bedacht und geregelt sein. Denn Sie sollten sich sicher und aufgehoben fühlen. Deshalb helfen wir Ihnen bei der Planung. Mit vielen Tipps & Checkliste!"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/schwangerschaftsvorsorge",
+            "text": "Schwangerschaftsvorsorge & Geburtsvorbereitung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine hält eine Weltkarte auf die Wand"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste zur Reisevorbereitung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Die Reiseapotheke und wichtige Impfungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Endlich kann es losgehen. Flug und Unterkunft sind organisiert, die Koffer schon fast gepackt – doch was gehört alles in den Koffer und in die Reiseapotheke für Ihr Reiseland?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/reiseapotheke-checkliste",
+            "text": "Reiseapotheke"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ein Mann lächelt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zahnfüllungen: Inlays, Mehrschichtverfahren und Co."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit der Zahnzusatzversicherung von AXA können Sie sich einen Großteil der Kosten für Füllungen erstatten lassen. So können Sie sich für eine Zahnfüllung entscheiden, die allen Ihren Ansprüchen an Ästhetik, Haltbarkeit und Verträglichkeit gerecht wird."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/zahnfuellungen",
+            "text": "Zahnzusatzversicherung für Füllungen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Gespräch mit einem Arzt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum eine Vorsorge-Versicherung sinnvoll ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Viele Krankheiten lassen sich sehr viel besser behandeln, wenn sie frühzeitig entdeckt werden. Oft können gesundheitliche Probleme durch präventive Maßnahmen sogar von Vornherein verhindert werden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/vorsorge-zusatzversicherung",
+            "text": "Vorsorge-Zusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Ärztin macht Ultraschall bei einer Schwangeren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Mehr Schutz gesucht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die gesetzliche Krankenversicherung reicht nicht immer aus, um die gewünschte Behandlung zu erhalten. Immer mehr Menschen entschließen sich daher für eine Zusatzversicherung, um ihren Krankenschutz zu verbessern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/mehr-schutz-gesucht",
+            "text": "Die private Krankenzusatzversicherung schließt die Lücken"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau ist in einer Krisensituation"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Psychologischen Therapieformen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Orientierung zwischen den verschiedenen Formen psychologischer Therapien ist schwierig und die Suche nach einem Therapieplatz wird häufig langwierig und belastend. Verständnisvolle Begleitung ist sehr erwünscht auf dem Weg zur Therapie."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/psychologische-therapieformen",
+            "text": "Begleitung zu psychologischen Therapien"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kleines Kind liegt in einem Krankenhausbett"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Familienfreundliche Zusatzversicherung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn der Klinikaufenthalt unvermeidlich ist, sollten Sie ihn zumindest so angenehm wie möglich gestalten, und eine bestmögliche medizinische Betreuung und Komfort genießen. Eine private Zusatzversicherung ist daher vor allem für Familien sehr wichtig."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/familienfreundliche-zusatzversicherung",
+            "text": "Familienfreundliche Zusatzversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Junges Ehepaar sitzt auf dem Sofa und liest"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Künstliche Befruchtung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Etwa 10 Prozent der Ehen bleiben in Deutschland ungewollt kinderlos. Mit den Methoden der modernen Medizin kann vielen Paaren heute geholfen werden. Erfahren Sie mehr zu diesen und weiteren Themen durch die Experteninterviews."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/kuenstliche-befruchtung",
+            "text": "Interviews mit Prof. Dr. Steck und Dr. Bühler"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann prüft, ob er Haarausfall hat"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ursachen und Behandlungsmethoden von Haarausfall"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Haarausfall im krankhaften Sinne besteht, wenn der Haarverlust stärker als die Norm ausfällt. Wir helfen Ihnen, der Ursache Ihres Haarausfalls auf den Grund zu gehen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/haarausfall-ursache",
+            "text": "Haarausfall Ursache & Behandlung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Empfang in einer Arztpraxis"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Gebührenordnung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im deutschen Gesundheitssystem regeln Gebührenordnungen für Ärzte die Kosten auch außerhalb der gesetzlich versicherten Versorgung. Im Interesse aller Beteiligten werden bindende Vereinbarungen über die Vergütung von ärztlichen Leistungen getroffen. Jede private Krankenversicherung muss sich bei der Kostenerstattung an diese Regeln halten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/gebuehrenverordnung",
+            "text": "Gebührenverordnung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Patientin spricht per Tablet mit einer Ärztin"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Telemedizin"
+        },
+        {
+            "type": "paragraph",
+            "text": "Telemedizin ist die beste Unterstützung, die sich Ärzte für ihre Patienten wünschen können. Die digitalen Gesundheitsleistungen sind auf einem guten Weg, das macht sie jedoch nicht zum Allheilmittel. Der Arzt bleibt gefragt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/telemedizin",
+            "text": "Telemedizin"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Arzt erklärt einem Patienten etwas zur Behandlung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste zu Rechten bei Behandlungsfehlern"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Behandlungsfehler"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jeder ärztliche Fehler ist einer zu viel. Darin sind sich alle einig. Der Umgang mit Behandlungsfehlern wird zusehends offener, von Konfrontation geht die Tendenz zur Kommunikation: Man redet miteinander. An dieser günstigen Entwicklung sind vor allem auch aufmerksame Patienten beteiligt, die ihre Rechte kennen und einfordern."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/behandlungsfehler",
+            "text": "Behandlungsfehler"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mutter und Baby liegen zusammen auf dem Bett"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checkliste Tipps für junge Mütter"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Wochenbettdepression"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ca. 10% der Frauen entwickeln in der Zeit nach der Geburt handfeste Depressionen, die über Monate anhalten können. Was kaum jemand weiß: Selbst Väter sind davon betroffen. Eine Gefahr für Mutter und Kind, ja die gesamte Familie – Unterstützung und Hilfe ist deshalb dringend angeraten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/wochenbettdepression",
+            "text": "Wochenbettdepression"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann sitzt deprimiert an seinem Schreibtisch im Büro"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sucht am Arbeitsplatz"
+        },
+        {
+            "type": "paragraph",
+            "text": "Leistungsdruck bei der Arbeit kann bei einigen Menschen Suchtprobleme auslösen. Mit Alkohol, Aufputschmittel oder Drogen wird versucht, dem Druck standzuhalten. Sucht ist eine Krankheit, die man erfolgreich behandeln kann. Wir zeigen den Weg aus der Abhängigkeit."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/sucht-am-arbeitsplatz",
+            "text": "Sucht am Arbeitsplatz"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zahnarztinstrumente"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zahnvorsorge"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schöne und gesunde Zähne sind ein Teil der Lebensqualität. Das strahlende Lächeln ist nicht nur ein Erfolgsfaktor und Sympathieträger, sondern auch ein wichtiger Baustein im allgemeinen Gesundheitszustand. Es lohnt sich also, in die Pflege und Vorsorge der Zähne zu investieren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/gesundheit/a/gesunde-zahnvorsorge",
+            "text": "Zahnvorsorge"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Checklisten Schwangerschaft und Klinikauswahl (PDF, 64 KB)",
+                "Checkliste Reisevorbereitung (PDF, 1.5 MB)",
+                "Checkliste Rechte bei Behandlungsfehlern (PDF, 273 KB)"
+            ]
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_gesundheit_r_ratgeber-krankenversicherung"
+}

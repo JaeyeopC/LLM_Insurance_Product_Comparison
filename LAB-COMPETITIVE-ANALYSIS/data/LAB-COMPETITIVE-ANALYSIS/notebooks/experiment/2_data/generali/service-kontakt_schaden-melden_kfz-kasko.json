@@ -1,0 +1,96 @@
+{
+    "title": "Bequem online einen Kfz-Kasko-Schaden melden I Generali",
+    "metadata": {
+        "description": "Sie haben einen Kasko-Schaden zu Ihrer Kfz-Versicherung bei der Generali zu melden? Informieren Sie uns einfach online über Ihren Kfz-Kasko-Schaden. ",
+        "keywords": "Schaden melden,Kfz,Kfz-Versicherung,Kfz-Kasko-Versicherung,Kfz-Schaden,Kfz-Schaden melden,Kfz-Kasko-Schaden,Kfz-Kasko-Schaden melden,Schaden online melden,Schaden,melden",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Schadenmeldung Kfz-Kasko",
+        "og:description": "Nutzen Sie unser Online-Formular für Ihren Kfz-Kaskoschaden.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Kfz-Kasko-Schaden melden"
+        },
+        {
+            "text": "Sie haben einen Kfz-Kasko-Schaden, den Sie uns melden möchten?"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "SERVICE & KONTAKT",
+                "SCHADEN MELDEN",
+                "KFZ-KASKO-SCHADEN MELDEN"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Schnelle und unkom­pli­zierte Hilfe im Scha­den­fall"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "WerkstattserviceNutzen Sie unseren Top-Reparaturservice bei UnfallschädenMehr erfahren",
+                "KostenvoranschlagWir kümmern uns um einen Kostenvoranschlag für SieMehr erfahren",
+                "GlasbruchVereinbaren Sie einen Termin bei unserem Partner Carglass®Termin vereinbaren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Für alle ande­ren Schä­den nut­zen Sie bitte das fol­gende For­mu­lar"
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte füllen Sie das Formular vollständig aus. Wir kümmern uns gerne direkt darum."
+        },
+        {
+            "type": "paragraph",
+            "text": "Alle mit * gekennzeichneten Felder sind Pflichtfelder."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Wetter-Warn-App für mehr Schutz"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "service-kontakt_schaden-melden_kfz-kasko"
+}

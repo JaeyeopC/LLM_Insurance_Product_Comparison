@@ -1,0 +1,1902 @@
+[
+  {
+    "product_name": "Health Insurance (Gesetzliche Krankenversicherung)",
+    "features": [
+      {
+        "feature_name": "Comprehensive Medical Coverage",
+        "feature_questions": [
+          "What medical services are included in the Comprehensive Medical Coverage of the Health Insurance?",
+          "Are there any limitations or exclusions in the Comprehensive Medical Coverage of the Health Insurance?",
+          "Does the Comprehensive Medical Coverage of the Health Insurance cover pre-existing conditions?",
+          "How does the Comprehensive Medical Coverage of the Health Insurance handle emergency medical situations?"
+        ]
+      },
+      {
+        "feature_name": "Prescription Drug Coverage",
+        "feature_questions": [
+          "What types of prescription drugs are covered under the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or exclusions on the Prescription Drug Coverage feature of the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Does the Prescription Drug Coverage feature of the Health Insurance (Gesetzliche Krankenversicherung) require any co-payments or deductibles?",
+          "Are there any specific procedures or requirements to claim the Prescription Drug Coverage under the Health Insurance (Gesetzliche Krankenversicherung)?"
+        ]
+      },
+      {
+        "feature_name": "Hospitalization and Surgery Coverage",
+        "feature_questions": [
+          "What extent of hospitalization and surgery coverage is provided by the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or exclusions in the hospitalization and surgery coverage of this health insurance?",
+          "Does the Health Insurance (Gesetzliche Krankenversicherung) cover all types of surgeries and hospital stays?",
+          "Are there any additional costs or co-pays associated with the hospitalization and surgery coverage?"
+        ]
+      },
+      {
+        "feature_name": "Maternity and Newborn Care",
+        "feature_questions": [
+          "What specific maternity and newborn care services are covered under the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or exclusions related to maternity and newborn care in the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Does the Health Insurance (Gesetzliche Krankenversicherung) cover prenatal and postnatal care?",
+          "Are there any waiting periods for maternity and newborn care coverage in the Health Insurance (Gesetzliche Krankenversicherung)?"
+        ]
+      },
+      {
+        "feature_name": "Mental Health Services",
+        "feature_questions": [
+          "What mental health services are covered under the \"Health Insurance (Gesetzliche Krankenversicherung)\" policy?",
+          "Are there any limitations or exclusions on mental health services in the \"Health Insurance (Gesetzliche Krankenversicherung)\"?",
+          "Does the \"Health Insurance (Gesetzliche Krankenversicherung)\" cover both inpatient and outpatient mental health services?",
+          "Are there any co-pays or deductibles associated with mental health services in the \"Health Insurance (Gesetzliche Krankenversicherung)\"?"
+        ]
+      },
+      {
+        "feature_name": "Preventive and Wellness Services",
+        "feature_questions": [
+          "What preventive and wellness services are covered under the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or exclusions for preventive and wellness services in the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Does the Health Insurance (Gesetzliche Krankenversicherung) cover the full cost of preventive and wellness services or is there a co-payment required?",
+          "Are there any specific conditions or requirements to be eligible for preventive and wellness services under the Health Insurance (Gesetzliche Krankenversicherung)?"
+        ]
+      },
+      {
+        "feature_name": "Chronic Disease Management",
+        "feature_questions": [
+          "What specific services does the \"Chronic Disease Management\" feature of the Health Insurance provide for managing chronic diseases?",
+          "Are there any limitations or exclusions in the \"Chronic Disease Management\" feature of the Health Insurance?",
+          "How does the \"Chronic Disease Management\" feature of the Health Insurance support patients in managing their chronic conditions?",
+          "Does the \"Chronic Disease Management\" feature of the Health Insurance cover the cost of medications and treatments for chronic diseases?"
+        ]
+      },
+      {
+        "feature_name": "Dental and Vision Coverage",
+        "feature_questions": [
+          "Does the Health Insurance (Gesetzliche Krankenversicherung) include coverage for dental and vision care?",
+          "What specific dental and vision treatments are covered under the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or exclusions in the dental and vision coverage of the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Does the dental and vision coverage in the Health Insurance (Gesetzliche Krankenversicherung) require any additional premium or co-payments?"
+        ]
+      },
+      {
+        "feature_name": "Rehabilitation Services",
+        "feature_questions": [
+          "What types of rehabilitation services are covered under the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or conditions for accessing rehabilitation services under this health insurance plan?",
+          "Does the insurance cover both inpatient and outpatient rehabilitation services?",
+          "How does the insurance plan handle the costs of long-term rehabilitation services?"
+        ]
+      },
+      {
+        "feature_name": "Emergency Medical Services",
+        "feature_questions": [
+          "What types of emergency medical services are covered under the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Are there any limitations or exclusions for emergency medical services in the Health Insurance (Gesetzliche Krankenversicherung)?",
+          "Does the Health Insurance (Gesetzliche Krankenversicherung) cover emergency medical services abroad?",
+          "What is the process for claiming emergency medical services under the Health Insurance (Gesetzliche Krankenversicherung)?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Private Health Insurance (Private Krankenversicherung)",
+    "features": [
+      {
+        "feature_name": "Comprehensive Medical Coverage",
+        "feature_questions": [
+          "What specific medical services are included in the comprehensive medical coverage of the Private Health Insurance?",
+          "Are there any limitations or exclusions in the comprehensive medical coverage of the Private Health Insurance?",
+          "Does the comprehensive medical coverage of the Private Health Insurance include both inpatient and outpatient treatments?",
+          "How does the Private Health Insurance define 'comprehensive' in terms of medical coverage?"
+        ]
+      },
+      {
+        "feature_name": "Choice of Doctors",
+        "feature_questions": [
+          "Does the Private Health Insurance plan allow for the choice of any doctor or specialist?",
+          "Are there any restrictions or limitations on the choice of doctors under this insurance policy?",
+          "Does the insurance cover the full cost of treatment from the chosen doctor?",
+          "How does the process of choosing a doctor work under this Private Health Insurance plan?"
+        ]
+      },
+      {
+        "feature_name": "Hospital Accommodation Options",
+        "feature_questions": [
+          "What types of hospital accommodation options are available in the Private Health Insurance plan?",
+          "Does the Private Health Insurance cover the cost of private or semi-private hospital rooms?",
+          "Are there any restrictions or limitations on the hospital accommodation options provided by the Private Health Insurance?",
+          "Does the Private Health Insurance plan offer the option to choose your preferred hospital for accommodation?"
+        ]
+      },
+      {
+        "feature_name": "Dental Treatment Coverage",
+        "feature_questions": [
+          "What types of dental treatments are covered under the Private Health Insurance?",
+          "Are there any limitations or exclusions on the Dental Treatment Coverage in the Private Health Insurance?",
+          "Does the Dental Treatment Coverage include orthodontic and cosmetic dentistry procedures?",
+          "What is the process to claim for dental treatments under the Private Health Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Prescription Medication Coverage",
+        "feature_questions": [
+          "What types of prescription medications are covered under the Private Health Insurance plan?",
+          "Are there any limitations or exclusions on the Prescription Medication Coverage in the Private Health Insurance?",
+          "Does the Prescription Medication Coverage in the Private Health Insurance include both generic and brand-name drugs?",
+          "Is there a co-pay or deductible for prescription medications under the Private Health Insurance plan?"
+        ]
+      },
+      {
+        "feature_name": "Alternative Therapy Coverage",
+        "feature_questions": [
+          "What types of alternative therapies are covered under the Private Health Insurance?",
+          "Are there any limitations or exclusions on the alternative therapy coverage in the Private Health Insurance?",
+          "Does the Private Health Insurance require a referral or pre-approval for alternative therapy coverage?",
+          "How much does the Private Health Insurance cover for each alternative therapy session?"
+        ]
+      },
+      {
+        "feature_name": "Overseas Travel Health Coverage",
+        "feature_questions": [
+          "What is the extent of the overseas travel health coverage provided by the Private Health Insurance?",
+          "Are there any specific conditions or limitations to the overseas travel health coverage in the Private Health Insurance policy?",
+          "Does the Private Health Insurance's overseas travel health coverage include emergency medical evacuation or repatriation?",
+          "Are pre-existing conditions covered under the overseas travel health coverage of the Private Health Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Preventive Health Check-ups",
+        "feature_questions": [
+          "What types of preventive health check-ups are covered under the Private Health Insurance?",
+          "Are there any limitations or restrictions on the frequency of preventive health check-ups?",
+          "Does the insurance cover the full cost of preventive health check-ups or is there a co-pay?",
+          "Are there any specific conditions or requirements to be eligible for preventive health check-up coverage?"
+        ]
+      },
+      {
+        "feature_name": "Maternity and Newborn Care",
+        "feature_questions": [
+          "What specific maternity and newborn care services are covered under the Private Health Insurance?",
+          "Are there any limitations or exclusions related to maternity and newborn care in the Private Health Insurance policy?",
+          "Does the Private Health Insurance cover prenatal and postnatal care for the mother and newborn?",
+          "What is the waiting period for the maternity and newborn care coverage to become effective in the Private Health Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Mental Health Services",
+        "feature_questions": [
+          "What mental health services are covered under the Private Health Insurance policy?",
+          "Are there any limitations or exclusions related to mental health services in the Private Health Insurance policy?",
+          "Does the Private Health Insurance policy cover outpatient and inpatient mental health services?",
+          "How does the Private Health Insurance policy handle claims for mental health services?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Long-Term Care Insurance (Pflegeversicherung)",
+    "features": [
+      {
+        "feature_name": "Daily Care Benefit",
+        "feature_questions": [
+          "What is the maximum amount covered under the \"Daily Care Benefit\" in the Long-Term Care Insurance?",
+          "Are there any specific conditions or limitations associated with the \"Daily Care Benefit\" feature in the Long-Term Care Insurance?",
+          "How is the \"Daily Care Benefit\" amount determined in the Long-Term Care Insurance policy?",
+          "Does the \"Daily Care Benefit\" in the Long-Term Care Insurance cover all types of care, or are certain types of care excluded?"
+        ]
+      },
+      {
+        "feature_name": "Inflation Protection",
+        "feature_questions": [
+          "How does the \"Inflation Protection\" feature in the Long-Term Care Insurance adjust the benefits over time?",
+          "What is the rate of inflation protection provided by the Long-Term Care Insurance?",
+          "Are there any additional costs associated with the \"Inflation Protection\" feature in the Long-Term Care Insurance?",
+          "How does the \"Inflation Protection\" feature impact the premium of the Long-Term Care Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Lifetime Benefit Period",
+        "feature_questions": [
+          "What is the maximum duration of the Lifetime Benefit Period in the Long-Term Care Insurance policy?",
+          "Are there any conditions or limitations associated with the Lifetime Benefit Period in the Long-Term Care Insurance?",
+          "How does the Lifetime Benefit Period in the Long-Term Care Insurance policy affect the premium?",
+          "Can the Lifetime Benefit Period in the Long-Term Care Insurance be extended or renewed?"
+        ]
+      },
+      {
+        "feature_name": "Home Care Coverage",
+        "feature_questions": [
+          "What extent of home care services does the Long-Term Care Insurance cover?",
+          "Are there any limitations or exclusions in the home care coverage provided by the Long-Term Care Insurance?",
+          "Does the Long-Term Care Insurance cover the full cost of home care or is there a co-payment required?",
+          "How does the Long-Term Care Insurance define eligibility for home care coverage?"
+        ]
+      },
+      {
+        "feature_name": "Assisted Living Coverage",
+        "feature_questions": [
+          "What is the extent of coverage provided for assisted living under the Long-Term Care Insurance policy?",
+          "Are there any specific conditions or limitations related to the Assisted Living Coverage in the Long-Term Care Insurance?",
+          "How does the Long-Term Care Insurance define 'assisted living' for the purpose of this coverage?",
+          "What is the process to claim Assisted Living Coverage under the Long-Term Care Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Nursing Home Coverage",
+        "feature_questions": [
+          "What percentage of nursing home costs does the Long-Term Care Insurance cover?",
+          "Are there any limitations or exclusions on the nursing home coverage provided by the Long-Term Care Insurance?",
+          "Does the Long-Term Care Insurance's nursing home coverage include all types of nursing home care, such as skilled nursing and assisted living?",
+          "How long does the Long-Term Care Insurance provide coverage for nursing home stays?"
+        ]
+      },
+      {
+        "feature_name": "Waiver of Premium",
+        "feature_questions": [
+          "What conditions must be met for the \"Waiver of Premium\" feature to be activated in the Long-Term Care Insurance policy?",
+          "Are there any specific limitations or exclusions associated with the \"Waiver of Premium\" feature in the Long-Term Care Insurance?",
+          "How long does the \"Waiver of Premium\" feature last once it is activated in the Long-Term Care Insurance policy?",
+          "Does the \"Waiver of Premium\" feature in the Long-Term Care Insurance policy affect the benefits or coverage in any way?"
+        ]
+      },
+      {
+        "feature_name": "Guaranteed Renewability",
+        "feature_questions": [
+          "What are the conditions under which the guaranteed renewability of the Long-Term Care Insurance is assured?",
+          "Are there any circumstances where the guaranteed renewability of the Long-Term Care Insurance may be denied?",
+          "Does the guaranteed renewability feature of the Long-Term Care Insurance come with any additional costs or premiums?",
+          "How does the guaranteed renewability feature impact the overall cost and benefits of the Long-Term Care Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Restoration of Benefits",
+        "feature_questions": [
+          "What is the process for the restoration of benefits in the Long-Term Care Insurance policy?",
+          "Are there any specific conditions or limitations for the restoration of benefits in the Long-Term Care Insurance?",
+          "How often can benefits be restored under the Long-Term Care Insurance policy?",
+          "What is the impact on premiums if the restoration of benefits feature is utilized in the Long-Term Care Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Non-Forfeiture Benefit",
+        "feature_questions": [
+          "What is the specific coverage provided by the Non-Forfeiture Benefit in the Long-Term Care Insurance policy?",
+          "Are there any conditions or requirements to qualify for the Non-Forfeiture Benefit in the Long-Term Care Insurance?",
+          "How does the Non-Forfeiture Benefit affect the premium of the Long-Term Care Insurance?",
+          "What happens to the Non-Forfeiture Benefit if the Long-Term Care Insurance policy is cancelled or lapsed?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Car Insurance (Kfz-Versicherung)",
+    "features": [
+      {
+        "feature_name": "Collision Damage Waiver",
+        "feature_questions": [
+          "What does the Collision Damage Waiver cover in the Car Insurance policy?",
+          "Are there any exclusions or limitations to the Collision Damage Waiver in the Car Insurance policy?",
+          "What is the deductible for the Collision Damage Waiver in the Car Insurance policy?",
+          "Are there any specific conditions or requirements to activate the Collision Damage Waiver in the Car Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Third-Party Liability Coverage",
+        "feature_questions": [
+          "What is the extent of the coverage provided under the Third-Party Liability Coverage in the Car Insurance policy?",
+          "Are there any specific exclusions or limitations in the Third-Party Liability Coverage of the Car Insurance?",
+          "What are the conditions under which the Third-Party Liability Coverage of the Car Insurance is applicable?",
+          "Does the Third-Party Liability Coverage in the Car Insurance cover both bodily injury and property damage?"
+        ]
+      },
+      {
+        "feature_name": "Comprehensive Coverage",
+        "feature_questions": [
+          "What specific damages or incidents does the Comprehensive Coverage in the Car Insurance policy cover?",
+          "Are there any exclusions or limitations to the Comprehensive Coverage in the Car Insurance policy?",
+          "What is the deductible for the Comprehensive Coverage in the Car Insurance policy?",
+          "Does the Comprehensive Coverage in the Car Insurance policy include any additional benefits or services?"
+        ]
+      },
+      {
+        "feature_name": "Personal Injury Protection",
+        "feature_questions": [
+          "What coverage does the Personal Injury Protection feature provide in the Car Insurance policy?",
+          "Are there any limitations or exclusions to the Personal Injury Protection feature in the Car Insurance policy?",
+          "How does the Personal Injury Protection feature in the Car Insurance policy affect the overall premium?",
+          "Can the Personal Injury Protection feature in the Car Insurance policy be customized or upgraded?"
+        ]
+      },
+      {
+        "feature_name": "Vehicle Theft Coverage",
+        "feature_questions": [
+          "What is the extent of coverage provided under the \"Vehicle Theft Coverage\" in the Car Insurance policy?",
+          "Are there any specific conditions or exclusions applicable to the \"Vehicle Theft Coverage\" feature?",
+          "What is the process and documentation required to claim \"Vehicle Theft Coverage\" in the event of a theft?",
+          "Does the \"Vehicle Theft Coverage\" feature include compensation for personal belongings inside the stolen vehicle?"
+        ]
+      },
+      {
+        "feature_name": "Natural Disaster Coverage",
+        "feature_questions": [
+          "What types of natural disasters are covered under the Car Insurance policy?",
+          "Are there any specific conditions or limitations related to the Natural Disaster Coverage in the Car Insurance policy?",
+          "What is the process and timeline for filing a claim for damages caused by a natural disaster?",
+          "Does the Natural Disaster Coverage in the Car Insurance policy include both repair and replacement costs?"
+        ]
+      },
+      {
+        "feature_name": "Roadside Assistance",
+        "feature_questions": [
+          "What services are included in the \"Roadside Assistance\" feature of the Car Insurance?",
+          "Are there any limitations or exclusions to the \"Roadside Assistance\" coverage in the Car Insurance policy?",
+          "Is there an additional cost for the \"Roadside Assistance\" feature in the Car Insurance policy?",
+          "How can the \"Roadside Assistance\" feature be activated in case of an emergency?"
+        ]
+      },
+      {
+        "feature_name": "Rental Car Coverage",
+        "feature_questions": [
+          "What are the terms and conditions for the \"Rental Car Coverage\" feature in the Car Insurance policy?",
+          "Does the \"Rental Car Coverage\" feature cover all types of rental vehicles under the Car Insurance policy?",
+          "What is the maximum duration for which the \"Rental Car Coverage\" is applicable under the Car Insurance policy?",
+          "Are there any geographical restrictions or limitations for the \"Rental Car Coverage\" feature in the Car Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "No-Claims Discount",
+        "feature_questions": [
+          "What percentage of discount is offered under the No-Claims Discount feature in the Car Insurance policy?",
+          "What is the eligibility criteria to avail the No-Claims Discount in the Car Insurance policy?",
+          "How many claim-free years are required to qualify for the maximum No-Claims Discount?",
+          "Does the No-Claims Discount apply to all components of the Car Insurance policy or only specific ones?"
+        ]
+      },
+      {
+        "feature_name": "Glass Breakage Coverage",
+        "feature_questions": [
+          "What does the Glass Breakage Coverage in the Car Insurance policy specifically cover?",
+          "Are there any exclusions or limitations to the Glass Breakage Coverage in the Car Insurance policy?",
+          "What is the deductible for the Glass Breakage Coverage in the Car Insurance policy?",
+          "Are there any conditions or requirements to qualify for the Glass Breakage Coverage in the Car Insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Homeowner's Insurance (Wohngebäudeversicherung)",
+    "features": [
+      {
+        "feature_name": "Building Structure Coverage",
+        "feature_questions": [
+          "What types of building structures are covered under the Homeowner's Insurance policy?",
+          "Are there any exclusions or limitations to the Building Structure Coverage in the Homeowner's Insurance policy?",
+          "Does the Building Structure Coverage in the Homeowner's Insurance policy include damages caused by natural disasters?",
+          "How is the coverage amount for the Building Structure determined in the Homeowner's Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Natural Disaster Protection",
+        "feature_questions": [
+          "What types of natural disasters are covered under the Homeowner's Insurance policy?",
+          "Are there any specific conditions or limitations related to the Natural Disaster Protection feature?",
+          "How does the claim process work in the event of a natural disaster?",
+          "Does the Natural Disaster Protection feature cover temporary housing or relocation costs?"
+        ]
+      },
+      {
+        "feature_name": "Water Damage Coverage",
+        "feature_questions": [
+          "What types of water damage are covered under the Homeowner's Insurance policy?",
+          "Are there any specific conditions or exclusions related to water damage coverage in the Homeowner's Insurance policy?",
+          "What is the maximum coverage limit for water damage under the Homeowner's Insurance policy?",
+          "Does the water damage coverage in the Homeowner's Insurance policy include repairs and restoration costs?"
+        ]
+      },
+      {
+        "feature_name": "Fire and Smoke Damage",
+        "feature_questions": [
+          "What coverage does the homeowner's insurance provide for fire and smoke damage?",
+          "Are there any exclusions or limitations in the policy for fire and smoke damage?",
+          "What is the process for filing a claim for fire and smoke damage under the homeowner's insurance policy?",
+          "Does the homeowner's insurance policy cover the cost of temporary housing in case of fire and smoke damage?"
+        ]
+      },
+      {
+        "feature_name": "Vandalism and Theft Protection",
+        "feature_questions": [
+          "What types of vandalism and theft are covered under the Homeowner's Insurance policy?",
+          "Are there any specific conditions or limitations to the vandalism and theft protection feature in the Homeowner's Insurance policy?",
+          "Does the vandalism and theft protection feature cover both the interior and exterior of the home?",
+          "What is the process and requirements for filing a claim for vandalism or theft under the Homeowner's Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Glass Breakage Coverage",
+        "feature_questions": [
+          "What types of glass breakage are covered under the Homeowner's Insurance policy?",
+          "Are there any specific conditions or exclusions related to the Glass Breakage Coverage in the Homeowner's Insurance policy?",
+          "What is the maximum coverage limit for glass breakage under the Homeowner's Insurance policy?",
+          "Does the Glass Breakage Coverage in the Homeowner's Insurance policy include repair and replacement costs?"
+        ]
+      },
+      {
+        "feature_name": "Liability Coverage",
+        "feature_questions": [
+          "What is the extent of the liability coverage provided in the Homeowner's Insurance policy?",
+          "Are there any specific exclusions or limitations to the liability coverage in the Homeowner's Insurance policy?",
+          "Does the liability coverage in the Homeowner's Insurance policy cover incidents involving tenants or third parties?",
+          "How does the claim process work for the liability coverage under the Homeowner's Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Temporary Accommodation Costs",
+        "feature_questions": [
+          "What is the maximum amount covered for temporary accommodation costs in the Homeowner's Insurance policy?",
+          "Are there any specific conditions or limitations for the coverage of temporary accommodation costs?",
+          "How long does the Homeowner's Insurance cover temporary accommodation costs after a covered event?",
+          "Does the policy cover temporary accommodation costs for all types of covered events or are there exceptions?"
+        ]
+      },
+      {
+        "feature_name": "Renovation and Repair Coverage",
+        "feature_questions": [
+          "What types of renovations and repairs are covered under the Homeowner's Insurance policy?",
+          "Are there any limitations or exclusions to the Renovation and Repair Coverage in the Homeowner's Insurance policy?",
+          "Does the Renovation and Repair Coverage in the Homeowner's Insurance policy include both interior and exterior repairs?",
+          "What is the process for filing a claim for renovations and repairs under the Homeowner's Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Personal Property Protection",
+        "feature_questions": [
+          "What is the extent of coverage provided by the Personal Property Protection feature in the Homeowner's Insurance policy?",
+          "Are there any specific exclusions or limitations under the Personal Property Protection feature of the Homeowner's Insurance?",
+          "Does the Personal Property Protection in the Homeowner's Insurance cover damages caused by natural disasters or theft?",
+          "How does the claim process work for the Personal Property Protection feature in the Homeowner's Insurance?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Renters Insurance (Hausratversicherung)",
+    "features": [
+      {
+        "feature_name": "Personal Property Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit for personal property under the Renters Insurance policy?",
+          "Are there any specific types of personal property that are excluded from the coverage?",
+          "Does the Personal Property Coverage in the Renters Insurance policy cover damages caused by all types of incidents or are there any exceptions?",
+          "How is the value of personal property determined for the purpose of coverage under the Renters Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Liability Protection",
+        "feature_questions": [
+          "What is the extent of the liability protection provided under the Renters Insurance policy?",
+          "Are there any specific conditions or exclusions applicable to the liability protection feature in the Renters Insurance?",
+          "How does the liability protection feature in the Renters Insurance respond to claims for property damage or bodily injury?",
+          "What is the maximum coverage limit for the liability protection under the Renters Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Temporary Living Expenses",
+        "feature_questions": [
+          "What is the maximum coverage limit for temporary living expenses under the Renters Insurance policy?",
+          "Are there any specific conditions or circumstances under which the temporary living expenses are covered?",
+          "How long does the Renters Insurance policy provide coverage for temporary living expenses?",
+          "Does the policy cover all types of temporary living expenses, or are there any exclusions?"
+        ]
+      },
+      {
+        "feature_name": "Theft Protection",
+        "feature_questions": [
+          "What specific items does the theft protection cover in the Renters Insurance policy?",
+          "Are there any limitations or exclusions to the theft protection feature in the Renters Insurance policy?",
+          "Does the theft protection feature in the Renters Insurance policy cover thefts that occur outside the home?",
+          "What is the maximum coverage amount provided under the theft protection feature in the Renters Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Natural Disaster Coverage",
+        "feature_questions": [
+          "What types of natural disasters are covered under the Renters Insurance policy?",
+          "Are there any specific conditions or limitations for the Natural Disaster Coverage in the Renters Insurance policy?",
+          "What is the maximum coverage amount provided for damages caused by natural disasters in the Renters Insurance policy?",
+          "Does the Natural Disaster Coverage in the Renters Insurance policy include temporary accommodation costs if the rented property becomes uninhabitable?"
+        ]
+      },
+      {
+        "feature_name": "Replacement Cost Coverage",
+        "feature_questions": [
+          "What does the \"Replacement Cost Coverage\" feature in the Renters Insurance policy cover?",
+          "Are there any specific conditions or limitations under the \"Replacement Cost Coverage\" feature in the Renters Insurance policy?",
+          "How is the replacement cost calculated under this feature in the Renters Insurance policy?",
+          "Are there any exclusions to what items are covered under the \"Replacement Cost Coverage\" feature in the Renters Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Bicycle Theft Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit for bicycle theft under the Renters Insurance policy?",
+          "Are there any specific conditions or requirements for the Bicycle Theft Coverage to be valid?",
+          "Does the Bicycle Theft Coverage apply to all types of bicycles or are there any exclusions?",
+          "Is there an additional premium for including Bicycle Theft Coverage in the Renters Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Lock Replacement Service",
+        "feature_questions": [
+          "What is the coverage limit for the lock replacement service in the renters insurance policy?",
+          "Are there any specific conditions or circumstances under which the lock replacement service is provided?",
+          "Does the lock replacement service cover all types of locks or are there any exclusions?",
+          "How many times can the lock replacement service be used during the policy period?"
+        ]
+      },
+      {
+        "feature_name": "Glass Breakage Coverage",
+        "feature_questions": [
+          "What specific incidents of glass breakage are covered under the Renters Insurance policy?",
+          "Are there any limitations or exclusions to the Glass Breakage Coverage in the Renters Insurance policy?",
+          "What is the process and requirements for filing a claim for glass breakage under the Renters Insurance policy?",
+          "Does the Glass Breakage Coverage in the Renters Insurance policy include replacement costs or repair costs?"
+        ]
+      },
+      {
+        "feature_name": "Water Damage Protection",
+        "feature_questions": [
+          "What types of water damage are covered under the Renters Insurance policy?",
+          "Are there any specific conditions or exclusions related to water damage protection in the Renters Insurance policy?",
+          "What is the maximum coverage limit for water damage under the Renters Insurance policy?",
+          "Does the Renters Insurance policy require any additional premium for water damage protection?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Life Insurance (Lebensversicherung)",
+    "features": [
+      {
+        "feature_name": "Death Benefit Coverage",
+        "feature_questions": [
+          "What is the maximum amount of death benefit coverage provided by the life insurance policy?",
+          "Are there any specific conditions or exclusions that may affect the payout of the death benefit coverage?",
+          "How does the life insurance policy calculate the amount for the death benefit coverage?",
+          "Can the death benefit coverage amount be adjusted or changed over the term of the life insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Disability Income Protection",
+        "feature_questions": [
+          "What percentage of income is covered under the Disability Income Protection feature of the Life Insurance policy?",
+          "Are there any specific conditions or illnesses that are excluded from the Disability Income Protection feature?",
+          "What is the waiting period before the Disability Income Protection feature becomes active in the Life Insurance policy?",
+          "Does the Disability Income Protection feature in the Life Insurance policy cover both short-term and long-term disabilities?"
+        ]
+      },
+      {
+        "feature_name": "Guaranteed Interest Rate",
+        "feature_questions": [
+          "What is the guaranteed interest rate offered in the life insurance policy?",
+          "How is the guaranteed interest rate calculated in the life insurance policy?",
+          "Are there any conditions or terms associated with the guaranteed interest rate in the life insurance policy?",
+          "Can the guaranteed interest rate change over the duration of the life insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Surrender Value Option",
+        "feature_questions": [
+          "What is the process to exercise the Surrender Value Option in the Life Insurance policy?",
+          "Are there any penalties or fees associated with the Surrender Value Option in the Life Insurance policy?",
+          "How is the Surrender Value calculated in the Life Insurance policy?",
+          "Can the Surrender Value Option be exercised at any time during the policy term?"
+        ]
+      },
+      {
+        "feature_name": "Premium Payment Flexibility",
+        "feature_questions": [
+          "What options are available for premium payment flexibility in the life insurance policy?",
+          "Can the policyholder adjust the premium payment frequency during the term of the life insurance policy?",
+          "Are there any penalties or fees associated with changing the premium payment schedule?",
+          "Does the life insurance policy offer any benefits or discounts for different premium payment methods or schedules?"
+        ]
+      },
+      {
+        "feature_name": "Terminal Illness Benefit",
+        "feature_questions": [
+          "What is the maximum amount that can be claimed under the Terminal Illness Benefit of the Life Insurance policy?",
+          "What are the specific conditions or illnesses that qualify for the Terminal Illness Benefit in the Life Insurance policy?",
+          "Are there any waiting periods or exclusions associated with the Terminal Illness Benefit in the Life Insurance policy?",
+          "How does the Terminal Illness Benefit affect the overall payout of the Life Insurance policy upon death?"
+        ]
+      },
+      {
+        "feature_name": "Policy Loan Availability",
+        "feature_questions": [
+          "Does the life insurance policy offer the option for policy loans?",
+          "What are the terms and conditions for obtaining a policy loan from the life insurance?",
+          "How does the availability of a policy loan impact the death benefit of the life insurance policy?",
+          "What is the interest rate applied to policy loans under the life insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Regular Income Payouts",
+        "feature_questions": [
+          "What is the frequency of regular income payouts in the life insurance policy?",
+          "Are there any conditions or requirements to receive regular income payouts from the life insurance policy?",
+          "How is the amount of regular income payouts determined in the life insurance policy?",
+          "Can the regular income payouts from the life insurance policy be adjusted or changed over time?"
+        ]
+      },
+      {
+        "feature_name": "Inflation Protection Option",
+        "feature_questions": [
+          "Does the Life Insurance policy offer an Inflation Protection Option?",
+          "How does the Inflation Protection Option in the Life Insurance policy work?",
+          "What are the costs associated with the Inflation Protection Option in the Life Insurance policy?",
+          "Are there any specific conditions or limitations to the Inflation Protection Option in the Life Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Tax Advantaged Savings",
+        "feature_questions": [
+          "What are the tax advantages associated with the Life Insurance product?",
+          "How does the \"Tax Advantaged Savings\" feature work in the context of a Lebensversicherung policy?",
+          "What are the specific tax benefits offered under the \"Tax Advantaged Savings\" feature of the Life Insurance policy?",
+          "Are there any limitations or conditions to be aware of regarding the \"Tax Advantaged Savings\" feature in the Life Insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Disability Insurance (Berufsunfähigkeitsversicherung)",
+    "features": [
+      {
+        "feature_name": "Occupational Disability Coverage",
+        "feature_questions": [
+          "What percentage of income does the Occupational Disability Coverage provide in the event of disability?",
+          "Are there any specific occupations that are excluded from the Occupational Disability Coverage?",
+          "Does the Occupational Disability Coverage include partial disability or only total disability?",
+          "What is the duration of the coverage provided by the Occupational Disability Coverage?"
+        ]
+      },
+      {
+        "feature_name": "Guaranteed Insurability Option",
+        "feature_questions": [
+          "What conditions must be met to activate the Guaranteed Insurability Option in the Disability Insurance policy?",
+          "Are there any additional costs associated with the Guaranteed Insurability Option in the Disability Insurance policy?",
+          "How does the Guaranteed Insurability Option impact the benefits received from the Disability Insurance policy?",
+          "Are there any limitations or exclusions to the Guaranteed Insurability Option in the Disability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Rehabilitation and Reintegration Support",
+        "feature_questions": [
+          "What specific rehabilitation and reintegration support services are included in the Disability Insurance policy?",
+          "Are there any limitations or conditions for accessing the rehabilitation and reintegration support feature in the Disability Insurance policy?",
+          "Does the Disability Insurance policy cover the full cost of rehabilitation and reintegration support, or is there a co-pay or deductible?",
+          "How does the Disability Insurance policy define the terms 'rehabilitation' and 'reintegration' in the context of this feature?"
+        ]
+      },
+      {
+        "feature_name": "Premium Waiver Benefit",
+        "feature_questions": [
+          "What conditions must be met for the Premium Waiver Benefit to apply in the Disability Insurance policy?",
+          "How does the Premium Waiver Benefit affect the overall cost of the Disability Insurance policy?",
+          "Are there any specific limitations or exclusions to the Premium Waiver Benefit in the Disability Insurance policy?",
+          "How long does the Premium Waiver Benefit last in the event of a disability claim?"
+        ]
+      },
+      {
+        "feature_name": "Partial Disability Benefit",
+        "feature_questions": [
+          "What percentage of the insured sum is paid out in the event of partial disability?",
+          "Are there any specific conditions or limitations for the partial disability benefit in the disability insurance policy?",
+          "Does the partial disability benefit cover all types of disabilities or are there exclusions?",
+          "How is partial disability defined and assessed in the terms of the disability insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Progressive Disability Benefit",
+        "feature_questions": [
+          "What percentage of the insured's income is covered by the Progressive Disability Benefit?",
+          "How does the Progressive Disability Benefit increase over time in the Disability Insurance policy?",
+          "Are there any specific conditions or triggers for the Progressive Disability Benefit to take effect?",
+          "What are the limitations or exclusions, if any, associated with the Progressive Disability Benefit in the Disability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Retroactive Disability Benefit",
+        "feature_questions": [
+          "What is the maximum period for which the Retroactive Disability Benefit can be claimed in the Disability Insurance policy?",
+          "Are there any specific conditions or requirements to be eligible for the Retroactive Disability Benefit?",
+          "How is the amount of the Retroactive Disability Benefit calculated in the Disability Insurance policy?",
+          "Does the Retroactive Disability Benefit cover the entire period of disability or is there a limit to the coverage period?"
+        ]
+      },
+      {
+        "feature_name": "Survivor's Benefit Provision",
+        "feature_questions": [
+          "What is the extent of the Survivor's Benefit Provision in the Disability Insurance policy?",
+          "How is the Survivor's Benefit Provision activated in the event of the policyholder's death?",
+          "Are there any specific conditions or exclusions that apply to the Survivor's Benefit Provision in the Disability Insurance policy?",
+          "What is the duration for which the Survivor's Benefit Provision will provide coverage after the policyholder's death?"
+        ]
+      },
+      {
+        "feature_name": "Adjustable Coverage Period",
+        "feature_questions": [
+          "What is the range of the adjustable coverage period for the Disability Insurance?",
+          "Can the coverage period of the Disability Insurance be adjusted at any time during the policy term?",
+          "Are there any restrictions or conditions for adjusting the coverage period of the Disability Insurance?",
+          "Does adjusting the coverage period of the Disability Insurance affect the premium or benefits?"
+        ]
+      },
+      {
+        "feature_name": "Optional Riders Availability",
+        "feature_questions": [
+          "What optional riders are available for the Disability Insurance product?",
+          "How do the optional riders enhance the coverage of the Disability Insurance policy?",
+          "Are there any specific conditions or limitations associated with the optional riders in the Disability Insurance policy?",
+          "What is the additional cost for each optional rider in the Disability Insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Accident Insurance (Unfallversicherung)",
+    "features": [
+      {
+        "feature_name": "Personal Accident Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit provided under the Personal Accident Coverage feature of the Accident Insurance?",
+          "Are there any specific conditions or exclusions under the Personal Accident Coverage of the Accident Insurance?",
+          "Does the Personal Accident Coverage of the Accident Insurance include medical expenses and disability benefits?",
+          "How does the claim process work for the Personal Accident Coverage feature of the Accident Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Disability Benefit",
+        "feature_questions": [
+          "What is the maximum amount covered under the \"Disability Benefit\" feature of the Accident Insurance?",
+          "Are there any specific conditions or circumstances under which the \"Disability Benefit\" is not applicable in the Accident Insurance?",
+          "How is the degree of disability determined for the \"Disability Benefit\" in the Accident Insurance?",
+          "What is the process to claim the \"Disability Benefit\" under the Accident Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Death Benefit",
+        "feature_questions": [
+          "What is the amount of the death benefit provided in the Accident Insurance policy?",
+          "Are there any specific conditions or exclusions related to the death benefit in the Accident Insurance policy?",
+          "How soon after the accident does the death need to occur for the benefit to be paid out?",
+          "Are there any optional add-ons or enhancements available for the death benefit feature in the Accident Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Hospitalization Benefit",
+        "feature_questions": [
+          "What is the coverage amount provided under the \"Hospitalization Benefit\" in the Accident Insurance policy?",
+          "Are there any specific conditions or limitations associated with the \"Hospitalization Benefit\" feature of the Accident Insurance?",
+          "Does the \"Hospitalization Benefit\" in the Accident Insurance cover all types of hospital stays or only specific ones?",
+          "How long does the \"Hospitalization Benefit\" provide coverage for in the event of an accident?"
+        ]
+      },
+      {
+        "feature_name": "Rehabilitation Costs Coverage",
+        "feature_questions": [
+          "What is the maximum amount covered for rehabilitation costs under the Accident Insurance policy?",
+          "Are there any specific conditions or limitations for the rehabilitation costs coverage in the Accident Insurance policy?",
+          "Does the Accident Insurance policy cover all types of rehabilitation services or are there any exclusions?",
+          "How long does the Accident Insurance policy provide coverage for rehabilitation costs after an accident?"
+        ]
+      },
+      {
+        "feature_name": "Medical Expenses Coverage",
+        "feature_questions": [
+          "What is the maximum limit of the medical expenses coverage in the accident insurance policy?",
+          "Does the accident insurance policy cover all types of medical expenses or are there any exclusions?",
+          "Is there a deductible for the medical expenses coverage in the accident insurance policy?",
+          "Does the medical expenses coverage in the accident insurance policy include rehabilitation and physiotherapy costs?"
+        ]
+      },
+      {
+        "feature_name": "Permanent Disability Compensation",
+        "feature_questions": [
+          "What percentage of the insured sum does the \"Permanent Disability Compensation\" feature cover in the Accident Insurance policy?",
+          "Are there any specific conditions or limitations associated with the \"Permanent Disability Compensation\" feature in the Accident Insurance policy?",
+          "How is the degree of permanent disability determined for the payout of the \"Permanent Disability Compensation\" in the Accident Insurance policy?",
+          "Does the \"Permanent Disability Compensation\" feature in the Accident Insurance policy cover all types of accidents or are there any exclusions?"
+        ]
+      },
+      {
+        "feature_name": "Daily Hospital Cash Benefit",
+        "feature_questions": [
+          "What is the maximum amount of the daily hospital cash benefit provided by the Accident Insurance?",
+          "Are there any specific conditions or limitations under which the daily hospital cash benefit is paid out?",
+          "How long after the accident does the daily hospital cash benefit start to be paid?",
+          "Is there a maximum duration for receiving the daily hospital cash benefit?"
+        ]
+      },
+      {
+        "feature_name": "Cosmetic Surgery Coverage",
+        "feature_questions": [
+          "What extent of cosmetic surgery coverage is provided under the Accident Insurance policy?",
+          "Are there any specific conditions or circumstances under which the cosmetic surgery coverage is applicable?",
+          "Are there any limitations or exclusions to the cosmetic surgery coverage in the Accident Insurance policy?",
+          "What is the process to claim the cosmetic surgery coverage under the Accident Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Rescue and Recovery Costs.",
+        "feature_questions": [
+          "What is the maximum coverage limit for rescue and recovery costs in the Accident Insurance policy?",
+          "Are there any specific conditions or situations where the rescue and recovery costs are not covered under the Accident Insurance?",
+          "Does the Accident Insurance policy cover international rescue and recovery costs?",
+          "Are there any deductibles or out-of-pocket expenses associated with the rescue and recovery costs feature in the Accident Insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Legal Expenses Insurance (Rechtsschutzversicherung)",
+    "features": [
+      {
+        "feature_name": "Comprehensive Legal Assistance",
+        "feature_questions": [
+          "What specific services are included under the \"Comprehensive Legal Assistance\" feature in the Legal Expenses Insurance?",
+          "Are there any limitations or exclusions to the \"Comprehensive Legal Assistance\" feature in the Legal Expenses Insurance?",
+          "How does the \"Comprehensive Legal Assistance\" feature in the Legal Expenses Insurance work in case of a legal dispute?",
+          "What is the process to avail the \"Comprehensive Legal Assistance\" feature in the Legal Expenses Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Contract Dispute Coverage",
+        "feature_questions": [
+          "What types of contract disputes are covered under the Legal Expenses Insurance?",
+          "Are there any specific exclusions or limitations in the Contract Dispute Coverage of the Legal Expenses Insurance?",
+          "What is the maximum coverage amount provided for contract disputes in the Legal Expenses Insurance?",
+          "Does the Contract Dispute Coverage in the Legal Expenses Insurance include legal consultation and representation costs?"
+        ]
+      },
+      {
+        "feature_name": "Employment Law Protection",
+        "feature_questions": [
+          "What specific aspects of employment law does the Legal Expenses Insurance cover?",
+          "Are there any limitations or exclusions in the Employment Law Protection feature of the Legal Expenses Insurance?",
+          "How does the Employment Law Protection feature of the Legal Expenses Insurance handle claims and disputes?",
+          "What is the process for invoking the Employment Law Protection feature in the Legal Expenses Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Traffic Legal Protection",
+        "feature_questions": [
+          "What specific legal expenses are covered under the \"Traffic Legal Protection\" feature of the Legal Expenses Insurance?",
+          "Are there any exclusions or limitations to the \"Traffic Legal Protection\" feature in the Legal Expenses Insurance policy?",
+          "Does the \"Traffic Legal Protection\" feature cover all types of vehicles or are there specific vehicle types included?",
+          "How does the claim process work for the \"Traffic Legal Protection\" feature in the Legal Expenses Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Property Dispute Coverage",
+        "feature_questions": [
+          "What types of property disputes are covered under the Legal Expenses Insurance?",
+          "Are there any limitations or exclusions in the Property Dispute Coverage of the Legal Expenses Insurance?",
+          "What is the maximum coverage amount for property disputes under the Legal Expenses Insurance?",
+          "Does the Property Dispute Coverage in the Legal Expenses Insurance include legal representation and court costs?"
+        ]
+      },
+      {
+        "feature_name": "Family Law Coverage",
+        "feature_questions": [
+          "What aspects of family law does the Legal Expenses Insurance cover?",
+          "Are there any exclusions or limitations in the Family Law Coverage of the Legal Expenses Insurance?",
+          "What is the maximum coverage limit for family law disputes under the Legal Expenses Insurance?",
+          "Does the Family Law Coverage in the Legal Expenses Insurance include legal representation in court?"
+        ]
+      },
+      {
+        "feature_name": "Criminal Law Defense",
+        "feature_questions": [
+          "What coverage does the \"Criminal Law Defense\" feature provide in the Legal Expenses Insurance policy?",
+          "Are there any exclusions or limitations to the \"Criminal Law Defense\" feature in the Legal Expenses Insurance?",
+          "How does the \"Criminal Law Defense\" feature in the Legal Expenses Insurance policy assist in case of legal disputes?",
+          "What is the process to claim the \"Criminal Law Defense\" feature under the Legal Expenses Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Internet Legal Protection",
+        "feature_questions": [
+          "What specific internet-related legal issues does the \"Internet Legal Protection\" feature cover in the Legal Expenses Insurance?",
+          "Are there any limitations or exclusions to the \"Internet Legal Protection\" feature in the Legal Expenses Insurance?",
+          "How does the \"Internet Legal Protection\" feature in the Legal Expenses Insurance handle claims and legal proceedings related to online activities?",
+          "What is the maximum coverage provided under the \"Internet Legal Protection\" feature in the Legal Expenses Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Tenant-Landlord Dispute Coverage",
+        "feature_questions": [
+          "What types of tenant-landlord disputes are covered under the Legal Expenses Insurance?",
+          "Are there any specific conditions or limitations for the Tenant-Landlord Dispute Coverage feature in the Legal Expenses Insurance?",
+          "What is the maximum coverage amount provided for tenant-landlord disputes in the Legal Expenses Insurance?",
+          "Does the Tenant-Landlord Dispute Coverage feature in the Legal Expenses Insurance cover legal fees and court costs?"
+        ]
+      },
+      {
+        "feature_name": "Free Legal Advice.",
+        "feature_questions": [
+          "What is the extent of the free legal advice provided under the Legal Expenses Insurance?",
+          "Are there any limitations or conditions to the free legal advice feature in the Legal Expenses Insurance?",
+          "How can policyholders access the free legal advice feature in the Legal Expenses Insurance?",
+          "Does the free legal advice feature cover all areas of law or are there specific areas that are excluded?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Travel Insurance (Reiseversicherung)",
+    "features": [
+      {
+        "feature_name": "Medical Emergency Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit for medical emergencies under the Travel Insurance policy?",
+          "Are there any specific conditions or exclusions related to the Medical Emergency Coverage in the Travel Insurance policy?",
+          "Does the Medical Emergency Coverage in the Travel Insurance policy include evacuation or repatriation services?",
+          "Is there a deductible or co-pay associated with the Medical Emergency Coverage in the Travel Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Trip Cancellation Protection",
+        "feature_questions": [
+          "What are the specific conditions under which the \"Trip Cancellation Protection\" feature of the Travel Insurance is applicable?",
+          "What is the maximum coverage provided under the \"Trip Cancellation Protection\" feature?",
+          "Are there any exclusions or limitations to the \"Trip Cancellation Protection\" feature in the Travel Insurance policy?",
+          "How does the claim process work for the \"Trip Cancellation Protection\" feature?"
+        ]
+      },
+      {
+        "feature_name": "Baggage Loss/Damage Coverage",
+        "feature_questions": [
+          "What is the maximum amount covered for baggage loss/damage under the travel insurance policy?",
+          "Are there any specific conditions or exclusions related to the baggage loss/damage coverage?",
+          "Does the baggage loss/damage coverage apply worldwide or are there geographical restrictions?",
+          "Is there a deductible for the baggage loss/damage coverage, and if so, how much is it?"
+        ]
+      },
+      {
+        "feature_name": "Travel Delay Reimbursement",
+        "feature_questions": [
+          "What is the maximum amount reimbursed under the \"Travel Delay Reimbursement\" feature of the Travel Insurance?",
+          "Under what circumstances does the \"Travel Delay Reimbursement\" feature of the Travel Insurance apply?",
+          "Are there any specific conditions or exclusions for the \"Travel Delay Reimbursement\" feature in the Travel Insurance policy?",
+          "How long does the travel delay need to be before the \"Travel Delay Reimbursement\" feature of the Travel Insurance is activated?"
+        ]
+      },
+      {
+        "feature_name": "Personal Liability Coverage",
+        "feature_questions": [
+          "What is the maximum amount covered under the Personal Liability Coverage in the Travel Insurance policy?",
+          "Are there any specific conditions or exclusions under the Personal Liability Coverage of the Travel Insurance?",
+          "Does the Personal Liability Coverage in the Travel Insurance cover damages to rental properties?",
+          "In which situations or incidents does the Personal Liability Coverage in the Travel Insurance apply?"
+        ]
+      },
+      {
+        "feature_name": "Repatriation of Remains",
+        "feature_questions": [
+          "What is the coverage limit for the \"Repatriation of Remains\" feature in the Travel Insurance policy?",
+          "Are there any specific conditions or exclusions related to the \"Repatriation of Remains\" feature in the Travel Insurance policy?",
+          "Does the \"Repatriation of Remains\" feature in the Travel Insurance policy cover all countries or are there any geographical restrictions?",
+          "What is the process to claim the \"Repatriation of Remains\" benefit in the event of a policyholder's death during travel?"
+        ]
+      },
+      {
+        "feature_name": "Emergency Evacuation Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit for emergency evacuation under the Travel Insurance policy?",
+          "Are there any specific conditions or circumstances under which the emergency evacuation coverage is not applicable?",
+          "Does the emergency evacuation coverage include transportation to the home country or only to the nearest medical facility?",
+          "Are pre-existing medical conditions considered for emergency evacuation coverage in the Travel Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Accidental Death Benefit",
+        "feature_questions": [
+          "What is the coverage amount provided under the \"Accidental Death Benefit\" in the Travel Insurance policy?",
+          "Are there any specific conditions or exclusions applicable to the \"Accidental Death Benefit\" feature in the Travel Insurance policy?",
+          "Does the \"Accidental Death Benefit\" feature in the Travel Insurance policy cover all types of accidents or only specific ones?",
+          "How soon after the accident does the claim for the \"Accidental Death Benefit\" need to be filed in the Travel Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Legal Assistance Abroad",
+        "feature_questions": [
+          "What is the extent of legal assistance provided abroad under the travel insurance policy?",
+          "Are there any specific conditions or limitations to the legal assistance abroad feature in the travel insurance policy?",
+          "Does the legal assistance abroad feature cover all countries or are there any exclusions?",
+          "How can the insured person access the legal assistance abroad when needed?"
+        ]
+      },
+      {
+        "feature_name": "Adventure Sports Coverage",
+        "feature_questions": [
+          "What types of adventure sports are covered under the Travel Insurance policy?",
+          "Are there any limitations or exclusions to the Adventure Sports Coverage in the Travel Insurance policy?",
+          "What is the maximum coverage amount provided for Adventure Sports under the Travel Insurance policy?",
+          "Does the Adventure Sports Coverage in the Travel Insurance policy include medical evacuation and repatriation?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Pet Insurance (Tierkrankenversicherung)",
+    "features": [
+      {
+        "feature_name": "Veterinary Treatment Coverage",
+        "feature_questions": [
+          "What types of veterinary treatments are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions on the Veterinary Treatment Coverage in the Pet Insurance policy?",
+          "Does the Veterinary Treatment Coverage in the Pet Insurance policy include both routine and emergency treatments?",
+          "What is the maximum coverage limit for veterinary treatments under the Pet Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Surgery Cost Coverage",
+        "feature_questions": [
+          "What percentage of surgery costs does the pet insurance cover?",
+          "Are there any limitations or exclusions on the surgery cost coverage provided by the pet insurance?",
+          "Does the pet insurance's surgery cost coverage include pre and post-operative care?",
+          "Is there a maximum limit on the surgery cost coverage provided by the pet insurance?"
+        ]
+      },
+      {
+        "feature_name": "Prescription Medication Coverage",
+        "feature_questions": [
+          "What types of prescription medications are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions on the Prescription Medication Coverage in the Pet Insurance policy?",
+          "Does the Prescription Medication Coverage in the Pet Insurance policy include chronic or long-term medication?",
+          "What is the process to claim for prescription medications under the Pet Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Dental Care Coverage",
+        "feature_questions": [
+          "What specific dental care treatments are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions related to dental care coverage in the Pet Insurance policy?",
+          "What is the maximum coverage limit for dental care under the Pet Insurance policy?",
+          "Does the Pet Insurance policy require any specific conditions to be met for dental care coverage?"
+        ]
+      },
+      {
+        "feature_name": "Chronic Illness Coverage",
+        "feature_questions": [
+          "What types of chronic illnesses are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions for chronic illness coverage in the Pet Insurance policy?",
+          "What is the maximum coverage limit for chronic illnesses under the Pet Insurance policy?",
+          "Does the Pet Insurance policy require a waiting period before chronic illness coverage begins?"
+        ]
+      },
+      {
+        "feature_name": "Accident Injury Coverage",
+        "feature_questions": [
+          "What types of accident injuries are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions to the Accident Injury Coverage in the Pet Insurance policy?",
+          "What is the maximum coverage amount provided for accident injuries in the Pet Insurance policy?",
+          "Does the Accident Injury Coverage in the Pet Insurance policy include rehabilitation or therapy costs?"
+        ]
+      },
+      {
+        "feature_name": "Preventive Care Coverage",
+        "feature_questions": [
+          "What types of preventive care services are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions on the preventive care coverage in the Pet Insurance policy?",
+          "Does the preventive care coverage in the Pet Insurance policy include vaccinations and routine check-ups?",
+          "How does the Pet Insurance policy define 'preventive care' and what does it entail?"
+        ]
+      },
+      {
+        "feature_name": "Breed-Specific Condition Coverage",
+        "feature_questions": [
+          "Does the pet insurance cover breed-specific conditions?",
+          "What specific breed-related conditions are covered under this pet insurance policy?",
+          "Are there any breed-specific conditions that are not covered by this pet insurance?",
+          "Are there any limitations or exclusions for coverage of breed-specific conditions in this pet insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Alternative Therapy Coverage",
+        "feature_questions": [
+          "What types of alternative therapies are covered under the Pet Insurance policy?",
+          "Are there any limitations or exclusions to the alternative therapy coverage in the Pet Insurance policy?",
+          "What is the maximum amount that the Pet Insurance policy will cover for alternative therapies?",
+          "Does the Pet Insurance policy require a referral from a vet for alternative therapy coverage?"
+        ]
+      },
+      {
+        "feature_name": "Overseas Travel Coverage",
+        "feature_questions": [
+          "Does the Pet Insurance policy provide coverage for overseas travel?",
+          "What specific incidents or conditions are covered under the Overseas Travel Coverage feature of the Pet Insurance?",
+          "Are there any geographical restrictions or limitations for the Overseas Travel Coverage in the Pet Insurance policy?",
+          "What is the maximum coverage limit for overseas travel under the Pet Insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Personal Liability Insurance (Haftpflichtversicherung)",
+    "features": [
+      {
+        "feature_name": "Personal Injury Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit for personal injury in the Personal Liability Insurance policy?",
+          "Are there any specific exclusions or limitations related to personal injury coverage in the Personal Liability Insurance?",
+          "Does the Personal Liability Insurance cover all types of personal injuries or only specific ones?",
+          "How does the claim process work for personal injury coverage under the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Property Damage Coverage",
+        "feature_questions": [
+          "What is the maximum coverage limit for property damage under the Personal Liability Insurance?",
+          "Are there any specific exclusions or limitations in the property damage coverage of the Personal Liability Insurance?",
+          "Does the property damage coverage in the Personal Liability Insurance include accidental damages?",
+          "How is the deductible determined for property damage claims under the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Financial Loss Coverage",
+        "feature_questions": [
+          "What is the maximum amount covered under the \"Financial Loss Coverage\" feature of the Personal Liability Insurance?",
+          "Are there any specific conditions or exclusions under the \"Financial Loss Coverage\" feature of the Personal Liability Insurance?",
+          "Does the \"Financial Loss Coverage\" feature of the Personal Liability Insurance cover both direct and indirect financial losses?",
+          "How does the claim process work for the \"Financial Loss Coverage\" feature of the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Legal Defense Costs",
+        "feature_questions": [
+          "What is the maximum coverage limit for legal defense costs under the Personal Liability Insurance policy?",
+          "Are there any specific conditions or exclusions related to the legal defense costs feature in the Personal Liability Insurance?",
+          "Does the Personal Liability Insurance cover all types of legal defense costs or are there specific categories included?",
+          "How does the Personal Liability Insurance policy define 'legal defense costs'?"
+        ]
+      },
+      {
+        "feature_name": "Worldwide Coverage",
+        "feature_questions": [
+          "Does the Personal Liability Insurance provide worldwide coverage?",
+          "Are there any geographical restrictions or exclusions in the worldwide coverage of the Personal Liability Insurance?",
+          "What specific incidents or situations are covered under the worldwide coverage of the Personal Liability Insurance?",
+          "Are there any additional costs or premiums for the worldwide coverage feature in the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Rental Property Protection",
+        "feature_questions": [
+          "What extent of coverage does the \"Rental Property Protection\" feature provide in the Personal Liability Insurance policy?",
+          "Are there any specific conditions or exclusions under the \"Rental Property Protection\" feature in the Personal Liability Insurance?",
+          "How does the \"Rental Property Protection\" feature in the Personal Liability Insurance handle claims related to accidental damage to the rental property?",
+          "What is the process for filing a claim under the \"Rental Property Protection\" feature of the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Damage to Rented Items",
+        "feature_questions": [
+          "What types of damages to rented items are covered under the Personal Liability Insurance?",
+          "Are there any limitations or exclusions to the \"Damage to Rented Items\" feature in the Personal Liability Insurance?",
+          "What is the maximum coverage amount for the \"Damage to Rented Items\" feature in the Personal Liability Insurance?",
+          "How does the claim process work for the \"Damage to Rented Items\" feature in the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Loss of Private Keys",
+        "feature_questions": [
+          "What coverage does the Personal Liability Insurance provide for the loss of private keys?",
+          "Are there any specific conditions or limitations related to the \"Loss of Private Keys\" feature in the Personal Liability Insurance?",
+          "How does the claim process work for the \"Loss of Private Keys\" feature in the Personal Liability Insurance?",
+          "Are there any exclusions or exceptions for the \"Loss of Private Keys\" coverage in the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Internet Liability Coverage",
+        "feature_questions": [
+          "What is the extent of the Internet Liability Coverage provided under the Personal Liability Insurance?",
+          "Are there any specific exclusions or limitations to the Internet Liability Coverage in the Personal Liability Insurance policy?",
+          "How does the Internet Liability Coverage in the Personal Liability Insurance protect against online risks or damages?",
+          "What is the process for filing a claim under the Internet Liability Coverage of the Personal Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Optional Pet Liability.",
+        "feature_questions": [
+          "What coverage does the \"Optional Pet Liability\" feature provide in the Personal Liability Insurance?",
+          "Are there any specific conditions or exclusions associated with the \"Optional Pet Liability\" feature?",
+          "How does the inclusion of the \"Optional Pet Liability\" feature affect the premium of the Personal Liability Insurance?",
+          "Can the \"Optional Pet Liability\" feature be added or removed at any time during the policy term?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Professional Liability Insurance (Berufshaftpflichtversicherung)",
+    "features": [
+      {
+        "feature_name": "Professional Negligence Coverage",
+        "feature_questions": [
+          "What is the extent of coverage provided for professional negligence under the Professional Liability Insurance policy?",
+          "Are there any specific conditions or exclusions related to professional negligence coverage in the Professional Liability Insurance policy?",
+          "What is the maximum payout limit for claims related to professional negligence under this insurance policy?",
+          "Does the Professional Liability Insurance policy require any deductibles or co-pays for professional negligence claims?"
+        ]
+      },
+      {
+        "feature_name": "Legal Defense Costs",
+        "feature_questions": [
+          "Does the Professional Liability Insurance cover all legal defense costs in case of a claim?",
+          "Are there any limitations or exclusions to the legal defense costs covered by the Professional Liability Insurance?",
+          "Up to what amount does the Professional Liability Insurance cover for legal defense costs?",
+          "In what scenarios would the Professional Liability Insurance not cover legal defense costs?"
+        ]
+      },
+      {
+        "feature_name": "Financial Loss Coverage",
+        "feature_questions": [
+          "What is the maximum amount of financial loss coverage provided by the Professional Liability Insurance?",
+          "Are there any specific conditions or exclusions under which the financial loss coverage would not apply?",
+          "Does the financial loss coverage extend to indirect losses or only direct financial losses?",
+          "How is the financial loss coverage amount determined in the Professional Liability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Personal Injury Liability",
+        "feature_questions": [
+          "What is the coverage limit for personal injury liability under the Professional Liability Insurance?",
+          "Are there any specific exclusions or limitations related to personal injury liability in the Professional Liability Insurance?",
+          "How does the Professional Liability Insurance define 'personal injury' in the context of this coverage?",
+          "What is the process for filing a personal injury liability claim under the Professional Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Property Damage Liability",
+        "feature_questions": [
+          "What is the coverage limit for property damage liability under the Professional Liability Insurance?",
+          "Are there any specific exclusions or limitations related to property damage liability in the Professional Liability Insurance?",
+          "How is the deductible determined for property damage claims under the Professional Liability Insurance?",
+          "Does the Professional Liability Insurance cover legal fees and other costs associated with property damage claims?"
+        ]
+      },
+      {
+        "feature_name": "Retroactive Date Coverage",
+        "feature_questions": [
+          "What is the specific date from which the Retroactive Date Coverage in the Professional Liability Insurance policy begins?",
+          "Does the Retroactive Date Coverage in the Professional Liability Insurance policy cover claims made for incidents that occurred before the policy was in effect?",
+          "Are there any exclusions or limitations to the Retroactive Date Coverage in the Professional Liability Insurance policy?",
+          "How does the Retroactive Date Coverage feature affect the overall cost of the Professional Liability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Contractual Liability Coverage",
+        "feature_questions": [
+          "What is the extent of coverage provided under the \"Contractual Liability Coverage\" feature in the Professional Liability Insurance?",
+          "Are there any specific exclusions or limitations in the \"Contractual Liability Coverage\" feature of the Professional Liability Insurance?",
+          "How does the \"Contractual Liability Coverage\" feature in the Professional Liability Insurance protect the insured professional?",
+          "What are the conditions or requirements to claim under the \"Contractual Liability Coverage\" feature of the Professional Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Data Protection Liability",
+        "feature_questions": [
+          "What coverage does the \"Data Protection Liability\" feature provide in the Professional Liability Insurance policy?",
+          "Are there any specific exclusions or limitations related to the \"Data Protection Liability\" feature in the Professional Liability Insurance?",
+          "How does the \"Data Protection Liability\" feature in the Professional Liability Insurance respond to claims related to data breaches or violations?",
+          "What is the maximum coverage limit for the \"Data Protection Liability\" feature in the Professional Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Environmental Damage Liability",
+        "feature_questions": [
+          "What is the extent of coverage provided by the Professional Liability Insurance for Environmental Damage Liability?",
+          "Are there any specific exclusions or limitations in the Environmental Damage Liability feature of the Professional Liability Insurance?",
+          "How does the Professional Liability Insurance handle claims related to Environmental Damage Liability?",
+          "What are the deductibles or premiums associated with the Environmental Damage Liability feature in the Professional Liability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Subcontractor Inclusion Coverage",
+        "feature_questions": [
+          "Does the Professional Liability Insurance policy include coverage for subcontractors?",
+          "What specific liabilities for subcontractors are covered under the Professional Liability Insurance?",
+          "Are there any limitations or exclusions to the subcontractor inclusion coverage in the Professional Liability Insurance?",
+          "What are the conditions or requirements for a subcontractor to be included in the coverage of the Professional Liability Insurance?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Dental Insurance (Zahnzusatzversicherung)",
+    "features": [
+      {
+        "feature_name": "Comprehensive Dental Treatment Coverage",
+        "feature_questions": [
+          "What percentage of the cost for comprehensive dental treatments is covered by the Dental Insurance?",
+          "Are there any specific dental treatments that are not included in the Comprehensive Dental Treatment Coverage?",
+          "Is there a waiting period before the Comprehensive Dental Treatment Coverage becomes effective?",
+          "Are there any annual or lifetime limits on the Comprehensive Dental Treatment Coverage?"
+        ]
+      },
+      {
+        "feature_name": "Orthodontic Treatment Coverage",
+        "feature_questions": [
+          "What percentage of orthodontic treatment costs does the dental insurance cover?",
+          "Are there any limitations or exclusions on orthodontic treatment coverage under this dental insurance policy?",
+          "Does the dental insurance cover orthodontic treatments for all age groups?",
+          "Is there a waiting period before the orthodontic treatment coverage becomes effective?"
+        ]
+      },
+      {
+        "feature_name": "Dental Prosthetics Coverage",
+        "feature_questions": [
+          "What percentage of the cost for dental prosthetics is covered by the Dental Insurance?",
+          "Are there any limitations or exclusions on the dental prosthetics coverage provided by the insurance?",
+          "Does the dental prosthetics coverage include both partial and full replacements?",
+          "Is there a waiting period before the dental prosthetics coverage becomes effective?"
+        ]
+      },
+      {
+        "feature_name": "Preventive Dental Care",
+        "feature_questions": [
+          "What types of preventive dental care services are covered under this dental insurance?",
+          "Are there any limitations or exclusions on the preventive dental care feature of this dental insurance?",
+          "Does the dental insurance cover the full cost of preventive dental care or is there a co-payment required?",
+          "How often can preventive dental care services be availed under this dental insurance?"
+        ]
+      },
+      {
+        "feature_name": "No Waiting Period",
+        "feature_questions": [
+          "Does the Dental Insurance policy offer a feature of \"No Waiting Period\"?",
+          "What are the specific conditions, if any, to qualify for the \"No Waiting Period\" feature in the Dental Insurance policy?",
+          "Are there any exceptions or limitations to the \"No Waiting Period\" feature in the Dental Insurance policy?",
+          "How does the \"No Waiting Period\" feature impact the overall cost of the Dental Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Dental Implant Coverage",
+        "feature_questions": [
+          "What percentage of the cost for dental implants is covered by the Dental Insurance?",
+          "Are there any limitations or exclusions on the dental implant coverage provided by the Dental Insurance?",
+          "Does the Dental Insurance require a waiting period before it covers dental implants?",
+          "Does the Dental Insurance cover the full procedure of dental implants, including consultation, surgery, and aftercare?"
+        ]
+      },
+      {
+        "feature_name": "High Reimbursement Rates",
+        "feature_questions": [
+          "What percentage of dental costs does the Dental Insurance (Zahnzusatzversicherung) cover under the feature of High Reimbursement Rates?",
+          "Are there any limitations or exclusions to the High Reimbursement Rates feature in the Dental Insurance (Zahnzusatzversicherung) policy?",
+          "How does the High Reimbursement Rates feature of the Dental Insurance (Zahnzusatzversicherung) compare to other similar insurance products in the market?",
+          "Are there any specific dental procedures or treatments that are not covered under the High Reimbursement Rates feature of the Dental Insurance (Zahnzusatzversicherung)?"
+        ]
+      },
+      {
+        "feature_name": "Free Dental Check-ups",
+        "feature_questions": [
+          "How many free dental check-ups are included in the Dental Insurance per year?",
+          "Are there any restrictions or conditions to qualify for the free dental check-ups?",
+          "Does the free dental check-up cover all types of dental examinations?",
+          "Can the free dental check-ups be used at any dental clinic or are they limited to specific providers?"
+        ]
+      },
+      {
+        "feature_name": "Coverage for Dentures",
+        "feature_questions": [
+          "What percentage of the cost for dentures is covered by the Dental Insurance?",
+          "Are there any limitations or exclusions on the coverage for dentures under the Dental Insurance?",
+          "Does the Dental Insurance coverage for dentures include both partial and full dentures?",
+          "Is there a waiting period before the Dental Insurance coverage for dentures takes effect?"
+        ]
+      },
+      {
+        "feature_name": "Dental Surgery Coverage",
+        "feature_questions": [
+          "What percentage of dental surgery costs does the Dental Insurance cover?",
+          "Are there any specific dental surgeries that are excluded from the coverage?",
+          "Is there a waiting period before the Dental Surgery Coverage becomes effective?",
+          "Are there any limits or caps on the coverage for dental surgeries under this insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Occupational Disability Insurance (Berufsunfähigkeitsversicherung)",
+    "features": [
+      {
+        "feature_name": "Disability Income Replacement",
+        "feature_questions": [
+          "What percentage of the insured's income is replaced by the \"Disability Income Replacement\" feature in the Occupational Disability Insurance?",
+          "Are there any specific conditions or limitations for the \"Disability Income Replacement\" feature in the Occupational Disability Insurance?",
+          "How is the amount of income replacement determined in the \"Disability Income Replacement\" feature of the Occupational Disability Insurance?",
+          "Does the \"Disability Income Replacement\" feature in the Occupational Disability Insurance cover partial disability or only total disability?"
+        ]
+      },
+      {
+        "feature_name": "Rehabilitation Cost Coverage",
+        "feature_questions": [
+          "Does the Occupational Disability Insurance policy cover rehabilitation costs?",
+          "What percentage of rehabilitation costs are covered under the Occupational Disability Insurance policy?",
+          "Are there any specific conditions or limitations for the rehabilitation cost coverage in the Occupational Disability Insurance policy?",
+          "What types of rehabilitation services are included in the coverage of the Occupational Disability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Waiver of Premium",
+        "feature_questions": [
+          "What conditions must be met for the \"Waiver of Premium\" feature to be activated in the Occupational Disability Insurance policy?",
+          "How does the \"Waiver of Premium\" feature affect the policyholder's premium payments in the event of occupational disability?",
+          "Are there any specific limitations or exclusions associated with the \"Waiver of Premium\" feature in the Occupational Disability Insurance policy?",
+          "How long does the \"Waiver of Premium\" benefit last once it has been activated in the Occupational Disability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Guaranteed Insurability Option",
+        "feature_questions": [
+          "What conditions must be met to activate the Guaranteed Insurability Option in the Occupational Disability Insurance policy?",
+          "Are there any additional costs associated with the Guaranteed Insurability Option in the Occupational Disability Insurance?",
+          "How does the Guaranteed Insurability Option impact the benefits of the Occupational Disability Insurance?",
+          "Can the Guaranteed Insurability Option be added or removed after the Occupational Disability Insurance policy has been issued?"
+        ]
+      },
+      {
+        "feature_name": "Partial Disability Benefits",
+        "feature_questions": [
+          "What percentage of disability is considered as partial disability under the Occupational Disability Insurance policy?",
+          "What are the specific benefits provided under the \"Partial Disability Benefits\" feature of the Occupational Disability Insurance?",
+          "Are there any specific conditions or limitations associated with the \"Partial Disability Benefits\" feature in the Occupational Disability Insurance?",
+          "How is the benefit amount calculated for partial disability under the Occupational Disability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Occupational Classification Coverage",
+        "feature_questions": [
+          "What occupations are covered under the \"Occupational Classification Coverage\" feature of the Occupational Disability Insurance?",
+          "Are there any specific occupational classifications that are excluded from the coverage of this insurance product?",
+          "How does the \"Occupational Classification Coverage\" feature determine the benefits or payouts in case of disability?",
+          "Are there different premium rates for different occupational classifications under this insurance coverage?"
+        ]
+      },
+      {
+        "feature_name": "Inflation Protection Option",
+        "feature_questions": [
+          "How does the Inflation Protection Option in the Occupational Disability Insurance policy work?",
+          "What are the benefits of having an Inflation Protection Option in my Occupational Disability Insurance?",
+          "Are there any additional costs associated with the Inflation Protection Option in Occupational Disability Insurance?",
+          "How does the Inflation Protection Option affect the payout amount in the event of a claim under the Occupational Disability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Survivor Benefit Provision",
+        "feature_questions": [
+          "What is the extent of the Survivor Benefit Provision in the Occupational Disability Insurance policy?",
+          "How does the Survivor Benefit Provision work in the event of the policyholder's death?",
+          "Are there any specific conditions or limitations associated with the Survivor Benefit Provision in the Occupational Disability Insurance?",
+          "What is the process for beneficiaries to claim the Survivor Benefit Provision under the Occupational Disability Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Mental Illness Coverage",
+        "feature_questions": [
+          "Does the Occupational Disability Insurance cover mental illnesses?",
+          "What specific mental illnesses are covered under the Occupational Disability Insurance policy?",
+          "Are there any exclusions or limitations in the coverage for mental illnesses in the Occupational Disability Insurance?",
+          "What is the process for claiming coverage for mental illnesses under the Occupational Disability Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Backdating Policy Option",
+        "feature_questions": [
+          "What is the maximum period allowed for backdating the Occupational Disability Insurance policy?",
+          "Are there any additional costs associated with the backdating policy option in Occupational Disability Insurance?",
+          "How does the backdating policy option affect the benefits or payout of the Occupational Disability Insurance?",
+          "What are the conditions or requirements for utilizing the backdating policy option in Occupational Disability Insurance?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Critical Illness Insurance (Dread Disease Versicherung)",
+    "features": [
+      {
+        "feature_name": "Lump Sum Payout",
+        "feature_questions": [
+          "What is the maximum amount that can be paid out as a lump sum in the event of a critical illness?",
+          "Are there any specific conditions or illnesses that qualify for the lump sum payout feature in the Critical Illness Insurance policy?",
+          "Are there any restrictions or limitations on how the lump sum payout can be used by the policyholder?",
+          "Does the lump sum payout affect the remaining coverage or benefits of the Critical Illness Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Multiple Illness Coverage",
+        "feature_questions": [
+          "What specific illnesses are covered under the \"Multiple Illness Coverage\" feature of the Critical Illness Insurance?",
+          "Are there any limitations or exclusions to the \"Multiple Illness Coverage\" feature in the Critical Illness Insurance policy?",
+          "How does the payout work if multiple illnesses are diagnosed under the \"Multiple Illness Coverage\" feature of the Critical Illness Insurance?",
+          "Are there any additional costs associated with the \"Multiple Illness Coverage\" feature in the Critical Illness Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Permanent Disability Benefit",
+        "feature_questions": [
+          "What percentage of the sum insured does the Permanent Disability Benefit cover in the Critical Illness Insurance policy?",
+          "Are there any specific conditions or illnesses that qualify for the Permanent Disability Benefit in the Critical Illness Insurance?",
+          "What is the process to claim the Permanent Disability Benefit under the Critical Illness Insurance?",
+          "Are there any exclusions or limitations to the Permanent Disability Benefit in the Critical Illness Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Optional Death Benefit",
+        "feature_questions": [
+          "What is the coverage amount provided under the \"Optional Death Benefit\" feature in the Critical Illness Insurance?",
+          "Are there any specific conditions or illnesses that the \"Optional Death Benefit\" covers in the Critical Illness Insurance?",
+          "What are the eligibility criteria to avail the \"Optional Death Benefit\" feature in the Critical Illness Insurance?",
+          "Are there any additional premiums or costs associated with the \"Optional Death Benefit\" feature in the Critical Illness Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Child Critical Illness",
+        "feature_questions": [
+          "What specific critical illnesses are covered for children under the \"Child Critical Illness\" feature in the Critical Illness Insurance policy?",
+          "Are there any age restrictions or limitations for children to be eligible for the \"Child Critical Illness\" feature?",
+          "What is the maximum coverage amount provided under the \"Child Critical Illness\" feature?",
+          "Are there any specific conditions or exclusions that apply to the \"Child Critical Illness\" feature in the Critical Illness Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Waiver of Premium",
+        "feature_questions": [
+          "What conditions must be met for the \"Waiver of Premium\" feature to be activated in the Critical Illness Insurance policy?",
+          "How does the \"Waiver of Premium\" feature affect the policyholder's premium payments in the event of a critical illness?",
+          "Are there any specific illnesses or circumstances that are excluded from the \"Waiver of Premium\" feature in the Critical Illness Insurance policy?",
+          "How long does the \"Waiver of Premium\" benefit last once it has been activated in the Critical Illness Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Guaranteed Insurability Option",
+        "feature_questions": [
+          "What conditions must be met to activate the Guaranteed Insurability Option in the Critical Illness Insurance policy?",
+          "Are there any additional costs associated with the Guaranteed Insurability Option in the Critical Illness Insurance?",
+          "How does the Guaranteed Insurability Option affect the payout or benefits of the Critical Illness Insurance?",
+          "Can the Guaranteed Insurability Option be added or removed after the Critical Illness Insurance policy has been issued?"
+        ]
+      },
+      {
+        "feature_name": "Return of Premium",
+        "feature_questions": [
+          "What percentage of the premium is returned under the \"Return of Premium\" feature in the Critical Illness Insurance?",
+          "Are there any specific conditions or circumstances under which the \"Return of Premium\" feature is activated in the Critical Illness Insurance?",
+          "Does the \"Return of Premium\" feature in the Critical Illness Insurance apply if the policyholder does not make a claim during the policy term?",
+          "Are there any exclusions or limitations to the \"Return of Premium\" feature in the Critical Illness Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Indexed Benefit Increase",
+        "feature_questions": [
+          "How does the \"Indexed Benefit Increase\" feature work in the Critical Illness Insurance policy?",
+          "What is the percentage or rate of the benefit increase provided by the \"Indexed Benefit Increase\" feature?",
+          "Are there any specific conditions or illnesses where the \"Indexed Benefit Increase\" feature does not apply in the Critical Illness Insurance policy?",
+          "How often does the \"Indexed Benefit Increase\" feature adjust the benefit amount in the Critical Illness Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Free Look Period",
+        "feature_questions": [
+          "What is the duration of the Free Look Period in the Critical Illness Insurance policy?",
+          "What actions can be taken by the policyholder during the Free Look Period of the Critical Illness Insurance?",
+          "Are there any penalties or fees associated with cancellation during the Free Look Period in the Critical Illness Insurance?",
+          "Does the Free Look Period in the Critical Illness Insurance policy start from the policy issuance date or from the receipt of the policy document?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Building Insurance (Gebäudeversicherung)",
+    "features": [
+      {
+        "feature_name": "Fire Damage Coverage",
+        "feature_questions": [
+          "What is the extent of the fire damage coverage provided by the Building Insurance?",
+          "Are there any specific conditions or exclusions related to fire damage in the Building Insurance policy?",
+          "What is the process and timeline for claiming fire damage under the Building Insurance?",
+          "Does the Building Insurance cover fire damage caused by both natural and man-made incidents?"
+        ]
+      },
+      {
+        "feature_name": "Water Damage Protection",
+        "feature_questions": [
+          "What types of water damage are covered under the Building Insurance policy?",
+          "Are there any specific conditions or exclusions related to water damage protection in the Building Insurance policy?",
+          "What is the maximum coverage limit for water damage under the Building Insurance policy?",
+          "Does the Building Insurance policy require any specific preventative measures to be in place for water damage protection coverage?"
+        ]
+      },
+      {
+        "feature_name": "Storm and Hail Coverage",
+        "feature_questions": [
+          "What specific damages caused by storms and hail are covered under the Building Insurance policy?",
+          "Are there any limitations or exclusions to the Storm and Hail Coverage in the Building Insurance policy?",
+          "What is the process and requirements for filing a claim for storm and hail damage under the Building Insurance policy?",
+          "Does the Storm and Hail Coverage in the Building Insurance policy include any deductibles or out-of-pocket costs?"
+        ]
+      },
+      {
+        "feature_name": "Natural Disaster Protection",
+        "feature_questions": [
+          "What types of natural disasters are covered under the \"Natural Disaster Protection\" feature of the Building Insurance?",
+          "Are there any specific conditions or limitations associated with the \"Natural Disaster Protection\" feature in the Building Insurance policy?",
+          "How does the Building Insurance policy define a 'natural disaster' for the purpose of the \"Natural Disaster Protection\" feature?",
+          "What is the process and timeline for filing a claim under the \"Natural Disaster Protection\" feature of the Building Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Vandalism Damage Coverage",
+        "feature_questions": [
+          "What extent of vandalism damage is covered under the Building Insurance policy?",
+          "Are there any specific conditions or exclusions related to vandalism damage coverage in the Building Insurance policy?",
+          "What is the process and requirements for filing a claim for vandalism damage under the Building Insurance policy?",
+          "Does the vandalism damage coverage in the Building Insurance policy include both interior and exterior damages?"
+        ]
+      },
+      {
+        "feature_name": "Glass Breakage Coverage",
+        "feature_questions": [
+          "What does the Glass Breakage Coverage in the Building Insurance policy specifically cover?",
+          "Are there any exclusions or limitations to the Glass Breakage Coverage in the Building Insurance policy?",
+          "What is the process and requirements for filing a claim under the Glass Breakage Coverage of the Building Insurance?",
+          "Are there any additional costs associated with adding Glass Breakage Coverage to the Building Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Building Maintenance Coverage",
+        "feature_questions": [
+          "What specific aspects of building maintenance does the insurance coverage include?",
+          "Are there any limitations or exclusions to the Building Maintenance Coverage in the Building Insurance policy?",
+          "How does the Building Maintenance Coverage in the Building Insurance policy affect the overall premium?",
+          "What is the process for filing a claim under the Building Maintenance Coverage feature of the Building Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Replacement Value Guarantee",
+        "feature_questions": [
+          "What does the \"Replacement Value Guarantee\" feature cover in the Building Insurance policy?",
+          "How is the replacement value calculated under the \"Replacement Value Guarantee\" feature?",
+          "Are there any specific conditions or exclusions associated with the \"Replacement Value Guarantee\" in the Building Insurance policy?",
+          "What is the process to claim the \"Replacement Value Guarantee\" in case of a loss or damage to the building?"
+        ]
+      },
+      {
+        "feature_name": "Liability Insurance Inclusion",
+        "feature_questions": [
+          "Does the Building Insurance policy include Liability Insurance?",
+          "What is the coverage limit for the Liability Insurance included in the Building Insurance policy?",
+          "Are there any specific conditions or exclusions related to the Liability Insurance inclusion in the Building Insurance policy?",
+          "What types of liabilities are covered under the Liability Insurance inclusion of the Building Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Optional Theft Protection",
+        "feature_questions": [
+          "What specific coverage does the \"Optional Theft Protection\" feature provide in the Building Insurance policy?",
+          "Are there any limitations or exclusions associated with the \"Optional Theft Protection\" feature in the Building Insurance policy?",
+          "What is the additional cost for including the \"Optional Theft Protection\" feature in the Building Insurance policy?",
+          "How does the claim process work for the \"Optional Theft Protection\" feature in the Building Insurance policy?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Bicycle Insurance (Fahrradversicherung)",
+    "features": [
+      {
+        "feature_name": "Theft and Vandalism Coverage",
+        "feature_questions": [
+          "What is the extent of the coverage provided for theft and vandalism under the Bicycle Insurance policy?",
+          "Are there any specific conditions or circumstances under which the theft and vandalism coverage is not applicable?",
+          "What is the process and documentation required to claim the theft and vandalism coverage in the Bicycle Insurance policy?",
+          "Does the theft and vandalism coverage include replacement or repair costs for the bicycle?"
+        ]
+      },
+      {
+        "feature_name": "Accidental Damage Protection",
+        "feature_questions": [
+          "What types of accidental damage are covered under the Bicycle Insurance policy?",
+          "Are there any limitations or exclusions to the Accidental Damage Protection feature in the Bicycle Insurance?",
+          "What is the process for filing a claim for accidental damage under the Bicycle Insurance policy?",
+          "Does the Accidental Damage Protection cover both minor and major damages to the bicycle?"
+        ]
+      },
+      {
+        "feature_name": "Worldwide Coverage",
+        "feature_questions": [
+          "Does the Bicycle Insurance offer worldwide coverage for all types of damages and losses?",
+          "Are there any geographical restrictions or exclusions in the worldwide coverage of the Bicycle Insurance?",
+          "What is the duration of the worldwide coverage provided by the Bicycle Insurance?",
+          "Are there any additional costs associated with the worldwide coverage feature of the Bicycle Insurance?"
+        ]
+      },
+      {
+        "feature_name": "New for Old Replacement",
+        "feature_questions": [
+          "What is the maximum age of the bicycle that the \"New for Old Replacement\" feature covers in the Bicycle Insurance policy?",
+          "Are there any specific conditions or circumstances under which the \"New for Old Replacement\" feature is not applicable?",
+          "Does the \"New for Old Replacement\" feature in the Bicycle Insurance policy cover all types of bicycles or are there any exclusions?",
+          "How is the replacement value of the bicycle determined under the \"New for Old Replacement\" feature?"
+        ]
+      },
+      {
+        "feature_name": "Personal Accident Cover",
+        "feature_questions": [
+          "What is the extent of the coverage provided under the Personal Accident Cover in the Bicycle Insurance policy?",
+          "Are there any specific conditions or exclusions applicable to the Personal Accident Cover in the Bicycle Insurance?",
+          "Does the Personal Accident Cover in the Bicycle Insurance include medical expenses and disability benefits?",
+          "How is the compensation determined under the Personal Accident Cover in case of an accident while using the insured bicycle?"
+        ]
+      },
+      {
+        "feature_name": "Public Liability Insurance",
+        "feature_questions": [
+          "What is the coverage limit of the Public Liability Insurance in the Bicycle Insurance policy?",
+          "Does the Public Liability Insurance cover damages caused to third parties by the insured bicycle?",
+          "Are there any specific conditions or exclusions under the Public Liability Insurance feature of the Bicycle Insurance?",
+          "Does the Public Liability Insurance in the Bicycle Insurance policy cover legal costs in case of a dispute?"
+        ]
+      },
+      {
+        "feature_name": "Family and Friends Coverage",
+        "feature_questions": [
+          "What is the extent of the coverage provided for family and friends under the Bicycle Insurance policy?",
+          "Are there any specific conditions or limitations for the \"Family and Friends Coverage\" feature in the Bicycle Insurance policy?",
+          "Does the \"Family and Friends Coverage\" feature in the Bicycle Insurance policy cover all types of bicycles or only specific ones?",
+          "In case of a claim, what is the process and what documents are required for the \"Family and Friends Coverage\" feature in the Bicycle Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "E-Bike and Pedelec Inclusion",
+        "feature_questions": [
+          "Does the Bicycle Insurance cover E-Bikes and Pedelecs?",
+          "Are there any specific conditions or limitations for the inclusion of E-Bikes and Pedelecs in the Bicycle Insurance?",
+          "Is there an additional cost for including E-Bikes and Pedelecs in the Bicycle Insurance policy?",
+          "What is the process for claiming insurance for E-Bikes and Pedelecs under the Bicycle Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Parts and Accessories Coverage",
+        "feature_questions": [
+          "What parts and accessories of the bicycle are covered under the \"Parts and Accessories Coverage\" feature of the Bicycle Insurance?",
+          "Are there any limitations or exclusions to the \"Parts and Accessories Coverage\" in the Bicycle Insurance policy?",
+          "What is the maximum coverage limit for parts and accessories under the Bicycle Insurance?",
+          "In the event of a claim, what is the process and requirements for claiming under the \"Parts and Accessories Coverage\" feature of the Bicycle Insurance?"
+        ]
+      },
+      {
+        "feature_name": "No Deductible Option",
+        "feature_questions": [
+          "Does the Bicycle Insurance offer a No Deductible Option?",
+          "What are the terms and conditions to avail the No Deductible Option in the Bicycle Insurance?",
+          "How does the No Deductible Option impact the premium of the Bicycle Insurance?",
+          "Are there any specific scenarios or damages where the No Deductible Option does not apply in the Bicycle Insurance?"
+        ]
+      }
+    ]
+  },
+  {
+    "product_name": "Funeral Insurance (Sterbegeldversicherung)",
+    "features": [
+      {
+        "feature_name": "Fixed Premium Rates",
+        "feature_questions": [
+          "What are the terms and conditions for the fixed premium rates in the Funeral Insurance policy?",
+          "How does the Funeral Insurance policy calculate the fixed premium rates?",
+          "Are there any circumstances under which the fixed premium rates for the Funeral Insurance can change?",
+          "What benefits are included under the fixed premium rates of the Funeral Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Immediate Coverage Option",
+        "feature_questions": [
+          "Does the Funeral Insurance policy offer an Immediate Coverage Option?",
+          "What are the specific terms and conditions for the Immediate Coverage Option in the Funeral Insurance policy?",
+          "Are there any additional costs associated with the Immediate Coverage Option in the Funeral Insurance policy?",
+          "Are there any exclusions or limitations to the Immediate Coverage Option in the Funeral Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "No Health Examination",
+        "feature_questions": [
+          "Does the Funeral Insurance policy offer the feature of No Health Examination?",
+          "What are the specific terms and conditions related to the No Health Examination feature in the Funeral Insurance policy?",
+          "Are there any age restrictions or limitations for the No Health Examination feature in the Funeral Insurance policy?",
+          "How does the No Health Examination feature impact the premium of the Funeral Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Guaranteed Acceptance",
+        "feature_questions": [
+          "What are the conditions for the guaranteed acceptance feature in the Funeral Insurance policy?",
+          "Are there any age restrictions or health requirements for the guaranteed acceptance feature in the Funeral Insurance?",
+          "Does the guaranteed acceptance feature in the Funeral Insurance come with a waiting period?",
+          "Are there any additional costs or premiums associated with the guaranteed acceptance feature in the Funeral Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Funeral Service Planning",
+        "feature_questions": [
+          "What specific services are included in the \"Funeral Service Planning\" feature of the Funeral Insurance?",
+          "How does the \"Funeral Service Planning\" feature assist in the preparation and organization of the funeral?",
+          "Are there any limitations or exclusions to the \"Funeral Service Planning\" feature in the Funeral Insurance policy?",
+          "Does the \"Funeral Service Planning\" feature cover costs associated with the funeral or is it purely for planning and coordination?"
+        ]
+      },
+      {
+        "feature_name": "Inflation Protection",
+        "feature_questions": [
+          "Does the Funeral Insurance policy offer Inflation Protection?",
+          "How does the Inflation Protection feature in the Funeral Insurance policy work?",
+          "What are the specific benefits of the Inflation Protection feature in the Funeral Insurance policy?",
+          "Are there any additional costs associated with the Inflation Protection feature in the Funeral Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Lump Sum Payout",
+        "feature_questions": [
+          "What is the maximum amount that can be paid out as a lump sum in the Funeral Insurance policy?",
+          "Are there any conditions or restrictions on the lump sum payout of the Funeral Insurance?",
+          "How soon after the policyholder's death is the lump sum payout made in the Funeral Insurance policy?",
+          "Can the lump sum payout from the Funeral Insurance be used for any specific purposes or expenses?"
+        ]
+      },
+      {
+        "feature_name": "Flexible Payment Terms",
+        "feature_questions": [
+          "What are the different payment term options available for the Funeral Insurance?",
+          "Can the payment terms of the Funeral Insurance be adjusted or changed over time?",
+          "Are there any penalties or fees associated with changing the payment terms of the Funeral Insurance?",
+          "How does the flexibility of payment terms impact the overall cost of the Funeral Insurance?"
+        ]
+      },
+      {
+        "feature_name": "Waiting Period Waiver",
+        "feature_questions": [
+          "What is the duration of the waiting period before the Funeral Insurance policy's benefits can be claimed?",
+          "Under what circumstances can the waiting period be waived for the Funeral Insurance policy?",
+          "Are there any additional costs or requirements for the Waiting Period Waiver feature in the Funeral Insurance policy?",
+          "How does the Waiting Period Waiver feature affect the overall cost and benefits of the Funeral Insurance policy?"
+        ]
+      },
+      {
+        "feature_name": "Additional Bereavement Support",
+        "feature_questions": [
+          "What specific services are included in the \"Additional Bereavement Support\" feature of the Funeral Insurance?",
+          "Are there any limitations or exclusions to the \"Additional Bereavement Support\" feature in the Funeral Insurance policy?",
+          "How does the \"Additional Bereavement Support\" feature in the Funeral Insurance policy assist the policyholder's family after their death?",
+          "Are there any additional costs associated with the \"Additional Bereavement Support\" feature of the Funeral Insurance?"
+        ]
+      }
+    ]
+  }
+]

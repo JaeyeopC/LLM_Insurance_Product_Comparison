@@ -1,0 +1,2134 @@
+{
+    "geschaeftskunden_betriebsschliessungsversicherung.md": {
+        "Produktname": "Betriebsschließungsversicherung",
+        "Versicherungsart": "Betriebsunterbrechungsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Finanzieller Ausgleich für den Schließungsschaden (entgangener Betriebsgewinn und fortlaufende Betriebskosten)",
+            "Übernahme der Lohn- und Gehaltsaufwendungen infolge eines Tätigkeitsverbotes",
+            "Ersatz des Waren- und Vorräteschadens sowie Übernahme der Kosten für die Brauchbarmachung oder Vernichtung von Waren und Vorräten",
+            "Kosten für die Desinfektion der Betriebsräume und -einrichtungen",
+            "Kostenübernahme für Ermittlungs- und Beobachtungsmaßnahmen gemäß Infektionsschutzgesetz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Haftung für Schäden infolge einer Epidemie oder Pandemie",
+            "Kein Versicherungsschutz bei Maßnahmen im Rahmen einer Allgemeinverfügung oder wenn keine meldepflichtigen Krankheiten und Krankheitserreger im Betrieb selbst aufgetreten sind"
+        ],
+        "category": "Betriebsunterbrechungsversicherung"
+    },
+    "geschaeftskunden_gastronomie.md": {
+        "Produktname": "Gastronomieversicherungen von AXA",
+        "Versicherungsart": "Cyberschutz",
+        "Deckungssumme": "100.000 oder 250.000 Euro",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prüfung und Begleichung berechtigter Ansprüche",
+            "Abwehr unberechtigter Forderungen",
+            "Ersatz von Heilbehandlungskosten, Schmerzensgeld und Verdienstausfall",
+            "Schutz vor Verlust oder Beschädigung durch Einbruchdiebstahl, Feuer, Leitungswasser, Sturm und Hagel",
+            "Individuell wählbare Bausteine",
+            "Ersatz von Sachschäden und Ertragsausfall",
+            "Schutz vor Bedienungsfehler und Ungeschicklichkeit",
+            "Maschinenversicherung für technische Betriebseinrichtungen",
+            "Elektronikversicherung für elektronische Geräte",
+            "Schutz vor Unterschlagung, Diebstahl und Sabotage durch Mitarbeiter",
+            "Schutz bei Täuschungsschäden durch Dritte und Hackerangriffe",
+            "Ersatz des entstandenen Schadens und Kosten für Ermittlung und rechtliche Verfolgung",
+            "Soforthilfe über 24-Stunden-Hotline",
+            "Übernahme von Sachverständigen- und Beratungskosten",
+            "Kostenübernahme für Datenwiederherstellung und Reputationsschutz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "geschaeftskunden_veranstalterhaftpflichtversicherung.md": {
+        "Produktname": "Veranstalterhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz bei Verkehrssicherungspflichtverletzungen (z.B. Räum- und Streupflicht)",
+            "Abhandenkommen von fremden Schlüsseln, Codekarten oder Transpondern",
+            "Mietsachschäden an Räumen und Gebäuden",
+            "Versicherung von Internet-Technologien wie die versehentliche Verbreitung von Computerviren oder Trojanern",
+            "Umwelthaftpflicht-Basisversicherung für Schäden aus der Vorhaltung von Brennstoffen",
+            "Umweltschadensversicherung für Schäden an der Biodiversität, an Gewässern und am Boden",
+            "Absicherung von Speisen und Getränken bei Events",
+            "Absicherung bei Nutzung von Gabelstaplern oder Arbeitsmaschinen auf beschränkt öffentlichen Verkehrsflächen",
+            "Absicherung von Tribünen, die von Zuschauern genutzt werden",
+            "Absicherung der persönlichen gesetzlichen Haftpflicht von Veranstaltungsteilnehmern"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_it-haftpflicht.md": {
+        "Produktname": "IT-Police Haftpflichtversicherung",
+        "Versicherungsart": "IT-Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit (direkte USA-/Kanada-Exporte nur nach Vereinbarung)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung gegen Vermögensschäden",
+            "Absicherung gegen Personen- und Sachschäden",
+            "Abwehr unberechtigter Ansprüche, Strafrechtsschutz, Gerichts- und Anwaltskosten bei einstweiligen Verfügungen und Unterlassungsklagen",
+            "Deckung von Erfüllungsfolgeschäden",
+            "Betriebsunterbrechung/Gewinnausfall",
+            "Verzug aufgrund benannter Gefahren oder Ausfall von Schlüsselpersonen",
+            "Ausfall von Internetseiten",
+            "Mehrkosten aufgrund fehlgeschlagener Installation von Software",
+            "Aus- und Einbaukosten bei fehlerhafter Hardware (nur im Rahmen der IT-Police Haftpflicht Komfort)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_betriebliche-gruppenunfallversicherung.md": {
+        "Produktname": "Betriebliche Gruppenunfallversicherung",
+        "Versicherungsart": "Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Ausgezeichnetes Reha-Management",
+            "Erhöhung der Mitarbeiterbindung und Zufriedenheit",
+            "Eventuelle nötige Umbaumaßnahmen für den Betrieb nach einem Schadenfall",
+            "Versicherungsschutz rund um die Uhr – ob privat oder beruflich",
+            "Leistung bereits ab einem Invaliditätsgrad von 1%",
+            "Mehrleistungs-/Progressionsstaffeln bei Vollinvalidität",
+            "Ausschnittsdeckungen möglich (z. B. nur Wegeunfälle)",
+            "Hohe Flexibilität bei Ein- und Ausschlüssen von Personen",
+            "Möglichkeit der Mitversicherung einer lebenslangen monatlichen Unfallrente",
+            "Kostenfreie Mitversicherung von Reha-Management und Assistancen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "pk_existenzsicherung_p_existenzschutzversicherung.md": {
+        "Produktname": "Existenzschutzversicherung",
+        "Versicherungsart": "Existenzschutzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "28-jährige/r Versicherte/r nur 16,90 EUR, 38-jährige/r Versicherte/r nur 19,90 EUR (inkl. Ratenzahlungszuschlag und 19 % Versicherungssteuer)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Unbefristet, monatliches Kündigungsrecht",
+        "Weitere Leistungen": [
+            "Rente zwischen 250 und 3.000 EUR im Leistungsfall",
+            "Anpassung der Rente bis zum 45. Lebensjahr zu bestimmten Anlässen ohne erneute Gesundheitsprüfung",
+            "Assistance-Leistungen bei Unfällen im In- und Ausland",
+            "Reha-Management zur Wiedereingliederung",
+            "Optionsrecht für Berufsunfähigkeitsversicherung innerhalb von fünf Jahren nach Vertragsabschluss"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "geschaeftskunden_waldversicherung.md": {
+        "Produktname": "Waldversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Bis zu 3 Mio. Euro für Personen- und sonstige Schäden bei der Waldbesitzer-Haftpflichtversicherung",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Waldbrandversicherung: Schutz bei Brand, Blitzschlag oder Explosion",
+            "Waldsturmversicherung: Schutz bei Zerstörung oder Beschädigung durch Sturmereignisse",
+            "Waldbesitzer-Haftpflichtversicherung: Schutz bei Ersatzansprüchen aus Verletzung der Verkehrssicherungspflicht",
+            "Optional erweiterbar um eine Umweltschadensversicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_haftpflicht_p_bauherrenhaftpflicht.md": {
+        "Produktname": "BOXflex Bauherrenhaftpflicht",
+        "Versicherungsart": "Bauherrenhaftpflichtversicherung",
+        "Deckungssumme": "30 Mio. EUR für Personen-, Sach- und Vermögensschäden",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "97,74 EUR (einmalig)",
+        "Gültigkeitsbereich": "National (für private Bauherren mit ständigem Wohnsitz im deutschen Inland)",
+        "Vertragslaufzeit": "Bis zur Beendigung der Bauarbeiten, spätestens drei Jahre nach Vertragsbeginn",
+        "Weitere Leistungen": [
+            "Versichert sind Neubauten, Umbauten, Reparaturen sowie Abbruch- und Grabungsarbeiten",
+            "Mitversichert ist das Haus- und Grundbesitzerrisiko für das zu bebauende Grundstück",
+            "Absicherung beim Bauen in eigener Regie",
+            "Versicherungsschutz auch bei grober Fahrlässigkeit",
+            "Abwehr unbegründeter Ansprüche"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_betriebsgebaeudeversicherung.md": {
+        "Produktname": "Gebäudeversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung des Sachsubstanzschadens",
+            "Aufräumungs- und Abbruchkosten",
+            "Bewegungs- und Schutzkosten, Feuerlöschkosten",
+            "Kosten zur Dekontamination von Erdreich",
+            "Mehrkosten durch Technologiefortschritt, behördliche Wiederherstellungsbeschränkungen, Preissteigerungen",
+            "Beseitigung von Schäden am Gebäude nach einem Einbruch",
+            "Aufwendungen für Wasserverlust nach einem Rohrbruch",
+            "Aufwendungen zum Entfernen umgestürzter Bäume",
+            "Sachverständigenkosten",
+            "Mietausfall inklusive fortlaufender Nebenkosten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gebäudeversicherung"
+    },
+    "geschaeftskunden_autoinhaltsversicherung.md": {
+        "Produktname": "Autoinhaltsversicherung",
+        "Versicherungsart": "Transportversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "BRD und westeuropäische Anrainerstaaten",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherung bei Einbruch in das Kraftfahrzeug und Entwendung des Fahrzeugs",
+            "Versicherung bei Unfall des Kraftfahrzeugs und Unfall des Transportmittels beim Be- und Entladen",
+            "Versicherung bei Brand-, Blitz- und Explosionsschäden und höhere Gewalt",
+            "Versicherung bei Raub der versicherten Sachen",
+            "Versicherung des Nachtzeitrisikos",
+            "Mitversicherung einer Musterkollektion"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Transportversicherung"
+    },
+    "pk_kfz_p_roller-versicherung.md": {
+        "Produktname": "Roller-Versicherung",
+        "Versicherungsart": "Haftpflichtversicherung, Teilkaskoversicherung",
+        "Deckungssumme": "Haftpflichtschäden bis 100 Mio. EUR, Personenschäden bis 15 Mio. EUR pro geschädigter Person",
+        "Selbstbeteiligung": "150 EUR (bei Teilkaskoversicherung)",
+        "Preis": "Haftpflicht inkl. 19% Vst.: 89€ (unter 18 Jahre), 49€ (ab 18 Jahre); Haftpflicht mit Teilkasko inkl. 19% Vst.: 159€ (unter 18 Jahre), 99€ (ab 18 Jahre)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "1 Jahr (endet am 28. oder 29. Februar des Folgejahres)",
+        "Weitere Leistungen": [
+            "Schutz bei Haftpflichtschäden",
+            "Schutz bei Personenschäden",
+            "Möglichkeit zur Teilkaskoversicherung gegen Diebstahl, Sturm und Hagel"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_betriebliche-krankenversicherung.md": {
+        "Produktname": "FlexMed easy",
+        "Versicherungsart": "Betriebliche Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Hochwertige medizinische Versorgung",
+            "Ausgleich von Versorgungslücken in der GKV",
+            "Vom Arbeitgeber finanzierte Beiträge",
+            "Personalisierte Versichertenkarte",
+            "Familienabsicherung möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pk_haftpflicht_p_rechtsschutz.md": {
+        "Produktname": "Rechtsschutzversicherung bei AXA",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzt innerhalb Deutschlands, weltweit bis 250.000 €",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National und weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenlose Erstberatung",
+            "Freie Rechtsanwaltswahl",
+            "Schutz im Internet (je nach Tarif)",
+            "Opferschutz",
+            "Rechtsschutz bei Ordnungswidrigkeiten",
+            "Vertrag- und Sachenrecht",
+            "Sozial-, Verwaltungs- und Steuerrecht",
+            "Schadensersatz- und Schmerzensgeldansprüche",
+            "Familien-, Lebenspartnerschafts- und Erbrecht (je nach Tarif)",
+            "Verkehrsrechtsschutz",
+            "Berufsrechtsschutz",
+            "Immobilienrechtsschutz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Entfällt der Versicherungsschutz für nicht im Vertrag enthaltene Leistungen",
+            "Passiver Strafrechtsschutz greift nicht bei vorsätzlichen Straftatbeständen"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "pk_altersvorsorge_geldanlage.md": {
+        "Produktname": "Portfolio Management",
+        "Versicherungsart": "Vermögensverwaltung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Sicherheit und Planbarkeit bei der Anlage",
+            "Garantierte Leistungen",
+            "Kombination aus Versicherungslösung und aktiv gemanagtem Portfolio",
+            "Attraktive Renditechancen",
+            "Kombination aus Festgeld und Portfolio Plus Police",
+            "Sicherheit, Rendite und Liquidität",
+            "Streuung des Risikos durch Verteilung auf viele Anlagen",
+            "Flexibilität bei niedrigen Anlagesummen",
+            "Anlagestrategien mit Balance zwischen Sicherheit und Chance",
+            "Berücksichtigung der persönlichen Risikoneigung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "geschaeftskunden_ertragsausfallversicherung.md": {
+        "Produktname": "Ertragsausfallversicherung",
+        "Versicherungsart": "Betriebsunterbrechungsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Ersatz des nicht erwirtschafteten Ertrages zur Deckung der fortlaufenden Kosten",
+            "Übernahme von Schadenabwendungs- oder -minderungsmaßnahmen",
+            "Versicherung von Wechselwirkungsschäden",
+            "Versicherung von Rückwirkungsschäden",
+            "Versicherung von zusätzlichen Standgeldern und ähnlichen Mehraufwendungen",
+            "Versicherung von Wertverlusten und zusätzlichen Aufwendungen",
+            "Versicherung von Vertragsstrafen",
+            "Versicherung von Mehrkosten durch behördliche Wiederherstellungsbeschränkungen",
+            "Versicherung von Sachverständigenkosten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Betriebsunterbrechungsversicherung"
+    },
+    "geschaeftskunden_betriebliche-altersversorgung.md": {
+        "Produktname": "Betriebliche Altersversorgung",
+        "Versicherungsart": "Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Altersversorgung",
+            "Invalidenversorgung",
+            "Hinterbliebenenversorgung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "pk_kfz_s_schadenservice-auto.md": {
+        "Produktname": "schadenservice360° Auto",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "10% Rabatt auf den Kfz-Kaskobeitrag bei Wahl eines Werkstattbausteins",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Übernahme der kompletten Schadensabwicklung und Reparatur",
+            "Kostenloses Ersatzfahrzeug – inkl. Hol- und Bringservice",
+            "Schnelle Hilfe aus einer Hand",
+            "Bundesweites Werkstattnetz mit DEKRA-zertifizierten Partnerwerkstätten",
+            "Höchste Qualitätsstandards mit 6 Jahren Garantie auf die Reparatur",
+            "Keine Vorleistung und kein Warten auf Freigaben",
+            "Transparenz der Schadenbearbeitung mit digitaler Information"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "geschaeftskunden_finanzierungsloesungen_factoring.md": {
+        "Produktname": "Factoring von AXA",
+        "Versicherungsart": "Factoring",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Einrichtungsgebühr zwischen 199 Euro und 499 Euro; Factoringgebühr zwischen 1,0% und 3,5% des Rechnungsbetrages",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "3-Monate-Kündigungsrecht",
+        "Weitere Leistungen": [
+            "Sofortige Liquidität innerhalb von max. 48 Stunden",
+            "Schutz vor Zahlungsausfall zu 100%",
+            "Übernahme des Forderungsmanagements",
+            "Keine versteckten Kosten durch All-In-Gebühr",
+            "Ausschnittsfactoring möglich",
+            "Persönliche Betreuung vor Ort"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nicht geeignet für Bauhauptgewerbe, Vermietung und Verpachtung, Provisionszahlungen, Franchising, Geschäfte im Bereich Militär und Verteidigung und für akademische/medizinische Heilberufe"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "pk_kfz_p_oldtimer-versicherung.md": {
+        "Produktname": "Oldtimer-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Bis 100 Millionen € pauschal, bei Personenschäden bis 15 Mio. € pro Person",
+        "Selbstbeteiligung": "Teilkasko mit 150.-€ Selbstbeteiligung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz für sämtliche Zulassungsarten",
+            "Leistungserweiterung in der Teilkaskoversicherung",
+            "Spezieller Pkw-Schutzbrief für Oldtimer",
+            "Umfangreicher Service und günstige Beiträge",
+            "Schäden durch Brand, Glasbruch, Diebstahl, Hagel und andere Naturereignisse",
+            "Grobe Fahrlässigkeit",
+            "Fahrzeug- und Zubehörteile bis 5.000 Euro",
+            "Verzicht auf den Abzug \"neu für alt\"",
+            "Schäden durch Schneelawinen und Marderbiss",
+            "Vorsorgeversicherung",
+            "Vandalismus",
+            "Versicherungsschutz auf der Fähre",
+            "Fahrzeugersatzteile bis 10 % des Marktwertes",
+            "Austausch der Fahrzeugschlösser nach Schlüsselentwendung",
+            "Vollkaskoleistungen inklusive Rücktransport des nicht mehr fahrbereiten Fahrzeuges nach Unfall",
+            "Schutzbrief zubuchbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Modifizierte und für den historischen Rennsport veränderte Fahrzeuge",
+            "Kleinserien- und Homologationsmodelle",
+            "Fahrzeuge in schlechtem Erhaltungszustand",
+            "Ältere Fahrzeuge im Alltagsgebrauch",
+            "Fahrzeuge mit gewerblicher Nutzung und Werbemobile",
+            "Wohnmobile und zu Wohnzwecken nutzbare Fahrzeuge",
+            "Repliken, Nach- und Eigenbauten",
+            "Fahrzeuge im Einsatz für Hochzeitsfahrten",
+            "Oldtimer mit Erstzulassung ab 1980 mit rotem Dauerkennzeichen",
+            "Saisonkennzeichen über die Wintermonate"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "schadenservice-360_schadenmeldung.md": {
+        "Produktname": "Elementarversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schäden an fremden Fahrzeugen durch das versicherte Fahrzeug",
+            "Schutz vor unberechtigten Schadensforderungen",
+            "Schutz bei Schäden am Inventar durch Brand, Einbruch/Diebstahl, Sturm, Leitungswasser",
+            "Schutz bei versehentlich zugefügten Schäden an Dritten (Sach-, Personen-, Vermögens- und Mietschäden)",
+            "Unfallschäden und Schäden durch Vandalismus",
+            "Schutz gegen naturbedingte Katastrophen wie Überschwemmung, Erdbeben, Schneedruck, Lawinen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden am eigenen Fahrzeug",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Verschleiß am Auto",
+            "Keine Angabe"
+        ],
+        "category": "Elementarversicherung"
+    },
+    "geschaeftskunden_luftfahrtversicherung.md": {
+        "Produktname": "Luftfahrtversicherung",
+        "Versicherungsart": "Luftfahrtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "500 Euro",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europaweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Luftfahrt-Haftpflichtversicherung",
+            "Luftfahrt-Kaskoversicherung",
+            "Luftfahrt-Unfallversicherung",
+            "Pilotenrechtsschutzversicherung",
+            "Erweiterte Flugzeug Kasko-SB, Unfall- und Rechtsschutzkombination"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "geschaeftskunden_services-fuer-geschaeftskunden.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung",
+        "Versicherungsart": "Existenzsicherungsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schadenservice360°",
+            "Verkehrsrechtschutzversicherung",
+            "Schutz vor Schadenersatzforderungen",
+            "Individueller Versicherungsschutz für Hab und Gut",
+            "Erstklassige medizinische Versorgung",
+            "Existenzschutz"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "pk_haftpflicht_p_verkehrsrechtsschutz.md": {
+        "Produktname": "Verkehrsrechtsschutzversicherung",
+        "Versicherungsart": "Verkehrsrechtsschutz",
+        "Deckungssumme": "Unbegrenzte Kostenübernahme im Streitfall",
+        "Selbstbeteiligung": "Wählbar: 150, 250 oder 500 Euro; ohne Selbstbeteiligung bei Kosten bis zu 250 Euro",
+        "Preis": "Ab 6,19 € im Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Verkehrsrechtsschutz ohne Wartezeit",
+            "Anwalt besucht bei Krankheit oder Unfall zu Hause oder im Krankenhaus",
+            "Schutz bei Bußgeldern und Werkstattmängeln",
+            "Unterstützung bei Schadensersatzansprüchen, Ordnungswidrigkeiten und Strafrecht",
+            "Rechtsschutz für Opfer im Straßenverkehr",
+            "Unterstützung bei Streitigkeiten aus Kauf-, Miet- oder Reparaturverträgen",
+            "Sozial-Rechtsschutz bei Konflikten mit Sozialbehörden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine rückwirkende Deckung",
+            "Grundsätzlich nicht steuerlich absetzbar, außer bei beruflicher Nutzung"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "geschaeftskunden_bau.md": {
+        "Produktname": "Profi-Schutz für das Baugewerbe",
+        "Versicherungsart": "Sach- und Haftpflichtversicherung",
+        "Deckungssumme": "Bis drei Mio. Euro für Haftpflichtansprüche",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung bei Haftpflichtansprüchen Dritter wegen Personen-, Sach- und Vermögensschäden",
+            "Umwelthaftpflicht",
+            "Erweiterte Produkthaftpflicht für Bau-Handwerk inkl. Rückruf",
+            "Neuwertentschädigung für Arbeitsmaschinen",
+            "Nachbesserungsbegleitschäden inkl. Produktionsausfall",
+            "Versicherung der Betriebseinrichtung gegen Feuer, Leitungswasser, Einbruchdiebstahl, Vandalismus, Raub, Sturm und Hagel",
+            "Versicherung von Sachen auf Baustellen gegen Einbruchdiebstahl",
+            "Versicherung von Transportgefahren",
+            "Ausstellungsversicherung",
+            "Maschinen-Pauschal-Versicherung",
+            "Kautionsversicherung zur Erweiterung des Finanzierungsspielraums",
+            "Rechtsschutzversicherung mit einer Versicherungssumme von einer Mio. Euro je Rechtsschutzfall"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "pk_gesundheit_s_pflegewelt.md": {
+        "Produktname": "Pflegeversicherung",
+        "Versicherungsart": "Pflegeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Pflegehilfsmittel kostenfrei bestellen",
+            "Pflegeberatungstellen",
+            "Unterstützung für Pflegeanghörige",
+            "Vorsorgevollmacht, Betreuungsverfügung, Patientenverfügung & Digitaler Nachlass",
+            "Sterbebegleitung, Hospiz & Palliativmedizin"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "pk_existenzsicherung_p_unfallversicherung.md": {
+        "Produktname": "Unfallversicherung",
+        "Versicherungsart": "Private Unfallversicherung",
+        "Deckungssumme": "Leistung bei Vollinvalidität: 300.000 EUR, Grundsumme: 50.000 EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "S: ab 9,95 € im Monat, M: ab 15,52 € im Monat, L: ab 21,82 € im Monat",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Unkomplizierter Versicherungsabschluss ohne Gesundheitsfragen",
+            "Individuelles Leistungskonzept durch flexibles Bausteinprinzip",
+            "Kapitalzahlung ab einem Invaliditätsgrad von 1 Prozent",
+            "Sofortleistung bei bestimmten schweren Verletzungen",
+            "Vorsorgeschutz für Neugeborene",
+            "Übernahme der Kosten für kosmetische Operationen bis 50.000 Euro",
+            "Übernahme von Rettungs- und Bergungskosten bis 50.000 Euro",
+            "Optionale Bausteine wie Kapitalturbo, Unfall-Rente, Todesfall-Leistung, etc."
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Unfälle durch Kriegs- oder Bürgerkriegsereignisse",
+            "Falsche Angaben bei der Einstufung oder unterlassene Mitteilungen"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "pk_existenzsicherung_p_berufsunfaehigkeitsversicherung.md": {
+        "Produktname": "Berufsunfähigkeitsversicherung von AXA",
+        "Versicherungsart": "Berufsunfähigkeitsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 16,81 € im Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Verzicht auf abstrakte Verweisung",
+            "Umfangreiche Erhöhungsmöglichkeiten und Flexibilitäten",
+            "Verkürzter Prognosezeitraum",
+            "Volle Leistung schon bei 50 % Einschränkung",
+            "Keine Beitragserhöhung bei Jobwechsel",
+            "Leistung bei schweren Krankheiten",
+            "Leistung bei längerer Krankschreibung",
+            "Inflationsschutz im Leistungsfall (teilweise)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Berufsunfähigkeitsversicherung"
+    },
+    "geschaeftskunden_praxisausfallversicherung.md": {
+        "Produktname": "Praxisausfallversicherung",
+        "Versicherungsart": "Betriebsunterbrechungsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Vereinbarung eines Selbstbehaltes möglich",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Übernahme der fortlaufenden Betriebskosten bei Ausfall",
+            "Kostenübernahme für einen Stellvertreter (Vertreterkostenversicherung)",
+            "Absicherung gegen Krankheit, Unfall, Sachrisiken und Quarantäne",
+            "Gestaltungsmöglichkeiten wie Wahl einer Karenzzeit und Absicherung des Gewinns"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Ein- oder Ausschluss der Absicherung von Sachrisiken (z.B. Brand, Leitungswasser, Einbruch) möglich"
+        ],
+        "category": "Betriebsunterbrechungsversicherung"
+    },
+    "geschaeftskunden_cyber-versicherung.md": {
+        "Produktname": "FirmenFlex Cyber-Versicherung",
+        "Versicherungsart": "Cyber-Versicherung",
+        "Deckungssumme": "Bis 1 Mio. Euro Versicherungssumme",
+        "Selbstbeteiligung": "Ab 500 Euro",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "1 Jahr",
+        "Weitere Leistungen": [
+            "Umfassender finanzieller Schutz gegen IT- und Cyber-Risiken",
+            "Professionelle Hilfe im Krisenfall",
+            "24-Stunden-Hotline für Sofortmaßnahmen nach einem Hacker-Angriff",
+            "Absicherung bei Betriebsunterbrechung, Ertragsausfallschäden, Internet-Betrug",
+            "Kostenübernahme bei Datenschutzverletzungen",
+            "Unterstützung durch ein spezialisiertes Cyber-Schadenteam"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Betriebsunterbrechungsversicherung"
+    },
+    "pk_gesundheit_p_private-krankenversicherung.md": {
+        "Produktname": "Private Krankenversicherung Premiumschutz",
+        "Versicherungsart": "Private Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Abhängig vom Tarif (z.B. 360€ pro Jahr, 20% bis max. 500€, 900€ pro Jahr)",
+        "Preis": "Ab 465,65€ (je nach Tarif)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schnelle Facharzttermine",
+            "Behandlung durch den Chefarzt",
+            "Zugang zu neuesten Diagnose- und Therapiemethoden",
+            "Gesetzliche Alterungsrückstellung",
+            "Online Arzt Konsultation",
+            "100% Erstattung für Zahnprophylaxe",
+            "Erstattung für alternative Heilmethoden",
+            "Praktisch per App Gesundheitsmanagement",
+            "Innovation inklusive mit Zugang zu neuen Behandlungsmethoden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "geschaeftskunden_transportversicherung.md": {
+        "Produktname": "Industrie Select Transportwarenversicherung",
+        "Versicherungsart": "Transportversicherung",
+        "Deckungssumme": "Individuelle Ermittlung und Vereinbarung benötigter Deckungssummen",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Nahezu weltweit",
+        "Vertragslaufzeit": "Jahresvertrag",
+        "Weitere Leistungen": [
+            "Umfassender Versicherungsschutz, der relevante Risiken nahezu weltweit abdeckt",
+            "Teilnahme an Messen/Ausstellungen oder betrieblich bedingte Mitarbeiterumzüge zusätzlich versicherbar",
+            "Verlässliche und hohe Absicherung vielfältigster Kostenpositionen, z. B. Bergungs- und Beseitigungskosten, Expresszuschläge",
+            "Transparente Versicherungsbedingungen",
+            "Kontinuierliche Begleitung bei Expansion durch Tochterunternehmen im Ausland"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Transportversicherung"
+    },
+    "geschaeftskunden_internationale-krankenversicherung.md": {
+        "Produktname": "Internationale Krankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz für ambulante und stationäre Behandlung",
+            "Zahnbehandlung/Zahnersatz",
+            "Rücktransport in das Heimatland",
+            "Zugang zu einem Netzwerk mit mehr als 1 Million Anbietern",
+            "Mehrsprachige 24/7-Hotline",
+            "Online-Tool für Leistungserstattung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pk_gesundheit_s_online-arzt.md": {
+        "Produktname": "Online-Arzt von MD Medicus",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Durchschnittlich 30-50 Euro pro Video-Konsultation",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "24/7 Erreichbarkeit",
+            "Arztgespräch per Telefon oder Videochat",
+            "Facharztsuche und -terminservice",
+            "Ausstellung von Privatrezepten und Krankschreibungen",
+            "Beratung bei telemedizinisch behandelbaren Themen",
+            "Unterstützung bei der Facharztsuche"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Nicht geeignet für Notfälle",
+            "Nicht geeignet für Beschwerden, die physische Untersuchungen erfordern",
+            "Keine Folgebescheinigungen für Krankschreibungen möglich"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_haus-wohnung_s_schadenservice-haus.md": {
+        "Produktname": "Schadenservice Haus",
+        "Versicherungsart": "Wohngebäude-, Hausrat- oder Glasversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Kostenloser Rundumservice im Schadenfall",
+            "Schnelle Hilfe durch Partnerhandwerker",
+            "Organisation aller Handwerksleistungen",
+            "Sofortmaßnahmen 24/7 bei Wasser- und Feuerschäden",
+            "AXA übernimmt auf Wunsch die Abrechnung mit Partnerhandwerkern",
+            "Laufende, digitale Information über den Stand der Schadenbearbeitung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "geschaeftskunden_bauleistungsversicherung.md": {
+        "Produktname": "Bauleistungsversicherung",
+        "Versicherungsart": "Bauversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherung von Lieferungen und Leistungen für Neubau oder Umbau einschließlich Außenanlagen",
+            "Mitversicherung von Unternehmern, die am Bauvorhaben beteiligt sind",
+            "Schutz gegen finanzielle Einbußen bei Sachschäden durch Ungeschicklichkeit, Fahrlässigkeit, Vandalismus oder Böswilligkeit",
+            "Schutz bei ungewöhnlichen Witterungseinflüssen (Sturm, Hagel, Starkregen)",
+            "Schutz bei Brand, Blitzschlag oder Explosion",
+            "Schutz bei nicht erkannten Eigenschaften des Baugrundes"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Bauleistungsversicherung"
+    },
+    "geschaeftskunden_industrie-sachversicherung.md": {
+        "Produktname": "Industrie Select Sach und Ertragsausfall Versicherung",
+        "Versicherungsart": "Sach- und Ertragsausfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Globaler Versicherungsschutz",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Individuelle und maßgeschneiderte Versicherungslösungen",
+            "Dezentrale Ansprechpartner",
+            "Globaler Versicherungsschutz aus einer Hand durch internationales Netzwerk",
+            "Kompetente Schaden- und Sachexpertise, professionelle Schadenregulierung und Soforthilfe im Schadenfall",
+            "Schadenprävention und kompetente Beratung in Sicherheitsfragen durch die AXA XL Risk Consulting",
+            "Ersatz von Sachwerten und Schutz vor finanziellen Folgen bei Betriebsunterbrechung",
+            "Absicherung gegen vielfältige Gefahren wie Feuer, Einbruchdiebstahl, Erdbeben, etc.",
+            "Kostenübernahme für Aufräumungs- und Abbruchkosten, Schadenbekämpfungskosten, etc."
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Betriebsunterbrechungsversicherung"
+    },
+    "pk_kfz.md": {
+        "Produktname": "Roller- und Mopedversicherung",
+        "Versicherungsart": "Fahrzeugversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Umfassende Absicherung im Schadensfall",
+            "Zuverlässiger Service",
+            "Spezielle Tarife für Elektro- und Hybridfahrzeuge",
+            "Umfassende Absicherung im Schadensfall",
+            "Erstklassiger Service",
+            "Maximale Flexibilität",
+            "Ersatz des Fahrzeugwerts im Schadensfall",
+            "Extra-Sicherheit für Lkw bis 3,5 t",
+            "Basis-Schutz oder umfassende Absicherung",
+            "Schutz mit dem Nummernschild automatisch mitbezahlt",
+            "Sicherheit auf zwei Rädern"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "geschaeftskunden_vermoegensschadenhaftpflicht.md": {
+        "Produktname": "Vermögensschadenhaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prüfung der Haftungsfrage",
+            "Freistellung von berechtigten Ansprüchen",
+            "Abwehr unberechtigter Schadenersatzforderungen",
+            "Führung und Kostenübernahme eines Prozesses"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_gesundheit.md": {
+        "Produktname": "Pflegezusatzversicherung",
+        "Versicherungsart": "Zusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Spitzenleistungen für Selbstständige und Angestellte über der Versicherungspflichtgrenze",
+            "Erstklassige medizinische Versorgung",
+            "Privater Versicherungsschutz",
+            "Innovative Services",
+            "Hohe Flexibilität bei Gesundheitsabsicherung",
+            "Schutz vor hohen Selbstkosten beim Zahnarzt",
+            "Angenehmer Krankenhausaufenthalt",
+            "Versicherung für Brille und Heilpraktiker",
+            "Absicherung des Gehalts bei Krankheit über sechs Wochen",
+            "Absicherung in allen Pflegegraden",
+            "Keine Gesundheitsprüfung bei einer Wartezeit von 5 Jahren"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "geschaeftskunden_landwirtschaft.md": {
+        "Produktname": "Haftpflichtversicherung für landwirtschaftliche Betriebe",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "1.000 Euro für Produkthaftpflichtversicherung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Wechselmöglichkeit zur Betriebshaftpflichtversicherung bis zum 01.01.2019",
+            "Vorteile des Versicherungsschutzes während der Übergangsphase",
+            "Erweiterte Produkthaftpflichtversicherung für Vermögensschäden durch eigene Produkte",
+            "Versicherung von Ernteerzeugnissen gegen Feuer",
+            "Versicherung von Werkzeugen gegen Einbruch-Diebstahl",
+            "Versicherung von branchenüblichen Nebenrisiken",
+            "Versicherung von Ernteerzeugnissen gegen Feuer",
+            "Versicherung von Werkzeugen gegen Einbruchdiebstahl bis 7.500 Euro",
+            "Versicherung des gesamten Tierbestandes bis zu einem Einzelwert von 10.000 Euro pro Tier",
+            "Versicherung von Wald- und Forstbestand bis zu einer Größe von 5 ha",
+            "Erweiterte Produkthaftpflichtversicherung bis zu 300.000 Euro",
+            "Mitversicherung branchenüblicher Nebenrisiken",
+            "Versicherung von Mietsachschäden an Arbeitsmaschinen bis zu 60.000 Euro",
+            "Umwelthaftpflichtversicherung für bestimmte Mengen an Jauche, Düngemittel, Mineralöle und Gas"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_inhaltsversicherung.md": {
+        "Produktname": "Inhaltsversicherung für Betriebe",
+        "Versicherungsart": "Inhaltsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz der technischen und kaufmännischen Betriebseinrichtung gegen Feuer, Leitungswasser, Sturm/Hagel",
+            "Schutz gegen böswillige Beschädigung, Einbruchdiebstahl inklusive Vandalismus und Raub",
+            "Schutz gegen Elementargefahren wie Überschwemmung und Erdbeben",
+            "Versicherungsschutz für Daten wie Auftrags- und Inventarlisten, Programme und Kundendaten",
+            "Wiederherstellung oder Wiederbeschaffung der Betriebseinrichtung und Waren",
+            "Übernahme von Aufräumungs- und Abbruchkosten, Bewegungs- und Schutzkosten, Feuerlöschkosten",
+            "Kostenübernahme für provisorische Sicherungsmaßnahmen, Schlossänderungen, Gebäudebeschädigungen nach Einbruch",
+            "Spezielle Leistungen für landwirtschaftliche Betriebe, z.B. Fermentationsschäden, Diebstahl von Tieren"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Geschäftsinhaltsversicherung"
+    },
+    "pk_kfz_p_e-scooter-versicherung.md": {
+        "Produktname": "E-Scooter Versicherung",
+        "Versicherungsart": "Haftpflichtversicherung mit optionaler Teilkaskoversicherung",
+        "Deckungssumme": "Haftpflichtschäden bis 100 Mio.€, Personenschäden bis 15 Mio.€ pro geschädigter Person",
+        "Selbstbeteiligung": "150€ bei Teilkaskoversicherung",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Nummernschild automatisch mitbezahlt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_haftpflicht.md": {
+        "Produktname": "Gewässerschadenhaftpflicht",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor Schäden, die Sie verursachen",
+            "Mitversicherung von Personen in häuslicher Gemeinschaft (z.B. Au-Pair, Großeltern)",
+            "Schutz vor finanziellen Folgen eines Schadens durch Ihr Tier",
+            "Flexible und günstige Hundehaftpflichtversicherung",
+            "Schutz vor Haftungsansprüchen bis zur erfolgreichen Bauabnahme",
+            "Schutz vor finanziellen Folgen von Schäden in Verbindung mit Haus und Grundstück",
+            "Übernahme der Kosten von Maßnahmen zur Entseuchung nach einem Ölaustritt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_gesundheit_p_pflegezusatzversicherung.md": {
+        "Produktname": "Pflegevorsorge Akut",
+        "Versicherungsart": "Pflegezusatzversicherung",
+        "Deckungssumme": "Kostenübernahme bis 2.500 EUR für 3 Monate",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Pflegegeld für jeden Pflegegrad individuell versicherbar",
+            "Automatische Erhöhung des Pflegegeldes um 10% alle 3 Jahre",
+            "Beitragsbefreiung ab Pflegegrad 4",
+            "Keine Wartezeiten",
+            "Europaweite Deckung",
+            "Soforthilfe im Ernstfall",
+            "24-Stunden-Hotline",
+            "24-Stunden Versorgungsgarantie"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Pflegekostenversicherung"
+    },
+    "geschaeftskunden_montageversicherung.md": {
+        "Produktname": "Montageversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherung von Schäden durch Konstruktions-, Material-, oder Herstellungsfehler",
+            "Versicherung von Schäden durch Montagefehler, Ungeschicklichkeit oder Fahrlässigkeit",
+            "Versicherung von Schäden durch Vandalismus oder Böswilligkeit",
+            "Versicherung von Schäden durch Brand, Blitzschlag oder Explosion",
+            "Versicherung von Schäden durch Wartungsarbeiten während der Gewährleistungszeit",
+            "Mitversicherung politischer Gefahren, z. B. Streik oder Aussperrung, Innere Unruhen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Montageversicherung"
+    },
+    "pk_haus-wohnung_p_elementarversicherung.md": {
+        "Produktname": "Elementarversicherung von AXA",
+        "Versicherungsart": "Elementarversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Verlässlicher Schutz gegen Elementarschäden",
+            "Für Wohngebäude und Hausrat",
+            "Hilfreiche Präventionstipps und schnelle Hilfe im Schadenfall",
+            "Soforthilfe im Notfall – rund um die Uhr",
+            "Schnelle Organisation von Handwerker:innen mit höchsten Standards",
+            "Deutschlandweites Handwerksnetzwerk",
+            "Terminkoordination unterschiedlicher Gewerke",
+            "Komplette Abrechnung mit Handwerker:innen durch AXA (auf Wunsch)",
+            "Kostenlos inklusive bei den Wohngebäude- und Hausratversicherungen von AXA"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Feuerschäden durch Brände",
+            "Nässeschäden durch Leitungswasser",
+            "Sturmschäden",
+            "Schneedruck-, Erdrutsch- oder Lawinen-Schäden"
+        ],
+        "category": "Elementarversicherung"
+    },
+    "pk_gesundheit_p_auslandskrankenversicherung.md": {
+        "Produktname": "Auslandskrankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Kein Selbstbehalt",
+        "Preis": "Ab 7,92 Euro pro Person/Jahr",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Mindestlaufzeit 1 Jahr, kündbar mit einer Frist von einem Monat",
+        "Weitere Leistungen": [
+            "Garantierte Leistungen bei jeder Auslandsreise",
+            "Ambulante Heilbehandlung als Privatpatient inkl. verordneter Medikamente",
+            "Schmerzstillende zahnärztliche Behandlungen und notwendige Reparaturen von Zahnersatz",
+            "Krankenhausbehandlungen inkl. Operationen als Privatpatient",
+            "Medizinisch sinnvoller und vertretbarer Rücktransport nach Deutschland",
+            "Leistungsgarantie über 56 Tage hinaus, wenn Rückreise ohne Gefährdung der Gesundheit nicht möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pk_gesundheit_s_pkv-privatpatient-leitfaden.md": {
+        "Produktname": "Private Krankenversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Ambulante und stationäre Behandlungen",
+            "Zahntarif",
+            "Krankentagegeldversicherung",
+            "Gesundheitsservice"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "geschaeftskunden_verkehrshaftungsversicherung.md": {
+        "Produktname": "Verkehrshaftungsversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Individueller Selbstbehalt",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Umfangreicher geographischer Geltungsbereich",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zuschlagsfreie Haftungserhöhung auf 40 SZR",
+            "Mitversicherung der Haftung der direkt eingesetzten Subunternehmer",
+            "Versicherungsmöglichkeit für individuelle Haftungsvereinbarungen mit dem Auftraggeber",
+            "Bergungs- und Beseitigungskosten bis zu 25.000 Euro mitversichert",
+            "Zuschlagsfreie Versicherung der Haftung aus der Beförderung betriebsfremder Container, Wechselaufbauten, Chassis, Sattelaufliegern und Anhängern"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_finanzierungsloesungen_firmenleasing.md": {
+        "Produktname": "Firmenleasing",
+        "Versicherungsart": "Keine Angabe",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schonung der Liquidität – individuelle Ratenverläufe",
+            "Planungssicherheit - feste, nutzungsorientierte Leasingraten",
+            "Positive Bilanzeffekte - Investition ohne Kreditaufnahme",
+            "Steuervorteile - Leasingraten als Betriebsausgaben absetzbar",
+            "Unabhängigkeit - Finanzierung unabhängig von Herstellern und Banken"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_haus-wohnung_p_gebaeudeversicherung.md": {
+        "Produktname": "Wohngebäudeversicherung von AXA",
+        "Versicherungsart": "Wohngebäudeversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz bei vielseitigen Schäden",
+            "Facettenreiche Zusatzbausteine",
+            "Flexibel anpassbar und kündbar",
+            "Umfassender Schutz bei Feuer, Leitungswasser, Sturm, Hagel",
+            "Individuelle Anpassung des Deckungsumfangs",
+            "Versicherung bei grober Fahrlässigkeit",
+            "Schnelle Schadensabwicklung",
+            "Nachhaltige Zusatzleistungen für erneuerbare Energien",
+            "Durchgängige Transparenz bei Kosten"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gebäudeversicherung"
+    },
+    "pk_gesundheit_p_zahnzusatzversicherung.md": {
+        "Produktname": "Zahnzusatzversicherung DENT Premium",
+        "Versicherungsart": "Zahnzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 2,50€ im Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Erstattung von 85 – 90 % des Rechnungsbetrags für Zahnersatz (Implantate, Kronen)",
+            "Erstattung von 85 – 90 % des Rechnungsbetrags für Inlays",
+            "100 % Erstattung für Zahnbehandlungen",
+            "100 % Erstattung für Prophylaxe / professionelle Zahnreinigung (max. 120 Euro / Jahr)",
+            "90 % Erstattung für kieferorthopädische Behandlungen für Kinder, wenn GKV nicht vorleistet",
+            "Keine Wartezeit bei unfallbedingten Behandlungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von 6 Monaten (außer bei unfallbedingten Behandlungen)",
+            "Leistungsbegrenzung in den ersten 4 Jahren (Zahnstaffel)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "geschaeftskunden_maschinenversicherung.md": {
+        "Produktname": "Maschinenversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung gegen Bedienungsfehler und Fahrlässigkeit, Vorsatz Dritter",
+            "Schutz bei Versagen von Mess-, Regel- oder Sicherheitseinrichtungen",
+            "Deckung bei Konstruktions-, Material- oder Ausführungsfehlern",
+            "Versicherung gegen Sturm- oder Frostschäden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Maschinenkasko- und Maschinenbruchversicherung"
+    },
+    "pk_altersvorsorge_p_private-rentenversicherung.md": {
+        "Produktname": "Private Rentenversicherung",
+        "Versicherungsart": "Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Lebenslange Rentenzahlung",
+            "Wahlrecht bei Rentenauszahlung (lebenslange Rente, Einmalzahlung oder Kombination)",
+            "Attraktive Steuervorteile",
+            "Vererbbarkeit und Todesfall-Leistung",
+            "Anpassung an Lebensumstände (Beitragsanpassungen, Beitragspausen, Entnahmen)",
+            "Nachhaltige Investments möglich",
+            "Renditechancen durch Kapitalmarktinvestitionen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "pk_haus-wohnung_p_bausparvertrag.md": {
+        "Produktname": "Bausparen mit AXA",
+        "Versicherungsart": "Bausparvertrag",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 1,0 % Sollzins (ab 1,23 % effektiv)",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Zinsgünstiges Bauspardarlehen, ab 1 % Sollzins garantiert",
+            "Kein Mindestsparguthaben",
+            "Förderung durch Staat und Arbeitgeber",
+            "Jugendbonus für unter 25-Jährige: 0,6 % auf die Bausparsumme"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wohnungsbauprämie wird nur gewährt, wenn das geförderte Guthaben wohnwirtschaftlich verwendet wird",
+            "Ausnahme für junge Bausparer, die ihren ersten Bausparvertrag vor Vollendung des 25. Lebensjahres abschließen und frühestens sieben Jahre nach Vertragsabschluss über die Bausparsumme verfügen"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_gesundheit_p_krankentagegeld-versicherung.md": {
+        "Produktname": "Krankengeld easy",
+        "Versicherungsart": "Krankentagegeld-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 1,65 Euro pro Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Monatlich kündbar",
+        "Weitere Leistungen": [
+            "Kinderkrankengeld für Eltern erkrankter Kinder inklusive",
+            "Krankentagegeld frei von steuerlichen Abzügen und Sozialabgaben",
+            "Einfacher und schneller Online-Abschluss"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Wartezeit von drei Monaten nach Abschluss",
+            "Begrenzung der Leistung auf insgesamt 60 Tage in den Monaten vier bis zwölf",
+            "Keine Leistung für aktuelle Arbeitsunfähigkeit bei Vertragsabschluss"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pk_existenzsicherung_p_sterbegeld-versicherung.md": {
+        "Produktname": "Sterbegeldversicherung",
+        "Versicherungsart": "Lebensversicherung",
+        "Deckungssumme": "Bis 15.000 EUR",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "24,44 EUR monatlich für eine Versicherungssumme von 6.000 EUR für einen 50-jährigen bis zum 85. Lebensjahr",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Lebenslang",
+        "Weitere Leistungen": [
+            "Lebenslanger Versicherungsschutz",
+            "Aufnahme ohne Gesundheitsfragen bis zum Alter von 85 Jahren",
+            "Voller Versicherungsschutz nach 18 Monaten bei monatlicher Beitragszahlung",
+            "Sofortiger voller Versicherungsschutz bei Unfalltod",
+            "Beitragsbefreiung bei Pflegebedürftigkeit ab Pflegegrad 4",
+            "Zusätzliche Absicherung für Todesfall im Ausland (Auslandsrückholung)",
+            "Erhöhung des Versicherungsschutzes durch Überschussbeteiligung ohne zusätzlichen Beitrag"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gemischte Lebensversicherung"
+    },
+    "pk_altersvorsorge_p_vermoegenswirksame-leistungen.md": {
+        "Produktname": "Vermögenswirksame Leistungen",
+        "Versicherungsart": "Kapitalanlage",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Sparraten ab 25 €/Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Mindestlaufzeit von 12 Jahren",
+        "Weitere Leistungen": [
+            "Arbeitnehmersparzulage von 6,65 € bis zu 40 € im Monat",
+            "Renditeorientiertes Investment mit Portfolio ETF",
+            "50 % Beitragsgarantie",
+            "Nachhaltige Kapitalanlage",
+            "Verfügbarkeit des Kapitals trotz Mindestlaufzeit",
+            "Steuervorteile auf Vorabpauschalen oder Ausschüttungen",
+            "Schutz im Todesfall für Hinterbliebene"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine gesetzliche Förderung bei Entnahme vor Ablauf der Mindestlaufzeit",
+            "Einkommensteuer auf erzielten Ertrag bei vorzeitiger Entnahme"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "geschaeftskunden_betriebshaftpflicht.md": {
+        "Produktname": "Betriebshaftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Modular gestaltbare Selbstbeteiligungen",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prüfung der Haftung und Abwehr unbegründeter Forderungen",
+            "Schadenersatz bei begründeten Forderungen",
+            "Mitversicherung von IT und Cyber-Risiken",
+            "Absicherung von Mietsachschäden",
+            "Absicherung von Bearbeitungsschäden und Schlüsselverlustrisiko",
+            "Versicherung der Umwelthaftpflicht",
+            "Schutz vor Schadenersatzansprüchen durch Internet-Technologien",
+            "Alternativ Absicherung von Eigen- und Drittschäden mit der Cyberdeckung",
+            "Personenschäden auf dem Betriebsgrundstück"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_haftpflicht_p_haus-grundbesitzerhaftpflicht.md": {
+        "Produktname": "Haus- und Grundbesitzerhaftpflicht von AXA",
+        "Versicherungsart": "Grundbesitzerhaftpflichtversicherung",
+        "Deckungssumme": "30 Mio. Euro",
+        "Selbstbeteiligung": "Kann vereinbart werden",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Kündigung zum ersten eines jeden Monats möglich",
+        "Weitere Leistungen": [
+            "Schutz vor Schadenersatzforderungen",
+            "Personen-, Sach- und Vermögensschäden von Grundstück und Gebäuden",
+            "Schäden durch Schadhaftigkeit von Treppen und Wegen",
+            "Schäden durch mangelhafte Beleuchtung oder Glätte/Verschmutzung von Gehwegen",
+            "Schäden durch sich lösende Gebäudeteile",
+            "Schäden bei kleineren Bauvorhaben",
+            "Versicherungsschutz für Wohnungseigentümergemeinschaften"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden aus vorsätzlicher Handlung",
+            "Schäden von Immobilien im Ausland",
+            "Schäden von überwiegend gewerblichen Objekten",
+            "Berufliche Tätigkeiten benötigen separate Absicherung",
+            "Vertragliche Zusagen gegenüber Dritten nicht versichert"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_haftpflicht_p_tierhalter-haftpflicht.md": {
+        "Produktname": "Tierhalterhaftpflichtversicherung von AXA",
+        "Versicherungsart": "Tierhalterhaftpflichtversicherung",
+        "Deckungssumme": "Bis zu 30 Millionen Euro",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Für Pferdebesitzer:innen ab 153,99 Euro im Jahr, für Hundebesitzer:innen ab 60,34 Euro im Jahr",
+        "Gültigkeitsbereich": "Weltweit (für bis zu 5 Jahre)",
+        "Vertragslaufzeit": "Monatlich kündbar",
+        "Weitere Leistungen": [
+            "Mietsachschäden",
+            "Teilnahme an Hundeschule",
+            "Welpen mitversichert",
+            "Forderungsausfalldeckung",
+            "Vorübergehende Auslandsaufenthalte",
+            "Therapiehunde versicherbar",
+            "Schäden durch tierische Ausscheidungen",
+            "Fohlen mitversichert",
+            "Deckakt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Tiere in gewerblicher oder landwirtschaftlicher Haltung",
+            "Vorsätzlich herbeigeführte Versicherungsfälle",
+            "Beschädigungen durch im Ausland gehaltene Tiere",
+            "Schäden bei Ihnen oder bei Angehörigen, die in Ihrem Haushalt leben"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_elektronikversicherung.md": {
+        "Produktname": "Elektronikversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Versicherungsschutz bei unvorhersehbaren Sachschäden durch Bedienungsfehler, Ungeschicklichkeit oder Vorsatz Dritter",
+            "Schutz bei Brand, Blitzschlag, Explosion",
+            "Schutz bei Kurzschluss oder Überspannung",
+            "Schutz bei Wasser, Feuchtigkeit, Überschwemmung",
+            "Schutz bei Abhandenkommen durch Diebstahl, Einbruchdiebstahl oder Raub",
+            "Elektronik-Softwareversicherung: Wiederherstellung von Daten und Programmen",
+            "Elektronik-Betriebsunterbrechungsversicherung: Versicherung gegen Ertragsausfall",
+            "Elektronik-Mehrkostenversicherung: Abdeckung von Kosten zur Vermeidung oder Verkürzung einer Betriebsunterbrechung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Geschäftsinhaltsversicherung"
+    },
+    "geschaeftskunden_industrie-haftpflichtversicherung.md": {
+        "Produktname": "Industrie Select Haftpflichtversicherung",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Betriebs­haftpflicht-, Umwelt­haftpflicht-, Umwelt­schadens-, Produkt­haftpflicht­versicherung",
+            "Produkt­rückruf-, Produkt­schutz­versicherung und Master­cover in einer Police",
+            "Umfassender Versicherungs­umfang auch für Firmen und Betriebs­stätten im Ausland",
+            "Pauschale Deckung für Umweltrisiken",
+            "Versicherungsschutz für die Kosten des Eigen- und Fremdrückrufs aller Branchen",
+            "Umgekehrte Kongruenzdeckung inklusive USA und Kanada"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_altersvorsorge_p_betriebliche-altersvorsorge.md": {
+        "Produktname": "Betriebliche Altersvorsorge",
+        "Versicherungsart": "Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Staatliche Steuerersparnis und Einsparungen bei Sozialabgaben",
+            "Arbeitgeberzuschuss",
+            "Flexible Beitragszahlung, variabler Rentenbeginn und Kapitalwahlrecht",
+            "Möglichkeit der Berufs- oder Erwerbsunfähigkeitsabsicherung",
+            "Nutzung der vermögenswirksamen Leistungen",
+            "Einfache Fortsetzungsmöglichkeiten bei Ausscheiden aus dem Arbeitsverhältnis"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Spätere Leistungen sind voll steuerpflichtig und unterliegen einer Beitragspflicht in der gesetzlichen Kranken- und Pflegeversicherung."
+        ],
+        "category": "Rentenversicherung"
+    },
+    "service-apps.md": {
+        "Produktname": "Gebäudeversicherung",
+        "Versicherungsart": "Sachversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz vor Schadenersatzforderungen",
+            "Keine Haftung mit Privatvermögen",
+            "Individueller Versicherungsschutz für Hab und Gut",
+            "Absicherung bei Berufsunfähigkeit",
+            "Versicherungsschutz mit maximaler Flexibilität",
+            "Für höchste Fahr-Ansprüche",
+            "Schutz für Wohngebäude"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Gebäudeversicherung"
+    },
+    "pk_gesundheit_p_krankenhauszusatzversicherung.md": {
+        "Produktname": "Krankenhauszusatzversicherung",
+        "Versicherungsart": "Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 10,17€ monatlich (Tarif S), ab 15,77€ monatlich (Tarif M), ab 26,13€ monatlich (Tarif L)",
+        "Gültigkeitsbereich": "National",
+        "Vertragslaufzeit": "Monatlich kündbar",
+        "Weitere Leistungen": [
+            "Unterbringung im Ein- oder Zweibettzimmer",
+            "Freie Krankenhauswahl",
+            "Tagegeld bei Verzicht auf Ein- oder Zweibettzimmer",
+            "Erstattung der 10 Euro Krankenhauszuzahlung (Tarif M und L)",
+            "Privatärztliche Behandlung durch den Chefarzt oder Spezialisten (Tarif M und L)",
+            "Erstattung der Arzthonorare auch über der Gebührenordnung (Tarif M und L)",
+            "Krankentransporte zum Wunschkrankenhaus (Tarif M und L)",
+            "Rooming-in",
+            "Familienzimmer nach Entbindung",
+            "Ambulante Entbindungspauschale",
+            "Rufbereitschaft für Hebammen (Tarif M und L)",
+            "Ein Jahr Beitragsfreiheit bei Kindernachversicherung",
+            "Stabiler Beitrag im Alter (Tarif L)",
+            "Ohne Wartezeit (Tarif M und L, außer für Entbindungen und Psychotherapie)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine privatärztliche Behandlung im Tarif Krankenhaus easy",
+            "Behandlungen, die medizinisch nicht notwendig sind, wie kosmetische Operationen oder Behandlungen im Ausland",
+            "Leistungen werden nur erstattet, wenn die gesetzliche Krankenversicherung die Kosten für die allgemeine Krankenhausleistung übernimmt."
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pk_haus-wohnung.md": {
+        "Produktname": "Internetschutz",
+        "Versicherungsart": "Cyberversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutz gegen Einbruchdiebstahl",
+            "Schutz gegen Feuer",
+            "Schutz gegen Blitz",
+            "Schutz gegen Sturm",
+            "Anpassbare Zusatzbausteine",
+            "Schutz vor finanziellen Folgen der häufigsten Schäden",
+            "Absicherung gegen Elementarschäden",
+            "Schutz vor Cybermobbing",
+            "Schutz vor Identitätsdiebstahl",
+            "Schutz vor Betrug beim Onlineshopping",
+            "Schutz vor Datenmissbrauch"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_gesundheit_p_ambulante-zusatzversicherung.md": {
+        "Produktname": "Ambulante Zusatzversicherung",
+        "Versicherungsart": "Krankenzusatzversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 7,03 EUR im Monat",
+        "Gültigkeitsbereich": "Europaweit und in einigen Nicht-EU-Ländern",
+        "Vertragslaufzeit": "2 Jahre",
+        "Weitere Leistungen": [
+            "Ambulante Behandlungen durch Heilpraktiker",
+            "Erstattung für Brillen und Kontaktlinsen",
+            "Erstattung für Arzneimittel",
+            "100 % Auslandsreiseschutz, bis zu sechs Wochen lang",
+            "Vorsorgeuntersuchungen und Impfungen (im Tarif MED Komfort)",
+            "Zuschüsse für Lasik-Operationen (im Tarif MED Komfort)",
+            "Zuschüsse für Hörhilfen (im Tarif MED Komfort)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Leistungen für Zahnarztkosten",
+            "Keine Leistungen für stationäre Krankenhausbehandlungen",
+            "Keine Leistungen für Psychotherapien (da von GKV abgedeckt)"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "geschaeftskunden_berufshaftpflicht.md": {
+        "Produktname": "Berufshaftpflichtversicherung",
+        "Versicherungsart": "Berufshaftpflichtversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Innerhalb der EU und der Schweiz",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung gegen Personenschäden und sonstige Schäden",
+            "Absicherung gegen Vermögensschäden",
+            "Auslandsrisiken für die berufliche Tätigkeit innerhalb der EU und der Schweiz",
+            "Deckung bei Versichererwechsel",
+            "Energieberatung und Ausstellung von Energieausweisen",
+            "Leistungen der Sicherheits- und Gesundheitskoordination sowie der Projektsteuerung",
+            "Zeitlich unbegrenzte Nachmeldefrist bei Fehlern aus der beruflichen Tätigkeit (Umweltrisiken bis drei Jahre)",
+            "Rückwärtsdeckung von einem Jahr bei erstmaligem Abschluss",
+            "Schäden durch Umwelteinwirkung und Kosten nach Umweltschadensgesetz",
+            "Abwehr unberechtigter Ansprüche",
+            "Befriedigung berechtigter Ansprüche gegenüber Dritten",
+            "Befriedigung berechtigter Ansprüche, die aus Schäden am Bauobjekt resultieren"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_existenzsicherung.md": {
+        "Produktname": "Unfallversicherung",
+        "Versicherungsart": "Private Unfallversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Regelmäßige Berufsunfähigkeitsrente bei Unfall oder Krankheit",
+            "Absicherung von Familienmitgliedern und Partnern durch vereinbarte Versicherungssumme",
+            "Finanzielle Absicherung der Hinterbliebenen für Bestattungskosten",
+            "Vorsorge bei schweren Unfällen und Krankheiten",
+            "Absicherung bei Verlust der Grundfähigkeiten bis hin zu Pflegebedürftigkeit",
+            "Schutz zuhause und in der Freizeit als Ergänzung zur gesetzlichen Unfallversicherung",
+            "Individuelle Leistungen je nach Anspruch der Absicherung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Unfallversicherung"
+    },
+    "pk_kfz_p_elektroauto-versicherung.md": {
+        "Produktname": "Elektroauto-Versicherung von AXA",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung des Akkus in der Kaskoversicherung ohne Höchstgrenzen",
+            "Mitversicherung des Ladekabels und Ladekabeladapters",
+            "Bergen und Abschleppen bis zur nächsten Ladestation bei leerem Akku",
+            "Neupreisentschädigung innerhalb der ersten 3 bis 24 Monate je nach Tarif",
+            "Kaufpreisentschädigung innerhalb der ersten 3 bis 24 Monate je nach Tarif",
+            "Verzicht auf Abzug \"neu für alt\" bis unbegrenzt je nach Tarif",
+            "Schäden bei Brand, Tierbiss/-Folgeschäden, Kurzschluss, Blitzschlag",
+            "Entsorgungskosten für den Antriebs-Akku bis 10.000 Euro"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Schäden durch chemische Reaktion des Akkus",
+            "Vorsätzlich verursachte Schäden"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_haus-wohnung_p_hausratversicherung.md": {
+        "Produktname": "Hausratversicherung von AXA",
+        "Versicherungsart": "Hausratversicherung",
+        "Deckungssumme": "650 € pro qm",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 1,56 € im Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Täglich kündbar",
+        "Weitere Leistungen": [
+            "Schutz gegen Feuer, Sturm, Einbruchdiebstahl und Leitungswasser",
+            "Schutz bei grober Fahrlässigkeit",
+            "Erweiterbar mit Zusatzleistungen wie Fahrradversicherung, Glasversicherung, Elementarschadenversicherung",
+            "Neuwertentschädigung",
+            "Notfallservice"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorsätzlich herbeigeführte Schäden",
+            "Schäden durch unsachgemäße Lagerung oder Handhabung",
+            "Schäden aus unkalkulierbaren Risiken wie Krieg, innere Unruhen oder Kernenergie",
+            "Beschädigung von gewerblich genutztem Hausrat in Nebengebäuden",
+            "Schlüsselverlust durch den Mieter",
+            "Beschädigung des Hausrats durch einen Besucher (kann über Haftpflichtversicherung geltend gemacht werden)"
+        ],
+        "category": "Hausratversicherung"
+    },
+    "geschaeftskunden_rechtsschutzversicherung.md": {
+        "Produktname": "ROLAND Rechtsschutzversicherungen",
+        "Versicherungsart": "Rechtsschutzversicherung",
+        "Deckungssumme": "Unbegrenzte Versicherungssumme (für Premium-Schutz)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Firmen-, Verkehrs- und Immobilien-Rechtsschutz",
+            "Universal-Straf-Rechtsschutz",
+            "Manager-Rechtsschutz",
+            "JurContract für Vertragsstreitigkeiten",
+            "Inklusive privater Rechtsberatung und Inkassodienstleistung",
+            "Premium-Services: JurWay und JurMoneyPlus",
+            "24 Stunden Erreichbarkeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Rechtsschutzversicherung"
+    },
+    "geschaeftskunden_kautionsversicherung.md": {
+        "Produktname": "Bürgschaftsversicherung BonLine® One",
+        "Versicherungsart": "Kautionsversicherung",
+        "Deckungssumme": "Bürgschaftsrahmen 1 Mio. Euro",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Rahmenprämie im 1. und 2. Jahr von 2.500 Euro p.a., ab dem 3. Jahr von 5.000 Euro",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Keine Besicherung erforderlich (Bonität vorausgesetzt)",
+            "Gewährleistungs-, Vertragserfüllungs- oder Vorauszahlungsbürgschaften möglich",
+            "Bürgschaftsrahmen ohne Sicherheiten möglich (bei entsprechender Bonität)",
+            "Vertragserfüllungs- und Vorauszahlungsbürgschaften mit Sublimit zwischen 25% und 75%",
+            "Teilbesicherung erforderlich",
+            "Gewährleistungs-, Vertragserfüllungs- und Vorauszahlungsbürgschaften möglich",
+            "Keine Sicherheiten erforderlich",
+            "Gewährleistungsbürgschaften möglich"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe",
+            "Keine Angabe"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "pk_haftpflicht_p_gewaesserschadenhaftpflicht.md": {
+        "Produktname": "Gewässerschadenhaftpflicht",
+        "Versicherungsart": "Haftpflichtversicherung",
+        "Deckungssumme": "Bis zu 30 Millionen Euro bei Personen-, Sach- und Vermögensschäden",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 3,44 € pro Monat",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Abwehr von unberechtigten Ansprüchen",
+            "Rettungskosten",
+            "Absicherung gegen berechtigte Ansprüche aus der Lagerung und Verwendung von gewässerschädlichen Stoffen",
+            "Schutz bei Schäden an Gewässern (Grundwasser, Brunnen, fließende oder stehende Gewässer)",
+            "Maßnahmen zur Entseuchung nach einem Ölaustritt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Vorsätzlich verursachte Schäden",
+            "Schäden am Öltank selbst",
+            "Schäden, die bewusst gegen die Gewässerschutzvorschrift verstoßen"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_gesundheit_s_gesundheitsservice.md": {
+        "Produktname": "gesundheitsservice360°",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kostenfrei",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prävention & Gesundheitsförderung",
+            "Unterstützung im Krankheitsfall",
+            "Symptom-Check",
+            "Online-Arzt"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Krankenversicherung"
+    },
+    "pk_gesundheit_p_reiseversicherung.md": {
+        "Produktname": "AXA Reiseversicherung",
+        "Versicherungsart": "Reiseversicherung",
+        "Deckungssumme": "Für eine Reise bis 25.000 Euro / Für eine Jahrespolice bis 10.000 Euro Einzelperson / 15.000 Euro Familie",
+        "Selbstbeteiligung": "Wählbar: entweder 20 % des erstattungsfähigen Schadens, mindestens jedoch 25 EUR pro versicherte Person",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Einzelpolice oder Jahrespolice",
+        "Weitere Leistungen": [
+            "Reiseabbruch- und Reiserücktrittsversicherung",
+            "Reiseassistance: Telefon-Hotline und App Travel Eye",
+            "Quarantänekostenversicherung",
+            "Reiseunannehmlichkeiten-Versicherung (nur Premium)",
+            "Reisegepäckversicherung (nur Premium)",
+            "Reiseunfallversicherung (nur Premium)",
+            "Aktivitätsversicherung (nur Premium)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Auslandskrankenversicherung nicht enthalten, kann optional hinzugebucht werden"
+        ],
+        "category": "Reiseversicherung"
+    },
+    "pk_existenzsicherung_p_risikolebensversicherung.md": {
+        "Produktname": "Risikolebensversicherung von AXA",
+        "Versicherungsart": "Risikolebensversicherung",
+        "Deckungssumme": "3- bis 5-fache des Bruttoeinkommens (empfohlen)",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Beispiel: 6,22 € monatlich für Ingenieur, 30 Jahre, 150.000 € Versicherungssumme, 20 Jahre Laufzeit",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Abhängig von individuellen Bedürfnissen, z.B. 10, 15, 20 Jahre",
+        "Weitere Leistungen": [
+            "Finanzielle Absicherung der Hinterbliebenen",
+            "Vorläufiger Versicherungsschutz bei Unfalltod",
+            "Dynamikoption",
+            "Erhöhungsoption",
+            "Flexibilität bei finanziellen Engpässen",
+            "Kinder-Extra",
+            "Eigenheim-Extra",
+            "Extra bei Unfalltod"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Risikolebensversicherung"
+    },
+    "geschaeftskunden_internationale-versicherungsprogramme.md": {
+        "Produktname": "AXA International Services",
+        "Versicherungsart": "Internationale Versicherungsprogramme",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Globales Netzwerk von Auslandsgesellschaften",
+            "Jahrzehntelange Erfahrung im internationalen Versicherungsgeschäft",
+            "Individueller Schutz durch verschiedene Versicherungsmodelle",
+            "Finanzkraft und exzellente Ratings von AXA",
+            "Zentrale Verhandlung der Konditionen",
+            "Globaler einheitlicher Deckungsschutz",
+            "Service vor Ort in Landessprache",
+            "Koordinierte Schadenregulierung",
+            "Kostenvorteile durch zentralen Risikotransfer",
+            "Zentrales Reporting weltweiter Prämien- und Schadenzahlungen"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "geschaeftskunden_zusatzinformationen-buergschaft-kaution.md": {
+        "Produktname": "AXA Kautions- und Bürgschaftsversicherung",
+        "Versicherungsart": "Bürgschaftsversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Gewährleistungsbürgschaften",
+            "Vertragserfüllungs-/Ausführungsbürgschaften",
+            "An-/Vorauszahlungsbürgschaften",
+            "Bietungsbürgschaften",
+            "Bauhandwerkersicherungsbürgschaften"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Kreditversicherung"
+    },
+    "pk_kfz_p_motorradversicherung.md": {
+        "Produktname": "Motorradversicherung von AXA",
+        "Versicherungsart": "Motorradversicherung",
+        "Deckungssumme": "Bis 100 Millionen Euro pauschal, bei Personenschäden bis 15 Mio. Euro pro Person",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Ab 5,28€ pro Monat",
+        "Gültigkeitsbereich": "Europaweit, weltweit (außer USA und Kanada)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Haftpflichtschutz auf Fremdmotorrädern",
+            "Schutzbriefleistungen zubuchbar",
+            "Teilkaskoleistungen (z.B. Brand, Diebstahl, Glasbruch)",
+            "Vollkaskoleistungen (z.B. Schäden durch Unfall oder Vandalismus)",
+            "Neupreisentschädigung bis zu 12 Monate",
+            "Mitversicherung von Motorradschutzbekleidung",
+            "Verzicht auf Abzug „neu für alt“ teilweise",
+            "Schutz bei Entwendung von Fahrzeugschlüsseln",
+            "GAP-Deckung für geleaste und kreditfinanzierte Fahrzeuge",
+            "Wiederherstellung der Fahrbereitschaft am Schadenort",
+            "Abschleppen und Bergen des Fahrzeugs",
+            "Mietfahrzeug bis 7 Tage, max. 75 Euro pro Tag",
+            "Kranken-Rücktransport",
+            "Ersatzteilversand ins Ausland",
+            "Vermittlung ärztlicher Betreuung im Ausland"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Haftpflichtschutz weltweit außer USA und Kanada",
+            "Keine Allgefahrendeckung",
+            "Keine Angabe zu Selbstbeteiligung"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_altersvorsorge.md": {
+        "Produktname": "Riester-Rente",
+        "Versicherungsart": "Altersvorsorge",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Attraktive Steuervorteile bei der Auszahlung",
+            "Größte Flexibilität",
+            "Staatlich gefördert durch Einsparungen von Steuern und Sozialabgaben",
+            "Arbeitgeberzuschuss",
+            "Steuerliche Vorteile bei der Einzahlung",
+            "Beiträge können in der Steuererklärung abgesetzt werden",
+            "Staatliche Förderung",
+            "Kombination aus eigenen Beiträgen und staatlicher Förderung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe",
+            "Keine Angabe",
+            "Verzicht auf Flexibilität und Steuervorteile bei der Auszahlung",
+            "Keine Angabe"
+        ],
+        "category": "Rentenversicherung"
+    },
+    "geschaeftskunden_vertrauensschadenversicherung.md": {
+        "Produktname": "Vertrauensschadenversicherung",
+        "Versicherungsart": "Vermögensschadenversicherung",
+        "Deckungssumme": "Versicherungssumme steht zweifach je Versicherungsjahr zur Verfügung",
+        "Selbstbeteiligung": "Kein Selbstbehalt im Schadenfall",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Unbegrenzte Nachmeldefrist nach Vertragsbeendigung",
+        "Weitere Leistungen": [
+            "Versicherungsschutz auch wenn der Schadenstifter nicht identifiziert werden kann",
+            "Versicherungsschutz für ehemalige Mitarbeiterinnen und Mitarbeiter bis zum Ende der Vertragslaufzeit",
+            "Mitversicherung von Schäden durch externe Rechtsanwälte, Steuerberater und Wirtschaftsprüfer",
+            "Versicherungsschutz für Schäden, die aufgrund des Ablaufs der Nachmeldefrist vom Vorversicherer abgelehnt wurde",
+            "Erstattung interner und externer Schadenermittlungs- und Rechtsverfolgungskosten",
+            "Kostenübernahme bei Beauftragung eines PR-Unternehmens",
+            "Erstattung zu zahlender Vertragsstrafen infolge eines Versicherungsfalls"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Vertrauensschadenversicherung"
+    },
+    "geschaeftskunden_profi-schutz-absicherung.md": {
+        "Produktname": "Profi-Schutz",
+        "Versicherungsart": "Firmenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Branchenspezifische Deckungen",
+            "Berücksichtigung aller relevanten Risiken",
+            "Möglichkeit, das eigene Versicherungspaket aus verschiedenen Produkten zusammenzustellen",
+            "Produkt-Rabatt je nach Anzahl der abgeschlossenen Produkte"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Gewerbeversicherung"
+    },
+    "pk_gesundheit_s_symptom-check.md": {
+        "Produktname": "Symptom-Check",
+        "Versicherungsart": "Gesundheitsservice",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Kostenlos",
+        "Gültigkeitsbereich": "Weltweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Ersteinschätzung von Krankheitssymptomen",
+            "Mögliche Diagnose-Vorschläge",
+            "Empfehlungen für nächste Schritte",
+            "Fachwissen von medizinischen Experten",
+            "24/7 Erreichbarkeit"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine ärztliche Diagnose oder Therapie"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_haftpflicht_p_private-haftpflichtversicherung.md": {
+        "Produktname": "Private Haftpflichtversicherung von AXA",
+        "Versicherungsart": "Private Haftpflichtversicherung",
+        "Deckungssumme": "Bis zu 60 Mio. Euro",
+        "Selbstbeteiligung": "300 € (Beispielrechnung)",
+        "Preis": "Ab 1,49€ im Monat",
+        "Gültigkeitsbereich": "National und bei vorübergehenden Auslandsaufenthalten",
+        "Vertragslaufzeit": "Täglich kündbar",
+        "Weitere Leistungen": [
+            "Schutz bei Sachschäden, Personenschäden und Vermögensschäden",
+            "Gefälligkeitsschäden",
+            "Schäden an geliehenen Sachen (im Tarif L)",
+            "Schutz bei Forderungsausfall",
+            "Drohnen bis 5kg (im Tarif L)",
+            "Mietsachschäden",
+            "Ehrenamtliche Tätigkeiten mitversichert"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Absichtlich verursachte Schäden",
+            "Schäden an eigenen Gegenständen",
+            "Schäden an Gegenständen von Mitversicherten",
+            "Schäden an gemieteten, geliehenen oder gepachteten Gegenständen (außer im Tarif L)",
+            "Schäden durch Gefälligkeitsdienste (außer in den Tarifen M und L)",
+            "Schäden durch das Führen von Kraft-, Wasser- oder Luftfahrzeugen",
+            "Schäden durch Hunde (eigene Tierhalterhaftpflicht erforderlich)"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "pk_haus-wohnung_p_baufinanzierung.md": {
+        "Produktname": "Baufinanzierung",
+        "Versicherungsart": "Baufinanzierung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "5 bis 30 Jahre (je nach Darlehen)",
+        "Weitere Leistungen": [
+            "Individuelle Immobilienfinanzierung",
+            "Kundenfreundliche Rahmenbedingungen",
+            "Persönlicher Kontakt",
+            "Zinsvorteil für Darlehen ab 200.000 Euro",
+            "Sondertilgungen ab 75.000 EUR möglich",
+            "Kostenfreie Tilgungssatzwechseloption 2x während der Sollzinsbindung",
+            "Zinsnachlass bei nachhaltigen Immobilien (AXA Future)"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "AXA Future nicht kombinierbar mit AXA Volltilger 20 Jahre"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "geschaeftskunden_mitarbeiterabsicherung.md": {
+        "Produktname": "Mitarbeiterabsicherung - Corporate Employee Benefits",
+        "Versicherungsart": "Betriebliche Altersversorgung, Betriebliche Krankenversicherung, Internationale Krankenversicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Prävention",
+            "Krankheitsschutz",
+            "Invaliditäts- und Angehörigenversorgung",
+            "Altersversorgung"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_kfz_p_lieferwagen-versicherung.md": {
+        "Produktname": "Lieferwagen-Versicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Bis 100 Millionen Euro pauschal, bei Personenschäden bis 15 Mio. Euro pro Person",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europa, weltweit (außer USA und Kanada)",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutzbriefleistungen zubuchbar",
+            "Absicherung gegen grobe Fahrlässigkeit",
+            "Neupreisentschädigung bis 6 bzw. 12 Monate ab Zulassung",
+            "Besondere Fahrzeug- und Zubehörteile bis 6.000 Euro bzw. unbegrenzt",
+            "GAP-Deckung bei Leasing und Kreditfinanzierung",
+            "Insassenunfallversicherung zubuchbar",
+            "Fahrerschutzversicherung zubuchbar"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Haftpflichtversicherung"
+    },
+    "geschaeftskunden_kfz-flottenversicherung.md": {
+        "Produktname": "Kfz-Flottenversicherung",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Keine Angabe",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Keine Angabe",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Absicherung des Fuhrparks gegen Unfälle oder Diebstähle",
+            "Mitversicherung der groben Fahrlässigkeit",
+            "Einheitlicher Flottenbeitragssatz",
+            "Sonderaufbauten/Sonderausstattungen bis 50.000 Euro mitversichert",
+            "Neuwertentschädigung für PKW und LKW im Werkverkehr bis 3,5 t im ersten Jahr",
+            "Traveller-Deckung für angemietete Fahrzeuge im Ausland",
+            "GAP-Deckung für geleaste und finanzierte Fahrzeuge bis 3,5 t prämienfrei mitversichert"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Mietwagen, Taxen und Selbstfahrervermietfahrzeuge sind nicht versicherbar"
+        ],
+        "category": "Keine Übereinstimmung"
+    },
+    "pk_kfz_p_kfz-versicherung.md": {
+        "Produktname": "Kfz-Versicherung von AXA",
+        "Versicherungsart": "Kfz-Versicherung",
+        "Deckungssumme": "Bis zu 100 Millionen Euro bei Sachschäden, bis zu 15 Millionen Euro pro geschädigte Person bei Personenschäden",
+        "Selbstbeteiligung": "Keine Angabe",
+        "Preis": "Keine Angabe",
+        "Gültigkeitsbereich": "Europaweit",
+        "Vertragslaufzeit": "Keine Angabe",
+        "Weitere Leistungen": [
+            "Schutzbrief und kostenloses Ersatzfahrzeug",
+            "Mallorca-Police für Mietwagen im Ausland",
+            "Abwehr von unberechtigten Ansprüchen",
+            "Rundum-Schutz bei Diebstahl, Wildunfall und Glasbruch",
+            "Umfassender Schutz bei Naturgewalten",
+            "Versicherungsschutz bei Brand oder Explosion",
+            "Schäden durch selbst verursachte Unfälle und Vandalismus",
+            "Mobilitätsgarantie mit kostenlosem Ersatzfahrzeug",
+            "Extraschutz bei Tierbiss oder Kollision mit Tieren",
+            "Bestleistungen bei Totalschaden und Diebstahl",
+            "Finanzielle Sicherheit bei Unfällen mit erheblichen Verletzungen des Fahrers",
+            "Rabattschutz ohne Rückstufung",
+            "Smart Repair für Kleinschäden"
+        ],
+        "Ausnahmen oder Ausschlüsse": [
+            "Keine Angabe"
+        ],
+        "category": "Keine Übereinstimmung"
+    }
+}

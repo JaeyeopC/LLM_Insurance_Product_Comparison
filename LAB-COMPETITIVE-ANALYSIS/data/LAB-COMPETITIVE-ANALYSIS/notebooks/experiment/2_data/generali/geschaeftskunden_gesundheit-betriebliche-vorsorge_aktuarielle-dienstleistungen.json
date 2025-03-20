@@ -1,0 +1,93 @@
+{
+    "title": "Aktuarielle Dienstleistungen",
+    "metadata": {
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Aktuarielle Dienstleistungen",
+        "og:description": "Gutachten und Analysen zu Versorgungswerken.",
+        "og:image": "https://www.generali.de/resource/blob/25542/ac8bedeb0a03ab246966357a72d88324/buehnenbild-aktuarielle-dienstleistungen-data.jpg"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Aktuarielle Dienstleistungen"
+        },
+        {
+            "text": "Gutachten und Analysen zu Versorgungswerken"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "GESCHÄFTSKUNDEN",
+                "GESUNDHEIT & VORSORGE",
+                "AKTUARIELLE DIENSTLEISTUNGEN"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gut­ach­ten und Ana­ly­sen zu Ver­sor­gungs­wer­ken"
+        },
+        {
+            "type": "paragraph",
+            "text": "Verbindlichkeit – für uns selbstverständlich. Unsere Experten und Aktuare liefern Ihnen nachvollziehbare und anforderungsgerechte Aufbereitungen von all dem, was Sie für den Fiskus und andere Stakeholder Ihres Versorgungswerks brauchen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie setzen bei uns auf einen zuverlässigen Partner."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "BilanzgutachtenWir unterstützen Sie bei der Erstellung von Steuer- und Handelsbilanzen!Mehr erfahren",
+                "PensionsmanagementEinfach vorsorgen durch individuelle Beratung und versicherungsmathematische Versorgungsleistungen.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/90172/5e0ac845bcfbdbc6a72735b1c0ce8cce/bild-app-banner-protect-me-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Pro­tect Me App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sicher zu Hause oder unterwegs: Erhalten Sie ortsgenaue Wetterwarnungen auf Ihr Handy."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-protect-me-app",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/app/apple-store/id1555490754?pt=117290177&ct=Claimspages&mt=8",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.generali.accidentprevention&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "geschaeftskunden_gesundheit-betriebliche-vorsorge_aktuarielle-dienstleistungen"
+}

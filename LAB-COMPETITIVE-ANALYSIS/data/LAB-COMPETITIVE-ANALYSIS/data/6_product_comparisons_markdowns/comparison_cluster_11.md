@@ -1,0 +1,10 @@
+```markdown
+| Feature                           | Company: barmenia – deu_bde_privat_bde_produkte_privat_bde_gesundheit_kv_voll_spezialtarife_uebersicht.xhtml | Company: dkv – kunden-kundenbereich-service-rechnungen-einreichen-91963.md |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Target Audience                   | Ärzte, Zahnärzte, Studenten, Beamte/Beihilfeberechtigte, Beamtenanwärter, Profisportler                       | Allgemein, mit spezifischen Produkten für Kinder, Reisende, etc.           |
+| Coverage Types                    | Private Krankenversicherung, Beihilfetarife, Berufsausbildungstarife, Anwartschaft, Zahnbereich               | Auslandskrankenversicherung, Krankenhauszusatzversicherung, Pflegezusatzversicherung, Zahnzusatzversicherung |
+| Unique Features                   | Spezielle Tarife für Profisportler, individuelle Anpassung für Beihilfeberechtigte                            | Belegupload über Kundenportal/App, Hilfsmittel-Service, DKV-Card für Krankenhausaufenthalte |
+| Additional Support                | Kontakt unter Telefonnummer 0202 438-2906                                                                     | Kundenservice telefonisch unter 0800 3746 100, täglich von 7 bis 19 Uhr    |
+| Submission of Claims              | Not specified                                                                                                 | Belegupload, E-Mail, Post, Fax                                             |
+| International Coverage            | MediHealth Prime für internationale Fachkräfte                                                                | Auslandskrankenversicherung für Aufenthalte unter 8 Wochen                 |
+```

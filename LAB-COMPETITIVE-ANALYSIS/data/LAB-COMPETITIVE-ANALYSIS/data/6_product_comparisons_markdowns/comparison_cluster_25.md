@@ -1,0 +1,11 @@
+```markdown
+| Feature                          | Company: ergo – de_Produkte_Zahnzusatzversicherung_Zahnzusatzversicherung-ohne-Wartezeit_abschluss_zez | Company: generali – service-kontakt_self-service_dokumente-einreichen_rechnung |
+|----------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Dental Coverage                  | Comprehensive dental protection including immediate benefits and orthodontic coverage for children     | Not specified                                                                  |
+| Hospital Coverage                | Hospital supplementary insurance extends health protection                                             | Not specified                                                                  |
+| Liability Insurance              | Private liability insurance for financial risk protection                                              | Liability insurance for financial protection against damages to others         |
+| Vehicle Insurance                | Auto and motorcycle insurance                                                                          | Kfz-Versicherung with enhanced performance                                     |
+| Travel Insurance                 | Travel cancellation and foreign health insurance                                                       | Not specified                                                                  |
+| Financial Planning               | Risk life insurance, funeral insurance, and disability insurance for financial foresight               | Comprehensive asset protection policy                                          |
+| Additional Support               | Online or phone claim reporting and invoice submission                                                 | Generali Health App for uploading medical bills and managing health insurance  |
+```

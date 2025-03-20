@@ -1,0 +1,24 @@
+similarity_score,comprehensiveness_score,groundedness_score,company_list,category
+1.0,0.875,0.0,"{'ergo_', 'huk-coburg_', 'axa_', 'barmenia_json'}",Risikolebensversicherung
+0.8,0.33333333333333337,1.0,"{'generali_', 'huk-coburg_', 'arag_', 'barmenia_json', 'axa_', 'ergo_'}",Rentenversicherung
+1.0,0.7333333333333333,0.0,"{'generali_', 'huk-coburg_', 'barmenia_json', 'axa_', 'ergo_'}",Berufsunfähigkeitsversicherung
+0.8,0.008333333333333333,0.0,"{'generali_', 'huk-coburg_', 'sdk_', 'arag_', 'dkv_', 'barmenia_json', 'axa_', 'ergo_'}",Krankenversicherung
+0.8,0.4666666666666666,0.5,"{'ergo_', 'huk-coburg_', 'axa_', 'barmenia_json'}",Grundfähigkeitsversicherung
+1.0,0.19047619047619047,0.6666666666666666,"{'huk-coburg_', 'barmenia_json', 'arag_', 'dkv_'}",Pflegekostenversicherung
+1.0,0.4,1.0,"{'generali_', 'huk-coburg_', 'sdk_', 'dkv_', 'axa_', 'barmenia_json'}",Pflegetagegeldversicherung
+1.0,0.5,0.7663230240549828,"{'generali_', 'huk-coburg_', 'arag_', 'barmenia_json', 'axa_', 'ergo_'}",Haftpflichtversicherung
+1.0,1.0,0.9090909090909091,"{'generali_', 'axa_'}",Betriebsunterbrechungsversicherung
+1.0,0.625,0.8461538461538461,"{'generali_', 'huk-coburg_', 'arag_', 'barmenia_json', 'axa_', 'ergo_'}",Hausratversicherung
+1.0,0.7619047619047619,0.7083333333333333,"{'generali_', 'huk-coburg_', 'barmenia_json', 'axa_', 'ergo_'}",Gebäudeversicherung
+1.0,0.9,0.9206349206349206,"{'axa_', 'arag_'}",Geschäftsinhaltsversicherung
+1.0,0.36666666666666664,0.0,"{'generali_', 'barmenia_json', 'axa_', 'arag_'}",Gewerbeversicherung
+1.0,0.7916666666666666,0.0,"{'huk-coburg_', 'axa_'}",Bauleistungsversicherung
+0.5,1.0,0.8888888888888888,"{'axa_', 'arag_'}",Kreditversicherung
+0.3,0.0,0.0,"{'axa_', 'ergo_'}",Vertrauensschadenversicherung
+1.0,0.7333333333333333,0.8717948717948717,"{'huk-coburg_', 'barmenia_json', 'axa_', 'arag_'}",Elementarversicherung
+1.0,0.33333333333333337,0.0,"{'generali_', 'huk-coburg_', 'sdk_', 'arag_', 'axa_', 'barmenia_json'}",Unfallversicherung
+1.0,0.3,0.625,"{'huk-coburg_', 'sdk_', 'arag_', 'dkv_', 'barmenia_json', 'axa_', 'ergo_'}",Reiseversicherung
+0.3,0.0,0.0,"{'axa_', 'arag_'}",Transportversicherung
+1.0,0.7916666666666666,0.75,"{'huk-coburg_', 'barmenia_json', 'arag_'}",Tierversicherung
+1.0,1.0,0.5,"{'huk-coburg_', 'barmenia_json'}",Fahrerschutzversicherung
+1.0,0.9333333333333333,0.651252408477842,"{'huk-coburg_', 'arag_', 'barmenia_json', 'axa_', 'ergo_'}",Rechtsschutzversicherung

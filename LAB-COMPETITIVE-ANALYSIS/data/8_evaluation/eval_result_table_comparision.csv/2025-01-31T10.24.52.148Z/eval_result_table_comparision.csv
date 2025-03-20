@@ -1,0 +1,25 @@
+similarity_score,comprehensiveness_score,groundedness_score,company_list,category
+1.0,0.7368421052631579,0.5,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Risikolebensversicherung
+1.0,0.2833333333333333,0.6666666666666666,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Rentenversicherung
+1.0,0.7222222222222222,0.2222222222222222,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Berufsunfähigkeitsversicherung
+1.0,0.2,0.3333333333333333,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Krankenversicherung
+1.0,1.0,0.6666666666666666,"{'huk-coburg', 'signal_iduna_group'}",Grundfähigkeitsversicherung
+0.3,0.4,0.6666666666666666,"{'axa', 'huk-coburg'}",Pflegekostenversicherung
+1.0,0.8095238095238095,0.0,"{'huk-coburg', 'signal_iduna_group'}",Pflegetagegeldversicherung
+0.8,0.4666666666666667,0.75,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Haftpflichtversicherung
+0.3,0.0,0.0,"{'axa', 'signal_iduna_group'}",Betriebsunterbrechungsversicherung
+1.0,0.3777777777777778,0.0,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Hausratversicherung
+1.0,0.6,0.3333333333333333,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Gebäudeversicherung
+0.9,1.0,0.7333333333333333,"{'axa', 'signal_iduna_group'}",Geschäftsinhaltsversicherung
+1.0,0.7142857142857143,0.5333333333333333,"{'axa', 'signal_iduna_group'}",Gewerbeversicherung
+1.0,0.8181818181818182,0.0,"{'axa', 'huk-coburg'}",Bauleistungsversicherung
+0.8,0.925925925925926,0.8333333333333334,"{'axa', 'signal_iduna_group'}",Maschinenkasko- und Maschinenbruchversicherung
+0.9,0.55,0.872549019607843,"{'axa', 'signal_iduna_group'}",Kreditversicherung
+1.0,1.0,0.3333333333333333,{'axa'},Vertrauensschadenversicherung
+1.0,0.8,0.0,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Elementarversicherung
+0.8,0.3111111111111111,0.5,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Unfallversicherung
+1.0,0.7777777777777778,0.0,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Reiseversicherung
+1.0,0.36363636363636365,0.0,"{'axa', 'signal_iduna_group'}",Transportversicherung
+1.0,1.0,0.6666666666666666,{'huk-coburg'},Tierversicherung
+1.0,1.0,0.6666666666666666,{'huk-coburg'},Fahrerschutzversicherung
+1.0,0.23333333333333334,0.3333333333333333,"{'axa', 'huk-coburg', 'signal_iduna_group'}",Rechtsschutzversicherung

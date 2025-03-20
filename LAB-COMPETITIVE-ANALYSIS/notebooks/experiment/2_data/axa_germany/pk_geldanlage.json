@@ -1,0 +1,217 @@
+{
+    "title": "Geldanlage / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Gewinnbringend ✓nachhaltig ✓Geldanlage mit einem starken Versicherungspartner  ▶ jetzt informieren!",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/altersvorsorge/geldanlage",
+        "og:title": "Geldanlage / AXA",
+        "og:description": "Gewinnbringend ✓nachhaltig ✓Geldanlage mit einem starken Versicherungspartner  ▶ jetzt informieren!",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/params_E-646016981/25980749/lachendes-aelteres-paar-1200x627.jpg",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/params_E-646016981/25980749/lachendes-aelteres-paar-1200x627.jpg",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge",
+            "text": "Altersvorsorge"
+        },
+        {
+            "text": "Geldanlage"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Eine Frau genießt Sonnenstrahlen am Fenster"
+        },
+        {
+            "type": "paragraph",
+            "text": "Damit Sie im Alter auf nichts verzichten müssen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei der Anlage Ihres Geldbetrages ist Ihnen Sicherheit und Planbarkeit besonders wichtig und Sie möchten von Anfang an wissen, womit Sie später garantiert rechnen können? Dann ist die Relax Rente die richtige Wahl."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/redirect/lead-relaxrente?AKTIONSCODE=14015D",
+            "text": "Angebot anfordern"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/relax-rente-einmalbeitrag",
+            "text": "Relax-Rente gegen Einmalbeitrag"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Relax Rente gegen Einmalbeitrag"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit der Portfolio Plus Police legen Sie das Management Ihres Vermögens für längere Zeit in die Hände von Experten. Durch die Kombination aus Versicherungslösung und aktiv gemanagtem Portfolio erschließen Sie sich so attraktive Renditechancen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/portfolio-plus-police",
+            "text": "Portfolio Plus Police"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Portfolio Plus Police"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Produktbündel aus attraktiv verzinstem Festgeld und der Portfolio Plus Police verbindet für Sie Sicherheit, Rendite und Liquidität."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/geldanlage-duo",
+            "text": "Geldanlage-Duo"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Geldanlage-Duo"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Produktfinder für Ihre Geldanlage"
+        },
+        {
+            "text": "Sie sind noch unsicher, welche Lösung die richtige für Sie ist? Mit wenigen Eingaben finden Sie hier unsere Produktempfehlungen für Ihre Geldanlage  - passend zu Ihren individuellen Wünschen."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Investmentfonds"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit einer Anlage in Fonds investieren Sie nicht nur in einzelne Aktien oder Anleihen, sondern verteilen die Gelder auf viele Anlagen in den jeweiligen Fonds und streuen somit geschickt das Risiko. Sie können bereits mit niedrigen Anlagesummen flexibel von den Chancen des Kapitalmarkts profitieren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/investmentfonds",
+            "text": "Investmentfonds"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Portfoliomanagement"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Portfolio Management bietet Ihnen Anlagestrategien, bei denen Sie als Anleger die passende Balance zwischen Sicherheit und Chance festlegen. Ihre persönliche Risikoneigung steht dabei im Vordergrund."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa-betreuer.de/?AKTIONSCODE=14015D",
+            "text": "Betreuer suchen"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/altersvorsorge/p/portfoliomanagement",
+            "text": "Portfolio Management"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Baufinanzierung:Als Finanzierungspartner stehen wir Ihnen mit einer individuellen Immobilienfinanzierung auf dem Weg in Ihre Wunschimmobilie zur Seite.",
+                "Bausparen:Sichern Sie sich mit den Leistungen unserer Bausparprodukten ein zinsgünstiges Darlehen, das Sie nach der Ansparphase in Anspruch nehmen können."
+            ]
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/haus-wohnung",
+            "text": "Haus und Wohnung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Investmentlösungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "In all unseren Vorsorgeprodukten gibt es einen Anteil, der in eine freie Investmentanlage investiert wird. Dieser Teil ist entscheidend für die Wertentwicklung der Altersvorsorge. Je nachdem, für welches Produkt Sie sich entscheiden, stellen Sie aus diesem breit gefächerten Angebot Ihren persönlichen Mix zusammen."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Investmentlösungen in den Vorsorgeprodukten",
+                "Factsheets Kapitalanlage"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bieten Ihnen zum Thema Vorsorge mit dem plan360 eine ganzheitliche Beratung und zwar in jeder Lebensphase."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "plan360"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Rundum-Beratung plan360"
+        },
+        {
+            "text": "Schreiben Sie uns"
+        },
+        {
+            "text": "In wenigen Minuten zum Angebot"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 3203205"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_geldanlage"
+}

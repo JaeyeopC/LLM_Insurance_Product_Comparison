@@ -1,0 +1,146 @@
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta name="version" content="1.22.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Content-Security-Policy"
+          content="default-src 'self' blob: data:;
+frame-src 'self' *.visualwebsiteoptimizer.com app.vwo.com blob: https://*.doubleclick.net https://cdn.trustcommander.net https://ct.pinterest.com/ https://googletagmanager.com https://www.google.com;
+style-src 'self' 'unsafe-inline' *.visualwebsiteoptimizer.com app.vwo.com https://googletagmanager.com s3.amazonaws.com;
+script-src 'self' 'unsafe-eval' 'unsafe-inline' *.visualwebsiteoptimizer.com app.vwo.com blob: https://*.analytics.google.com https://*.doubleclick.net https://*.google-analytics.com https://cdn.trustcommander.net https://connect.facebook.net https://www.google.com https://www.googleadservices.com https://www.googletagmanager.com https://www.gstatic.com;
+script-src-elem 'self' 'unsafe-eval' 'unsafe-inline' *.pinimg.com *.visualwebsiteoptimizer.com app.vwo.com https://cdn.trustcommander.net https://connect.facebook.net https://ct.pinterest.com/ https://www.googletagmanager.com https://www.gstatic.com https://www.google.com;
+img-src 'self' *.entry.axa.de *.visualwebsiteoptimizer.com app.vwo.com axa-cms04-m19.pironet-ndh.com blob: chart.googleapis.com data: https://*.analytics.google.com https://*.doubleclick.net https://*.google-analytics.com https://*.pinterest.com https://privacy.trustcommander.net https://www.facebook.com https://www.google.com https://www.google.de https://www.googletagmanager.com logs1407.xiti.com wingify-assets.s3.amazonaws.com;
+connect-src 'self' *.axa-de.intraxa *.axa-tech.intraxa *.axa.de *.visualwebsiteoptimizer.com app.vwo.com https://*.analytics.google.com https://*.doubleclick.net https://*.google-analytics.com https://*.google.com https://*.trustcommander.net https://ct.pinterest.com/ https://privacy.commander1.com https://privacy.commander1.com/ctrust https://privacy.commander1.com/privacy-consent/ https://www.google.com;
+font-src 'self' *.entry.axa-de.intraxa *.entry.axa.de c-entry.axa.de data: entry.axa-de.intraxa entry.axa.de https://www.axa.de">
+    <title>My AXA Login</title>
+    <link rel="stylesheet" href="media/assets/standardcab9d239.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="media/img/xfavicon-16x16.webp">
+    <link rel="icon" type="image/png" sizes="32x32" href="media/img/xfavicon-32x32.webp">
+    <link rel="icon" type="image/png" sizes="192x192" href="media/img/xandroid-chrome-192x192.webp">
+    <link rel="apple-touch-icon" sizes="180x180" href="media/img/xapple-touch-icon.webp">
+    
+<!-- SLS JavaScripts -->
+<script language="JavaScript">
+	var stage = 'prod';
+</script>
+
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            env_work: stage,
+            env_platform: 'myaxa',
+            event: 'page',
+            page_type: 'myaxa',
+            page_name: 'Login AXA',
+            page_cat1: 'Public Bereich',
+            page_cat2: '',
+            page_cat3: ''
+        })
+    </script>
+    <script type="text/javascript">
+        var tCPrivacyTagManager = "gtm"
+    </script>
+    <script type="text/javascript">
+        function include(filename, type, dataCategory, isAsync = false) {
+            const head = document.getElementsByTagName('head')[0];
+
+            const script = document.createElement('script');
+            script.src = filename;
+            script.type = type;
+
+            if (isAsync) {
+                script.setAttribute('async', '');
+            }
+            if (dataCategory) {
+                script.setAttribute('data-category', dataCategory)
+            }
+            head.appendChild(script)
+        }
+
+        include('https://cdn.trustcommander.net/privacy/1439/privacy_v2_14.js', 'text/javascript');
+    </script>
+
+    <script type="text/tc_privacy" data-category="1">
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W9WSTRG');
+    </script>
+
+    <script type="text/javascript">
+        function handleCaptchaCallback(token) {
+            document.getElementById('loginComponent').captchaCallback(token)
+        }
+
+        function handleCaptchaExpiresCallback() {
+            document.getElementById('loginComponent').captchaExpiredCallback()
+        }
+    </script>
+</head>
+
+<body>
+<div class="unsupported-browser"></div>
+<myaxa-login
+        id="loginComponent"
+        headline="My AXA – Login"
+        error=""
+        registerUrl="/kunde/myaxa/public/webapp/reg/identifizierung"
+        forgotUsernameUrl='/kunde/myaxa/public/webapp/benutzername'
+        forgotPasswordUrl='/kunde/myaxa/public/webapp/passwort/aendern'
+        enterActivationCodeUrl='/kunde/myaxa/public/webapp/reg/zugang-freischalten'
+        currentRequestedPage="/kunde/myaxa/member/webapp/"
+        formAction="auth"
+        formName="Login"
+        userId=""
+        password=""
+>
+</myaxa-login>
+<script type="text/javascript">
+    var siteKey = stage === 'prod' ? '6LdqR_wpAAAAAETvN-SpzjSw0PQgXlx2lEccF2RT' : '6LehJ_MpAAAAALTOzuprLOnEss9P6_1Hcw1S1Oe4'
+    document.body.insertAdjacentHTML('beforeend',
+        '<div class="g-recaptcha" ' +
+        'data-sitekey="' + siteKey + '" ' +
+        'data-callback="handleCaptchaCallback" ' +
+        'data-expired-callback="handleCaptchaExpiresCallback" ' +
+        'data-size="invisible"></div>'
+    )
+</script>
+<script type="text/javascript">
+    function isIE() {
+        // IE 10 and IE 11
+        return /Trident\/|MSIE/.test(window.navigator.userAgent);
+    }
+
+    let showBrowserAlert = (function() {
+        if (document.querySelector('.unsupported-browser')) {
+            let d = document.getElementsByClassName('unsupported-browser');
+            if (isIE()) {
+                d[0].innerHTML = '<b>Nicht unterstützter Browser!</b> Der von Ihnen verwendete Browser wird von My&nbsp;AXA nicht mehr unterstützt. Bitte nutzen Sie einen aktuellen Browser.';
+                d[0].style.display = 'block';
+            }
+        }
+    });
+    document.addEventListener('DOMContentLoaded', showBrowserAlert);
+    window.addEventListener('pageshow', function() {
+        // Mitigate quirk on Chrome, which lets the values of input and wrapping axa-custom-text-field diverge, when navigating back to the page.
+        // https://bugs.chromium.org/p/chromium/issues/detail?id=1057463
+        const input = document.querySelector('#login-username')
+        const wrapper = document.querySelector('axa-custom-text-field[name=userid]')
+        if (input && wrapper && input.value && input.value !== wrapper.value) {
+            wrapper.value = input.value
+        }
+    })
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="module" src="./media/js/main_b0ccb4e4.js" crossorigin="use-credentials"></script><script type="module" src="./media/js/main_3992c501.js" crossorigin="use-credentials"></script><script type="module" src="./media/js/main_d6287c5b.js" crossorigin="use-credentials"></script><script type="module" src="./media/js/main_2741e330.js" crossorigin="use-credentials"></script>
+</body>
+</html>

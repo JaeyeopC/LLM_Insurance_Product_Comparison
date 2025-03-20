@@ -1,0 +1,39 @@
+Erstellen Sie eine umfassende und detaillierte Vergleichstabelle im Markdown-Format für das Produkt '{category}' von verschiedenen Versicherungsunternehmen. Die Tabelle sollte die folgenden Spalten enthalten: Eigenschaft und Details für jedes Unternehmen.
+
+Stellen Sie sicher, dass die Tabelle die folgenden Aspekte abdeckt:
+
+Versicherungsumfang: Welche Risiken sind abgedeckt?
+Beitragshöhe: Wie hoch sind die monatlichen oder jährlichen Beiträge?
+Selbstbeteiligung: Gibt es eine Selbstbeteiligung und wenn ja, wie hoch ist sie?
+Leistungsausschlüsse: Welche Leistungen sind explizit ausgeschlossen?
+Zusatzleistungen: Gibt es optionale Zusatzleistungen und wie viel kosten diese?
+Kündigungsfristen: Wie lange beträgt die Kündigungsfrist?
+Kundenbewertungen: Durchschnittliche Bewertungen der Kunden (falls verfügbar).
+Besondere Bedingungen: Gibt es besondere Bedingungen oder Voraussetzungen für den Abschluss?
+
+[Unternehmensinformationen]
+{company_info}
+[Unternehmensinformationen]
+
+
+[Beispielausgabe]
+Vergleichstabelle:
+
+Eigenschaft	Details für Unternehmen A	Details für Unternehmen B	Details für Unternehmen C	Details für Unternehmen D
+Versicherungsumfang				
+Beitragshöhe				
+Selbstbeteiligung				
+Leistungsausschlüsse				
+Zusatzleistungen				
+Kündigungsfristen				
+Kundenbewertungen				
+Besondere Bedingungen	
+[Beispielausgabe]
+			
+Zusätzliche Anweisungen:
+
+Achten Sie darauf, dass die Tabelle übersichtlich und gut strukturiert ist.
+Verwenden Sie präzise und klare Formulierungen.
+Fügen Sie gegebenenfalls Fußnoten oder Anmerkungen hinzu, um spezifische Details zu erklären.
+Berücksichtigen Sie die neuesten verfügbaren Informationen und aktualisieren Sie die Tabelle entsprechend.
+Diese Vergleichstabelle soll potenziellen Kunden eine fundierte Entscheidungsgrundlage bieten, indem sie die wichtigsten Aspekte der angebotenen Versicherungsprodukte transparent und vergleichbar darstellt.

@@ -1,0 +1,181 @@
+{
+    "title": "Nachricht schreiben | HUK-COBURG",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge,chrome=1",
+        "Content-Type": "text/html; charset=UTF-8",
+        "viewport": "width=device-width, initial-scale=1.0",
+        "robots": "noindex",
+        "format-detection": "telephone=no"
+    },
+    "content": [
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "Formular Überschrift",
+                "",
+                "Zu welchem Thema möchten Sie uns kontaktieren?",
+                "Wie lautet Ihr Anliegen?",
+                "An welcher Versicherung sind Sie interessiert?",
+                "Haben Sie Ihre Versicherungsscheinnummer zur Hand? (optional)",
+                "Haben Sie Ihre Schadennummer zur Hand? (optional)",
+                "Wie lautet Ihr Kfz-Kennzeichen? (optional)",
+                "Wie lautet Ihre Nachricht?",
+                "Checkbox",
+                "Hier können Sie ergänzend zu Ihrer Nachricht Fotos, Belege sowie Dokumente hochladen",
+                "",
+                "Wie lautet Ihre Anrede?",
+                "Panel",
+                "Wie lautet Ihre Anschrift?",
+                "PLZ und Wohnort",
+                "Wie lautet Ihre E-Mail-Adresse?",
+                "Unter welcher Telefonnummer können wir Sie erreichen? (optional)",
+                "Unter welcher Telefonnummer können wir Sie erreichen?",
+                "",
+                "",
+                "isLoggedIn (technisch nötig, bitte nicht löschen)",
+                "isVmContext (technisch nötig, bitte nicht löschen)",
+                "",
+                "Nachricht absenden"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Panel"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Nachricht an die HUK-COBURG"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hinweistext: Wenn VMNR vorhanden, diesen VM in den Kundenkontakt einbinden bzw. mindestens als Tippgeber berücksichtigen!"
+        },
+        {
+            "text": "Zu welchem Thema möchten Sie uns kontaktieren?"
+        },
+        {
+            "text": "Angebotsanfrage"
+        },
+        {
+            "text": "Kontaktanfrage und Mitteilungen"
+        },
+        {
+            "text": "Schaden und Leistungen"
+        },
+        {
+            "text": "Wie lautet Ihr Anliegen?"
+        },
+        {
+            "text": "An welcher Versicherung sind Sie interessiert?"
+        },
+        {
+            "text": "Haben Sie Ihre Versicherungsscheinnummer zur Hand? (optional)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Falls Sie schon Kunde bei uns sind, geben Sie uns bitte eine Versicherungsscheinnummer an. Dadurch kann Ihr Anliegen schneller zugeordnet und zügiger bearbeitet werden."
+        },
+        {
+            "type": "paragraph",
+            "text": "Falls Sie schon Kunde bei uns sind, geben Sie uns bitte eine Versicherungsscheinnummer an. Dadurch kann Ihr Anliegen schneller zugeordnet und zügiger bearbeitet werden."
+        },
+        {
+            "text": "Haben Sie Ihre Schadennummer zur Hand? (optional)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch Angabe Ihrer Schadennummer können wir Ihr Anliegen schneller bearbeiten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch Angabe Ihrer Schadennummer können wir Ihr Anliegen schneller bearbeiten."
+        },
+        {
+            "text": "Wie lautet Ihr Kfz-Kennzeichen? (optional)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch Angabe Ihres Kfz-Kennzeichens können wir Ihr Anliegen schneller bearbeiten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Durch Angabe Ihres Kfz-Kennzeichens können wir Ihr Anliegen schneller bearbeiten."
+        },
+        {
+            "text": "Wie lautet Ihre Nachricht?"
+        },
+        {
+            "text": "Ich möchte Unterlagen mitsenden (optional)"
+        },
+        {
+            "text": "Hier können Sie ergänzend zu Ihrer Nachricht Fotos, Belege sowie Dokumente hochladen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ihre persönlichen Angaben"
+        },
+        {
+            "text": "Wie lautet Ihre Anrede?"
+        },
+        {
+            "text": "Frau"
+        },
+        {
+            "text": "Herr"
+        },
+        {
+            "text": "Wie lautet Ihr Vorname?"
+        },
+        {
+            "text": "Wie lautet Ihr Nachname?"
+        },
+        {
+            "text": "Wie lautet Ihre Anschrift?"
+        },
+        {
+            "text": "Ort wird automatisch ermittelt"
+        },
+        {
+            "text": "Wie lautet Ihre E-Mail-Adresse?"
+        },
+        {
+            "text": "Unter welcher Telefonnummer können wir Sie erreichen? (optional)"
+        },
+        {
+            "text": "Unter welcher Telefonnummer können wir Sie erreichen?"
+        },
+        {
+            "text": "Ich bestätige, die gesetzlichen Erstinformationen von  gemäß der VersicherungsVermittlungsVerordnung heruntergeladen und gelesen zu haben."
+        },
+        {
+            "type": "link",
+            "href": "/hukinfo/af/erstinfo",
+            "text": "Erstinformationen von  herunterladen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Hinweis:Mit Absenden der Anfrage wird Ihre Nachricht dem von Ihnen gewählten Vermittler  zur Verfügung gestellt, damit dieser Sie telefonisch oder per E-Mail kontaktiert und Ihr Anliegen mit Ihnen besprechen kann."
+        },
+        {
+            "text": "isLoggedIn (technisch nötig, bitte nicht löschen)"
+        },
+        {
+            "text": "isVmContext (technisch nötig, bitte nicht löschen)"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ihre Angaben behandeln wir selbstverständlich nach Datenschutzgrundverordnung und Bundesdatenschutzgesetz. Weitere Informationen zur Verwendung Ihrer personenbezogenen Daten finden Siehier."
+        },
+        {
+            "text": "Nachricht absenden"
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "hukinfo_af_form.html_formname%3D%2Fkontakt%2Femail-huk"
+}

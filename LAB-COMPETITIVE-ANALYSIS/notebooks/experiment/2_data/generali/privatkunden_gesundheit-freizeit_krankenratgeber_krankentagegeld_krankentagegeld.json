@@ -1,0 +1,103 @@
+{
+    "title": "Kooperationen Krankentagegeld | Generali",
+    "metadata": {
+        "description": "Unsere Kooperationen im Bereich des Krankentagegelds bieten Arbeitgebern und Arbeitnehmern zahlreiche Vorteile",
+        "keywords": "Krankentagegeld, Kooperationen,BKK Linde",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Kooperationen Krankentagegeld",
+        "og:description": "Unser spezielles Angebot für BKK Linde Versicherte.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Kooperationen Krankentagegeld"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "…",
+                "PRIVATKUNDEN",
+                "GESUNDHEIT & FREIZEIT",
+                "GESUNDHEITSRATGEBER",
+                "RATGEBER KRANKENTAGEGELD",
+                "KOOPERATIONEN KRANKENTAGEGELD"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "BKK Linde und Gene­rali"
+        },
+        {
+            "type": "paragraph",
+            "text": "Damit Sie es bei einer Arbeitsunfähigkeit einfacher haben, bieten wir Ihnen gemeinsam mit unserem Kooperationspartner BKK Linde einen besonderen Service an. Voraussetzung ist, dass Sie bei der BKK Linde gesetzlich krankenversichert sind und bei uns eine Krankentagegeld-Zusatzversicherung abgeschlossen haben. Ihre Arbeitsunfähigkeit müssen Sie dann fristgerecht nur bei der BKK Linde melden. Die BKK Linde informiert uns im Anschluss darüber. Damit haben Sie die Sicherheit, keine Frist zu versäumen und Ihr Krankentagegeld vom ersten Tag an zu erhalten."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sofern Sie diesen Service nutzen möchten, klicken Sie bittehier."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie unser Angebot nutzen wollen, sprechen Sie bitte Ihren Vermögensberater auf unsere Kooperation mit der BKK Linde an. Er informiert Sie gern über die Vorteile der Kooperation."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Deutsch­land Lebens­ver­si­che­rung AG und Gene­rali Deutsch­land Kran­ken­ver­si­che­rung AG"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir bieten Ihnen gemeinsam mit der Generali Deutschland Lebensversicherung AG unseren Service zur Krankentagegeld- und Berufsunfähigkeitsversicherung an. Um von dieser Kooperation profitieren zu können, bekommen Sie im Leistungsfall eineEin­ver­ständ­nis­er­klä­rungvon uns zugeschickt. Diese benötigen wir dann unterschrieben zurück."
+        },
+        {
+            "type": "paragraph",
+            "text": "DetaillierteInfor­ma­tio­nen zum gemein­sa­men Ser­vice zur Kran­ken­ta­ge­geld- und Berufs­un­fä­hig­keits­ver­si­che­rungfinden Sie hier."
+        },
+        {
+            "type": "image",
+            "src": "/resource/blob/39774/7007d11f2c93ab312e96187f57e11ccf/bild-app-banner-gesundheitsapp-data.png",
+            "alt": ""
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Gesund­heits­App"
+        },
+        {
+            "type": "paragraph",
+            "text": "Alles rund um Ihre Krankenversicherung in einer App – so sind Sie immer informiert. Laden Sie jetzt die Generali GesundheitsApp herunter."
+        },
+        {
+            "type": "link",
+            "href": "/service-kontakt/apps/generali-gesundheitsapp",
+            "text": "MEHR ERFAHREN"
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/id1532201938",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=de.generali.health.app.prod",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "privatkunden_gesundheit-freizeit_krankenratgeber_krankentagegeld_krankentagegeld"
+}

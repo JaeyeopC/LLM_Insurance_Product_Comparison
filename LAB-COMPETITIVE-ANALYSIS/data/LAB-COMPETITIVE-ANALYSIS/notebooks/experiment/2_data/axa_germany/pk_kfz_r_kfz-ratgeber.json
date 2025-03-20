@@ -1,0 +1,844 @@
+{
+    "title": "Kfz Ratgeber / AXA",
+    "metadata": {
+        "X-UA-Compatible": "IE=edge",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#2d89ef",
+        "msapplication-TileImage": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/mstile-144x144.png?v=RyMkypbXgz",
+        "theme-color": "#ffffff",
+        "msapplication-square70x70logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square70x70logo.png",
+        "msapplication-square150x150logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square150x150logo.png",
+        "msapplication-square310x310logo": "/site/axa-de/resourceCached/4.26-01/seo/assets/img/mobil/msapplication-square310x310logo.png",
+        "author": "AXA Deutschland",
+        "description": "Tipps rund um die Absicherung Ihrer Kraftfahrzeuge ✚ Wissenswertes rund Auto und Mobilität ►Jetzt informieren",
+        "robots": "index,follow",
+        "og:url": "https://www.axa.de/pk/kfz/r/kfz-ratgeber",
+        "og:title": "Kfz Ratgeber / AXA",
+        "og:description": "Tipps rund um die Absicherung Ihrer Kraftfahrzeuge ✚ Wissenswertes rund Auto und Mobilität ►Jetzt informieren",
+        "og:image:url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:image:secure_url": "https://www.axa.de/site/axa-de/get/documents/axade/medien/default/open-graph/axa_logo_solid_rgb_300px.png",
+        "og:site_name": "AXA Deutschland",
+        "og:type": "website",
+        "og:locale": "de_DE"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "https://www.axa.de/",
+            "text": "Home"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz",
+            "text": "Kfz"
+        },
+        {
+            "text": "Ratgeber - Kfz"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Surfer am Strand mit dem Auto"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie suchen Tipps zurKfz-Versicherung, haben einen Autoschaden oder denken über den Kauf eines neuen Fahrzeugs nach. In unserem umfangreichen Ratgeber finden Sie praktische Informationen und Wissenswertes rund um Auto und Mobilität."
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau fährt in ihrem Volkswagen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Autoversicherung Volkswagen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie fahren ein Modell des Autoherstellers Volkswagen? Wir informieren Sie darüber, warum eine Kfz-Versicherung für Ihren Volkswagen wichtig ist."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autoversicherung-volkswagen",
+            "text": "Autoversicherung Volkswagen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann und Frau im Auto bei Sonnenuntergang"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Schadenfreiheitsklasse - Umsichtig fahren und sparen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadenfreiheitsklassen kennen Sie bereits in der Kfz-Haftpflicht- oder Vollkaskoversicherung. Sie tragen ausschlaggebend zum Beitrag der Kfz-Versicherung bei."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/schadenfreiheitsklasse",
+            "text": "Schadenfreiheitsklasse - Umsichtig fahren und sparen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Dashcam - Autokamera"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Dashcam – erlaubt oder verboten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Einsatz von Dashcams im öffentlichen Verkehrsraum in Deutschland ist schon lange umstritten. Was ist in Deutschland erlaubt und was nicht erfahren Sie hier."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/dashcam-erlaubt",
+            "text": "Dashcam erlaubt oder nicht?"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Männer stoßen mit Bier"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Alkohol am Steuer vermeiden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wer sein Auto aber trotz dem einen oder anderen Glas Alkohol nicht stehen lassen will, sollte zumindest die Grenzen und die damit verbundenen Konsequenzen kennen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/alkohol-am-steuer",
+            "text": "Alkohol am Steuer"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Fahranfänger mit Mutter im Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Begleitetes Fahren ab 17"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Begleitete Fahren mit 17 (BF 17) wird häufig auch Führerschein mit 17 genannt. Dahinter steckt ein simpler Gedanke: Wer mehr Praxis im Straßenverkehr hat, fährt sicherer."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/begleitetes-fahren",
+            "text": "Begleitetes Fahren"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Männer  im Autowerkstatt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "So gehen Sie im Kfz-Schadenfall vor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Autounfall oder ein anderer Kfz-Schaden sorgen meist erst einmal für einen großen Schreck. In so einer Situation ist es hilfreich, ruhig zu bleiben und Schritt für Schritt vorzugehen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autoversicherung-schadensfall-melden",
+            "text": "Kfz-Schaden melden"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau tippt am Handy für Pannenhilfe"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Pannenhilfe und Mobilitätsgarantie"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das darf doch nicht wahr sein – wichtige Termine, Besprechungen, Erledigungen und jetzt springt das Auto nicht an. Kennen Sie das auch? In solchen Situationen muss alles umorganisiert werden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/mobilitaetsgarantie-schutzbrief",
+            "text": "Pannenhilfe & Mobilitätsgarantie"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann überlegt im Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kfz-Versicherung kündigen und wechseln"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie unzufrieden mit Ihrer Kfz-Versicherung sind oder ein günstigeres Angebot gefunden haben, können Sie Ihre Autoversicherung mit einem Monat Vorlauf ordentlich kündigen und zu einer anderen Versicherung wechseln."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autoversicherung-kuendigen-wechseln",
+            "text": "Kfz-Versicherung kündigen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Müder Mann im Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Müdigkeitserkennung im Auto"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Müdigkeitserkennung, auch Aufmerksamkeits-Assistent genannt, ist ein elektronisches System im Auto, das das Fahr- und Lenkverhalten des Fahrers überwacht und analysiert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/muedigkeitserkennung",
+            "text": "Müdigkeitserkennung im Auto"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau telefoniert nach Panne"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ein Schutzbrief hilft bei Pannen und Unfällen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Kein Autofahrer sollte ohne ihn unterwegs sein. Das Notfallpaket von AXA organisiert und bezahlt Abschleppen, Bergen, Wiederherstellen der Fahrbereitschaft und vieles mehr."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-schutzbrief",
+            "text": "Schutzbrief Kfz"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mit dem Auto in Urlaub fahren"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Autoversicherung im Ausland"
+        },
+        {
+            "type": "paragraph",
+            "text": "Gut zu wissen: Wenn Sie innerhalb von Europa reisen, können Sie sich im Normalfall darauf verlassen, dass Ihre Autoversicherung wie gewohnt gültig ist."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autoversicherung-im-ausland",
+            "text": "Autoversicherung im Ausland"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Haftung Kinder im Straßenverkehr"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum die Kfz-Haftpflicht so wichtig ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenn Sie ein Auto anmelden möchten, muss es versichert sein. Denn gerade im Straßenverkehr kann ein kurzer Moment der Unachtsamkeit schwerwiegende Folgen haben – und Sie teuer zu stehen kommen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-haftpflichtversicherung",
+            "text": "Kfz-Haftpflicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Schaden am Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum eine Teilkaskoversicherung so wichtig ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Manchmal können Sie einen Schaden an Ihrem Auto einfach nicht verhindern, ganz gleich wie gut und vorausschauend Sie fahren. Denn auch durch Unwetter, Wildunfälle oder Marderbisse kann Ihr Fahrzeug zum Beispiel beschädigt werden."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-teilkaskoversicherung",
+            "text": "Teilkaskoversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Automechaniker arbeitet an einem Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Vollkasko oder Teilkasko: Was ist der Unterschied?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für viele Menschen bedeutet ein Schaden am eigenen Auto entweder eine große finanzielle Belastung oder stark eingeschränkte Mobilität im Alltag. Dabei haben Sie die Wahl zwischen Teilkasko und Vollkasko."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/teilkasko-vs-vollkasko",
+            "text": "Vollkasko vs. Teilkasko"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "kfz-vollkasko versichern"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Warum eine Vollkaskoversicherung so wichtig ist"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Vollkaskoversicherung kommt für selbstverschuldete Schäden an Ihrem eigenen Fahrzeug auf, sodass schnell für eine Reparatur oder Ersatz gesorgt ist."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-vollkaskoversicherung",
+            "text": "Vollkaskoversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau tippt am Handy"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was ist eine GAP-Versicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die GAP-Versicherung ist eine spezielle Absicherung für Leasingfahrzeuge, die Sie bei Abschluss einer Kaskoversicherung zusätzlich vereinbaren können."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/gap-versicherung",
+            "text": "GAP-Versicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Großer Parkplatz"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kfz von A bis Z – Versicherungsbegriffe einfach erklärt"
+        },
+        {
+            "type": "paragraph",
+            "text": "Tauchen Sie mit uns ein – in den Begriffe-Dschungel von Kfz-Versicherungen: Hat eine GAP-Deckung etwas mit der amerikanischen Bekleidungsmarke zu tun? Gilt eine Mallorca-Police nur für Mallorca? Und was ist ein Haarwild?..."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-von-a-bis-z-begriffserklaerung",
+            "text": "Kfz von A bis Z"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "E-Auto tanken"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Umstieg auf das Elektroauto"
+        },
+        {
+            "type": "paragraph",
+            "text": "Immer mehr Menschen planen, elektrisch zu fahren. Was Sie beim Umstieg auf Elektromobilität beachten sollten, wird in diesem Artikel ausführlich erläutert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/umstieg-auf-elektroauto",
+            "text": "Elektromobilität"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Autounfall EU-Bericht"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Autounfall: Das ist im Ernstfall zu tun"
+        },
+        {
+            "type": "paragraph",
+            "text": "Noch während Sie lesen, geschieht irgendwo in Deutschland ein Verkehrsunfall. In den meisten Fällen kommen glücklicherweise keine Menschen zu Schaden. In jedem Fall ist es aber wichtig, genau zu wissen, was zu tun ist."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/unfall-berichtsformular-tipps",
+            "text": "Autounfall"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Smart Repair Reparatur"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kratzer, Beulen und Dellen – was kann Smart Repair?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Das Prinzip von Smart Repair ist einfach und leicht nachvollziehbar – es werden lediglich die beschädigten Stellen ausgebessert und das zumeist in einer sehr guten Qualität."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/smart-repair",
+            "text": "Smart-Repair"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Autoschlüssel in der Hand"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "So klappt es mit dem Gebrauchtwagenkauf"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein neues Auto kaufen? Niemals, bei dem Wertverlust im ersten Jahr!"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autokauf-gebrauchtwagen-checkliste",
+            "text": "Gebrauchtwagenkauf"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Hagelschaden am Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Hagelschäden erkennen und beseitigen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Schrecken aller Autofahrer: Eine schwarze Wolke türmt sich auf, der Wind wird stärker und plötzlich geht es los. Hagelkörner prasseln unaufhörlich auf das Auto herab und schon sind sie da – Dellen, die das Auto binnen Minuten überziehen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/hagelschaden-hagelscanner",
+            "text": "Hagelschaden am Auto"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mechaniker im Autowerkstatt"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Das Werkstattnetz von AXA"
+        },
+        {
+            "type": "paragraph",
+            "text": "Qualität und Service immer in Ihrer Nähe."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/werkstattnetz-axa",
+            "text": "Werkstattnetz von AXA"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Zwei Männer im Autohaus"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Was ist eine Kaskoversicherung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Kaskoversicherung kommt zum Beispiel bei Wildunfällen, Diebstahl oder Unwetter für Reparatur- und Abschleppkosten auf oder zahlt bei einem Totalschaden den Neu- oder Wiederbeschaffungswert."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-kaskoversicherung",
+            "text": "Kaskoversicherung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Autodiebe"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Moderne Autodiebe"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Sicherheitstechnik heutiger Automobile wird ständig weiterentwickelt – doch auch die Diebe schlafen nicht. Sie passen sich den Gegebenheiten an und haben ihrerseits immer neue Methoden, um trotz aller Sicherheit an „des Deutschen liebsten Besitz“ zu kommen."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/tricks-der-autodiebe",
+            "text": "Moderne Autodiebe"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Frau schnallt Autogurt an"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Tipps zur Verkehrssicherheit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Der Blick in das Fahrzeug nebenan wirft manchmal die Frage auf: „Wer fährt dieses Auto eigentlich?“ – denn der Fahrer schreibt gerade eine SMS in sein Handy – das er mit derselben Hand hält, die er am Lenkrad haben sollte."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/tipps-zur-verkehrssicherheit",
+            "text": "Tipps zur Verkehrssicherheit"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Cyberangriffe auf Autos"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Cyberangriffe auf Autos"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fahrassistenzsysteme, autonomes Fahren und WLAN im Auto sind keine Zukunftsvision mehr und bieten Angriffspunkte für Hacker und Cyberkriminelle."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/cybercrime-auto-gehackt",
+            "text": "Cyberangriffe auf Autos"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Geparkte Autos"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Augen auf beim Autokauf"
+        },
+        {
+            "type": "paragraph",
+            "text": "Da steht das Objekt – auf Hochglanz poliert und glänzend. Aber muss es wirklich ein neues Auto sein oder ist ein gut erhaltenes Gebrauchtfahrzeug auch ausreichend? Wo liegen die Vorteile von Tageszulassungen oder EU-Neuwagen? Und worauf ist beim Kauf konkret zu achten?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autokauf-checkliste",
+            "text": "Autokauf"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Auto auf Landstraße"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Achtung Wild!"
+        },
+        {
+            "type": "paragraph",
+            "text": "Oftmals geschieht es auf Landstraßen und meistens passiert es in der Dämmerung: Der Zusammenstoß mit einem Wildtier. Ein Schock für den Autofahrer, denn das Reh, der Hirsch oder das Wildschwein tauchen plötzlich vor dem Fahrzeug auf. Meistens ist der Schaden groß."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/wildwechsel",
+            "text": "Achtung Wild"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Autoverkäufer und Kundin im Autohaus"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Welche Autofinanzierung passt am besten?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mal ist es notwendig – mal erfüllt man sich damit einen lang gehegten Traum: ein neues Auto muss her. Welche Möglichkeiten der Finanzierung gibt es – und wer fährt mit welcher Variante am besten?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/auto-finanzierung-kreditvergleich",
+            "text": "Autofinanzierung"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Automechaniker schraubt ein Rad"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Autowerkstätten – welche ist für Sie die richtige?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Ein Werkstattbesuch mit dem Auto ist für viele Deutsche wie ein Arztbesuch. Man geht nicht gerne hin, wenn es aber doch sein muss, dann nur zum Arzt – oder der Werkstatt – des Vertrauens."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/autowerkstatt-qualitaet",
+            "text": "Autowerkstätten"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Motorradfahrer"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Motorrad Saisonstart für die große Freiheit"
+        },
+        {
+            "type": "paragraph",
+            "text": "Für Motorrad-Begeisterte ist die erste Ausfahrt die schönste des Jahres. Aber auch wenn die Frühlingsgefühle noch so mitreißend sind, raten Experten zu kühlem Kopf und einem durchdachten Fitnessprogramm für Mensch und Maschine."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/motorrad-saisonstart-checkliste",
+            "text": "Motorradsaison"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Mann und Frau im Oldtimer"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mit Checklisten zum Oldtimer-Kauf und Oldtimer-Pflege"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Oldtimer: Werte schaffen mit Spaßfaktor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sachwerte sind die Gewinner der Krisen, Oldtimer haben dabei einen ganz besonderen Charme. Wer richtig kauft, kann Geld nicht nur wertstabil parken, sondern neben dem Genuss womöglich noch Gewinn einfahren."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/mit-oldtimern-werte-schaffen",
+            "text": "Oldtimer"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Senior Frau fährt Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Sicher unterwegs bis ins hohe Alter"
+        },
+        {
+            "type": "paragraph",
+            "text": "Laut statistischem Bundesamt liegt der Anteil der über 65-Jährigen an der Gesamtbevölkerung in Deutschland derzeit bei über 21 Prozent. Tendenz steigend. Eine Bevölkerungsgruppe, die viel Wert auf Mobilität legt."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/tipps-aelter-autofahrer",
+            "text": "Auto fahren im Alter"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Rettungskarte fürs Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Ein Blatt Papier kann Leben retten"
+        },
+        {
+            "type": "paragraph",
+            "text": "Jede Minute zählt, wenn bei einem Verkehrsunfall Menschenleben in Gefahr sind. Die Rettungskarte gibt überlebenswichtige Informationen auf dem kurzen Dienstweg."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/rettungskarten-rettungsdatenblaetter",
+            "text": "Rettungskarte"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Familie packt Auto für Auslandsreise"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Zollbestimmungen: Kennen Sie die Einfuhrbestimmungen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erfahren Sie, welche und wie viele Souvenirs Sie von einer Reise mitbringen dürfen, welche Waren zoll- und steuerfrei sind und von welchen möglichen und unmöglichen Dingen Sie besser die Finger lassen sollten."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/zollbestimmungen-einfuhrbestimmungen",
+            "text": "Zollbestimmungen"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Fahrassistenzsysteme"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Fahrerassistenzsysteme und die Zukunft der Mobilität"
+        },
+        {
+            "type": "paragraph",
+            "text": "Heute hat man sich an mitdenkende Autos gewöhnt und erkannt, dass solche Informationssysteme sehr sinnvoll und hilfreich sind."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/fahrassistenzsysteme",
+            "text": "Fahrerassistenzsysteme"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Schlechte Sicht im Auto"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Unfallgefahren bei schlechter Sicht"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schlechte Witterung wie Regen, Schnee und Nebel, ungünstige Lichtverhältnisse und Wildwechsel erhöhen die Unfallgefahr."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/mit-weitsicht-sicher-unterwegs",
+            "text": "Unfallgefahren bei schlechter Sicht"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Hände auf das Lenkrad"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Telematik in Autos - was bedeutet das?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Telematik beschäftigt sich u.a. mit der Erfassung, und Übermittlung von Daten des Fahrzeugs und von verkehrsbezogener Daten, die dem Fahrer zur Verfügung gestellt werden. Was genau steckt dahinter?"
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/telematik",
+            "text": "Telematik im Automobilbereich"
+        },
+        {
+            "type": "image",
+            "src": "",
+            "alt": "Kundin berechnet sich ein Angebpt für Ihre KFZ-Versicherung"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kfz-Tarifrechner"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wie sich die Kosten für Ihre Kfz-Versicherung berechnen und welche Faktoren die Schadenfreiheitsklasse beeinflussen, erfahren Sie in dem Artikel."
+        },
+        {
+            "type": "link",
+            "href": "https://www.axa.de/pk/kfz/a/kfz-tarifrechner",
+            "text": "Kfz-Tarifrechner"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die wichtigsten Punkte, die Sie beim Kauf und der Werterhaltung eines Oldtimers beachten sollten."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Checkliste Oldtimerkauf (PDF, 104 KB)",
+                "Checkliste Schutz für Ihren Oldtimer (PDF, 99 KB)"
+            ]
+        },
+        {
+            "text": "Schreiben Sie uns"
+        },
+        {
+            "text": "In wenigen Minuten zum Angebot"
+        },
+        {
+            "text": "\""
+        },
+        {
+            "text": "Rufen Sie uns an"
+        },
+        {
+            "text": "0800 3203205"
+        },
+        {
+            "text": "\""
+        }
+    ],
+    "company_name": "axa_germany",
+    "page_name": "pk_kfz_r_kfz-ratgeber"
+}

@@ -1,0 +1,782 @@
+{
+    "title": "Schadenservice",
+    "metadata": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-UA-Compatible": "IE=edge",
+        "format-detection": "telephone=no",
+        "description": "HUK Schaden melden: Unfallservice ✔ online & telefonisch ➨ In Deutschland 09561 96 108 / Ausland +49 69 6655566",
+        "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+        "content-language": "de",
+        "author": "HUK-COBURG Versicherungsgruppe",
+        "page-topic": "Versicherungen",
+        "audience": "all",
+        "pagepath": "service.schaden",
+        "date": "20241202T07:54:45",
+        "og:title": "Schadenservice",
+        "og:type": "article",
+        "og:description": "HUK Schaden melden: Unfallservice ✔ online & telefonisch ➨ In Deutschland 09561 96 108 / Ausland +49 69 6655566",
+        "og:url": "https://www.huk.de/service/schaden.html",
+        "og:image": "https://www.huk.de/content/dam/hukde/images/produktseite/buehne/buehne-unfall.scale.shield_buehne430.jpg",
+        "searchKeywords": "schaden melden,schadensmeldung,schadensformular,schadenstatus,bearbeitungsstand,Visitenkarte,Schadenmeldung ansehen,Digitale schadenskarte,Schadenservicekarte,Dateien hochladen,Schadenkarte",
+        "searchHeadline": "Schaden melden",
+        "searchExcerpt": "HUK Schaden- und Unfallservice: Schaden melden – online & telefonisch. In Deutschland 0800 2485445 – im Ausland +49 69 6655566 – Auslandskranken +49 69 6655544",
+        "x-dns-prefetch-control": "on"
+    },
+    "content": [
+        {
+            "type": "link",
+            "href": "#skip-to-main-content",
+            "text": "Zum Hauptinhalt überspringen"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Auto & MobilitätKfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-VersicherungE-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-FahrzeugeZweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & QuadsZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht ZusatzschutzWohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & AnhängerMobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Kfz-VersicherungAuto­versicherungTelematik PlusElektroautosFahranfänger-VersicherungOldtimer & YoungtimerLieferwagen-VersicherungÜbersicht Kfz-Versicherung",
+                "Auto­versicherung",
+                "Telematik Plus",
+                "Elektroautos",
+                "Fahranfänger-Versicherung",
+                "Oldtimer & Youngtimer",
+                "Lieferwagen-Versicherung",
+                "Übersicht Kfz-Versicherung",
+                "E-FahrzeugeElektroautosE-Scooter-VersicherungS-Pedelec-VersicherungÜbersicht E-Fahrzeuge",
+                "Elektroautos",
+                "E-Scooter-Versicherung",
+                "S-Pedelec-Versicherung",
+                "Übersicht E-Fahrzeuge",
+                "Zweiräder & QuadsMoped­versicherungE-Scooter-VersicherungLeicht­kraftrad-VersicherungMotorrad-VersicherungQuad-VersicherungÜbersicht Zweiräder & Quads",
+                "Moped­versicherung",
+                "E-Scooter-Versicherung",
+                "Leicht­kraftrad-Versicherung",
+                "Motorrad-Versicherung",
+                "Quad-Versicherung",
+                "Übersicht Zweiräder & Quads",
+                "ZusatzschutzKfz-SchutzbriefFahrerschutz­versicherungVerkehrsrechtsschutzÜbersicht Zusatzschutz",
+                "Kfz-Schutzbrief",
+                "Fahrerschutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Übersicht Zusatzschutz",
+                "Wohnmobil & AnhängerWohnmobil-VersicherungWohnwagen-VersicherungAnhänger-VersicherungÜbersicht Wohnmobil & Anhänger",
+                "Wohnmobil-Versicherung",
+                "Wohnwagen-Versicherung",
+                "Anhänger-Versicherung",
+                "Übersicht Wohnmobil & Anhänger",
+                "MobilitätAutoserviceAutoankauf, Verkauf & AboTHG-QuoteKfz-ZulassungÜbersicht Mobilität",
+                "Autoservice",
+                "Autoankauf, Verkauf & Abo",
+                "THG-Quote",
+                "Kfz-Zulassung",
+                "Übersicht Mobilität",
+                "Haus, Haftung & RechtHaus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & WohnungHaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht HaftpflichtRechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherungBauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht BauenTier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherungSport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "Haus & WohnungHausrat­versicherungWohn­gebäude­versicherungGlas­versicherungElementar­versicherungÜbersicht Haus & Wohnung",
+                "Hausrat­versicherung",
+                "Wohn­gebäude­versicherung",
+                "Glas­versicherung",
+                "Elementar­versicherung",
+                "Übersicht Haus & Wohnung",
+                "HaftpflichtPrivate Haft­pflicht­versicherungFamilien­haftpflichtHaus- & Grundbesitzer­haftpflichtAmts­haftpflicht & Vermögensschaden­haftpflichtÜbersicht Haftpflicht",
+                "Private Haft­pflicht­versicherung",
+                "Familien­haftpflicht",
+                "Haus- & Grundbesitzer­haftpflicht",
+                "Amts­haftpflicht & Vermögensschaden­haftpflicht",
+                "Übersicht Haftpflicht",
+                "Rechts­schutz­versicherungVerkehrsrechtsschutzPrivat-, Berufs- & VerkehrsrechtsschutzFamilienrechtsschutzPrivatrechtsschutzÜbersicht Rechts­schutz­versicherung",
+                "Verkehrsrechtsschutz",
+                "Privat-, Berufs- & Verkehrsrechtsschutz",
+                "Familienrechtsschutz",
+                "Privatrechtsschutz",
+                "Übersicht Rechts­schutz­versicherung",
+                "BauenBauherren­haftpflichtFeuer-Rohbau­versicherungBau­sparenWohn-RiesterBau­finanzierungBauleistungs­versicherungÜbersicht Bauen",
+                "Bauherren­haftpflicht",
+                "Feuer-Rohbau­versicherung",
+                "Bau­sparen",
+                "Wohn-Riester",
+                "Bau­finanzierung",
+                "Bauleistungs­versicherung",
+                "Übersicht Bauen",
+                "Tier­versicherungTierhalter­haftpflichtHunde­haftpflichtPferde­haftpflichtKatzen­versicherungTierkranken­versicherungÜbersicht Tier­versicherung",
+                "Tierhalter­haftpflicht",
+                "Hunde­haftpflicht",
+                "Pferde­haftpflicht",
+                "Katzen­versicherung",
+                "Tierkranken­versicherung",
+                "Übersicht Tier­versicherung",
+                "Sport & FreizeitE-Bike-VersicherungFahrrad­versicherungFahrradschutzbriefJagd­haftpflicht­versicherungWassersport­versicherungÜbersicht Sport & Freizeit",
+                "E-Bike-Versicherung",
+                "Fahrrad­versicherung",
+                "Fahrradschutzbrief",
+                "Jagd­haftpflicht­versicherung",
+                "Wassersport­versicherung",
+                "Übersicht Sport & Freizeit",
+                "Gesundheit, Vorsorge & VermögenPrivate Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherungKranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungenExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht ExistenzsicherungAltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht AltersvorsorgePflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungenUnfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Kranken­versicherungKranken­voll­versicherungPrivate Kranken­versicherung für BeamteAuslandskranken­versicherungÜbersicht Private Kranken­versicherung",
+                "Kranken­voll­versicherung",
+                "Private Kranken­versicherung für Beamte",
+                "Auslandskranken­versicherung",
+                "Übersicht Private Kranken­versicherung",
+                "Kranken­zusatz­versicherungenZahnzusatz­versicherungKrankenhauszusatz­versicherungKrankentagegeld­versicherungAmbulante Zusatz­versicherungKrankenhaustagegeldErgänzungsschutzZusatz­versicherung für Kinder & JugendlicheBARMER Zusatz­versicherungenÜbersicht Kranken­zusatz­versicherungen",
+                "Zahnzusatz­versicherung",
+                "Krankenhauszusatz­versicherung",
+                "Krankentagegeld­versicherung",
+                "Ambulante Zusatz­versicherung",
+                "Krankenhaustagegeld",
+                "Ergänzungsschutz",
+                "Zusatz­versicherung für Kinder & Jugendliche",
+                "BARMER Zusatz­versicherungen",
+                "Übersicht Kranken­zusatz­versicherungen",
+                "ExistenzsicherungBerufs­unfähigkeits­versicherungExistenzschutz­versicherungDienst­unfähigkeits­versicherungRisiko­lebens­versicherungSterbegeld­versicherungÜbersicht Existenzsicherung",
+                "Berufs­unfähigkeits­versicherung",
+                "Existenzschutz­versicherung",
+                "Dienst­unfähigkeits­versicherung",
+                "Risiko­lebens­versicherung",
+                "Sterbegeld­versicherung",
+                "Übersicht Existenzsicherung",
+                "AltersvorsorgePremium RenteRürup RenteRiester RenteDirekt­versicherungSofortrenteÜbersicht Altersvorsorge",
+                "Premium Rente",
+                "Rürup Rente",
+                "Riester Rente",
+                "Direkt­versicherung",
+                "Sofortrente",
+                "Übersicht Altersvorsorge",
+                "Pflege­versicherungenPflege-BahrPflegemonatsgeld-VersicherungPflege-Assistance-LeistungenÜbersicht Pflege­versicherungen",
+                "Pflege-Bahr",
+                "Pflegemonatsgeld-Versicherung",
+                "Pflege-Assistance-Leistungen",
+                "Übersicht Pflege­versicherungen",
+                "Unfall­versicherungenPrivate Unfall­versicherungKinder­unfall­versicherungUnfall­versicherung für RentnerÜbersicht Unfall­versicherungen",
+                "Private Unfall­versicherung",
+                "Kinder­unfall­versicherung",
+                "Unfall­versicherung für Rentner",
+                "Übersicht Unfall­versicherungen"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/home-office.scale.shield_buehne430.jpg",
+            "alt": "Frau am Laptop"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadenservice"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schaden in nur wenigen Minuten online melden",
+                "Keine Vertragsunterlagen notwendig: Einfach einloggen und Schaden melden",
+                "Verfügbar für alle Schäden und Rechtsschutzansprüche"
+            ]
+        },
+        {
+            "text": "Schaden online melden"
+        },
+        {
+            "type": "link",
+            "href": "#kontaktmoeglichkeiten",
+            "text": "Weitere Kontaktmöglichkeiten"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-fairste-kfz-schaden.png",
+            "alt": "Focus Money, Fairste Schadenregulierung Ausgabe 11/2024"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/ratgeber/buehne/home-office.scale.shield_buehne430.jpg",
+            "alt": "Frau am Laptop"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/testate/focus-money-fairste-kfz-schaden.png",
+            "alt": "Focus Money, Fairste Schadenregulierung Ausgabe 11/2024"
+        },
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Schadenservice"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schaden in nur wenigen Minuten online melden",
+                "Keine Vertragsunterlagen notwendig: Einfach einloggen und Schaden melden",
+                "Verfügbar für alle Schäden und Rechtsschutzansprüche"
+            ]
+        },
+        {
+            "text": "Schaden online melden"
+        },
+        {
+            "type": "link",
+            "href": "#kontaktmoeglichkeiten",
+            "text": "Weitere Kontaktmöglichkeiten"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kfz-Glasschaden melden"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/kfz-glasbruch.svg",
+            "alt": "Icon: Steinschlag"
+        },
+        {
+            "type": "paragraph",
+            "text": "BeiSteinschlag,Glasbruch und Rissenin Fahrzeugscheiben melden Sie Ihren Schaden beiJunitedAutoglasund vereinbaren Sie einen Termin. Wir kümmern uns um die Regulierung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Kfz-Glasschaden bei Junited Autoglas melden"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Pannenhilfe anfordern"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/kfz-panne.svg",
+            "alt": "Icon: Pannenhilfe"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie haben einePanne? Wir schicken Ihnen einenPannenhelfer, den Bergungsdienst oder einen Abschleppwagen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Jetzt Pannenhilfe anfordern"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "EinHUK-COBURGKunde hat einen Schaden bei Ihnen verursacht?"
+        },
+        {
+            "type": "link",
+            "href": "/service/schaden/unfallhilfe.html",
+            "text": ""
+        },
+        {
+            "type": "paragraph",
+            "text": "Selbstverständlich können auch Sie alsgeschädigte bzw. am Unfall beteiligte Persondiesen Schaden bei uns melden – gerne digital oder telefonisch."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir kümmern uns im Anschluss um alles Weitere."
+        },
+        {
+            "type": "link",
+            "href": "/service/schaden/unfallhilfe.html",
+            "text": "Als Geschädigter einen Kfz-Schaden melden"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Was passiert nach einer Online-Schadenmeldung?"
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/brief.svg",
+            "alt": "Icon: Brief"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nachdem Sie IhreSchadenmeldung abgesendethaben, erhalten Sie eineE-Mail mit allen Informationen."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/foto.svg",
+            "alt": "Icon: Foto"
+        },
+        {
+            "type": "paragraph",
+            "text": "FotografierenSie bitte die eingetretenenSchädenund übermitteln Sie diese, unter Angabe der Schadennummer, perE-Mailaninfo@huk-coburg.de."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/schild-haken.svg",
+            "alt": "Icon: Check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir prüfenden gemeldeten Schaden und setzen uns mit Ihnen in Verbindung.Bitte warten Sie unsere Rückmeldung ab."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/handy-finger.svg",
+            "alt": "Icon: Handy"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadenstatus jederzeit im digitalenKundenbereicheinsehen.Wir halten Sie über den Bearbeitungsstand auf dem Laufenden."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/brief.svg",
+            "alt": "Icon: Brief"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nachdem Sie IhreSchadenmeldung abgesendethaben, erhalten Sie eineE-Mail mit allen Informationen."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/foto.svg",
+            "alt": "Icon: Foto"
+        },
+        {
+            "type": "paragraph",
+            "text": "FotografierenSie bitte die eingetretenenSchädenund übermitteln Sie diese, unter Angabe der Schadennummer, perE-Mailaninfo@huk-coburg.de."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/schild-haken.svg",
+            "alt": "Icon: Check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir prüfenden gemeldeten Schaden und setzen uns mit Ihnen in Verbindung.Bitte warten Sie unsere Rückmeldung ab."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/produktseite/grafiken/handy-finger.svg",
+            "alt": "Icon: Check"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schadenstatus jederzeit im digitalenKundenbereicheinsehen.Wir halten Sie über den Bearbeitungsstand auf dem Laufenden."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Den Schadenstatus unter „Meine HUK“ einsehen."
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Den aktuellen Bearbeitungsstand immer im Blick."
+        },
+        {
+            "type": "image",
+            "src": "https://static.c.huk.de/content/dam/hukde/images/uebersichtsseiten/standardteaser/schadenstatus-st.png",
+            "alt": "Digitaler Schadenstatus auf Laptop & Handy"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Schadenverwaltung– Schäden digital einreichen und den Schadenstatus jederzeit einsehen.",
+                "Volle Übersicht– Den aktuellen Bearbeitungsstand von überall abrufen.",
+                "Zuverlässige Benachrichtigungen– Wir benachrichtigen Sie per Mail sobald sich etwas getan hat."
+            ]
+        },
+        {
+            "text": "Jetzt einloggen"
+        },
+        {
+            "type": "link",
+            "href": "/service/schaden/schadenstatus.html",
+            "text": "Mehr zum Schadenstatus erfahren"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Häufige Fragen zum Schadenservice"
+        },
+        {
+            "text": "Wie kann ich einen Schaden melden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Schäden können Sie wie folgt melden:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Über dieOnline-Schadenmeldung",
+                "Telefonisch im Inland: Telefonnummer09561 96 108",
+                "Telefonisch im Ausland: Telefonnummer +49 69 66 555 66",
+                "Telefonisch für Rechtsschutzschäden: Telefonnummer09561 96 109",
+                "Pannenhilfe/Schutzbriefleistungen: Telefonnummern finden Sie in unserenweiteren Kontaktmöglichkeiten.",
+                "Persönlich in den HUK-COBURG-Schadenaußenstellen",
+                "Schriftlich per Brief an HUK-COBURG, 96448 Coburg",
+                "Schriftlich per Fax an 0800 2 153 486"
+            ]
+        },
+        {
+            "text": "Was muss ich bei einem Kfz-Unfall tun?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine umfassendeUnfallaufnahmeam Unfallort ist entscheidend, denn fehlende Daten können später oft nicht mehr beschafft werden.Folgendes sollten Sie an der Unfallstelle unbedingt beachten:"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Sichern Sie die Unfallstelle(Warnblinklicht anschalten, Warndreieck aufstellen) und helfen Sie Verletzten.",
+                "Verständigen Sie diePolizei, wenn Personen verletzt wurden oder ein größerer Sachschaden eingetreten ist.",
+                "FotografierenSie bei größeren Unfällen die beteiligten Fahrzeuge unverzüglich und möglichst noch in der Unfallposition. Halten Sie auch wichtige äußere Umstände fest (z. B. Verkehrszeichen, Fahrbahnmarkierungen, Sichtverhältnisse).",
+                "Bitten SieZeugenan der Unfallstelle zu bleiben und notieren Sie deren Personalien (Name/Adresse).",
+                "Notieren Sie diePersonalien(Name/Adresse) aller am Unfall Beteiligten und die Kennzeichen der Fahrzeuge.",
+                "Notieren Sie die Namen derVersichererund ggf. dieVersicherungsscheinnummerder am Unfall Beteiligten. Händigen Sie ggf. Ihre Schadenvisitenkarte aus.",
+                "Bei einemUnfall im Auslandlassen Sie sich ggf. das Doppel derGrünen Kartedes Unfallgegners aushändigen.",
+                "Bitte fertigen Sie immerFotos von Ihrem eigenen Fahrzeugan und halten Sie diese im Bedarfsfall bereit. Die Fotos dienen unserem Schadenteam auch zur Prüfung der gestellten Ansprüche."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Verwenden Sie zur Unfallaufnahme denEuropäischen Unfallbericht."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir empfehlen, sich diesen auszudrucken und ihn zusammen mit der Schadenvisitenkarte im Handschuhfach Ihres Fahrzeugs aufzubewahren."
+        },
+        {
+            "type": "paragraph",
+            "text": "Grundsätzlich sollte man bei einemUnfall im AuslanddiePolizei hinzuziehen. Die Telefonnummern des 24-Stunden-Notruf-Services finden Sie auf Ihrer Schadenvisitenkarte."
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Schadenvisitenkarte können Sie im BereichMeine HUKauf derSchadenserviceseiteeinsehen. Dort erhalten Sie die Möglichkeit die Karte auf digitalem Wege mit anderen zu teilen oder diese postalisch anzufordern."
+        },
+        {
+            "text": "Wie kann ich im Schadenfall Belege oder Fotos einreichen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Fotos und Belege können Sie uns gerneper E-Mail aninfo@huk-coburg.dezur Verfügung stellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bitte geben Sie zusätzlich IhreSchadennummer im Betreff der E-Mailan, damit wir die Belege und Fotos entsprechend zuordnen können."
+        },
+        {
+            "text": "Wie wirkt sich die Kfz-Schadenmeldung auf meinen Vertrag aus?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie können dieAuswirkungauf Ihren Vertrag (Rückstufung und Beitragsmehrbelastung) im Schadenrechner jederzeit problemlosselbst berechnen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Den Schadenrechner finden Sie in Ihrem persönlichen Serivcebereich Meine HUK unterSchadenservice."
+        },
+        {
+            "text": "Führt die Meldung eines Kfz-Schadens zur Rückstufung?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sobald ein Schadenfall angezeigt wird, muss der Versicherer hierfür eineSchadenrückstellungbilden, das heißt, Geld für etwaige Entschädigungsleistungen bereithalten."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Diese Rückstellung führt bereits zurRückstufung des Vertrages.",
+                "Kann der Schadenfallohne Leistungen geschlossen werden(weil z. B. die Gegenseite den Unfall zu 100 % verursacht hat oder weil Sie den Schadenfall freiwillig selbst begleichen),korrigieren wir die Rückstufung.",
+                "Der Vertrag wird dann rückwirkend in dieSchadenfreiheitsklasseeingestuft, die sich ohne den Schaden ergibt."
+            ]
+        },
+        {
+            "text": "Wie hoch ist meine Selbstbeteiligung bei einem Kfz-Schaden?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Im Schadenfall für dieKfz-Haftpflichtversicherung(d. h. Sie haben einer anderen Person einen Schaden zugefügt) haben Siekeinen Eigenanteilzu tragen (Ausnahme: Verstoß gegen gesetzliche oder vertragliche Obliegenheiten z. B. Alkohol am Steuer)."
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei einem Schadenfall an Ihremeigenen Fahrzeugkannje nach Ursacheein Selbstbehaltanfallen. Die Höhe entnehmen Sie bitte IhrerVertragsübersicht."
+        },
+        {
+            "type": "paragraph",
+            "text": "Haben Sie den Schadenfallbereits gemeldet, können Sie die Höhe der Selbstbeteiligung auch in Meine HUK unterSchadenserviceim Rückstufungsrechner auffinden."
+        },
+        {
+            "text": "Wie lautet meine Schadennummer?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die Schadennummer zur Ihrem Schadenfall finden Sie in Ihrem persönlichen Servicebereich Meine HUK unterSchadenservicebei Ihrengemeldeten Schäden."
+        },
+        {
+            "text": "Wie kann ich meine laufende Schadenmeldung online einsehen?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Den Schadenstatus können Sie im Falle einer eingereichten Schadenmeldung in Ihrem KundenbereichMeine HUKeinsehen und somit den aktuellen Bearbeitungsstand nachverfolgen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Gehen Sie hierzu über das Menü in den BereichSchadenserviceund wählen Sie den jeweiligenSchadenvorgangaus zu dem Sie Details einsehen möchten. Auf der Schadendetailseite wird der aktuelle Status und dessen Bearbeitungsverlauf aufgelistet. Derzeit werden zu IhrerKfz-Kasko-Versicherung, zurHausrat- undWohngebäudeversicherungundGlasversicherungein Schadenstatus angezeigt."
+        },
+        {
+            "type": "paragraph",
+            "text": "Über Statusänderungen werden Sie per E-Mail in Kenntnis gesetzt."
+        },
+        {
+            "text": "Was sind Vorteile der Schadenvisitenkarte und wie erhalte ich diese?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Die digitale Schadenvisitenkarte"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine Schadenvisitenkarte dient alsHilfestellung oder einfaches Kommunikationsmittelmit einem Unfallgegner. Falls Sie in einem SchadenfallInfos zur Versicherung an eine andere Person weitergebenwollen, ist die Schadenvisitenkarte von großem Vorteil."
+        },
+        {
+            "type": "paragraph",
+            "text": "Melden Sie sich zunächst im Online-BereichMeine HUKan. Sie erhalten dort Möglichkeit bei uns im BereichSchadenservicedie digitale Karte auf verschiedene Art und Weise mit anderen zu teilen oder für sich zu speichern."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten eine gedruckte Version der Schadenvisitenkarte per Post?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Eine neue Schadenvisitenkarte können Sie sich im KundenbereichMeine HUKsich per Post anfordern. In unserem Online-BereichSchadenservicewird die Schadenvisitenkarte aufgelistet. Dort wählen Sie sich Ihren jeweiligen Vertrag bzw. das Kennzeichen aus und fordern diese an."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie erhalten diese schnellstmöglich auf dem Postweg."
+        },
+        {
+            "text": "Was ist der Schadenservice PLUS?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Nehmen Sie unser AngebotSchadenservice PLUSan, erhalten siezusätzliche Serviceleistungen, wie z. B."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "einkostenloses Ersatzfahrzeug,",
+                "einesechsjährige Garantieund",
+                "einenHol- und Bring-Service."
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Bei diesem Rundum-Service wählt die HUK-COBURG die Werkstatt für Sie aus."
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "",
+                    "Schadenservice PLUS"
+                ],
+                [
+                    "Ihr Vorteil",
+                    "Extra-Service im Schadenfall"
+                ],
+                [
+                    "Werkstattauswahl durch die HUK-COBURG",
+                    ""
+                ],
+                [
+                    "Transport zur Werkstatt",
+                    ""
+                ],
+                [
+                    "Bringservice des reparierten Autos von der Werkstatt nach Hause",
+                    ""
+                ],
+                [
+                    "Ersatzfahrzeug",
+                    ""
+                ],
+                [
+                    "Erhalt der Herstellergarantie gemäß EU-Verordnung",
+                    ""
+                ],
+                [
+                    "Garantie auf die Reparatur durch die HUK-COBURG",
+                    "6 Jahre"
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Über 1.600Partnerwerkstättenkümmern sich um Ihr Auto"
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Unsere weiteren Kontaktmöglichkeiten"
+        },
+        {
+            "text": "Schaden telefonisch melden"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "In Deutschland"
+                ],
+                [
+                    "Kfz-, Haftpflicht-, Hausrat- oder Wohngebäudeschaden und Panne",
+                    "09561 96 108*"
+                ],
+                [
+                    "Rechtsschutz",
+                    "09561 96 109*"
+                ],
+                [
+                    "Im Ausland"
+                ],
+                [
+                    "Autounfall oder Panne",
+                    "+49 69 66 555 66**"
+                ],
+                [
+                    "Auslandskrankenversicherung 24-Stunden-Notrufservice",
+                    "+49 69 66 555 44**"
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Serviceleistungen"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unsere Auslandskrankenversicherung hilft Ihnen in vielen Fällen, z. B.:"
+        },
+        {
+            "type": "paragraph",
+            "text": "... wenn Sie im Ausland erkranken."
+        },
+        {
+            "type": "paragraph",
+            "text": "In vielen Ländern sind die Leistungen der gesetzlichen Krankenversicherung eingeschränkt oder entfallen ganz. Oft werden Sie nicht auf Krankenschein behandelt und müssen viele Kosten selbst tragen. Mit unserer Auslandsreisekrankenversicherung sind Sie dagegen im Gastland Privatpatient bei dort zugelassenen anerkannten Ärzten. Der 24-Stunden-Notrufservice hilft Ihnen, einen Arzt in Ihrer Nähe zu finden."
+        },
+        {
+            "type": "paragraph",
+            "text": ".... wenn ein Krankenrücktransport nötig ist."
+        },
+        {
+            "type": "paragraph",
+            "text": "Ist ein Rücktransport erforderlich, dann organisiert und bezahlt unsere Notrufzentrale den Krankenrücktransport."
+        },
+        {
+            "type": "paragraph",
+            "text": "... wenn Sie vor Ort ins Krankenhaus müssen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Wir zahlen Ihnen den Transport und die Behandlung als Privatpatient. Zudem übernimmt der 24-Stunden-Notrufservice für Sie die Abwicklung von Krankenhausrechnungen."
+        },
+        {
+            "type": "paragraph",
+            "text": "* Rund um die Uhr** Die Ländervorwahl für Deutschland kann von Land zu Land variieren. Bitte informieren Sie sich bei Ihrem Telefonanbieter."
+        },
+        {
+            "text": "Pannenhilfe anfordern / Schutzbriefleistung melden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie möchten eine Pannenhilfe anfordern? Dann nutzen Sie dafür gerne unseren digitalen Pannenservice:"
+        },
+        {
+            "type": "paragraph",
+            "text": "Mehr zum digitalen Pannenservice"
+        },
+        {
+            "text": "Jetzt Pannenhilfe anfordern"
+        },
+        {
+            "type": "table",
+            "data": [
+                [
+                    "In Deutschland"
+                ],
+                [
+                    "Pannenhilfe anfordern / Kfz-Schutzbrief",
+                    "069 66 555 66"
+                ],
+                [
+                    "Fahrrad-Schutzbrief",
+                    "069 66 555 130"
+                ],
+                [
+                    "Haus- und Wohnungsschutzbrief",
+                    "069 66 555 11"
+                ],
+                [
+                    "Im Ausland"
+                ],
+                [
+                    "Pannenhilfe anfordern / Kfz-Schutzbrief",
+                    "+49 69 66 555 66**"
+                ],
+                [
+                    "Fahrrad-Schutzbrief",
+                    "+49 69 66 555 130**"
+                ]
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "** Die Ländervorwahl für Deutschland kann von Land zu Land variieren. Bitte informieren Sie sich bei Ihrem Telefonanbieter."
+        },
+        {
+            "text": "Rechtsschutzfall & Rechtsberatung"
+        },
+        {
+            "type": "paragraph",
+            "text": "Egal ob Ärger beim Internetkauf, in Mietverhältnissen, Steit nach einem Verkehrsunfall oder Differenzen mit dem Arbeitgeber. Wir sind für Sie da und suchen für Sie immer die passende Lösung."
+        },
+        {
+            "type": "paragraph",
+            "text": "Zur Rechtsberatung"
+        },
+        {
+            "text": "Schaden persönlich melden"
+        },
+        {
+            "type": "paragraph",
+            "text": "Wenden Sie sich nach einem Schadenfall an unsere Mitarbeiter in den Schadenaußenstellen."
+        },
+        {
+            "type": "paragraph",
+            "text": "Sie erhalten schnelle und kompetente Unterstützung bei allem, was dann nötig ist."
+        },
+        {
+            "type": "link",
+            "href": "#",
+            "text": "Originalkarte herstellen"
+        },
+        {
+            "type": "heading",
+            "level": 3,
+            "text": "Kartendienst aktivieren?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Erst durch Klick auf diese Schaltfläche erfolgt ein Datenaustausch mit dem Kartenanbieter GoogleMaps.Weitere Informationen hierzu finden Sie in unsererDatenschutzerklärung."
+        },
+        {
+            "text": "Aktivieren"
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "Schadenservice"
+            ]
+        }
+    ],
+    "company_name": "huk-coburg",
+    "page_name": "service_schaden.html"
+}

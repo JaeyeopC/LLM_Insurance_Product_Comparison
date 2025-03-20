@@ -1,0 +1,127 @@
+{
+    "title": "Management Generali Deutschland AG | Generali",
+    "metadata": {
+        "description": "Alle Informationen zum Management der Generali Deutschland AG.",
+        "keywords": "Liverani,Kalteier, Petin,Gruber,Sommer, Rothaufe,Wehn, Stoffels,Ostholt,Lehmann, Novotny",
+        "viewport": "width=device-width, initial-scale=1",
+        "msapplication-TileColor": "#ffffff",
+        "theme-color": "#ffffff",
+        "og:title": "Management",
+        "og:description": "Hier erfahren Sie mehr über das Management unseres Unternehmens.",
+        "og:image": "https://www.generali.de/resource/blob/87256/2454d7d81907a077d4cb9d522ab33c20/opengraph-default-image-data.png"
+    },
+    "content": [
+        {
+            "type": "heading",
+            "level": 1,
+            "text": "Management der Generali Deutschland AG"
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/87632/07de09199ed3842203e520dbdfafbbdb/wingshape-filled-darkred-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "image",
+            "src": "/resource/crblob/91496/23f6cc20a7dd209fe7816a84ba04983e/wingshape-outline-white-thin-svg-data.svg",
+            "alt": ""
+        },
+        {
+            "type": "list",
+            "list_type": "ordered",
+            "items": [
+                "",
+                "ÜBER UNS",
+                "MANAGEMENT"
+            ]
+        },
+        {
+            "type": "paragraph",
+            "text": "Für uns, die Generali in Deutschland, stehen unsere Kundinnen und Kunden im Mittelpunkt unseres Handelns. Durch Innovationen, hervorragende Services und unser Engagement wollen wir ein echter Lifetime Partner für unsere Kundinnen und Kunden werden, der sie in allen Lebenslagen begleitet. Nachhaltigkeit ist ein elementarer Punkt unserer strategischen Ausrichtung und zentraler Bestandteil unseres unternehmerischen Werteverständnisses. Nachhaltigkeit bedeutet für uns, im Sinne zukünftiger Generationen verantwortungsvoll zu handeln – auf wirtschaftlicher, ökologischer und gesellschaftlicher Ebene."
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Stefan LehmannChief Executive Officer Generali Deutschland AG,Country Manager GermanyDow­n­load CVDow­n­load Foto"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Katrin GruberChief Business Officer DirectDow­n­load CVDow­n­load Foto",
+                "Dr. Melanie Kramp-GerstnerChief Customer OfficerDow­n­load CVDow­n­load Foto"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Edoardo MalpagaChief Financial OfficerDow­n­load CVDow­n­load Foto",
+                "Ulrich OstholtChief Investment OfficerDow­n­load CVDow­n­load Foto"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Uli RothaufeChief Insurance Officer Life and HealthDow­n­load CVDow­n­load Foto",
+                "Roland StoffelsChief Insurance Officer P&CDow­n­load CVDow­n­load Foto"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Marcela StředováChief Risk OfficerDow­n­load CVDow­n­load Foto",
+                "Dr. Robert WehnChief Operating OfficerDow­n­load CVDow­n­load Foto"
+            ]
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "Dr. Arne BenzinChief People and Organization OfficerDow­n­load CVDow­n­load Foto"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mehr über Gene­rali"
+        },
+        {
+            "type": "list",
+            "list_type": "unordered",
+            "items": [
+                "PresseBleiben Sie auf dem Laufenden - alle Publikationen im Überblick.Mehr erfahren",
+                "Über unsWir stellen Ihnen unser Unternehmen vor.Mehr erfahren",
+                "Zahlen, Daten, FaktenRelevante Informationen zur Generali in Deutschland.Mehr erfahren",
+                "NachhaltigkeitWir wollen einen nachhaltigen Beitrag für die Zukunft unserer Gesellschaft leisten.Mehr erfahren",
+                "Generali 190Seit 1831 \"ein Partner fürs Leben\".Mehr erfahren",
+                "KarriereWir suchen erstklassige Mitarbeiterinnen und Mitarbeiter.Mehr erfahren"
+            ]
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Gene­rali Vita­li­tyApp"
+        },
+        {
+            "type": "paragraph",
+            "text": "Unser Gesundheitsprogramm motiviert Sie mit kleinen Extras, bewusster zu leben."
+        },
+        {
+            "type": "link",
+            "href": "https://apps.apple.com/de/app/generali-vitality/id1089388341",
+            "text": ""
+        },
+        {
+            "type": "link",
+            "href": "https://play.google.com/store/apps/details?id=com.vitality.gli.de&hl=de&gl=US",
+            "text": ""
+        }
+    ],
+    "company_name": "generali",
+    "page_name": "ueber-uns_management-generali-deutschland-ag"
+}

@@ -1,0 +1,9 @@
+Der Name des Produkts ist: {product_name}
+Details des Produkts:
+{details}
+
+Kategorisiere dieses Produkt basierend auf der folgenden Liste von Kategorien:
+{categories}
+
+Wenn das Produkt zu keiner der Kategorien passt, antworte mit 'not_defined'.
+Ansonsten antworte nur mit dem Namen der passenden Kategorie.
